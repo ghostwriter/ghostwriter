@@ -19,16 +19,12 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-
-      - name: Check outputs and modified files
-        run: |
-          cat README.md
-      # - uses: stefanzweifel/git-auto-commit-action@v4
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   with:
-      #     commit_message: Update README.md
-      #     branch: main
-      #     commit_user_name: readme-scribe 🤖
-      #     commit_user_email: actions@github.com
-      #     commit_author: readme-scribe 🤖 <actions@github.com>
+          
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
+        with:
+          commit_message: "Update README.md"
+          commit_user_name: "Nathanael Esayeas"
+          commit_user_email: "nathanael.esayeas@protonmail.com"
+          commit_author: "Nathanael Esayeas <nathanael.esayeas@protonmail.com>"
