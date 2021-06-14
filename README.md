@@ -1,7 +1,6 @@
 # README.md
 
 ![ghostwriter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333)
-Curious what I've been working on recently?
 
 ---
 
@@ -25,3 +24,18 @@ Curious what I've been working on recently?
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.22.0](https://github.com/orchestral/testbench-core/releases/tag/v6.22.0), 2 weeks ago) - Testing Helper for Laravel Development
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.11.1](https://github.com/laminas/laminas-filter/releases/tag/2.11.1), 3 weeks ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.0](https://github.com/mezzio/mezzio/releases/tag/3.5.0), 3 weeks ago) - PSR-15 Middleware Microframework
+- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.1.1](https://github.com/laminas/laminas-cli/releases/tag/1.1.1), 3 weeks ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
+- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.14.1](https://github.com/laminas/laminas-mail/releases/tag/2.14.1), 3 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.6.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.6.0), 3 weeks ago) - PSR HTTP Message implementations
+- [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) ([1.0.0](https://github.com/mezzio/mezzio-migration/releases/tag/1.0.0), 1 month ago) - Migrate Mezzio applications from v2 to v3
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.4.0](https://github.com/mezzio/mezzio-router/releases/tag/3.4.0), 1 month ago) - Router subcomponent for Mezzio
+- [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.4.0](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.4.0), 1 month ago) - Problem Details for PSR-7 HTTP APIs
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.3.0](https://github.com/laminas/laminas-code/releases/tag/4.3.0), 1 month ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.1.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.1.0), 1 month ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
+- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.8.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.8.0), 1 month ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
+- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.0](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.0), 1 month ago) - Composer plugin for injecting modules and configuration providers into application configuration
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([1.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/1.4.0), 1 month ago) - Migration and development tooling for Mezzio
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.7.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.7.0), 1 month ago) - Twig integration for Mezzio
+- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.5.1](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.5.1), 1 month ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
+- [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.2.1](https://github.com/laminas/laminas-twitter/releases/tag/3.2.1), 1 month ago) - OOP wrapper for the Twitter web service
+- [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.1.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.1.0), 1 month ago) - 
