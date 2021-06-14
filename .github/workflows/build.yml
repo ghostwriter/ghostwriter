@@ -11,7 +11,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v2
+        with:
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          persist-credentials: true
+
+      - uses: crazy-max/ghaction-import-gpg@v3
+        with:
+          git-committer-name: "Nathanael Esayeas"
+          git-committer-email: "nathanael.esayeas@protonmail.com"
+          git-push-gpgsign: false # Github does not support GPG signed pushes, only signed commits.
+          git-tag-gpgsign: true
+          git-commit-gpgsign: true
+          git-user-signingkey: true
+          gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
 
       - uses: muesli/readme-scribe@master
         env:
@@ -19,12 +33,13 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-          
+
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
           commit_message: "Update README.md"
+          commit_options: '-S --signoff'
           commit_user_name: "Nathanael Esayeas"
           commit_user_email: "nathanael.esayeas@protonmail.com"
           commit_author: "Nathanael Esayeas <nathanael.esayeas@protonmail.com>"
