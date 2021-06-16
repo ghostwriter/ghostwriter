@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 1 day ago) - Tools to facilitate unit testing of laminas-mvc applications
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 2 days ago) - Tools to facilitate unit testing of laminas-mvc applications
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.2.0), 1 week ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.0](https://github.com/laminas/laminas-form/releases/tag/3.0.0), 1 week ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
