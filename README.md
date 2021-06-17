@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.0](https://github.com/laminas/laminas-code/releases/tag/4.4.0), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.6.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.6.0), today) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.0](https://github.com/orchestral/testbench-core/releases/tag/v6.23.0), 1 day ago) - Testing Helper for Laravel Development
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 3 days ago) - Tools to facilitate unit testing of laminas-mvc applications
@@ -28,4 +29,3 @@
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.1.1](https://github.com/laminas/laminas-cli/releases/tag/1.1.1), 4 weeks ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.14.1](https://github.com/laminas/laminas-mail/releases/tag/2.14.1), 4 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.6.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.6.0), 1 month ago) - PSR HTTP Message implementations
-- [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) ([1.0.0](https://github.com/mezzio/mezzio-migration/releases/tag/1.0.0), 1 month ago) - Migrate Mezzio applications from v2 to v3
