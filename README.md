@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.0](https://github.com/laminas/laminas-code/releases/tag/4.4.0), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.6.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.6.0), today) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.0](https://github.com/orchestral/testbench-core/releases/tag/v6.23.0), 1 day ago) - Testing Helper for Laravel Development
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 3 days ago) - Tools to facilitate unit testing of laminas-mvc applications
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.0](https://github.com/laminas/laminas-code/releases/tag/4.4.0), 1 day ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
+- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.6.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.6.0), 1 day ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.0](https://github.com/orchestral/testbench-core/releases/tag/v6.23.0), 2 days ago) - Testing Helper for Laravel Development
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 4 days ago) - Tools to facilitate unit testing of laminas-mvc applications
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.2.0), 1 week ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.0](https://github.com/laminas/laminas-form/releases/tag/3.0.0), 1 week ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 1 week ago) - Automated release process for `laminas/` projects, usable as github action
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 2 weeks ago) - Automated release process for `laminas/` projects, usable as github action
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/1.2.0), 2 weeks ago) - 
 - [laminas-api-tools/api-tools-welcome](https://github.com/laminas-api-tools/api-tools-welcome) ([1.2.0](https://github.com/laminas-api-tools/api-tools-welcome/releases/tag/1.2.0), 2 weeks ago) - Laminas API Tools Welcome Screen
 - [laminas/laminas-coding-standard](https://github.com/laminas/laminas-coding-standard) ([2.3.0](https://github.com/laminas/laminas-coding-standard/releases/tag/2.3.0), 2 weeks ago) - The coding standard ruleset for Laminas components.
