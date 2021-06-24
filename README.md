@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.7.1](https://github.com/laminas/laminas-escaper/releases/tag/2.7.1), today) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.3.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.3.0), today) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.1](https://github.com/laminas/laminas-form/releases/tag/3.0.1), 1 day ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.0](https://github.com/laminas/laminas-code/releases/tag/4.4.0), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
@@ -28,4 +29,3 @@
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.11.1](https://github.com/laminas/laminas-filter/releases/tag/2.11.1), 1 month ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.0](https://github.com/mezzio/mezzio/releases/tag/3.5.0), 1 month ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.1.1](https://github.com/laminas/laminas-cli/releases/tag/1.1.1), 1 month ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.14.1](https://github.com/laminas/laminas-mail/releases/tag/2.14.1), 1 month ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
