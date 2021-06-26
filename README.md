@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.7.1](https://github.com/laminas/laminas-escaper/releases/tag/2.7.1), 2 days ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.8.0](https://github.com/laminas/laminas-escaper/releases/tag/2.8.0), today) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.3.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.3.0), 2 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.1](https://github.com/laminas/laminas-form/releases/tag/3.0.1), 3 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.0](https://github.com/laminas/laminas-code/releases/tag/4.4.0), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
