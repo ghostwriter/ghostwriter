@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([3.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/3.2.1), today) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.8.0](https://github.com/laminas/laminas-escaper/releases/tag/2.8.0), 2 days ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.3.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.3.0), 4 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.1](https://github.com/laminas/laminas-form/releases/tag/3.0.1), 5 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
@@ -28,4 +29,3 @@
 - [laminas/laminas-coding-standard](https://github.com/laminas/laminas-coding-standard) ([2.3.0](https://github.com/laminas/laminas-coding-standard/releases/tag/2.3.0), 1 month ago) - The coding standard ruleset for Laminas components.
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.11.1](https://github.com/laminas/laminas-filter/releases/tag/2.11.1), 1 month ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.0](https://github.com/mezzio/mezzio/releases/tag/3.5.0), 1 month ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.1.1](https://github.com/laminas/laminas-cli/releases/tag/1.1.1), 1 month ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
