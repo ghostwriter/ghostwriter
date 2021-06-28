@@ -14,6 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), today) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
+- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), today) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), today) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.0](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.0), today) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.8.0](https://github.com/laminas/laminas-escaper/releases/tag/2.8.0), 2 days ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
@@ -27,5 +29,3 @@
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/1.2.0), 3 weeks ago) - 
 - [laminas-api-tools/api-tools-welcome](https://github.com/laminas-api-tools/api-tools-welcome) ([1.2.0](https://github.com/laminas-api-tools/api-tools-welcome/releases/tag/1.2.0), 3 weeks ago) - Laminas API Tools Welcome Screen
-- [laminas/laminas-coding-standard](https://github.com/laminas/laminas-coding-standard) ([2.3.0](https://github.com/laminas/laminas-coding-standard/releases/tag/2.3.0), 1 month ago) - The coding standard ruleset for Laminas components.
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.11.1](https://github.com/laminas/laminas-filter/releases/tag/2.11.1), 1 month ago) - Programmatically filter and normalize data and files
