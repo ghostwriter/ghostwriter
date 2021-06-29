@@ -14,10 +14,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), today) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 1 day ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 1 day ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), 1 day ago) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.0](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.0), 1 day ago) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.8.0](https://github.com/laminas/laminas-escaper/releases/tag/2.8.0), 3 days ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.3.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.3.0), 5 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.1](https://github.com/laminas/laminas-form/releases/tag/3.0.1), 6 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
