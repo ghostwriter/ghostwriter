@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), today) - PSR-15 Middleware Microframework
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), today) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 1 day ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 1 day ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
@@ -28,4 +29,3 @@
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.2.0), 3 weeks ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/1.2.0), 3 weeks ago) - 
-- [laminas-api-tools/api-tools-welcome](https://github.com/laminas-api-tools/api-tools-welcome) ([1.2.0](https://github.com/laminas-api-tools/api-tools-welcome/releases/tag/1.2.0), 4 weeks ago) - Laminas API Tools Welcome Screen
