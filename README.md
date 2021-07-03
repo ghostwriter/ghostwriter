@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 2 days ago) - Object-oriented interface to PHP sessions and storage
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 3 days ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), 3 days ago) - Serialize objects to arrays, and vice versa
-- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 4 days ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
-- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 4 days ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), 4 days ago) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.8.0](https://github.com/laminas/laminas-escaper/releases/tag/2.8.0), 6 days ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
+- [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 3 days ago) - Object-oriented interface to PHP sessions and storage
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 4 days ago) - PSR-15 Middleware Microframework
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), 4 days ago) - Serialize objects to arrays, and vice versa
+- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 5 days ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
+- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 5 days ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), 5 days ago) - SPL extensions, array utilities, error handlers, and more
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.8.0](https://github.com/laminas/laminas-escaper/releases/tag/2.8.0), 1 week ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.3.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.3.0), 1 week ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.1](https://github.com/laminas/laminas-form/releases/tag/3.0.1), 1 week ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.0](https://github.com/laminas/laminas-code/releases/tag/4.4.0), 2 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
