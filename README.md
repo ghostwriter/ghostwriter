@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), today) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 5 days ago) - Object-oriented interface to PHP sessions and storage
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 6 days ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), 6 days ago) - Serialize objects to arrays, and vice versa
@@ -28,4 +29,3 @@
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.0](https://github.com/orchestral/testbench-core/releases/tag/v6.23.0), 2 weeks ago) - Testing Helper for Laravel Development
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 3 weeks ago) - Tools to facilitate unit testing of laminas-mvc applications
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.2.0), 4 weeks ago) - Skeleton application for creating laminas-mvc based projects.
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.12.2](https://github.com/laminas/automatic-releases/releases/tag/1.12.2), 1 month ago) - Automated release process for `laminas/` projects, usable as github action
