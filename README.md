@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.9.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.9.0), today) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.1](https://github.com/laminas/laminas-code/releases/tag/4.4.1), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 4 days ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 1 week ago) - Object-oriented interface to PHP sessions and storage
@@ -28,4 +29,3 @@
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.6.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.6.0), 3 weeks ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.0](https://github.com/orchestral/testbench-core/releases/tag/v6.23.0), 3 weeks ago) - Testing Helper for Laravel Development
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 3 weeks ago) - Tools to facilitate unit testing of laminas-mvc applications
-- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.2.0), 1 month ago) - Skeleton application for creating laminas-mvc based projects.
