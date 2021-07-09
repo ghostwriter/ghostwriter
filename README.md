@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 3 days ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
+- [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 4 days ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 1 week ago) - Object-oriented interface to PHP sessions and storage
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 1 week ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), 1 week ago) - Serialize objects to arrays, and vice versa
