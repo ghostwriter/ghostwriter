@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 2 days ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 3 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 3 days ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 4 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 1 week ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 1 week ago) - Object-oriented interface to PHP sessions and storage
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 1 week ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), 1 week ago) - Serialize objects to arrays, and vice versa
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 2 weeks ago) - PSR-15 Middleware Microframework
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), 2 weeks ago) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 2 weeks ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 2 weeks ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), 2 weeks ago) - SPL extensions, array utilities, error handlers, and more
