@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.1](https://github.com/orchestral/testbench-core/releases/tag/v6.23.1), today) - Testing Helper for Laravel Development
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 4 days ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 5 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 1 week ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
@@ -27,5 +28,4 @@
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.3.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.3.0), 2 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.1](https://github.com/laminas/laminas-form/releases/tag/3.0.1), 3 weeks ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.6.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.6.0), 3 weeks ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.0](https://github.com/orchestral/testbench-core/releases/tag/v6.23.0), 4 weeks ago) - Testing Helper for Laravel Development
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.1](https://github.com/laminas/laminas-test/releases/tag/3.5.1), 1 month ago) - Tools to facilitate unit testing of laminas-mvc applications
