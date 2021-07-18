@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 1 day ago) - A Rapid Application Devlopment framework for PHP and Laravel
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 3 days ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.1](https://github.com/orchestral/testbench-core/releases/tag/v6.23.1), 3 days ago) - Testing Helper for Laravel Development
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 2 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 4 days ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.1](https://github.com/orchestral/testbench-core/releases/tag/v6.23.1), 4 days ago) - Testing Helper for Laravel Development
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 1 week ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
