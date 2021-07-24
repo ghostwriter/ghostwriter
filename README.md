@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), today) - Factory-Driven Dependency Injection Container
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.5.0](https://github.com/mezzio/mezzio-router/releases/tag/3.5.0), today) - Router subcomponent for Mezzio
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
@@ -28,4 +29,3 @@
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 3 weeks ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), 3 weeks ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.8.0](https://github.com/laminas/laminas-escaper/releases/tag/2.8.0), 4 weeks ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.3.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.3.0), 1 month ago) - Alias legacy ZF class names to Laminas Project equivalents.
