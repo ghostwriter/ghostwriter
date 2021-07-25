@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), today) - Router subcomponent for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 1 day ago) - Factory-Driven Dependency Injection Container
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.5.0](https://github.com/mezzio/mezzio-router/releases/tag/3.5.0), 1 day ago) - Router subcomponent for Mezzio
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.1](https://github.com/orchestral/testbench-core/releases/tag/v6.23.1), 1 week ago) - Testing Helper for Laravel Development
