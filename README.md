@@ -14,13 +14,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.0](https://github.com/laminas/laminas-cache/releases/tag/2.12.0), today) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 5 days ago) - Router subcomponent for Mezzio
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 6 days ago) - Factory-Driven Dependency Injection Container
+- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.0](https://github.com/laminas/laminas-cache/releases/tag/2.12.0), 1 day ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 6 days ago) - Router subcomponent for Mezzio
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 1 week ago) - Factory-Driven Dependency Injection Container
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 2 weeks ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 2 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.1](https://github.com/orchestral/testbench-core/releases/tag/v6.23.1), 2 weeks ago) - Testing Helper for Laravel Development
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 2 weeks ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 3 weeks ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 3 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 3 weeks ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 1 month ago) - Object-oriented interface to PHP sessions and storage
