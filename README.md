@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), today) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.1](https://github.com/laminas/laminas-cache/releases/tag/2.12.1), 1 day ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 1 week ago) - Router subcomponent for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 1 week ago) - Factory-Driven Dependency Injection Container
@@ -25,7 +26,6 @@
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 4 weeks ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 1 month ago) - Object-oriented interface to PHP sessions and storage
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 1 month ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.1), 1 month ago) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 1 month ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 1 month ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), 1 month ago) - SPL extensions, array utilities, error handlers, and more
