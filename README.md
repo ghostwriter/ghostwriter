@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), today) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 1 day ago) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.1](https://github.com/laminas/laminas-cache/releases/tag/2.12.1), 2 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 1 week ago) - Router subcomponent for Mezzio
@@ -28,4 +29,3 @@
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 1 month ago) - PSR-15 Middleware Microframework
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 1 month ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 1 month ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.4.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.4.0), 1 month ago) - SPL extensions, array utilities, error handlers, and more
