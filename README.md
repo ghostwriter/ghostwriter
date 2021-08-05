@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 1 day ago) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 2 days ago) - Serialize objects to arrays, and vice versa
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.1](https://github.com/laminas/laminas-cache/releases/tag/2.12.1), 3 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 2 days ago) - SPL extensions, array utilities, error handlers, and more
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 3 days ago) - Serialize objects to arrays, and vice versa
+- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.1](https://github.com/laminas/laminas-cache/releases/tag/2.12.1), 4 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 1 week ago) - Router subcomponent for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 1 week ago) - Factory-Driven Dependency Injection Container
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 2 weeks ago) - A Rapid Application Devlopment framework for PHP and Laravel
