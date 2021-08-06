@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.2](https://github.com/mezzio/mezzio/releases/tag/3.5.2), today) - PSR-15 Middleware Microframework
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.2](https://github.com/laminas/laminas-cache/releases/tag/2.12.2), today) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 3 days ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 4 days ago) - Serialize objects to arrays, and vice versa
@@ -26,6 +27,5 @@
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 4 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 1 month ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.11.0](https://github.com/laminas/laminas-session/releases/tag/2.11.0), 1 month ago) - Object-oriented interface to PHP sessions and storage
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.5.1](https://github.com/mezzio/mezzio/releases/tag/3.5.1), 1 month ago) - PSR-15 Middleware Microframework
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.9.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.9.0), 1 month ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.4.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.4.0), 1 month ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
