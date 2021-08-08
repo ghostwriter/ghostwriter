@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.0](https://github.com/laminas/laminas-cache/releases/tag/2.13.0), today) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v1.24.2](https://github.com/laravel-shift/blueprint/releases/tag/v1.24.2), 2 days ago) - A code generation tool for Laravel developers.
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 2 days ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.12.2](https://github.com/laminas/laminas-cache/releases/tag/2.12.2), 2 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 5 days ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 6 days ago) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 2 weeks ago) - Router subcomponent for Mezzio
