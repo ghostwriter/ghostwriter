@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.0.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.0.0), today) - Migration and development tooling for Mezzio
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/1.2.0), 1 day ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/1.2.0), 1 day ago) - 
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.0](https://github.com/laminas/laminas-cache/releases/tag/2.13.0), 1 day ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
@@ -28,4 +29,3 @@
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.1](https://github.com/orchestral/testbench-core/releases/tag/v6.23.1), 3 weeks ago) - Testing Helper for Laravel Development
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 1 month ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.2](https://github.com/laminas/laminas-code/releases/tag/4.4.2), 1 month ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [nette/php-generator](https://github.com/nette/php-generator) ([v3.5.4](https://github.com/nette/php-generator/releases/tag/v3.5.4), 1 month ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.0 features.
