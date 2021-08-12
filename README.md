@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.0](https://github.com/orchestral/testbench-core/releases/tag/v6.24.0), today) - Testing Helper for Laravel Development
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 2 days ago) - 
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.0.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.0.0), 3 days ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/1.2.0), 4 days ago) - Testing utilities for laminas-cache adapters
@@ -27,5 +28,4 @@
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 2 weeks ago) - Factory-Driven Dependency Injection Container
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 3 weeks ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 4 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.23.1](https://github.com/orchestral/testbench-core/releases/tag/v6.23.1), 4 weeks ago) - Testing Helper for Laravel Development
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 1 month ago) - A set of components for performing diagnostic tests in PHP applications
