@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), today) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v1.25.0](https://github.com/laravel-shift/blueprint/releases/tag/v1.25.0), 2 days ago) - A code generation tool for Laravel developers.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.0](https://github.com/orchestral/testbench-core/releases/tag/v6.24.0), 3 days ago) - Testing Helper for Laravel Development
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 5 days ago) - 
@@ -28,4 +29,3 @@
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 3 weeks ago) - Factory-Driven Dependency Injection Container
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 1 month ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 1 month ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.0), 1 month ago) - A set of components for performing diagnostic tests in PHP applications
