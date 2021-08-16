@@ -14,17 +14,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), today) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v1.25.0](https://github.com/laravel-shift/blueprint/releases/tag/v1.25.0), 2 days ago) - A code generation tool for Laravel developers.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.0](https://github.com/orchestral/testbench-core/releases/tag/v6.24.0), 3 days ago) - Testing Helper for Laravel Development
-- [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 5 days ago) - 
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.0.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.0.0), 6 days ago) - Migration and development tooling for Mezzio
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 1 day ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v1.25.0](https://github.com/laravel-shift/blueprint/releases/tag/v1.25.0), 3 days ago) - A code generation tool for Laravel developers.
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.0](https://github.com/orchestral/testbench-core/releases/tag/v6.24.0), 4 days ago) - Testing Helper for Laravel Development
+- [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 6 days ago) - 
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.0.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.0.0), 1 week ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/1.2.0), 1 week ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/1.2.0), 1 week ago) - 
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.0](https://github.com/laminas/laminas-cache/releases/tag/2.13.0), 1 week ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 1 week ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 1 week ago) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 1 week ago) - Serialize objects to arrays, and vice versa
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 2 weeks ago) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 3 weeks ago) - Router subcomponent for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 3 weeks ago) - Factory-Driven Dependency Injection Container
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 1 month ago) - A Rapid Application Devlopment framework for PHP and Laravel
