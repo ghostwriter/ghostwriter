@@ -14,15 +14,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.0.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.0.0), 2 days ago) - A code generation tool for Laravel developers.
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 4 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.0.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.0.0), 3 days ago) - A code generation tool for Laravel developers.
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 5 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.0](https://github.com/orchestral/testbench-core/releases/tag/v6.24.0), 1 week ago) - Testing Helper for Laravel Development
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 1 week ago) - 
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.0.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.0.0), 1 week ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/1.2.0), 1 week ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/1.2.0), 1 week ago) - 
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.0](https://github.com/laminas/laminas-cache/releases/tag/2.13.0), 1 week ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 1 week ago) - PSR-15 Middleware Microframework
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 2 weeks ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 2 weeks ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 2 weeks ago) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 3 weeks ago) - Router subcomponent for Mezzio
