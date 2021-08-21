@@ -1,4 +1,4 @@
-# README.md
+# [![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsors&style=flat-square&logo=GitHub%20Sponsors)](https://github.com/sponsors/ghostwriter)
 
 ![ghostwriter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333)
 
@@ -6,7 +6,7 @@
 
 #### 🌱 Check out what I'm currently working on
 
-- [ghostwriter/.github](https://github.com/ghostwriter/.github) - 
+- [ghostwriter/.github](https://github.com/ghostwriter/.github) - Default GitHub files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ghostwriter/ethiopia-coronavirus-data-collection](https://github.com/ghostwriter/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia
