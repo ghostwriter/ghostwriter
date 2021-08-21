@@ -6,7 +6,7 @@
 
 #### 🌱 Check out what I'm currently working on
 
-- [ghostwriter/.github](https://github.com/ghostwriter/.github) - Default GitHub files
+- [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ghostwriter/ethiopia-coronavirus-data-collection](https://github.com/ghostwriter/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia
