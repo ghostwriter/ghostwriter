@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.0-RC](https://github.com/nette/php-generator/releases/tag/v3.6.0-RC), today) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.1](https://github.com/orchestral/testbench-core/releases/tag/v6.24.1), today) - Testing Helper for Laravel Development
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.0.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.0.0), 1 week ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
@@ -28,4 +29,3 @@
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 1 month ago) - Router subcomponent for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 1 month ago) - Factory-Driven Dependency Injection Container
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.5](https://github.com/ajthinking/archetype/releases/tag/v0.2.5), 1 month ago) - A Rapid Application Devlopment framework for PHP and Laravel
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.5](https://github.com/laminas/laminas-validator/releases/tag/2.14.5), 1 month ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
