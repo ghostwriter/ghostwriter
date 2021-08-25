@@ -14,9 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.1](https://github.com/orchestral/testbench-core/releases/tag/v6.24.1), today) - Testing Helper for Laravel Development
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.0.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.0.0), 1 week ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.0](https://github.com/orchestral/testbench-core/releases/tag/v6.24.0), 1 week ago) - Testing Helper for Laravel Development
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 2 weeks ago) - 
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.0.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.0.0), 2 weeks ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/1.2.0), 2 weeks ago) - Testing utilities for laminas-cache adapters
