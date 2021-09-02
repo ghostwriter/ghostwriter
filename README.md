@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v5.22.0](https://github.com/orchestral/testbench-core/releases/tag/v5.22.0), today) - Testing Helper for Laravel Development
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.0-RC](https://github.com/nette/php-generator/releases/tag/v3.6.0-RC), 1 week ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.24.1](https://github.com/orchestral/testbench-core/releases/tag/v6.24.1), 1 week ago) - Testing Helper for Laravel Development
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.0.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.0.0), 2 weeks ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 2 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 3 weeks ago) - 
