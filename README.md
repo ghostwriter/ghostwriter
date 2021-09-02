@@ -24,7 +24,7 @@
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/1.2.0), 3 weeks ago) - 
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.0](https://github.com/laminas/laminas-cache/releases/tag/2.13.0), 3 weeks ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 3 weeks ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 4 weeks ago) - SPL extensions, array utilities, error handlers, and more
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.5.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.5.0), 1 month ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 1 month ago) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 1 month ago) - Router subcomponent for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 1 month ago) - Factory-Driven Dependency Injection Container
