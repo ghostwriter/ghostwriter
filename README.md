@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), today) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.9.0](https://github.com/laminas/laminas-escaper/releases/tag/2.9.0), 1 day ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.0), 1 day ago) - SPL extensions, array utilities, error handlers, and more
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v5.22.0](https://github.com/orchestral/testbench-core/releases/tag/v5.22.0), 1 day ago) - Testing Helper for Laravel Development
@@ -28,4 +29,3 @@
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 4 weeks ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 1 month ago) - Serialize objects to arrays, and vice versa
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.6.0](https://github.com/mezzio/mezzio-router/releases/tag/3.6.0), 1 month ago) - Router subcomponent for Mezzio
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.7.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.7.0), 1 month ago) - Factory-Driven Dependency Injection Container
