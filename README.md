@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.14.6](https://github.com/laminas/laminas-validator/releases/tag/2.14.6), today) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.0](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.0), today) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), today) - provides a nested object property based user interface for accessing this configuration data within application code
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.0](https://github.com/orchestral/testbench-core/releases/tag/v6.25.0), today) - Testing Helper for Laravel Development
@@ -28,4 +29,3 @@
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/1.2.0), 1 month ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/1.2.0), 1 month ago) - 
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.0](https://github.com/laminas/laminas-cache/releases/tag/2.13.0), 1 month ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 1 month ago) - PSR-15 Middleware Microframework
