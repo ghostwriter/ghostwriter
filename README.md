@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.0](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.0), today) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), today) - provides a nested object property based user interface for accessing this configuration data within application code
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.0](https://github.com/orchestral/testbench-core/releases/tag/v6.25.0), today) - Testing Helper for Laravel Development
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), 5 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
@@ -28,4 +29,3 @@
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/1.2.0), 1 month ago) - 
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.0](https://github.com/laminas/laminas-cache/releases/tag/2.13.0), 1 month ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.6.0](https://github.com/mezzio/mezzio/releases/tag/3.6.0), 1 month ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.2.2](https://github.com/laminas/laminas-hydrator/releases/tag/4.2.2), 1 month ago) - Serialize objects to arrays, and vice versa
