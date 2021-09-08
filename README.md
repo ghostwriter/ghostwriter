@@ -14,10 +14,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.0](https://github.com/orchestral/testbench-core/releases/tag/v6.25.0), today) - Testing Helper for Laravel Development
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), 5 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.9.0](https://github.com/laminas/laminas-escaper/releases/tag/2.9.0), 6 days ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.0), 6 days ago) - SPL extensions, array utilities, error handlers, and more
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v5.22.0](https://github.com/orchestral/testbench-core/releases/tag/v5.22.0), 6 days ago) - Testing Helper for Laravel Development
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.0](https://github.com/nette/php-generator/releases/tag/v3.6.0), 2 weeks ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.0.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.0.0), 3 weeks ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 3 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
