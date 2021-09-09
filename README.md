@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.1), today) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.15.0](https://github.com/laminas/laminas-validator/releases/tag/2.15.0), 1 day ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.0](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.0), 1 day ago) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), 1 day ago) - provides a nested object property based user interface for accessing this configuration data within application code
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.0](https://github.com/orchestral/testbench-core/releases/tag/v6.25.0), 1 day ago) - Testing Helper for Laravel Development
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), 6 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
