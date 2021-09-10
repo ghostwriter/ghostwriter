@@ -14,11 +14,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.1), today) - Serialize objects to arrays, and vice versa
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.15.0](https://github.com/laminas/laminas-validator/releases/tag/2.15.0), 1 day ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), 1 day ago) - provides a nested object property based user interface for accessing this configuration data within application code
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.0](https://github.com/orchestral/testbench-core/releases/tag/v6.25.0), 1 day ago) - Testing Helper for Laravel Development
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), 6 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.1), 1 day ago) - Serialize objects to arrays, and vice versa
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.15.0](https://github.com/laminas/laminas-validator/releases/tag/2.15.0), 2 days ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
+- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), 2 days ago) - provides a nested object property based user interface for accessing this configuration data within application code
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.0](https://github.com/orchestral/testbench-core/releases/tag/v6.25.0), 2 days ago) - Testing Helper for Laravel Development
+- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), 1 week ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.9.0](https://github.com/laminas/laminas-escaper/releases/tag/2.9.0), 1 week ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.0), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.0](https://github.com/nette/php-generator/releases/tag/v3.6.0), 2 weeks ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
