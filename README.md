@@ -14,6 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), today) - PSR-7 middleware foundation for building and dispatching middleware pipelines
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.2.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.2.0), today) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.2.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.2.0), today) - Authorization middleware for Mezzio and PSR-7 applications
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.7.0](https://github.com/mezzio/mezzio-router/releases/tag/3.7.0), today) - Router subcomponent for Mezzio
+- [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) ([1.3.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.3.0), today) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session
+- [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) ([1.1.0](https://github.com/mezzio/mezzio-migration/releases/tag/1.1.0), today) - Migrate Mezzio applications from v2 to v3
+- [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) ([2.4.0](https://github.com/mezzio/mezzio-platesrenderer/releases/tag/2.4.0), today) - Plates integration for Mezzio
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.8.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.8.0), today) - Factory-Driven Dependency Injection Container
 - [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) ([1.12.0](https://github.com/mezzio/mezzio-session-ext/releases/tag/1.12.0), 1 day ago) - ext-session persistence adapter for mezzio-session
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.1](https://github.com/orchestral/testbench-core/releases/tag/v6.25.1), 4 days ago) - Testing Helper for Laravel Development
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.1), 5 days ago) - Serialize objects to arrays, and vice versa
@@ -21,11 +29,3 @@
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), 6 days ago) - provides a nested object property based user interface for accessing this configuration data within application code
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), 1 week ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.9.0](https://github.com/laminas/laminas-escaper/releases/tag/2.9.0), 1 week ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.0), 1 week ago) - SPL extensions, array utilities, error handlers, and more
-- [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.0](https://github.com/nette/php-generator/releases/tag/v3.6.0), 2 weeks ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.0.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.0.0), 4 weeks ago) - A code generation tool for Laravel developers.
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.1.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.1.2), 1 month ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/1.2.0), 1 month ago) - 
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.0.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.0.0), 1 month ago) - Migration and development tooling for Mezzio
-- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/1.2.0), 1 month ago) - Testing utilities for laminas-cache adapters
-- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([1.2.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/1.2.0), 1 month ago) - 
