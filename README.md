@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.2.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.2.0), today) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.10.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.10.0), today) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), today) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.2.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.2.0), today) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
@@ -28,4 +29,3 @@
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.1), 5 days ago) - Serialize objects to arrays, and vice versa
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.15.0](https://github.com/laminas/laminas-validator/releases/tag/2.15.0), 6 days ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), 6 days ago) - provides a nested object property based user interface for accessing this configuration data within application code
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.0), 1 week ago) - Alias legacy ZF class names to Laminas Project equivalents.
