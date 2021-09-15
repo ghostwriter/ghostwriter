@@ -14,6 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.7.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.7.0), today) - PSR HTTP Message implementations
+- [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) ([1.5.0](https://github.com/mezzio/mezzio-session/releases/tag/1.5.0), today) - Session container and middleware for PSR-7 applications
+- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.6.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.6.0), today) - PSR-6 session persistence adapter for mezzio-session.
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.2.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.2.0), 1 day ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.10.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.10.0), 1 day ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), 1 day ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
@@ -26,6 +29,3 @@
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.8.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.8.0), 1 day ago) - Factory-Driven Dependency Injection Container
 - [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) ([1.12.0](https://github.com/mezzio/mezzio-session-ext/releases/tag/1.12.0), 2 days ago) - ext-session persistence adapter for mezzio-session
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.1](https://github.com/orchestral/testbench-core/releases/tag/v6.25.1), 5 days ago) - Testing Helper for Laravel Development
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) ([4.3.1](https://github.com/laminas/laminas-hydrator/releases/tag/4.3.1), 6 days ago) - Serialize objects to arrays, and vice versa
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.15.0](https://github.com/laminas/laminas-validator/releases/tag/2.15.0), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.6.0](https://github.com/laminas/laminas-config/releases/tag/3.6.0), 1 week ago) - provides a nested object property based user interface for accessing this configuration data within application code
