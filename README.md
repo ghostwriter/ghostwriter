@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.1](https://github.com/nette/php-generator/releases/tag/v3.6.1), today) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.3.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.3.0), 1 day ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) ([1.6.0](https://github.com/mezzio/mezzio-session/releases/tag/1.6.0), 2 days ago) - Session container and middleware for PSR-7 applications
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.7.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.7.0), 2 days ago) - PSR HTTP Message implementations
@@ -28,4 +29,3 @@
 - [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) ([2.4.0](https://github.com/mezzio/mezzio-platesrenderer/releases/tag/2.4.0), 3 days ago) - Plates integration for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.8.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.8.0), 3 days ago) - Factory-Driven Dependency Injection Container
 - [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) ([1.12.0](https://github.com/mezzio/mezzio-session-ext/releases/tag/1.12.0), 4 days ago) - ext-session persistence adapter for mezzio-session
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.1](https://github.com/orchestral/testbench-core/releases/tag/v6.25.1), 1 week ago) - Testing Helper for Laravel Development
