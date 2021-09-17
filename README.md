@@ -14,18 +14,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.3.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.3.0), today) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
-- [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) ([1.6.0](https://github.com/mezzio/mezzio-session/releases/tag/1.6.0), 1 day ago) - Session container and middleware for PSR-7 applications
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.7.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.7.0), 1 day ago) - PSR HTTP Message implementations
-- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.6.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.6.0), 1 day ago) - PSR-6 session persistence adapter for mezzio-session.
-- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.2.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.2.0), 2 days ago) - laminas-permissions-acl adapter for mezzio-authorization
-- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.10.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.10.0), 2 days ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
-- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), 2 days ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
-- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.2.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.2.0), 2 days ago) - Authorization middleware for Mezzio and PSR-7 applications
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.7.0](https://github.com/mezzio/mezzio-router/releases/tag/3.7.0), 2 days ago) - Router subcomponent for Mezzio
-- [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) ([1.3.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.3.0), 2 days ago) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session
-- [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) ([1.1.0](https://github.com/mezzio/mezzio-migration/releases/tag/1.1.0), 2 days ago) - Migrate Mezzio applications from v2 to v3
-- [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) ([2.4.0](https://github.com/mezzio/mezzio-platesrenderer/releases/tag/2.4.0), 2 days ago) - Plates integration for Mezzio
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.8.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.8.0), 2 days ago) - Factory-Driven Dependency Injection Container
-- [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) ([1.12.0](https://github.com/mezzio/mezzio-session-ext/releases/tag/1.12.0), 3 days ago) - ext-session persistence adapter for mezzio-session
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.1](https://github.com/orchestral/testbench-core/releases/tag/v6.25.1), 6 days ago) - Testing Helper for Laravel Development
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.3.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.3.0), 1 day ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
+- [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) ([1.6.0](https://github.com/mezzio/mezzio-session/releases/tag/1.6.0), 2 days ago) - Session container and middleware for PSR-7 applications
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.7.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.7.0), 2 days ago) - PSR HTTP Message implementations
+- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.6.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.6.0), 2 days ago) - PSR-6 session persistence adapter for mezzio-session.
+- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.2.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.2.0), 3 days ago) - laminas-permissions-acl adapter for mezzio-authorization
+- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.10.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.10.0), 3 days ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
+- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), 3 days ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.2.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.2.0), 3 days ago) - Authorization middleware for Mezzio and PSR-7 applications
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.7.0](https://github.com/mezzio/mezzio-router/releases/tag/3.7.0), 3 days ago) - Router subcomponent for Mezzio
+- [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) ([1.3.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.3.0), 3 days ago) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session
+- [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) ([1.1.0](https://github.com/mezzio/mezzio-migration/releases/tag/1.1.0), 3 days ago) - Migrate Mezzio applications from v2 to v3
+- [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) ([2.4.0](https://github.com/mezzio/mezzio-platesrenderer/releases/tag/2.4.0), 3 days ago) - Plates integration for Mezzio
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.8.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.8.0), 3 days ago) - Factory-Driven Dependency Injection Container
+- [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) ([1.12.0](https://github.com/mezzio/mezzio-session-ext/releases/tag/1.12.0), 4 days ago) - ext-session persistence adapter for mezzio-session
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.1](https://github.com/orchestral/testbench-core/releases/tag/v6.25.1), 1 week ago) - Testing Helper for Laravel Development
