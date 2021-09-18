@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.9.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.9.0), today) - Factory-Driven Dependency Injection Container
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), today) - Factory-Driven Dependency Injection Container
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.2](https://github.com/orchestral/testbench-core/releases/tag/v6.25.2), today) - Testing Helper for Laravel Development
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.1](https://github.com/nette/php-generator/releases/tag/v3.6.1), 1 day ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.3.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.3.0), 2 days ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
