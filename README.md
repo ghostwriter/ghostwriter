@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), today) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 2 days ago) - Factory-Driven Dependency Injection Container
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.2](https://github.com/orchestral/testbench-core/releases/tag/v6.25.2), 2 days ago) - Testing Helper for Laravel Development
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.1](https://github.com/nette/php-generator/releases/tag/v3.6.1), 3 days ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
@@ -28,4 +29,3 @@
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.7.0](https://github.com/mezzio/mezzio-router/releases/tag/3.7.0), 6 days ago) - Router subcomponent for Mezzio
 - [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) ([1.3.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.3.0), 6 days ago) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session
 - [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) ([1.1.0](https://github.com/mezzio/mezzio-migration/releases/tag/1.1.0), 6 days ago) - Migrate Mezzio applications from v2 to v3
-- [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) ([2.4.0](https://github.com/mezzio/mezzio-platesrenderer/releases/tag/2.4.0), 6 days ago) - Plates integration for Mezzio
