@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.14.2](https://github.com/laminas/laminas-mail/releases/tag/2.14.2), 1 day ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), 1 day ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 3 days ago) - Factory-Driven Dependency Injection Container
@@ -28,4 +29,3 @@
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), 1 week ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.2.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.2.0), 1 week ago) - Authorization middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.7.0](https://github.com/mezzio/mezzio-router/releases/tag/3.7.0), 1 week ago) - Router subcomponent for Mezzio
-- [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) ([1.3.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.3.0), 1 week ago) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session
