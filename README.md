@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.0](https://github.com/laminas/laminas-mail/releases/tag/2.15.0), today) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.14.2](https://github.com/laminas/laminas-mail/releases/tag/2.14.2), 1 day ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), 1 day ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 3 days ago) - Factory-Driven Dependency Injection Container
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.2](https://github.com/orchestral/testbench-core/releases/tag/v6.25.2), 3 days ago) - Testing Helper for Laravel Development
