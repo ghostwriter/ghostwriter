@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.3.0](https://github.com/laminas/laminas-di/releases/tag/3.3.0), today) - Automated dependency injection for PSR-11 containers
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.0](https://github.com/laminas/laminas-mail/releases/tag/2.15.0), today) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), 1 day ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
@@ -28,4 +29,3 @@
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.10.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.10.0), 1 week ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), 1 week ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
 - [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.2.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.2.0), 1 week ago) - Authorization middleware for Mezzio and PSR-7 applications
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.7.0](https://github.com/mezzio/mezzio-router/releases/tag/3.7.0), 1 week ago) - Router subcomponent for Mezzio
