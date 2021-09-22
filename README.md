@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), today) - PSR HTTP Message implementations
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.0](https://github.com/laminas/laminas-session/releases/tag/2.12.0), 1 day ago) - Object-oriented interface to PHP sessions and storage
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.3.0](https://github.com/laminas/laminas-di/releases/tag/3.3.0), 1 day ago) - Automated dependency injection for PSR-11 containers
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.0](https://github.com/laminas/laminas-mail/releases/tag/2.15.0), 1 day ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
@@ -24,7 +25,6 @@
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.1](https://github.com/nette/php-generator/releases/tag/v3.6.1), 5 days ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.3.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.3.0), 6 days ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) ([1.6.0](https://github.com/mezzio/mezzio-session/releases/tag/1.6.0), 1 week ago) - Session container and middleware for PSR-7 applications
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.7.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.7.0), 1 week ago) - PSR HTTP Message implementations
 - [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.6.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.6.0), 1 week ago) - PSR-6 session persistence adapter for mezzio-session.
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.2.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.2.0), 1 week ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.10.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.10.0), 1 week ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
