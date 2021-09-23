@@ -14,10 +14,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.1](https://github.com/laminas/laminas-mail/releases/tag/2.15.1), today) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), 1 day ago) - PSR HTTP Message implementations
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.0](https://github.com/laminas/laminas-session/releases/tag/2.12.0), 2 days ago) - Object-oriented interface to PHP sessions and storage
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.3.0](https://github.com/laminas/laminas-di/releases/tag/3.3.0), 2 days ago) - Automated dependency injection for PSR-11 containers
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.0](https://github.com/laminas/laminas-mail/releases/tag/2.15.0), 2 days ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), 2 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), 3 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 5 days ago) - Factory-Driven Dependency Injection Container
