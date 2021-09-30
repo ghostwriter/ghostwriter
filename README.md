@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), today) - Composer plugin for injecting modules and configuration providers into application configuration
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.2](https://github.com/nette/php-generator/releases/tag/v3.6.2), 6 days ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.1](https://github.com/laminas/laminas-mail/releases/tag/2.15.1), 1 week ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), 1 week ago) - PSR HTTP Message implementations
@@ -28,4 +29,3 @@
 - [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.6.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.6.0), 2 weeks ago) - PSR-6 session persistence adapter for mezzio-session.
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.2.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.2.0), 2 weeks ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.10.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.10.0), 2 weeks ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
-- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) ([3.5.0](https://github.com/laminas/laminas-stratigility/releases/tag/3.5.0), 2 weeks ago) - PSR-7 middleware foundation for building and dispatching middleware pipelines
