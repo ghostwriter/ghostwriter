@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 1 day ago) - provides a nested object property based user interface for accessing this configuration data within application code
-- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), 2 days ago) - Composer plugin for injecting modules and configuration providers into application configuration
+- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 2 days ago) - provides a nested object property based user interface for accessing this configuration data within application code
+- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), 3 days ago) - Composer plugin for injecting modules and configuration providers into application configuration
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.2](https://github.com/nette/php-generator/releases/tag/v3.6.2), 1 week ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.1](https://github.com/laminas/laminas-mail/releases/tag/2.15.1), 1 week ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), 1 week ago) - PSR HTTP Message implementations
