@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), today) - Automated release process for `laminas/` projects, usable as github action
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 2 days ago) - provides a nested object property based user interface for accessing this configuration data within application code
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), 3 days ago) - Composer plugin for injecting modules and configuration providers into application configuration
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.2](https://github.com/nette/php-generator/releases/tag/v3.6.2), 1 week ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
@@ -28,4 +29,3 @@
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.3.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.3.0), 2 weeks ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) ([1.6.0](https://github.com/mezzio/mezzio-session/releases/tag/1.6.0), 2 weeks ago) - Session container and middleware for PSR-7 applications
 - [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.6.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.6.0), 2 weeks ago) - PSR-6 session persistence adapter for mezzio-session.
-- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.2.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.2.0), 2 weeks ago) - laminas-permissions-acl adapter for mezzio-authorization
