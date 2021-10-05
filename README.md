@@ -14,6 +14,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), today) - Twig integration for Mezzio
+- [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.2.0](https://github.com/mezzio/mezzio-template/releases/tag/2.2.0), today) - Template subcomponent for Mezzio
+- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), today) - FastRoute integration for Mezzio
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.1.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.1.0), today) - Migration and development tooling for Mezzio
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 2 days ago) - Automated release process for `laminas/` projects, usable as github action
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 4 days ago) - provides a nested object property based user interface for accessing this configuration data within application code
@@ -26,6 +29,3 @@
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), 2 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), 2 weeks ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 2 weeks ago) - Factory-Driven Dependency Injection Container
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.25.2](https://github.com/orchestral/testbench-core/releases/tag/v6.25.2), 2 weeks ago) - Testing Helper for Laravel Development
-- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.3.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.3.0), 2 weeks ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
-- [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) ([1.6.0](https://github.com/mezzio/mezzio-session/releases/tag/1.6.0), 2 weeks ago) - Session container and middleware for PSR-7 applications
