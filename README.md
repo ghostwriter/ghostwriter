@@ -14,14 +14,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 2 days ago) - Twig integration for Mezzio
-- [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.2.0](https://github.com/mezzio/mezzio-template/releases/tag/2.2.0), 2 days ago) - Template subcomponent for Mezzio
-- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 2 days ago) - FastRoute integration for Mezzio
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.1.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.1.0), 2 days ago) - Migration and development tooling for Mezzio
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 4 days ago) - Automated release process for `laminas/` projects, usable as github action
-- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 6 days ago) - provides a nested object property based user interface for accessing this configuration data within application code
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 3 days ago) - Twig integration for Mezzio
+- [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.2.0](https://github.com/mezzio/mezzio-template/releases/tag/2.2.0), 3 days ago) - Template subcomponent for Mezzio
+- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 3 days ago) - FastRoute integration for Mezzio
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.1.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.1.0), 3 days ago) - Migration and development tooling for Mezzio
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 5 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 1 week ago) - provides a nested object property based user interface for accessing this configuration data within application code
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), 1 week ago) - Composer plugin for injecting modules and configuration providers into application configuration
-- [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.2](https://github.com/nette/php-generator/releases/tag/v3.6.2), 1 week ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
+- [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.2](https://github.com/nette/php-generator/releases/tag/v3.6.2), 2 weeks ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.1](https://github.com/laminas/laminas-mail/releases/tag/2.15.1), 2 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), 2 weeks ago) - PSR HTTP Message implementations
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.0](https://github.com/laminas/laminas-session/releases/tag/2.12.0), 2 weeks ago) - Object-oriented interface to PHP sessions and storage
