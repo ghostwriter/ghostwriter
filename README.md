@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-math](https://github.com/laminas/laminas-math) ([3.4.0](https://github.com/laminas/laminas-math/releases/tag/3.4.0), today) - Create cryptographically secure pseudo-random numbers, and manage big integers
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 4 days ago) - Twig integration for Mezzio
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.2.0](https://github.com/mezzio/mezzio-template/releases/tag/2.2.0), 4 days ago) - Template subcomponent for Mezzio
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 4 days ago) - FastRoute integration for Mezzio
@@ -28,4 +29,3 @@
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.3.0](https://github.com/laminas/laminas-di/releases/tag/3.3.0), 2 weeks ago) - Automated dependency injection for PSR-11 containers
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), 2 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), 2 weeks ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 3 weeks ago) - Factory-Driven Dependency Injection Container
