@@ -14,11 +14,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 3 days ago) - Twig integration for Mezzio
-- [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.2.0](https://github.com/mezzio/mezzio-template/releases/tag/2.2.0), 3 days ago) - Template subcomponent for Mezzio
-- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 3 days ago) - FastRoute integration for Mezzio
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.1.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.1.0), 3 days ago) - Migration and development tooling for Mezzio
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 5 days ago) - Automated release process for `laminas/` projects, usable as github action
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 4 days ago) - Twig integration for Mezzio
+- [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.2.0](https://github.com/mezzio/mezzio-template/releases/tag/2.2.0), 4 days ago) - Template subcomponent for Mezzio
+- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 4 days ago) - FastRoute integration for Mezzio
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.1.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.1.0), 4 days ago) - Migration and development tooling for Mezzio
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 6 days ago) - Automated release process for `laminas/` projects, usable as github action
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 1 week ago) - provides a nested object property based user interface for accessing this configuration data within application code
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), 1 week ago) - Composer plugin for injecting modules and configuration providers into application configuration
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.2](https://github.com/nette/php-generator/releases/tag/v3.6.2), 2 weeks ago) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
@@ -28,4 +28,4 @@
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.3.0](https://github.com/laminas/laminas-di/releases/tag/3.3.0), 2 weeks ago) - Automated dependency injection for PSR-11 containers
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), 2 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.2.0](https://github.com/laminas/laminas-cli/releases/tag/1.2.0), 2 weeks ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 2 weeks ago) - Factory-Driven Dependency Injection Container
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.10.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.10.0), 3 weeks ago) - Factory-Driven Dependency Injection Container
