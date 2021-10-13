@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.0](https://github.com/laminas/laminas-view/releases/tag/2.14.0), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.1](https://github.com/laminas/laminas-view/releases/tag/2.14.1), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [nette/php-generator](https://github.com/nette/php-generator) ([v3.6.3-RC](https://github.com/nette/php-generator/releases/tag/v3.6.3-RC), today) - 🐘 Generates neat PHP code for you. Supports new PHP 8.1 features.
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.2.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.2.0), 2 days ago) - Migration and development tooling for Mezzio
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.3.0](https://github.com/mezzio/mezzio-template/releases/tag/2.3.0), 2 days ago) - Template subcomponent for Mezzio
