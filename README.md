@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.11.0](https://github.com/laminas/laminas-paginator/releases/tag/2.11.0), today) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-router](https://github.com/laminas/laminas-router) ([3.5.0](https://github.com/laminas/laminas-router/releases/tag/3.5.0), 1 day ago) - Flexible routing system for HTTP and console applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.1](https://github.com/laminas/laminas-view/releases/tag/2.14.1), 1 day ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.2.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.2.0), 3 days ago) - Migration and development tooling for Mezzio
@@ -28,4 +29,3 @@
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), 3 weeks ago) - PSR HTTP Message implementations
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.0](https://github.com/laminas/laminas-session/releases/tag/2.12.0), 3 weeks ago) - Object-oriented interface to PHP sessions and storage
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.3.0](https://github.com/laminas/laminas-di/releases/tag/3.3.0), 3 weeks ago) - Automated dependency injection for PSR-11 containers
-- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.4.3](https://github.com/laminas/laminas-code/releases/tag/4.4.3), 3 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
