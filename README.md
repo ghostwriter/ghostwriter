@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.26.0](https://github.com/orchestral/testbench-core/releases/tag/v6.26.0), today) - Testing Helper for Laravel Development
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.11.0](https://github.com/laminas/laminas-paginator/releases/tag/2.11.0), 1 week ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-router](https://github.com/laminas/laminas-router) ([3.5.0](https://github.com/laminas/laminas-router/releases/tag/3.5.0), 1 week ago) - Flexible routing system for HTTP and console applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.1](https://github.com/laminas/laminas-view/releases/tag/2.14.1), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
@@ -28,4 +29,3 @@
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.1](https://github.com/laminas/laminas-mail/releases/tag/2.15.1), 4 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), 4 weeks ago) - PSR HTTP Message implementations
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.0](https://github.com/laminas/laminas-session/releases/tag/2.12.0), 1 month ago) - Object-oriented interface to PHP sessions and storage
-- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.3.0](https://github.com/laminas/laminas-di/releases/tag/3.3.0), 1 month ago) - Automated dependency injection for PSR-11 containers
