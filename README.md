@@ -14,6 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), today) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
+- [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), today) - Sets up Composer-based autoloading for your Laminas modules
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.26.0](https://github.com/orchestral/testbench-core/releases/tag/v6.26.0), today) - Testing Helper for Laravel Development
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.11.0](https://github.com/laminas/laminas-paginator/releases/tag/2.11.0), 1 week ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-router](https://github.com/laminas/laminas-router) ([3.5.0](https://github.com/laminas/laminas-router/releases/tag/3.5.0), 1 week ago) - Flexible routing system for HTTP and console applications
@@ -27,5 +29,3 @@
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 2 weeks ago) - provides a nested object property based user interface for accessing this configuration data within application code
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), 3 weeks ago) - Composer plugin for injecting modules and configuration providers into application configuration
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.15.1](https://github.com/laminas/laminas-mail/releases/tag/2.15.1), 4 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.8.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.8.0), 4 weeks ago) - PSR HTTP Message implementations
-- [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.0](https://github.com/laminas/laminas-session/releases/tag/2.12.0), 1 month ago) - Object-oriented interface to PHP sessions and storage
