@@ -14,6 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.4.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.4.0), today) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 2 days ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 5 days ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 5 days ago) - Sets up Composer-based autoloading for your Laminas modules
@@ -28,4 +29,3 @@
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 3 weeks ago) - FastRoute integration for Mezzio
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
 - [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 3 weeks ago) - provides a nested object property based user interface for accessing this configuration data within application code
-- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.5.1](https://github.com/laminas/laminas-component-installer/releases/tag/2.5.1), 3 weeks ago) - Composer plugin for injecting modules and configuration providers into application configuration
