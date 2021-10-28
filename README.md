@@ -14,12 +14,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.4.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.4.0), 1 day ago) - PSR-7 &lt;-&gt; laminas-http message conversions
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 3 days ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 6 days ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
-- [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 6 days ago) - Sets up Composer-based autoloading for your Laminas modules
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.26.0](https://github.com/orchestral/testbench-core/releases/tag/v6.26.0), 6 days ago) - Testing Helper for Laravel Development
-- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.11.0](https://github.com/laminas/laminas-paginator/releases/tag/2.11.0), 1 week ago) - Paginate collections of data from arbitrary sources
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.4.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.4.0), 2 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 4 days ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 1 week ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
+- [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 1 week ago) - Sets up Composer-based autoloading for your Laminas modules
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.26.0](https://github.com/orchestral/testbench-core/releases/tag/v6.26.0), 1 week ago) - Testing Helper for Laravel Development
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.11.0](https://github.com/laminas/laminas-paginator/releases/tag/2.11.0), 2 weeks ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-router](https://github.com/laminas/laminas-router) ([3.5.0](https://github.com/laminas/laminas-router/releases/tag/3.5.0), 2 weeks ago) - Flexible routing system for HTTP and console applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.1](https://github.com/laminas/laminas-view/releases/tag/2.14.1), 2 weeks ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.2.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.2.0), 2 weeks ago) - Migration and development tooling for Mezzio
