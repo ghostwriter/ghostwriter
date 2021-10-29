@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.4.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.4.0), 3 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), today) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 5 days ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 1 week ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 1 week ago) - Sets up Composer-based autoloading for your Laminas modules
