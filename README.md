@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.4.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.4.0), 2 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 4 days ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.4.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.4.0), 3 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 5 days ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 1 week ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 1 week ago) - Sets up Composer-based autoloading for your Laminas modules
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.26.0](https://github.com/orchestral/testbench-core/releases/tag/v6.26.0), 1 week ago) - Testing Helper for Laravel Development
@@ -28,4 +28,4 @@
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 3 weeks ago) - Twig integration for Mezzio
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 3 weeks ago) - FastRoute integration for Mezzio
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 3 weeks ago) - Automated release process for `laminas/` projects, usable as github action
-- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 3 weeks ago) - provides a nested object property based user interface for accessing this configuration data within application code
+- [laminas/laminas-config](https://github.com/laminas/laminas-config) ([3.7.0](https://github.com/laminas/laminas-config/releases/tag/3.7.0), 4 weeks ago) - provides a nested object property based user interface for accessing this configuration data within application code
