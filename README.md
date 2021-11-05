@@ -14,8 +14,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 5 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 6 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 6 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 1 week ago) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 1 week ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 2 weeks ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 2 weeks ago) - Sets up Composer-based autoloading for your Laminas modules
