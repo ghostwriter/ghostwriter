@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 6 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 1 week ago) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 1 week ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 2 weeks ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
@@ -25,7 +25,7 @@
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.1](https://github.com/laminas/laminas-view/releases/tag/2.14.1), 3 weeks ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.2.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.2.0), 3 weeks ago) - Migration and development tooling for Mezzio
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.3.0](https://github.com/mezzio/mezzio-template/releases/tag/2.3.0), 3 weeks ago) - Template subcomponent for Mezzio
-- [laminas/laminas-math](https://github.com/laminas/laminas-math) ([3.4.0](https://github.com/laminas/laminas-math/releases/tag/3.4.0), 3 weeks ago) - Create cryptographically secure pseudo-random numbers, and manage big integers
+- [laminas/laminas-math](https://github.com/laminas/laminas-math) ([3.4.0](https://github.com/laminas/laminas-math/releases/tag/3.4.0), 4 weeks ago) - Create cryptographically secure pseudo-random numbers, and manage big integers
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 1 month ago) - Twig integration for Mezzio
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.3.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.3.0), 1 month ago) - FastRoute integration for Mezzio
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) ([1.13.0](https://github.com/laminas/automatic-releases/releases/tag/1.13.0), 1 month ago) - Automated release process for `laminas/` projects, usable as github action
