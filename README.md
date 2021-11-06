@@ -9,7 +9,6 @@
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [ghostwriter/ethiopia-coronavirus-data-collection](https://github.com/ghostwriter/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions
 
 #### 🔭 Latest releases I've contributed to
