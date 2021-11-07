@@ -13,10 +13,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), today) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 1 day ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 1 week ago) - PSR-7 &lt;-&gt; laminas-http message conversions
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 1 week ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 2 weeks ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 2 weeks ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 2 weeks ago) - Sets up Composer-based autoloading for your Laminas modules
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.26.0](https://github.com/orchestral/testbench-core/releases/tag/v6.26.0), 2 weeks ago) - Testing Helper for Laravel Development
