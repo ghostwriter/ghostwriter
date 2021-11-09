@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.2](https://github.com/laminas/laminas-cache/releases/tag/2.13.2), 1 day ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 2 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.2](https://github.com/laminas/laminas-cache/releases/tag/2.13.2), 2 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 3 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 1 week ago) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 2 weeks ago) - Programmatically filter and normalize data and files
