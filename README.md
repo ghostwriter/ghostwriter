@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.1), today) - SPL extensions, array utilities, error handlers, and more
 - [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.27.0](https://github.com/orchestral/testbench-core/releases/tag/v6.27.0), 1 day ago) - Testing Helper for Laravel Development
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.2](https://github.com/laminas/laminas-cache/releases/tag/2.13.2), 3 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 4 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
@@ -27,4 +28,3 @@
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.2.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.2.0), 1 month ago) - Migration and development tooling for Mezzio
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.3.0](https://github.com/mezzio/mezzio-template/releases/tag/2.3.0), 1 month ago) - Template subcomponent for Mezzio
 - [laminas/laminas-math](https://github.com/laminas/laminas-math) ([3.4.0](https://github.com/laminas/laminas-math/releases/tag/3.4.0), 1 month ago) - Create cryptographically secure pseudo-random numbers, and manage big integers
-- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.8.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.8.0), 1 month ago) - Twig integration for Mezzio
