@@ -13,16 +13,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.1), 2 days ago) - SPL extensions, array utilities, error handlers, and more
-- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.27.0](https://github.com/orchestral/testbench-core/releases/tag/v6.27.0), 3 days ago) - Testing Helper for Laravel Development
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.2](https://github.com/laminas/laminas-cache/releases/tag/2.13.2), 5 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 6 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.1), 3 days ago) - SPL extensions, array utilities, error handlers, and more
+- [orchestral/testbench-core](https://github.com/orchestral/testbench-core) ([v6.27.0](https://github.com/orchestral/testbench-core/releases/tag/v6.27.0), 4 days ago) - Testing Helper for Laravel Development
+- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([2.13.2](https://github.com/laminas/laminas-cache/releases/tag/2.13.2), 6 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.6](https://github.com/ajthinking/archetype/releases/tag/v0.2.6), 2 weeks ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 2 weeks ago) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.12.0](https://github.com/laminas/laminas-filter/releases/tag/2.12.0), 2 weeks ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.1.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.1.0), 3 weeks ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) ([3.1.0](https://github.com/laminas/laminas-composer-autoloading/releases/tag/3.1.0), 3 weeks ago) - Sets up Composer-based autoloading for your Laminas modules
-- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.11.0](https://github.com/laminas/laminas-paginator/releases/tag/2.11.0), 4 weeks ago) - Paginate collections of data from arbitrary sources
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.11.0](https://github.com/laminas/laminas-paginator/releases/tag/2.11.0), 1 month ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-router](https://github.com/laminas/laminas-router) ([3.5.0](https://github.com/laminas/laminas-router/releases/tag/3.5.0), 1 month ago) - Flexible routing system for HTTP and console applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.1](https://github.com/laminas/laminas-view/releases/tag/2.14.1), 1 month ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.2.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.2.0), 1 month ago) - Migration and development tooling for Mezzio
