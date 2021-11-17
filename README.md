@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.0](https://github.com/laminas/laminas-cache/releases/tag/3.1.0), today) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.2](https://github.com/laminas/laminas-view/releases/tag/2.14.2), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.7](https://github.com/ajthinking/archetype/releases/tag/v0.2.7), 1 day ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-cache-storage-adapter-session](https://github.com/laminas/laminas-cache-storage-adapter-session) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-session/releases/tag/2.0.0), 4 days ago) - 
@@ -23,7 +24,6 @@
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/2.0.0), 4 days ago) - 
 - [laminas/laminas-cache-storage-adapter-blackhole](https://github.com/laminas/laminas-cache-storage-adapter-blackhole) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-blackhole/releases/tag/2.0.0), 4 days ago) - 
 - [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-apcu/releases/tag/2.0.0), 4 days ago) - Laminas cache adapter for APCu
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.0.0](https://github.com/laminas/laminas-cache/releases/tag/3.0.0), 4 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.1), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 2 weeks ago) - PSR-7 &lt;-&gt; laminas-http message conversions
