@@ -13,8 +13,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.8](https://github.com/ajthinking/archetype/releases/tag/v0.2.8), 4 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.2](https://github.com/laminas/laminas-cache/releases/tag/3.1.2), 6 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.8](https://github.com/ajthinking/archetype/releases/tag/v0.2.8), 5 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
+- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.2](https://github.com/laminas/laminas-cache/releases/tag/3.1.2), 1 week ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.2](https://github.com/laminas/laminas-view/releases/tag/2.14.2), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-cache-storage-adapter-session](https://github.com/laminas/laminas-cache-storage-adapter-session) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-session/releases/tag/2.0.0), 1 week ago) - 
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.0.0), 1 week ago) - 
