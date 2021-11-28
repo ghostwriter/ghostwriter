@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), today) - OOP wrapper for the ReCaptcha web service
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.5.1](https://github.com/laminas/laminas-crypt/releases/tag/3.5.1), today) - Strong cryptography tools and password hashing
 - [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.12.1](https://github.com/laminas/laminas-inputfilter/releases/tag/2.12.1), 1 day ago) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.8](https://github.com/ajthinking/archetype/releases/tag/v0.2.8), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
@@ -27,4 +28,3 @@
 - [laminas/laminas-cache-storage-adapter-blackhole](https://github.com/laminas/laminas-cache-storage-adapter-blackhole) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-blackhole/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-apcu/releases/tag/2.0.0), 2 weeks ago) - Laminas cache adapter for APCu
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.1), 2 weeks ago) - SPL extensions, array utilities, error handlers, and more
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 3 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
