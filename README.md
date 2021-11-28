@@ -13,6 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.5.1](https://github.com/laminas/laminas-crypt/releases/tag/3.5.1), today) - Strong cryptography tools and password hashing
 - [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.12.1](https://github.com/laminas/laminas-inputfilter/releases/tag/2.12.1), 1 day ago) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.8](https://github.com/ajthinking/archetype/releases/tag/v0.2.8), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.2](https://github.com/laminas/laminas-cache/releases/tag/3.1.2), 1 week ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
@@ -27,4 +28,3 @@
 - [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-apcu/releases/tag/2.0.0), 2 weeks ago) - Laminas cache adapter for APCu
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.1), 2 weeks ago) - SPL extensions, array utilities, error handlers, and more
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.0](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.0), 3 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.5.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.5.0), 1 month ago) - PSR-7 &lt;-&gt; laminas-http message conversions
