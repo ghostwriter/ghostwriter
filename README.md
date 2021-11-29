@@ -5,7 +5,7 @@
 ---
 #### 👷 Check out what I'm currently working on
 
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (today)
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 day ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (3 weeks ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (3 weeks ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (2 months ago)
@@ -38,9 +38,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), today) - OOP wrapper for the ReCaptcha web service
-- [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.5.1](https://github.com/laminas/laminas-crypt/releases/tag/3.5.1), today) - Strong cryptography tools and password hashing
-- [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.12.1](https://github.com/laminas/laminas-inputfilter/releases/tag/2.12.1), 1 day ago) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
+- [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), 1 day ago) - OOP wrapper for the ReCaptcha web service
+- [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.5.1](https://github.com/laminas/laminas-crypt/releases/tag/3.5.1), 1 day ago) - Strong cryptography tools and password hashing
+- [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.12.1](https://github.com/laminas/laminas-inputfilter/releases/tag/2.12.1), 2 days ago) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.8](https://github.com/ajthinking/archetype/releases/tag/v0.2.8), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.2](https://github.com/laminas/laminas-cache/releases/tag/3.1.2), 1 week ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.2](https://github.com/laminas/laminas-view/releases/tag/2.14.2), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
