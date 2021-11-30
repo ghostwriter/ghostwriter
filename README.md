@@ -12,9 +12,9 @@
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (5 months ago)
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria (5 months ago)
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (5 months ago)
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.4.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.4.0), today) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.3.0](https://github.com/laminas/laminas-cli/releases/tag/1.3.0), today) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-xml](https://github.com/laminas/laminas-xml) ([1.4.0](https://github.com/laminas/laminas-xml/releases/tag/1.4.0), today) - Utility library for XML usage, best practices, and security in PHP
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), 2 days ago) - OOP wrapper for the ReCaptcha web service
@@ -52,4 +53,3 @@
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-filesystem](https://github.com/laminas/laminas-cache-storage-adapter-filesystem) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-filesystem/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/2.0.0), 2 weeks ago) - 
-- [laminas/laminas-cache-storage-adapter-blackhole](https://github.com/laminas/laminas-cache-storage-adapter-blackhole) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-blackhole/releases/tag/2.0.0), 2 weeks ago) - 
