@@ -18,6 +18,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (today)
 - [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (3 weeks ago)
 - [Make package exceptions `Throwable` ](https://github.com/laminas/laminas-recaptcha/pull/13) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (3 weeks ago)
 - [add continuous integration action](https://github.com/laminas/automatic-releases/pull/172) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 weeks ago)
@@ -27,7 +28,6 @@
 - [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (2 months ago)
 - [Respect draft file column order](https://github.com/laravel-shift/blueprint/pull/487) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (4 months ago)
 - [Testing ci](https://github.com/ghostwriter/laminas-ldap/pull/1) on [ghostwriter/laminas-ldap](https://github.com/ghostwriter/laminas-ldap) (4 months ago)
-- [Add GitHub CI](https://github.com/laminas/laminas-ldap/pull/20) on [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-xml](https://github.com/laminas/laminas-xml) ([1.4.0](https://github.com/laminas/laminas-xml/releases/tag/1.4.0), today) - Utility library for XML usage, best practices, and security in PHP
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), 2 days ago) - OOP wrapper for the ReCaptcha web service
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.5.1](https://github.com/laminas/laminas-crypt/releases/tag/3.5.1), 2 days ago) - Strong cryptography tools and password hashing
 - [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.12.1](https://github.com/laminas/laminas-inputfilter/releases/tag/2.12.1), 3 days ago) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
@@ -52,4 +53,3 @@
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-blackhole](https://github.com/laminas/laminas-cache-storage-adapter-blackhole) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-blackhole/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-apcu/releases/tag/2.0.0), 2 weeks ago) - Laminas cache adapter for APCu
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.1), 2 weeks ago) - SPL extensions, array utilities, error handlers, and more
