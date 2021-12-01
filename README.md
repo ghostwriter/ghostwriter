@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.5.0](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.5.0), today) - Problem Details for PSR-7 HTTP APIs
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.7.0](https://github.com/mezzio/mezzio/releases/tag/3.7.0), today) - PSR-15 Middleware Microframework
 - [laminas/laminas-cache-storage-adapter-filesystem](https://github.com/laminas/laminas-cache-storage-adapter-filesystem) ([2.0.1](https://github.com/laminas/laminas-cache-storage-adapter-filesystem/releases/tag/2.0.1), today) - 
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.4.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.4.0), 1 day ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
@@ -52,4 +53,3 @@
 - [laminas/laminas-cache-storage-adapter-session](https://github.com/laminas/laminas-cache-storage-adapter-session) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-session/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-memory/releases/tag/2.0.0), 2 weeks ago) - 
-- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/2.0.0), 2 weeks ago) - 
