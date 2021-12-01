@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-cache-storage-adapter-filesystem](https://github.com/laminas/laminas-cache-storage-adapter-filesystem) ([2.0.1](https://github.com/laminas/laminas-cache-storage-adapter-filesystem/releases/tag/2.0.1), today) - 
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.4.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.4.0), 1 day ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.3.0](https://github.com/laminas/laminas-cli/releases/tag/1.3.0), 1 day ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-xml](https://github.com/laminas/laminas-xml) ([1.4.0](https://github.com/laminas/laminas-xml/releases/tag/1.4.0), 1 day ago) - Utility library for XML usage, best practices, and security in PHP
@@ -51,5 +52,4 @@
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-memory/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-memcached/releases/tag/2.0.0), 2 weeks ago) - 
-- [laminas/laminas-cache-storage-adapter-filesystem](https://github.com/laminas/laminas-cache-storage-adapter-filesystem) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-filesystem/releases/tag/2.0.0), 2 weeks ago) - 
 - [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/releases/tag/2.0.0), 2 weeks ago) - 
