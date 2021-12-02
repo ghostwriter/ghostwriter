@@ -12,9 +12,9 @@
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
-- [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (5 months ago)
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) - SPL extensions, array utilities, error handlers, and more (5 months ago)
+- [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -38,6 +38,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-permissions-acl](https://github.com/laminas/laminas-permissions-acl) ([2.8.1](https://github.com/laminas/laminas-permissions-acl/releases/tag/2.8.1), today) - Provides a lightweight and flexible access control list (ACL) implementation for privileges management
+- [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.13.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.13.0), today) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.15.1](https://github.com/laminas/laminas-validator/releases/tag/2.15.1), today) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.0](https://github.com/laminas/laminas-filter/releases/tag/2.13.0), today) - Programmatically filter and normalize data and files
 - [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.5.0](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.5.0), 1 day ago) - Problem Details for PSR-7 HTTP APIs
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.7.0](https://github.com/mezzio/mezzio/releases/tag/3.7.0), 1 day ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-cache-storage-adapter-filesystem](https://github.com/laminas/laminas-cache-storage-adapter-filesystem) ([2.0.1](https://github.com/laminas/laminas-cache-storage-adapter-filesystem/releases/tag/2.0.1), 1 day ago) - 
@@ -46,10 +50,6 @@
 - [laminas/laminas-xml](https://github.com/laminas/laminas-xml) ([1.4.0](https://github.com/laminas/laminas-xml/releases/tag/1.4.0), 2 days ago) - Utility library for XML usage, best practices, and security in PHP
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), 4 days ago) - OOP wrapper for the ReCaptcha web service
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.5.1](https://github.com/laminas/laminas-crypt/releases/tag/3.5.1), 4 days ago) - Strong cryptography tools and password hashing
-- [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.12.1](https://github.com/laminas/laminas-inputfilter/releases/tag/2.12.1), 5 days ago) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.8](https://github.com/ajthinking/archetype/releases/tag/v0.2.8), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.2](https://github.com/laminas/laminas-cache/releases/tag/3.1.2), 2 weeks ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.14.2](https://github.com/laminas/laminas-view/releases/tag/2.14.2), 2 weeks ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
-- [laminas/laminas-cache-storage-adapter-session](https://github.com/laminas/laminas-cache-storage-adapter-session) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-session/releases/tag/2.0.0), 2 weeks ago) - 
-- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.0.0), 2 weeks ago) - 
-- [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-memory/releases/tag/2.0.0), 2 weeks ago) - 
