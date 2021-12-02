@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.6.0](https://github.com/laminas/laminas-component-installer/releases/tag/2.6.0), today) - Composer plugin for injecting modules and configuration providers into application configuration
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.3.0), today) - Authentication middleware for Mezzio and PSR-7 applications
 - [laminas/laminas-permissions-acl](https://github.com/laminas/laminas-permissions-acl) ([2.8.1](https://github.com/laminas/laminas-permissions-acl/releases/tag/2.8.1), today) - Provides a lightweight and flexible access control list (ACL) implementation for privileges management
 - [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) ([2.13.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.13.0), today) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files
@@ -52,4 +53,3 @@
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), 4 days ago) - OOP wrapper for the ReCaptcha web service
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.5.1](https://github.com/laminas/laminas-crypt/releases/tag/3.5.1), 4 days ago) - Strong cryptography tools and password hashing
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v0.2.8](https://github.com/ajthinking/archetype/releases/tag/v0.2.8), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
-- [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.2](https://github.com/laminas/laminas-cache/releases/tag/3.1.2), 2 weeks ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
