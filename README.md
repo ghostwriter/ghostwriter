@@ -38,8 +38,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.6.0](https://github.com/laminas/laminas-test/releases/tag/3.6.0), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.12.0](https://github.com/laminas/laminas-ldap/releases/tag/2.12.0), today) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.2](https://github.com/laminas/laminas-test/releases/tag/3.5.2), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.14.0](https://github.com/laminas/laminas-log/releases/tag/2.14.0), today) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.4.0](https://github.com/mezzio/mezzio-template/releases/tag/2.4.0), today) - Template subcomponent for Mezzio
 - [laminas/laminas-permissions-acl](https://github.com/laminas/laminas-permissions-acl) ([2.9.0](https://github.com/laminas/laminas-permissions-acl/releases/tag/2.9.0), today) - Provides a lightweight and flexible access control list (ACL) implementation for privileges management
