@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.14.0](https://github.com/laminas/laminas-log/releases/tag/2.14.0), today) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.4.0](https://github.com/mezzio/mezzio-template/releases/tag/2.4.0), today) - Template subcomponent for Mezzio
 - [laminas/laminas-permissions-acl](https://github.com/laminas/laminas-permissions-acl) ([2.9.0](https://github.com/laminas/laminas-permissions-acl/releases/tag/2.9.0), today) - Provides a lightweight and flexible access control list (ACL) implementation for privileges management
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.1.0](https://github.com/laminas/laminas-form/releases/tag/3.1.0), today) - Validate and display simple and complex forms, casting forms to business objects and vice versa
@@ -52,4 +53,3 @@
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.4.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.4.0), 3 days ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.3.0](https://github.com/laminas/laminas-cli/releases/tag/1.3.0), 3 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-xml](https://github.com/laminas/laminas-xml) ([1.4.0](https://github.com/laminas/laminas-xml/releases/tag/1.4.0), 3 days ago) - Utility library for XML usage, best practices, and security in PHP
-- [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) ([3.4.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.4.0), 5 days ago) - OOP wrapper for the ReCaptcha web service
