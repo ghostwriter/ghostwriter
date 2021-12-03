@@ -11,10 +11,10 @@
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (2 months ago)
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
-- [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
+- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (4 months ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (5 months ago)
-- [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) - PSR-7 middleware foundation for building and dispatching middleware pipelines (5 months ago)
+- [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -38,6 +38,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.12.0](https://github.com/laminas/laminas-ldap/releases/tag/2.12.0), today) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.5.2](https://github.com/laminas/laminas-test/releases/tag/3.5.2), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.14.0](https://github.com/laminas/laminas-log/releases/tag/2.14.0), today) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.4.0](https://github.com/mezzio/mezzio-template/releases/tag/2.4.0), today) - Template subcomponent for Mezzio
 - [laminas/laminas-permissions-acl](https://github.com/laminas/laminas-permissions-acl) ([2.9.0](https://github.com/laminas/laminas-permissions-acl/releases/tag/2.9.0), today) - Provides a lightweight and flexible access control list (ACL) implementation for privileges management
@@ -51,5 +53,3 @@
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.7.0](https://github.com/mezzio/mezzio/releases/tag/3.7.0), 2 days ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-cache-storage-adapter-filesystem](https://github.com/laminas/laminas-cache-storage-adapter-filesystem) ([2.0.1](https://github.com/laminas/laminas-cache-storage-adapter-filesystem/releases/tag/2.0.1), 2 days ago) - 
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.4.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.4.0), 3 days ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
-- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.3.0](https://github.com/laminas/laminas-cli/releases/tag/1.3.0), 3 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
-- [laminas/laminas-xml](https://github.com/laminas/laminas-xml) ([1.4.0](https://github.com/laminas/laminas-xml/releases/tag/1.4.0), 3 days ago) - Utility library for XML usage, best practices, and security in PHP
