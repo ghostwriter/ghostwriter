@@ -38,9 +38,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.0](https://github.com/laminas/laminas-log/releases/tag/2.15.0), today) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.7.0](https://github.com/laminas/laminas-test/releases/tag/3.7.0), 1 day ago) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.12.0](https://github.com/laminas/laminas-ldap/releases/tag/2.12.0), 1 day ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
-- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.14.0](https://github.com/laminas/laminas-log/releases/tag/2.14.0), 1 day ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.4.0](https://github.com/mezzio/mezzio-template/releases/tag/2.4.0), 1 day ago) - Template subcomponent for Mezzio
 - [laminas/laminas-permissions-acl](https://github.com/laminas/laminas-permissions-acl) ([2.9.0](https://github.com/laminas/laminas-permissions-acl/releases/tag/2.9.0), 1 day ago) - Provides a lightweight and flexible access control list (ACL) implementation for privileges management
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.1.0](https://github.com/laminas/laminas-form/releases/tag/3.1.0), 1 day ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
