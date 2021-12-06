@@ -13,8 +13,8 @@
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (4 months ago)
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (5 months ago)
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -38,18 +38,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.3.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.3.0), today) - Migration and development tooling for Mezzio
+- [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.3.0](https://github.com/laminas/laminas-twitter/releases/tag/3.3.0), today) - OOP wrapper for the Twitter web service
+- [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) ([2.2.0](https://github.com/laminas/laminas-oauth/releases/tag/2.2.0), today) - 
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.11.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.11.0), today) - A set of components for performing diagnostic tests in PHP applications
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.9.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.9.0), today) - Twig integration for Mezzio
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.6.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.6.0), today) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.9.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.9.0), today) - Create and update progress bars in different environments
 - [laminas/laminas-math](https://github.com/laminas/laminas-math) ([3.5.0](https://github.com/laminas/laminas-math/releases/tag/3.5.0), today) - Create cryptographically secure pseudo-random numbers, and manage big integers
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.7.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.7.0), today) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.12.0](https://github.com/laminas/laminas-navigation/releases/tag/2.12.0), today) - Manage trees of pointers to web pages in order to build navigation systems
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.10.1](https://github.com/laminas/laminas-diagnostics/releases/tag/1.10.1), today) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.6.0](https://github.com/laminas/laminas-crypt/releases/tag/3.6.0), today) - Strong cryptography tools and password hashing
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.4.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.4.0), today) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.4.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.4.0), today) - Post/Redirect/Get plugin for laminas-mvc controllers
 - [laminas/laminas-memory](https://github.com/laminas/laminas-memory) ([2.8.0](https://github.com/laminas/laminas-memory/releases/tag/2.8.0), today) - Manage data in an environment with limited memory
 - [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.0](https://github.com/laminas/laminas-log/releases/tag/2.15.0), 2 days ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.7.0](https://github.com/laminas/laminas-test/releases/tag/3.7.0), 3 days ago) - Tools to facilitate integration testing of laminas-mvc applications
-- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.12.0](https://github.com/laminas/laminas-ldap/releases/tag/2.12.0), 3 days ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
-- [mezzio/mezzio-template](https://github.com/mezzio/mezzio-template) ([2.4.0](https://github.com/mezzio/mezzio-template/releases/tag/2.4.0), 3 days ago) - Template subcomponent for Mezzio
