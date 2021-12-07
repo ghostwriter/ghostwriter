@@ -12,9 +12,9 @@
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (4 months ago)
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (5 months ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), today) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.3.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.3.0), 1 day ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.3.0](https://github.com/laminas/laminas-twitter/releases/tag/3.3.0), 1 day ago) - OOP wrapper for the Twitter web service
 - [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) ([2.2.0](https://github.com/laminas/laminas-oauth/releases/tag/2.2.0), 1 day ago) - 
@@ -52,4 +53,3 @@
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.4.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.4.0), 1 day ago) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.4.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.4.0), 1 day ago) - Post/Redirect/Get plugin for laminas-mvc controllers
 - [laminas/laminas-memory](https://github.com/laminas/laminas-memory) ([2.8.0](https://github.com/laminas/laminas-memory/releases/tag/2.8.0), 1 day ago) - Manage data in an environment with limited memory
-- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.0](https://github.com/laminas/laminas-log/releases/tag/2.15.0), 3 days ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
