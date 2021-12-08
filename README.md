@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.8.0](https://github.com/laminas/laminas-test/releases/tag/3.8.0), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 1 day ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 1 day ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), 1 day ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
@@ -52,4 +53,3 @@
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.7.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.7.0), 2 days ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.12.0](https://github.com/laminas/laminas-navigation/releases/tag/2.12.0), 2 days ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.6.0](https://github.com/laminas/laminas-crypt/releases/tag/3.6.0), 2 days ago) - Strong cryptography tools and password hashing
-- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.4.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.4.0), 2 days ago) - Mezzio PSR-11 container configuration tests
