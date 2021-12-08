@@ -12,8 +12,8 @@
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (4 months ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (5 months ago)
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 months ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (5 months ago)
 
 #### 🔨 My recent Pull Requests
@@ -38,6 +38,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.5.0), today) - Plugin for creating and exposing flash messages via laminas-mvc controllers
+- [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.10.0](https://github.com/laminas/laminas-file/releases/tag/2.10.0), today) - Locate PHP classfiles
+- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.4.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.4.0), today) - FastRoute integration for Mezzio
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.8.0](https://github.com/laminas/laminas-test/releases/tag/3.8.0), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 1 day ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 1 day ago) - PSR-15 Middleware Microframework
@@ -50,6 +53,3 @@
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.6.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.6.0), 2 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.9.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.9.0), 2 days ago) - Create and update progress bars in different environments
 - [laminas/laminas-math](https://github.com/laminas/laminas-math) ([3.5.0](https://github.com/laminas/laminas-math/releases/tag/3.5.0), 2 days ago) - Create cryptographically secure pseudo-random numbers, and manage big integers
-- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.7.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.7.0), 2 days ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
-- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.12.0](https://github.com/laminas/laminas-navigation/releases/tag/2.12.0), 2 days ago) - Manage trees of pointers to web pages in order to build navigation systems
-- [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.6.0](https://github.com/laminas/laminas-crypt/releases/tag/3.6.0), 2 days ago) - Strong cryptography tools and password hashing
