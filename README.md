@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), today) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.12.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.12.0), today) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.5.0), today) - Plugin for creating and exposing flash messages via laminas-mvc controllers
@@ -52,4 +53,3 @@
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.9.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.9.0), 2 days ago) - Twig integration for Mezzio
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.6.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.6.0), 2 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.9.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.9.0), 2 days ago) - Create and update progress bars in different environments
-- [laminas/laminas-math](https://github.com/laminas/laminas-math) ([3.5.0](https://github.com/laminas/laminas-math/releases/tag/3.5.0), 2 days ago) - Create cryptographically secure pseudo-random numbers, and manage big integers
