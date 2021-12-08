@@ -38,11 +38,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.12.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.12.0), today) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.5.0), today) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.10.0](https://github.com/laminas/laminas-file/releases/tag/2.10.0), today) - Locate PHP classfiles
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.4.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.4.0), today) - FastRoute integration for Mezzio
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([3.8.0](https://github.com/laminas/laminas-test/releases/tag/3.8.0), today) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 1 day ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 1 day ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), 1 day ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
