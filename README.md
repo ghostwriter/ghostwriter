@@ -38,18 +38,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), today) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), today) - Tools to facilitate integration testing of laminas-mvc applications
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.12.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.12.0), today) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.5.0), today) - Plugin for creating and exposing flash messages via laminas-mvc controllers
-- [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.10.0](https://github.com/laminas/laminas-file/releases/tag/2.10.0), today) - Locate PHP classfiles
-- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.4.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.4.0), today) - FastRoute integration for Mezzio
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 1 day ago) - SPL extensions, array utilities, error handlers, and more
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 1 day ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), 1 day ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.3.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.3.0), 2 days ago) - Migration and development tooling for Mezzio
-- [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.3.0](https://github.com/laminas/laminas-twitter/releases/tag/3.3.0), 2 days ago) - OOP wrapper for the Twitter web service
-- [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) ([2.2.0](https://github.com/laminas/laminas-oauth/releases/tag/2.2.0), 2 days ago) - 
-- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.9.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.9.0), 2 days ago) - Twig integration for Mezzio
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.6.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.6.0), 2 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
-- [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.9.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.9.0), 2 days ago) - Create and update progress bars in different environments
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 1 day ago) - HTTP Basic Authentication adapter for mezzio-authentication.
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 1 day ago) - Tools to facilitate integration testing of laminas-mvc applications
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.12.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.12.0), 1 day ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.5.0), 1 day ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
+- [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.10.0](https://github.com/laminas/laminas-file/releases/tag/2.10.0), 1 day ago) - Locate PHP classfiles
+- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.4.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.4.0), 1 day ago) - FastRoute integration for Mezzio
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 2 days ago) - SPL extensions, array utilities, error handlers, and more
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 2 days ago) - PSR-15 Middleware Microframework
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), 2 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.3.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.3.0), 3 days ago) - Migration and development tooling for Mezzio
+- [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.3.0](https://github.com/laminas/laminas-twitter/releases/tag/3.3.0), 3 days ago) - OOP wrapper for the Twitter web service
+- [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) ([2.2.0](https://github.com/laminas/laminas-oauth/releases/tag/2.2.0), 3 days ago) - 
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.9.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.9.0), 3 days ago) - Twig integration for Mezzio
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.6.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.6.0), 3 days ago) - PSR-7 &lt;-&gt; laminas-http message conversions
+- [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.9.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.9.0), 3 days ago) - Create and update progress bars in different environments
