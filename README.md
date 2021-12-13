@@ -12,8 +12,8 @@
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (5 months ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (6 months ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (6 months ago)
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (6 months ago)
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (6 months ago)
 
 #### 🔨 My recent Pull Requests
