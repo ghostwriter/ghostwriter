@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), today) - Migration and development tooling for Mezzio
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), today) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), today) - Manage trees of pointers to web pages in order to build navigation systems
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 5 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
@@ -49,7 +50,6 @@
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 6 days ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 6 days ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), 6 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.3.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.3.0), 1 week ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.3.0](https://github.com/laminas/laminas-twitter/releases/tag/3.3.0), 1 week ago) - OOP wrapper for the Twitter web service
 - [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) ([2.2.0](https://github.com/laminas/laminas-oauth/releases/tag/2.2.0), 1 week ago) - 
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.9.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.9.0), 1 week ago) - Twig integration for Mezzio
