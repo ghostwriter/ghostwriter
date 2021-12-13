@@ -12,9 +12,9 @@
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (3 months ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (5 months ago)
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (6 months ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (6 months ago)
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) - Object-oriented interface to PHP sessions and storage (6 months ago)
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (6 months ago)
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (6 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), today) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), today) - Manage trees of pointers to web pages in order to build navigation systems
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 5 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 5 days ago) - Tools to facilitate integration testing of laminas-mvc applications
@@ -52,4 +53,3 @@
 - [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.3.0](https://github.com/laminas/laminas-twitter/releases/tag/3.3.0), 1 week ago) - OOP wrapper for the Twitter web service
 - [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) ([2.2.0](https://github.com/laminas/laminas-oauth/releases/tag/2.2.0), 1 week ago) - 
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) ([2.9.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.9.0), 1 week ago) - Twig integration for Mezzio
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) ([1.6.0](https://github.com/laminas/laminas-psr7bridge/releases/tag/1.6.0), 1 week ago) - PSR-7 &lt;-&gt; laminas-http message conversions
