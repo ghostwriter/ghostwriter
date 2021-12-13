@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.0](https://github.com/laminas/laminas-navigation/releases/tag/2.13.0), 1 day ago) - Manage trees of pointers to web pages in order to build navigation systems
+- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), today) - Manage trees of pointers to web pages in order to build navigation systems
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 5 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 5 days ago) - Tools to facilitate integration testing of laminas-mvc applications
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.12.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.12.0), 5 days ago) - A set of components for performing diagnostic tests in PHP applications
