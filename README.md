@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), today) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), today) - Installer plugin for Laminas MVC Skeleton application
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), 1 day ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), 1 day ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
@@ -52,4 +53,3 @@
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 1 week ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) ([3.3.0](https://github.com/laminas/laminas-twitter/releases/tag/3.3.0), 1 week ago) - OOP wrapper for the Twitter web service
-- [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) ([2.2.0](https://github.com/laminas/laminas-oauth/releases/tag/2.2.0), 1 week ago) - 
