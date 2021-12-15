@@ -25,7 +25,7 @@
 - [add laminas coding standard](https://github.com/laminas/automatic-releases/pull/171) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 month ago)
 - [Drop `ext-intl` &amp; `true/Punycode` in favor of `algo26-matthias/idna-convert`](https://github.com/laminas/laminas-mail/pull/176) on [laminas/laminas-mail](https://github.com/laminas/laminas-mail) (1 month ago)
 - [tests](https://github.com/ghostwriter/laminas-mail/pull/1) on [ghostwriter/laminas-mail](https://github.com/ghostwriter/laminas-mail) (1 month ago)
-- [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (2 months ago)
+- [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (3 months ago)
 - [Respect draft file column order](https://github.com/laravel-shift/blueprint/pull/487) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (4 months ago)
 - [Add GitHub CI](https://github.com/laminas/laminas-ldap/pull/20) on [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) (6 months ago)
 
@@ -38,17 +38,17 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), today) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
-- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), today) - Installer plugin for Laminas MVC Skeleton application
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), 1 day ago) - Migration and development tooling for Mezzio
-- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), 1 day ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
-- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), 1 day ago) - Manage trees of pointers to web pages in order to build navigation systems
-- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 6 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 6 days ago) - Tools to facilitate integration testing of laminas-mvc applications
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.12.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.12.0), 6 days ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.5.0), 6 days ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
-- [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.10.0](https://github.com/laminas/laminas-file/releases/tag/2.10.0), 6 days ago) - Locate PHP classfiles
-- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.4.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.4.0), 6 days ago) - FastRoute integration for Mezzio
+- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), 1 day ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
+- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), 1 day ago) - Installer plugin for Laminas MVC Skeleton application
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), 2 days ago) - Migration and development tooling for Mezzio
+- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), 2 days ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
+- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), 2 days ago) - Manage trees of pointers to web pages in order to build navigation systems
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 1 week ago) - Tools to facilitate integration testing of laminas-mvc applications
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.12.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.12.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.5.0), 1 week ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
+- [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.10.0](https://github.com/laminas/laminas-file/releases/tag/2.10.0), 1 week ago) - Locate PHP classfiles
+- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.4.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.4.0), 1 week ago) - FastRoute integration for Mezzio
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 1 week ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.0](https://github.com/laminas/laminas-code/releases/tag/4.5.0), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
