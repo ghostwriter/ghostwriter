@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), today) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 1 day ago) - Post/Redirect/Get plugin for laminas-mvc controllers
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 1 day ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 1 day ago) - A set of components for performing diagnostic tests in PHP applications
@@ -52,4 +53,3 @@
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.10.0](https://github.com/laminas/laminas-file/releases/tag/2.10.0), 1 week ago) - Locate PHP classfiles
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.4.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.4.0), 1 week ago) - FastRoute integration for Mezzio
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.2](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.2), 1 week ago) - SPL extensions, array utilities, error handlers, and more
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.8.0](https://github.com/mezzio/mezzio/releases/tag/3.8.0), 1 week ago) - PSR-15 Middleware Microframework
