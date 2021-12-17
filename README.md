@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.0](https://github.com/laminas/laminas-paginator/releases/tag/2.12.0), today) - Paginate collections of data from arbitrary sources
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), today) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.15.0](https://github.com/laminas/laminas-view/releases/tag/2.15.0), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 1 day ago) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 2 days ago) - Post/Redirect/Get plugin for laminas-mvc controllers
