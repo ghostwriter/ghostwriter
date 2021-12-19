@@ -18,6 +18,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (2 weeks ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (3 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
@@ -26,7 +27,6 @@
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (3 months ago)
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (4 months ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (5 months ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (6 months ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (6 months ago)
 
 #### 🌱 My latest projects
