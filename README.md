@@ -15,6 +15,11 @@
 - [tests](https://github.com/ghostwriter/laminas-mail/pull/1) on [ghostwriter/laminas-mail](https://github.com/ghostwriter/laminas-mail) (1 month ago)
 - [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (3 months ago)
 - [Respect draft file column order](https://github.com/laravel-shift/blueprint/pull/487) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (5 months ago)
+- [Add GitHub CI](https://github.com/laminas/laminas-ldap/pull/20) on [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) (6 months ago)
+- [Add GitHub CI](https://github.com/laminas/laminas-hydrator/pull/58) on [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) (6 months ago)
+- [Add GitHub CI](https://github.com/laminas/laminas-escaper/pull/18) on [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) (6 months ago)
+- [Add GitHub CI](https://github.com/laminas/laminas-session/pull/44) on [laminas/laminas-session](https://github.com/laminas/laminas-session) (6 months ago)
+- [Add GitHub CI](https://github.com/laminas/laminas-stdlib/pull/26) on [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) (6 months ago)
 
 #### 👷 Check out what I'm currently working on
 
