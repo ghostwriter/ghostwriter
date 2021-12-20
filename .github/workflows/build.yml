@@ -35,6 +35,8 @@ jobs:
       - run: go get github.com/muesli/markscribe
 
       - run: markscribe -write README.md templates/README.md.tpl
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT }}
 
       # - uses: muesli/readme-scribe@master
       #   env:
