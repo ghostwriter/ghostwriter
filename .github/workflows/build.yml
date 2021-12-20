@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/setup-go@v2
+        with:
+          go-version: '^1.11'
+
       - uses: actions/checkout@v2
         with:
           ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -28,12 +32,16 @@ jobs:
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
 
-      - uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+      - run: go get github.com/muesli/markscribe
+
+      - run: markscribe -write README.md templates/README.md.tpl
+
+      # - uses: muesli/readme-scribe@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.PAT }}
+      #   with:
+      #     template: "templates/README.md.tpl"
+      #     writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
