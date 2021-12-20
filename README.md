@@ -21,6 +21,24 @@
 - [Add GitHub CI](https://github.com/laminas/laminas-session/pull/44) on [laminas/laminas-session](https://github.com/laminas/laminas-session) (6 months ago)
 - [Add GitHub CI](https://github.com/laminas/laminas-stdlib/pull/26) on [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) (6 months ago)
 
+#### 🔭 Latest releases I've contributed to
+
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 1 day ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
+- [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 2 days ago) - RBAC permission adapter for mezzio-authorization
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 3 days ago) - Paginate collections of data from arbitrary sources
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.15.0](https://github.com/laminas/laminas-view/releases/tag/2.15.0), 3 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
+- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 4 days ago) - Mezzio PSR-11 container configuration tests
+- [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 5 days ago) - Post/Redirect/Get plugin for laminas-mvc controllers
+- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 5 days ago) - Skeleton application for creating laminas-mvc based projects.
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 5 days ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), 6 days ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
+- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), 6 days ago) - Installer plugin for Laminas MVC Skeleton application
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), 1 week ago) - Migration and development tooling for Mezzio
+- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), 1 week ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
+- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), 1 week ago) - Manage trees of pointers to web pages in order to build navigation systems
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 1 week ago) - Tools to facilitate integration testing of laminas-mvc applications
+
 #### 👷 Check out what I'm currently working on
 
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
@@ -41,20 +59,3 @@
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions
 
-#### 🔭 Latest releases I've contributed to
-
-- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 1 day ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 2 days ago) - RBAC permission adapter for mezzio-authorization
-- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 3 days ago) - Paginate collections of data from arbitrary sources
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.15.0](https://github.com/laminas/laminas-view/releases/tag/2.15.0), 3 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
-- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 4 days ago) - Mezzio PSR-11 container configuration tests
-- [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 5 days ago) - Post/Redirect/Get plugin for laminas-mvc controllers
-- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 5 days ago) - Skeleton application for creating laminas-mvc based projects.
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 5 days ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), 6 days ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
-- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), 6 days ago) - Installer plugin for Laminas MVC Skeleton application
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), 1 week ago) - Migration and development tooling for Mezzio
-- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), 1 week ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
-- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), 1 week ago) - Manage trees of pointers to web pages in order to build navigation systems
-- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 1 week ago) - Tools to facilitate integration testing of laminas-mvc applications
