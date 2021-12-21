@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), today) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 2 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 3 days ago) - RBAC permission adapter for mezzio-authorization
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 4 days ago) - Paginate collections of data from arbitrary sources
@@ -37,7 +38,6 @@
 - [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), 1 week ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.1](https://github.com/laminas/laminas-navigation/releases/tag/2.13.1), 1 week ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.2.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.2.0), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) ([4.0.0](https://github.com/laminas/laminas-test/releases/tag/4.0.0), 1 week ago) - Tools to facilitate integration testing of laminas-mvc applications
 
 #### 👷 Check out what I'm currently working on
 
