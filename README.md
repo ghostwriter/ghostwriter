@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), today) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 1 day ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 1 day ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 3 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
@@ -37,7 +38,6 @@
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), 1 week ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), 1 week ago) - Installer plugin for Laminas MVC Skeleton application
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), 1 week ago) - Migration and development tooling for Mezzio
-- [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) ([1.8.0](https://github.com/laminas/laminas-config-aggregator-parameters/releases/tag/1.8.0), 1 week ago) - PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration
 
 #### 👷 Check out what I'm currently working on
 
