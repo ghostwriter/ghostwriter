@@ -5,7 +5,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (5 days ago)
+- [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (6 days ago)
 - [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (3 weeks ago)
 - [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (1 month ago)
 - [Make package exceptions `Throwable` ](https://github.com/laminas/laminas-recaptcha/pull/13) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (1 month ago)
@@ -23,12 +23,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), today) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 1 day ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 1 day ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 3 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
-- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 5 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 6 days ago) - RBAC permission adapter for mezzio-authorization
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), 1 day ago) - SPL extensions, array utilities, error handlers, and more
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 2 days ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 2 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
+- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 4 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
+- [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 6 days ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
+- [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 1 week ago) - RBAC permission adapter for mezzio-authorization
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 1 week ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.15.0](https://github.com/laminas/laminas-view/releases/tag/2.15.0), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 1 week ago) - Mezzio PSR-11 container configuration tests
@@ -41,7 +41,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (5 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (6 days ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (3 weeks ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (3 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
