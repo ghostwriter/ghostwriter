@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.7.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.7.0), today) - PSR-6 session persistence adapter for mezzio-session.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), 2 days ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 3 days ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 3 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
@@ -37,7 +38,6 @@
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), 1 week ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), 1 week ago) - Installer plugin for Laminas MVC Skeleton application
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.4.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.4.0), 1 week ago) - Migration and development tooling for Mezzio
 
 #### 👷 Check out what I'm currently working on
 
