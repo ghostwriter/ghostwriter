@@ -23,11 +23,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.7.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.7.0), today) - PSR-6 session persistence adapter for mezzio-session.
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), 2 days ago) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 3 days ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 3 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 5 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
+- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.7.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.7.0), 1 day ago) - PSR-6 session persistence adapter for mezzio-session.
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), 3 days ago) - SPL extensions, array utilities, error handlers, and more
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 4 days ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 4 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
+- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 6 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 1 week ago) - RBAC permission adapter for mezzio-authorization
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 1 week ago) - Paginate collections of data from arbitrary sources
@@ -42,7 +42,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
-- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (3 weeks ago)
+- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (4 weeks ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (4 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (1 month ago)
