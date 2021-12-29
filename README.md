@@ -23,8 +23,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.4](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.4), today) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.7.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.7.0), 3 days ago) - PSR-6 session persistence adapter for mezzio-session.
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), 5 days ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 6 days ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 6 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 1 week ago) - Alias legacy ZF class names to Laminas Project equivalents.
