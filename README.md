@@ -23,26 +23,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.7.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.7.0), 2 days ago) - PSR-6 session persistence adapter for mezzio-session.
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), 4 days ago) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 5 days ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 5 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
+- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.7.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.7.0), 3 days ago) - PSR-6 session persistence adapter for mezzio-session.
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.3](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.3), 5 days ago) - SPL extensions, array utilities, error handlers, and more
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 6 days ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 6 days ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 1 week ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 1 week ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 1 week ago) - RBAC permission adapter for mezzio-authorization
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 1 week ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.15.0](https://github.com/laminas/laminas-view/releases/tag/2.15.0), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 1 week ago) - Mezzio PSR-11 container configuration tests
-- [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 1 week ago) - Post/Redirect/Get plugin for laminas-mvc controllers
-- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 1 week ago) - Skeleton application for creating laminas-mvc based projects.
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 2 weeks ago) - Post/Redirect/Get plugin for laminas-mvc controllers
+- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 2 weeks ago) - Skeleton application for creating laminas-mvc based projects.
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 2 weeks ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), 2 weeks ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.4.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.4.0), 2 weeks ago) - Installer plugin for Laminas MVC Skeleton application
 
 #### 👷 Check out what I'm currently working on
 
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
-- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (4 weeks ago)
+- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (1 month ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (1 month ago)
