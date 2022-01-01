@@ -35,9 +35,9 @@
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 2 weeks ago) - RBAC permission adapter for mezzio-authorization
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 2 weeks ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 2 weeks ago) - Mezzio PSR-11 container configuration tests
+- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.4.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.4.0), 2 weeks ago) - laminas-view PhpRenderer integration for Mezzio
 - [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 2 weeks ago) - Post/Redirect/Get plugin for laminas-mvc controllers
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 2 weeks ago) - Skeleton application for creating laminas-mvc based projects.
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 2 weeks ago) - A set of components for performing diagnostic tests in PHP applications
 
 #### 👷 Check out what I'm currently working on
 
