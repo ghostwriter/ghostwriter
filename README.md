@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.0-candidate](https://github.com/ajthinking/archetype/releases/tag/v1.0.0-candidate), today) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.16.0](https://github.com/laminas/laminas-view/releases/tag/2.16.0), 2 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.1.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.1.0), 3 days ago) - A code generation tool for Laravel developers.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.4](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.4), 3 days ago) - SPL extensions, array utilities, error handlers, and more
@@ -37,7 +38,6 @@
 - [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 2 weeks ago) - Post/Redirect/Get plugin for laminas-mvc controllers
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 2 weeks ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.13.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.13.0), 2 weeks ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) ([2.2.0](https://github.com/laminas/laminas-mvc-middleware/releases/tag/2.2.0), 2 weeks ago) - Dispatch middleware pipelines in place of controllers in laminas-mvc.
 
 #### 👷 Check out what I'm currently working on
 
