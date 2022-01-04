@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.11.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.11.0), today) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.0-candidate](https://github.com/ajthinking/archetype/releases/tag/v1.0.0-candidate), 3 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.16.0](https://github.com/laminas/laminas-view/releases/tag/2.16.0), 5 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.1.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.1.0), 6 days ago) - A code generation tool for Laravel developers.
@@ -37,7 +38,6 @@
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 2 weeks ago) - Mezzio PSR-11 container configuration tests
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.4.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.4.0), 2 weeks ago) - laminas-view PhpRenderer integration for Mezzio
 - [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) ([1.5.0](https://github.com/laminas/laminas-mvc-plugin-prg/releases/tag/1.5.0), 2 weeks ago) - Post/Redirect/Get plugin for laminas-mvc controllers
-- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.3.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.3.0), 2 weeks ago) - Skeleton application for creating laminas-mvc based projects.
 
 #### 👷 Check out what I'm currently working on
 
