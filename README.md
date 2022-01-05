@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), today) - laminas-db adapters for laminas-paginator.
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), today) - PSR-15 Middleware Microframework
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.11.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.11.0), 1 day ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.0-candidate](https://github.com/ajthinking/archetype/releases/tag/v1.0.0-candidate), 4 days ago) - A Rapid Application Devlopment framework for PHP and Laravel
@@ -37,7 +38,6 @@
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 2 weeks ago) - RBAC permission adapter for mezzio-authorization
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.1](https://github.com/laminas/laminas-paginator/releases/tag/2.12.1), 2 weeks ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.5.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.5.0), 2 weeks ago) - Mezzio PSR-11 container configuration tests
-- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.4.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.4.0), 2 weeks ago) - laminas-view PhpRenderer integration for Mezzio
 
 #### 👷 Check out what I'm currently working on
 
