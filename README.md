@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), today) - Router subcomponent for Mezzio
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 1 day ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 1 day ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 1 day ago) - laminas-db adapters for laminas-paginator.
@@ -37,7 +38,6 @@
 - [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 2 weeks ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 2 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-code](https://github.com/laminas/laminas-code) ([4.5.1](https://github.com/laminas/laminas-code/releases/tag/4.5.1), 2 weeks ago) - Extensions to the PHP Reflection API, static code scanning, and code generation
-- [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.2.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.2.0), 2 weeks ago) - RBAC permission adapter for mezzio-authorization
 
 #### 👷 Check out what I'm currently working on
 
