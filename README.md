@@ -23,6 +23,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), today) - Authentication middleware for Mezzio and PSR-7 applications
+- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), today) - laminas-permissions-acl adapter for mezzio-authorization
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), today) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.3.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.3.0), today) - Authorization middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.3.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.3.0), today) - RBAC permission adapter for mezzio-authorization
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 1 day ago) - Router subcomponent for Mezzio
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 2 days ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
@@ -34,10 +38,6 @@
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.16.0](https://github.com/laminas/laminas-view/releases/tag/2.16.0), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.1.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.1.0), 1 week ago) - A code generation tool for Laravel developers.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.4](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.4), 1 week ago) - SPL extensions, array utilities, error handlers, and more
-- [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) ([1.7.0](https://github.com/mezzio/mezzio-session-cache/releases/tag/1.7.0), 1 week ago) - PSR-6 session persistence adapter for mezzio-session.
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.1](https://github.com/laminas/laminas-filter/releases/tag/2.13.1), 2 weeks ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) ([1.4.0](https://github.com/laminas/laminas-cli/releases/tag/1.4.0), 2 weeks ago) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.4.1](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.4.1), 2 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
 
 #### 👷 Check out what I'm currently working on
 
