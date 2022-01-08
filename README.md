@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.17.0](https://github.com/laminas/laminas-view/releases/tag/2.17.0), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 1 day ago) - Authentication middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 1 day ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 1 day ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
@@ -35,7 +36,6 @@
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), 3 days ago) - PSR-15 Middleware Microframework
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.11.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.11.0), 4 days ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.0-candidate](https://github.com/ajthinking/archetype/releases/tag/v1.0.0-candidate), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.16.0](https://github.com/laminas/laminas-view/releases/tag/2.16.0), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.1.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.1.0), 1 week ago) - A code generation tool for Laravel developers.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.4](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.4), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 
