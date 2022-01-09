@@ -23,9 +23,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.18.0](https://github.com/laminas/laminas-view/releases/tag/2.18.0), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.6.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.6.0), today) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.0](https://github.com/ajthinking/archetype/releases/tag/v1.0.0), today) - Edit PHP files programmatically
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.17.0](https://github.com/laminas/laminas-view/releases/tag/2.17.0), 1 day ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 2 days ago) - Authentication middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 2 days ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 2 days ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
