@@ -5,7 +5,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (2 weeks ago)
+- [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 weeks ago)
 - [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (1 month ago)
 - [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
 - [Make package exceptions `Throwable` ](https://github.com/laminas/laminas-recaptcha/pull/13) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
@@ -23,26 +23,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.17.0](https://github.com/laminas/laminas-view/releases/tag/2.17.0), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
-- [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 1 day ago) - Authentication middleware for Mezzio and PSR-7 applications
-- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 1 day ago) - laminas-permissions-acl adapter for mezzio-authorization
-- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 1 day ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
-- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.3.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.3.0), 1 day ago) - Authorization middleware for Mezzio and PSR-7 applications
-- [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.3.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.3.0), 1 day ago) - RBAC permission adapter for mezzio-authorization
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 2 days ago) - Router subcomponent for Mezzio
-- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 3 days ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
-- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 3 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 3 days ago) - laminas-db adapters for laminas-paginator.
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), 3 days ago) - PSR-15 Middleware Microframework
-- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.11.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.11.0), 4 days ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.17.0](https://github.com/laminas/laminas-view/releases/tag/2.17.0), 1 day ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
+- [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 2 days ago) - Authentication middleware for Mezzio and PSR-7 applications
+- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 2 days ago) - laminas-permissions-acl adapter for mezzio-authorization
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 2 days ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.3.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.3.0), 2 days ago) - Authorization middleware for Mezzio and PSR-7 applications
+- [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.3.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.3.0), 2 days ago) - RBAC permission adapter for mezzio-authorization
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 3 days ago) - Router subcomponent for Mezzio
+- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 4 days ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 4 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
+- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 4 days ago) - laminas-db adapters for laminas-paginator.
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), 4 days ago) - PSR-15 Middleware Microframework
+- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.11.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.11.0), 5 days ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.0-candidate](https://github.com/ajthinking/archetype/releases/tag/v1.0.0-candidate), 1 week ago) - A Rapid Application Devlopment framework for PHP and Laravel
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.1.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.1.0), 1 week ago) - A code generation tool for Laravel developers.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.6.4](https://github.com/laminas/laminas-stdlib/releases/tag/3.6.4), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 weeks ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (1 month ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
