@@ -23,6 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), today) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.0](https://github.com/laminas/laminas-view/releases/tag/2.19.0), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 1 day ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.0), 1 day ago) - SPL extensions, array utilities, error handlers, and more
@@ -37,7 +38,6 @@
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 6 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 6 days ago) - laminas-db adapters for laminas-paginator.
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), 6 days ago) - PSR-15 Middleware Microframework
-- [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) ([3.11.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.11.0), 1 week ago) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds!
 
 #### 👷 Check out what I'm currently working on
 
