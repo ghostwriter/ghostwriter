@@ -23,11 +23,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), today) - Edit PHP files programmatically
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), today) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.0](https://github.com/laminas/laminas-view/releases/tag/2.19.0), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 1 day ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.0), 1 day ago) - SPL extensions, array utilities, error handlers, and more
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.0](https://github.com/ajthinking/archetype/releases/tag/v1.0.0), 2 days ago) - Edit PHP files programmatically
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 4 days ago) - Authentication middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 4 days ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 4 days ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
