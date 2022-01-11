@@ -5,6 +5,8 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (today)
+- [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (today)
 - [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 weeks ago)
 - [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (1 month ago)
 - [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
@@ -18,8 +20,6 @@
 - [Add GitHub CI](https://github.com/laminas/laminas-ldap/pull/20) on [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) (7 months ago)
 - [Add GitHub CI](https://github.com/laminas/laminas-hydrator/pull/58) on [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) (7 months ago)
 - [Add GitHub CI](https://github.com/laminas/laminas-escaper/pull/18) on [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) (7 months ago)
-- [Add GitHub CI](https://github.com/laminas/laminas-session/pull/44) on [laminas/laminas-session](https://github.com/laminas/laminas-session) (7 months ago)
-- [Add GitHub CI](https://github.com/laminas/laminas-stdlib/pull/26) on [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
