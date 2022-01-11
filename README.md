@@ -5,6 +5,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (today)
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (today)
 - [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (today)
 - [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 weeks ago)
@@ -19,7 +20,6 @@
 - [Respect draft file column order](https://github.com/laravel-shift/blueprint/pull/487) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (5 months ago)
 - [Add GitHub CI](https://github.com/laminas/laminas-ldap/pull/20) on [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) (7 months ago)
 - [Add GitHub CI](https://github.com/laminas/laminas-hydrator/pull/58) on [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) (7 months ago)
-- [Add GitHub CI](https://github.com/laminas/laminas-escaper/pull/18) on [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) (7 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
