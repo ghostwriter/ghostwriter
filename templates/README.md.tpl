@@ -1,14 +1,12 @@
-# [![GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsors&style=flat-square&logo=GitHub%20Sponsors)](https://github.com/sponsors/ghostwriter)
+# [![ghostwriter's GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsors&style=flat-square&logo=GitHub%20Sponsors)](https://github.com/sponsors/ghostwriter)
 
 ![ghostwriter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333)
 
 > privacy is **not** a product.
 
-> all work **should** be credited.
+> all work **should** be compensated.
 
 > knowledge **should** be **freely** available to all who seek.
-
-> if the sheep see it so easily, the shepherd will heard them in the opposite direction …∆
 
 ---
 #### 🔨 My recent Pull Requests
