@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), today) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 1 day ago) - Edit PHP files programmatically
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 1 day ago) - Paginate collections of data from arbitrary sources
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.0](https://github.com/laminas/laminas-view/releases/tag/2.19.0), 1 day ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 2 days ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.0), 2 days ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 5 days ago) - Authentication middleware for Mezzio and PSR-7 applications
