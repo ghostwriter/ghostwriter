@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), today) - Authorization middleware for Mezzio and PSR-7 applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 2 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 3 days ago) - Edit PHP files programmatically
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 3 days ago) - Paginate collections of data from arbitrary sources
@@ -37,7 +38,6 @@
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 1 week ago) - Authentication middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 1 week ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 1 week ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
-- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.3.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.3.0), 1 week ago) - Authorization middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.3.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.3.0), 1 week ago) - RBAC permission adapter for mezzio-authorization
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 1 week ago) - Router subcomponent for Mezzio
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 1 week ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
