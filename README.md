@@ -11,10 +11,10 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)
-- [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)
-- [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)
-- [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 weeks ago)
+- [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)
+- [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)
+- [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)
+- [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (4 weeks ago)
 - [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (1 month ago)
 - [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
 - [Make package exceptions `Throwable` ](https://github.com/laminas/laminas-recaptcha/pull/13) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
@@ -29,12 +29,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 1 day ago) - Authorization middleware for Mezzio and PSR-7 applications
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 3 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 4 days ago) - Edit PHP files programmatically
-- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 4 days ago) - Paginate collections of data from arbitrary sources
-- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 5 days ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.0), 5 days ago) - SPL extensions, array utilities, error handlers, and more
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 2 days ago) - Authorization middleware for Mezzio and PSR-7 applications
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 4 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 5 days ago) - Edit PHP files programmatically
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 5 days ago) - Paginate collections of data from arbitrary sources
+- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 6 days ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.0), 6 days ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 1 week ago) - Authentication middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 1 week ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 1 week ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
@@ -47,9 +47,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 days ago)
-- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (4 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (4 days ago)
+- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (5 days ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (1 month ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
