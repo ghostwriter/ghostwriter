@@ -48,6 +48,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (1 day ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (6 days ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (1 week ago)
@@ -56,10 +57,10 @@
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (2 months ago)
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (4 months ago)
-- [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files (5 months ago)
 
 #### 🌱 My latest projects
 
+- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
