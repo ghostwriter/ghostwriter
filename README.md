@@ -11,7 +11,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (2 days ago)
+- [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (3 days ago)
 - [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 4 days ago) - Authorization middleware for Mezzio and PSR-7 applications
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 6 days ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 5 days ago) - Authorization middleware for Mezzio and PSR-7 applications
+- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 1 week ago) - Edit PHP files programmatically
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 1 week ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 1 week ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
@@ -40,17 +40,17 @@
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 1 week ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.3.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.3.0), 1 week ago) - RBAC permission adapter for mezzio-authorization
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 1 week ago) - Router subcomponent for Mezzio
-- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 1 week ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
-- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 1 week ago) - laminas-db adapters for laminas-paginator.
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), 1 week ago) - PSR-15 Middleware Microframework
+- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 2 weeks ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 2 weeks ago) - HTTP Basic Authentication adapter for mezzio-authentication.
+- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 2 weeks ago) - laminas-db adapters for laminas-paginator.
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), 2 weeks ago) - PSR-15 Middleware Microframework
 
 #### 👷 Check out what I'm currently working on
 
-- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (today)
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (6 days ago)
+- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (2 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (1 week ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (1 month ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
