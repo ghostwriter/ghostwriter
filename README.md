@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) ([1.11.5](https://github.com/laminas/laminas-ci-matrix-action/releases/tag/1.11.5), today) - GitHub Action for creating a CI job matrix.
 - [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 6 days ago) - Authorization middleware for Mezzio and PSR-7 applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 1 week ago) - Edit PHP files programmatically
@@ -43,11 +44,11 @@
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 2 weeks ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 2 weeks ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 2 weeks ago) - laminas-db adapters for laminas-paginator.
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.9.0](https://github.com/mezzio/mezzio/releases/tag/3.9.0), 2 weeks ago) - PSR-15 Middleware Microframework
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (1 day ago)
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (2 days ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (3 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
@@ -56,7 +57,6 @@
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 month ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (2 months ago)
-- [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions (4 months ago)
 
 #### 🌱 My latest projects
 
