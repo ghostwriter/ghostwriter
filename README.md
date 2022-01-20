@@ -11,8 +11,9 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Inline configuration](https://github.com/ghostwriter/blueprint/pull/1) on [ghostwriter/blueprint](https://github.com/ghostwriter/blueprint) (today)
-- [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (3 days ago)
+- [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 day ago)
+- [Inline configuration](https://github.com/ghostwriter/blueprint/pull/1) on [ghostwriter/blueprint](https://github.com/ghostwriter/blueprint) (1 day ago)
+- [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (4 days ago)
 - [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
@@ -25,11 +26,10 @@
 - [Drop `true/Punycode` in favor of `symfony/polyfill-intl-idn`](https://github.com/laminas/laminas-mail/pull/176) on [laminas/laminas-mail](https://github.com/laminas/laminas-mail) (2 months ago)
 - [tests](https://github.com/ghostwriter/laminas-mail/pull/1) on [ghostwriter/laminas-mail](https://github.com/ghostwriter/laminas-mail) (2 months ago)
 - [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (4 months ago)
-- [Respect draft file column order](https://github.com/laravel-shift/blueprint/pull/487) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 5 days ago) - Authorization middleware for Mezzio and PSR-7 applications
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 6 days ago) - Authorization middleware for Mezzio and PSR-7 applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 1 week ago) - Edit PHP files programmatically
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 1 week ago) - Paginate collections of data from arbitrary sources
@@ -39,7 +39,7 @@
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 1 week ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 1 week ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.3.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.3.0), 1 week ago) - RBAC permission adapter for mezzio-authorization
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 1 week ago) - Router subcomponent for Mezzio
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 2 weeks ago) - Router subcomponent for Mezzio
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 2 weeks ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 2 weeks ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 2 weeks ago) - laminas-db adapters for laminas-paginator.
@@ -47,9 +47,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (1 day ago)
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (2 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (2 days ago)
+- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (3 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (1 week ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (1 month ago)
@@ -65,4 +65,5 @@
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions
+- [ghostwriter/evm-stack](https://github.com/ghostwriter/evm-stack) - Stack implementation written in solidity.
 
