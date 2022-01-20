@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([2.7.9](https://github.com/laminas/laminas-stdlib/releases/tag/2.7.9), today) - SPL extensions, array utilities, error handlers, and more
 - [mockery/mockery](https://github.com/mockery/mockery) ([1.5.0](https://github.com/mockery/mockery/releases/tag/1.5.0), today) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) ([1.11.5](https://github.com/laminas/laminas-ci-matrix-action/releases/tag/1.11.5), today) - GitHub Action for creating a CI job matrix.
 - [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 6 days ago) - Authorization middleware for Mezzio and PSR-7 applications
@@ -36,7 +37,6 @@
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 1 week ago) - Edit PHP files programmatically
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 1 week ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 1 week ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.0), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 1 week ago) - Authentication middleware for Mezzio and PSR-7 applications
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 1 week ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 1 week ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
