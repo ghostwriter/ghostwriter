@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mockery/mockery](https://github.com/mockery/mockery) ([1.5.0](https://github.com/mockery/mockery/releases/tag/1.5.0), today) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) ([1.11.5](https://github.com/laminas/laminas-ci-matrix-action/releases/tag/1.11.5), today) - GitHub Action for creating a CI job matrix.
 - [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 6 days ago) - Authorization middleware for Mezzio and PSR-7 applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 1 week ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
@@ -43,7 +44,6 @@
 - [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 2 weeks ago) - Router subcomponent for Mezzio
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.0](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.0), 2 weeks ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.3.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.3.0), 2 weeks ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.1.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.1.0), 2 weeks ago) - laminas-db adapters for laminas-paginator.
 
 #### 👷 Check out what I'm currently working on
 
