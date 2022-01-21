@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.16.0](https://github.com/laminas/laminas-validator/releases/tag/2.16.0), today) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.0](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.0), 1 day ago) - Problem Details for PSR-7 HTTP APIs
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.5.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.5.0), 1 day ago) - Migration and development tooling for Mezzio
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([2.7.9](https://github.com/laminas/laminas-stdlib/releases/tag/2.7.9), 1 day ago) - SPL extensions, array utilities, error handlers, and more
@@ -43,7 +44,6 @@
 - [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 2 weeks ago) - laminas-permissions-acl adapter for mezzio-authorization
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.4.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.4.0), 2 weeks ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) ([1.3.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.3.0), 2 weeks ago) - RBAC permission adapter for mezzio-authorization
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) ([3.8.0](https://github.com/mezzio/mezzio-router/releases/tag/3.8.0), 2 weeks ago) - Router subcomponent for Mezzio
 
 #### 👷 Check out what I'm currently working on
 
