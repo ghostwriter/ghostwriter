@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.1.1](https://github.com/laminas/laminas-form/releases/tag/3.1.1), today) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 6 days ago) - FastRoute integration for Mezzio
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 6 days ago) - laminas-db adapters for laminas-paginator.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.1), 1 week ago) - SPL extensions, array utilities, error handlers, and more
@@ -43,7 +44,6 @@
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 2 weeks ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 2 weeks ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 - [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) ([1.4.0](https://github.com/mezzio/mezzio-authentication/releases/tag/1.4.0), 3 weeks ago) - Authentication middleware for Mezzio and PSR-7 applications
-- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) ([1.3.0](https://github.com/mezzio/mezzio-authorization-acl/releases/tag/1.3.0), 3 weeks ago) - laminas-permissions-acl adapter for mezzio-authorization
 
 #### 👷 Check out what I'm currently working on
 
