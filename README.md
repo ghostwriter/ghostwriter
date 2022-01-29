@@ -19,7 +19,7 @@
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)
 - [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)
 - [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 month ago)
-- [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (1 month ago)
+- [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (2 months ago)
 - [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
 - [Make package exceptions `Throwable` ](https://github.com/laminas/laminas-recaptcha/pull/13) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
 - [add continuous integration action](https://github.com/laminas/automatic-releases/pull/172) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (2 months ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.1.1](https://github.com/laminas/laminas-form/releases/tag/3.1.1), today) - Validate and display simple and complex forms, casting forms to business objects and vice versa
-- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 6 days ago) - FastRoute integration for Mezzio
-- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 6 days ago) - laminas-db adapters for laminas-paginator.
+- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.1.1](https://github.com/laminas/laminas-form/releases/tag/3.1.1), 1 day ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
+- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 1 week ago) - FastRoute integration for Mezzio
+- [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 1 week ago) - laminas-db adapters for laminas-paginator.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.1), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.16.0](https://github.com/laminas/laminas-validator/releases/tag/2.16.0), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.0](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.0), 1 week ago) - Problem Details for PSR-7 HTTP APIs
@@ -47,7 +47,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (1 week ago)
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (1 week ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (1 week ago)
