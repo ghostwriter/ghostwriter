@@ -15,9 +15,9 @@
 - [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 week ago)
 - [Inline configuration](https://github.com/ghostwriter/blueprint/pull/1) on [ghostwriter/blueprint](https://github.com/ghostwriter/blueprint) (1 week ago)
 - [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (2 weeks ago)
-- [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)
-- [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)
-- [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)
+- [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)
+- [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)
+- [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)
 - [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 month ago)
 - [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (2 months ago)
 - [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 months ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 2 days ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
-- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.1.1](https://github.com/laminas/laminas-form/releases/tag/3.1.1), 3 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
+- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 3 days ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
+- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.1.1](https://github.com/laminas/laminas-form/releases/tag/3.1.1), 4 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 1 week ago) - FastRoute integration for Mezzio
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 1 week ago) - laminas-db adapters for laminas-paginator.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.1), 1 week ago) - SPL extensions, array utilities, error handlers, and more
@@ -41,18 +41,18 @@
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) ([1.11.5](https://github.com/laminas/laminas-ci-matrix-action/releases/tag/1.11.5), 1 week ago) - GitHub Action for creating a CI job matrix.
 - [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 2 weeks ago) - Authorization middleware for Mezzio and PSR-7 applications
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 2 weeks ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
-- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 2 weeks ago) - Edit PHP files programmatically
-- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 2 weeks ago) - Paginate collections of data from arbitrary sources
+- [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 3 weeks ago) - Edit PHP files programmatically
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 3 weeks ago) - Paginate collections of data from arbitrary sources
 - [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 3 weeks ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (1 week ago)
-- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (1 week ago)
+- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (2 weeks ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (2 weeks ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
-- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (2 weeks ago)
+- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (3 weeks ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (2 months ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 months ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
