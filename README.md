@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), today) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.2](https://github.com/laminas/laminas-form/releases/tag/3.0.2), 2 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 5 days ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 1 week ago) - FastRoute integration for Mezzio
@@ -43,7 +44,6 @@
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 3 weeks ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 - [ajthinking/archetype](https://github.com/ajthinking/archetype) ([v1.0.1](https://github.com/ajthinking/archetype/releases/tag/v1.0.1), 3 weeks ago) - Edit PHP files programmatically
 - [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) ([2.12.2](https://github.com/laminas/laminas-paginator/releases/tag/2.12.2), 3 weeks ago) - Paginate collections of data from arbitrary sources
-- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) ([1.7.0](https://github.com/laminas/laminas-mvc-plugin-flashmessenger/releases/tag/1.7.0), 3 weeks ago) - Plugin for creating and exposing flash messages via laminas-mvc controllers
 
 #### 👷 Check out what I'm currently working on
 
