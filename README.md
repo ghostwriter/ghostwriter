@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.1](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.1), today) - Problem Details for PSR-7 HTTP APIs (RFC 7807)
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), today) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.2](https://github.com/laminas/laminas-form/releases/tag/3.0.2), 2 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 5 days ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
@@ -36,7 +37,6 @@
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 1 week ago) - laminas-db adapters for laminas-paginator.
 - [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.1), 1 week ago) - SPL extensions, array utilities, error handlers, and more
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.16.0](https://github.com/laminas/laminas-validator/releases/tag/2.16.0), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.0](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.0), 2 weeks ago) - Problem Details for PSR-7 HTTP APIs (RFC 7807)
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.5.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.5.0), 2 weeks ago) - Migration and development tooling for Mezzio
 - [mockery/mockery](https://github.com/mockery/mockery) ([1.5.0](https://github.com/mockery/mockery/releases/tag/1.5.0), 2 weeks ago) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) ([1.11.5](https://github.com/laminas/laminas-ci-matrix-action/releases/tag/1.11.5), 2 weeks ago) - GitHub Action for creating a CI job matrix.
