@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), today) - PSR-15 Middleware Microframework
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), today) - Create and update progress bars in different environments
 - [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 1 day ago) - Laminas Json-Server is a JSON-RPC server implementation.
 - [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.2](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.2), 2 days ago) - Problem Details for PSR-7 HTTP APIs addressing the RFC 7807 standard
@@ -43,7 +44,6 @@
 - [mockery/mockery](https://github.com/mockery/mockery) ([1.5.0](https://github.com/mockery/mockery/releases/tag/1.5.0), 2 weeks ago) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) ([1.11.5](https://github.com/laminas/laminas-ci-matrix-action/releases/tag/1.11.5), 2 weeks ago) - GitHub Action for creating a CI job matrix.
 - [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) ([1.4.0](https://github.com/mezzio/mezzio-authorization/releases/tag/1.4.0), 3 weeks ago) - Authorization middleware for Mezzio and PSR-7 applications
-- [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.19.1](https://github.com/laminas/laminas-view/releases/tag/2.19.1), 3 weeks ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
 
 #### 👷 Check out what I'm currently working on
 
