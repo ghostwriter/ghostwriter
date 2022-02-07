@@ -29,12 +29,12 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 1 day ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 1 day ago) - Create and update progress bars in different environments
-- [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 2 days ago) - Laminas Json-Server is a JSON-RPC server implementation.
-- [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.2](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.2), 3 days ago) - Problem Details for PSR-7 HTTP APIs addressing the RFC 7807 standard
-- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), 3 days ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
-- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.2](https://github.com/laminas/laminas-form/releases/tag/3.0.2), 5 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 2 days ago) - PSR-15 Middleware Microframework
+- [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 2 days ago) - Create and update progress bars in different environments
+- [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 3 days ago) - Laminas Json-Server is a JSON-RPC server implementation.
+- [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.2](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.2), 4 days ago) - Problem Details for PSR-7 HTTP APIs addressing the RFC 7807 standard
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), 4 days ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
+- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.2](https://github.com/laminas/laminas-form/releases/tag/3.0.2), 6 days ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 1 week ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 2 weeks ago) - FastRoute integration for Mezzio
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 2 weeks ago) - laminas-db adapters for laminas-paginator.
@@ -47,11 +47,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (4 days ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (2 weeks ago)
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (2 weeks ago)
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (2 weeks ago)
+- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (3 weeks ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (3 weeks ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (2 months ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 months ago)
