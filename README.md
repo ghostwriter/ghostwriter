@@ -47,8 +47,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 day ago)
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (5 days ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (2 weeks ago)
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (3 weeks ago)
