@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), today) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 1 day ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 3 days ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 3 days ago) - Create and update progress bars in different environments
@@ -43,10 +44,10 @@
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.16.0](https://github.com/laminas/laminas-validator/releases/tag/2.16.0), 2 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.5.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.5.0), 2 weeks ago) - Migration and development tooling for Mezzio
 - [mockery/mockery](https://github.com/mockery/mockery) ([1.5.0](https://github.com/mockery/mockery/releases/tag/1.5.0), 2 weeks ago) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).
-- [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) ([1.11.5](https://github.com/laminas/laminas-ci-matrix-action/releases/tag/1.11.5), 2 weeks ago) - GitHub Action for creating a CI job matrix.
 
 #### 👷 Check out what I'm currently working on
 
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 day ago)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (5 days ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (2 weeks ago)
@@ -55,7 +56,6 @@
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (4 weeks ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (2 months ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 months ago)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (3 months ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (3 months ago)
 
 #### 🌱 My latest projects
