@@ -29,26 +29,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.2.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.2.0), 1 day ago) - A code generation tool for Laravel developers.
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 2 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 3 days ago) - Programmatically filter and normalize data and files
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 5 days ago) - PSR-15 Middleware Microframework
-- [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 5 days ago) - Create and update progress bars in different environments
-- [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 6 days ago) - Laminas Json-Server is a JSON-RPC server implementation.
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.2.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.2.0), 2 days ago) - A code generation tool for Laravel developers.
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 3 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 4 days ago) - Programmatically filter and normalize data and files
+- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 6 days ago) - PSR-15 Middleware Microframework
+- [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 6 days ago) - Create and update progress bars in different environments
+- [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 1 week ago) - Laminas Json-Server is a JSON-RPC server implementation.
 - [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.2](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.2), 1 week ago) - Problem Details for PSR-7 HTTP APIs addressing the RFC 7807 standard
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), 1 week ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.2](https://github.com/laminas/laminas-form/releases/tag/3.0.2), 1 week ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 1 week ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 2 weeks ago) - FastRoute integration for Mezzio
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 2 weeks ago) - laminas-db adapters for laminas-paginator.
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.1), 2 weeks ago) - SPL extensions, array utilities, error handlers, and more
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.16.0](https://github.com/laminas/laminas-validator/releases/tag/2.16.0), 2 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
+- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.1), 3 weeks ago) - SPL extensions, array utilities, error handlers, and more
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.16.0](https://github.com/laminas/laminas-validator/releases/tag/2.16.0), 3 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) ([2.5.0](https://github.com/mezzio/mezzio-tooling/releases/tag/2.5.0), 3 weeks ago) - Migration and development tooling for Mezzio
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (3 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (4 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (3 weeks ago)
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (3 weeks ago)
