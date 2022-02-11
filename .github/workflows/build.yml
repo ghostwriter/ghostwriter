@@ -5,8 +5,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "0 */1 * * *"
-
+    - cron: "5 * * * *"
 jobs:
   markscribe:
     runs-on: ubuntu-latest
@@ -37,13 +36,6 @@ jobs:
       - run: markscribe -write README.md templates/README.md.tpl
         env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
-
-      # - uses: muesli/readme-scribe@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.PAT }}
-      #   with:
-      #     template: "templates/README.md.tpl"
-      #     writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
