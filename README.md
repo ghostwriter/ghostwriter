@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.2.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.2.0), 3 days ago) - A code generation tool for Laravel developers.
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), today) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 4 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 5 days ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 1 week ago) - PSR-15 Middleware Microframework
