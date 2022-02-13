@@ -14,7 +14,6 @@
 - [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (today)
 - [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (3 weeks ago)
 - [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (3 weeks ago)
-- [Inline configuration](https://github.com/ghostwriter/blueprint/pull/1) on [ghostwriter/blueprint](https://github.com/ghostwriter/blueprint) (3 weeks ago)
 - [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (4 weeks ago)
 - [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
@@ -26,6 +25,7 @@
 - [add continuous integration action](https://github.com/laminas/automatic-releases/pull/172) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
 - [add laminas coding standard](https://github.com/laminas/automatic-releases/pull/171) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
 - [Drop `true/Punycode` in favor of `symfony/polyfill-intl-idn`](https://github.com/laminas/laminas-mail/pull/176) on [laminas/laminas-mail](https://github.com/laminas/laminas-mail) (3 months ago)
+- [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
