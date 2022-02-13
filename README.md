@@ -25,7 +25,7 @@
 - [add continuous integration action](https://github.com/laminas/automatic-releases/pull/172) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
 - [add laminas coding standard](https://github.com/laminas/automatic-releases/pull/171) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
 - [Drop `true/Punycode` in favor of `symfony/polyfill-intl-idn`](https://github.com/laminas/laminas-mail/pull/176) on [laminas/laminas-mail](https://github.com/laminas/laminas-mail) (3 months ago)
-- [tests](https://github.com/ghostwriter/laminas-mail/pull/1) on [ghostwriter/laminas-mail](https://github.com/ghostwriter/laminas-mail) (3 months ago)
+- [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
