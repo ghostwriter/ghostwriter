@@ -4,7 +4,7 @@
 
 > privacy is **not** a product.
 
-> all work **should** be compensated.
+> all work **should** be attributed and or compensated.
 
 > knowledge **should** be **freely** available to all who seek.
 
