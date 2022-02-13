@@ -14,7 +14,7 @@
 - [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (3 weeks ago)
 - [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (3 weeks ago)
 - [Inline configuration](https://github.com/ghostwriter/blueprint/pull/1) on [ghostwriter/blueprint](https://github.com/ghostwriter/blueprint) (3 weeks ago)
-- [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (3 weeks ago)
+- [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (4 weeks ago)
 - [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 - [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), today) - A code generation tool for Laravel developers.
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 4 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 5 days ago) - Programmatically filter and normalize data and files
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 day ago) - A code generation tool for Laravel developers.
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 5 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 6 days ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 1 week ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 1 week ago) - Create and update progress bars in different environments
 - [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 1 week ago) - Laminas Json-Server is a JSON-RPC server implementation.
@@ -47,8 +47,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (5 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (6 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (3 weeks ago)
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (3 weeks ago)
