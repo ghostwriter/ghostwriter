@@ -11,7 +11,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (today)
+- [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (1 day ago)
 - [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (3 weeks ago)
 - [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (3 weeks ago)
 - [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (4 weeks ago)
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 day ago) - A code generation tool for Laravel developers.
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 5 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 6 days ago) - Programmatically filter and normalize data and files
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 2 days ago) - A code generation tool for Laravel developers.
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 6 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 1 week ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 1 week ago) - PSR-15 Middleware Microframework
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 1 week ago) - Create and update progress bars in different environments
 - [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 1 week ago) - Laminas Json-Server is a JSON-RPC server implementation.
@@ -47,12 +47,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (6 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (3 weeks ago)
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (3 weeks ago)
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (3 weeks ago)
+- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (4 weeks ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (1 month ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (2 months ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 months ago)
