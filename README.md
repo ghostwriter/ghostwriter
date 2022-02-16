@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), today) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 1 day ago) - Object-oriented interface to PHP sessions and storage
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 1 day ago) - Locate PHP classfiles
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 4 days ago) - A code generation tool for Laravel developers.
@@ -43,7 +44,6 @@
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 2 weeks ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 - [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 3 weeks ago) - FastRoute integration for Mezzio
 - [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) ([1.2.0](https://github.com/laminas/laminas-paginator-adapter-laminasdb/releases/tag/1.2.0), 3 weeks ago) - laminas-db adapters for laminas-paginator.
-- [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) ([3.7.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.7.1), 3 weeks ago) - SPL extensions, array utilities, error handlers, and more
 
 #### 👷 Check out what I'm currently working on
 
