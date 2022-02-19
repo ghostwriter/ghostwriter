@@ -48,7 +48,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Manage composer.lock files (1 day ago)
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 day ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (1 month ago)
@@ -60,7 +60,7 @@
 
 #### 🌱 My latest projects
 
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Manage composer.lock files
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
