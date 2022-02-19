@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), today) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 1 day ago) - 
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 3 days ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 4 days ago) - Object-oriented interface to PHP sessions and storage
@@ -43,12 +44,11 @@
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), 2 weeks ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 - [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.2](https://github.com/laminas/laminas-form/releases/tag/3.0.2), 2 weeks ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
 - [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 3 weeks ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
-- [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) ([3.5.0](https://github.com/mezzio/mezzio-fastroute/releases/tag/3.5.0), 4 weeks ago) - FastRoute integration for Mezzio
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 day ago)
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (today)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (1 month ago)
