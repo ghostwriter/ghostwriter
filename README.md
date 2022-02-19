@@ -11,6 +11,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Initial release](https://github.com/ghostwriter/composer-lock/pull/1) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
 - [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (6 days ago)
 - [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (1 month ago)
 - [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 month ago)
@@ -25,7 +26,6 @@
 - [add continuous integration action](https://github.com/laminas/automatic-releases/pull/172) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
 - [add laminas coding standard](https://github.com/laminas/automatic-releases/pull/171) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
 - [Drop `true/Punycode` in favor of `symfony/polyfill-intl-idn`](https://github.com/laminas/laminas-mail/pull/176) on [laminas/laminas-mail](https://github.com/laminas/laminas-mail) (3 months ago)
-- [Override default call count expectations via `expects()`](https://github.com/mockery/mockery/pull/1146) on [mockery/mockery](https://github.com/mockery/mockery) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
