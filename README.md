@@ -11,21 +11,21 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authorization/pull/15) on [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-laminasauthentication/pull/15) on [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-csrf/pull/13) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-fastroute/pull/17) on [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-session/pull/19) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication/pull/19) on [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-basic/pull/16) on [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-helpers/pull/20) on [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/repo-template/pull/12) on [mezzio/repo-template](https://github.com/mezzio/repo-template) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-session/pull/29) on [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) (today)
-- [Initial release](https://github.com/ghostwriter/composer-lock/pull/1) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
-- [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (1 week ago)
-- [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (1 month ago)
-- [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 month ago)
-- [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (1 month ago)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-middleware/pull/24) on [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-pimple-config/pull/16) on [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-validator/pull/119) on [laminas/laminas-validator](https://github.com/laminas/laminas-validator) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-laminasrouter/pull/14) on [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-flash/pull/17) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-tooling/pull/24) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authorization-acl/pull/17) on [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-session-cache/pull/23) on [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-problem-details/pull/27) on [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-migration/pull/14) on [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-platesrenderer/pull/12) on [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-session-ext/pull/29) on [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-aurarouter/pull/14) on [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-hal/pull/52) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio/pull/111) on [mezzio/mezzio](https://github.com/mezzio/mezzio) (today)
 
 #### 🔭 Latest releases I've contributed to
 
