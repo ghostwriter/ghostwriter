@@ -11,8 +11,8 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Initial release](https://github.com/ghostwriter/composer-lock/pull/1) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
-- [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (6 days ago)
+- [Initial release](https://github.com/ghostwriter/composer-lock/pull/1) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
+- [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (1 week ago)
 - [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (1 month ago)
 - [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 month ago)
 - [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (1 month ago)
@@ -29,11 +29,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), today) - Bumps composer.lock file, optionally lock the minimum supported PHP version
-- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 1 day ago) - 
-- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 3 days ago) - Manage trees of pointers to web pages in order to build navigation systems
-- [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 4 days ago) - Object-oriented interface to PHP sessions and storage
-- [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 4 days ago) - Locate PHP classfiles
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 1 day ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 2 days ago) - 
+- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 4 days ago) - Manage trees of pointers to web pages in order to build navigation systems
+- [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 5 days ago) - Object-oriented interface to PHP sessions and storage
+- [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 5 days ago) - Locate PHP classfiles
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 week ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 1 week ago) - Programmatically filter and normalize data and files
@@ -47,8 +47,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (today)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 day ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (1 month ago)
