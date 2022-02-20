@@ -11,6 +11,12 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-session/pull/19) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication/pull/19) on [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-basic/pull/16) on [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-helpers/pull/20) on [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/repo-template/pull/12) on [mezzio/repo-template](https://github.com/mezzio/repo-template) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-session/pull/29) on [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) (today)
 - [Initial release](https://github.com/ghostwriter/composer-lock/pull/1) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
 - [Publish Docker image when a new release is published on GitHub](https://github.com/perftools/xhgui/pull/465) on [perftools/xhgui](https://github.com/perftools/xhgui) (1 week ago)
 - [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (1 month ago)
@@ -20,12 +26,6 @@
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 - [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 - [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (2 months ago)
-- [Psalm integration](https://github.com/laminas/laminas-skeleton-installer/pull/24) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (2 months ago)
-- [Resolve markdownlint errors](https://github.com/laminas/laminas-recaptcha/pull/14) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (3 months ago)
-- [Make package exceptions `Throwable` ](https://github.com/laminas/laminas-recaptcha/pull/13) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (3 months ago)
-- [add continuous integration action](https://github.com/laminas/automatic-releases/pull/172) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
-- [add laminas coding standard](https://github.com/laminas/automatic-releases/pull/171) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 months ago)
-- [Drop `true/Punycode` in favor of `symfony/polyfill-intl-idn`](https://github.com/laminas/laminas-mail/pull/176) on [laminas/laminas-mail](https://github.com/laminas/laminas-mail) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
