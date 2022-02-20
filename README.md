@@ -11,6 +11,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-progressbar/pull/12) on [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-middleware/pull/24) on [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-pimple-config/pull/16) on [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-validator/pull/119) on [laminas/laminas-validator](https://github.com/laminas/laminas-validator) (today)
@@ -25,7 +26,6 @@
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-session-ext/pull/29) on [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-aurarouter/pull/14) on [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-hal/pull/52) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio/pull/111) on [mezzio/mezzio](https://github.com/mezzio/mezzio) (today)
 
 #### 🔭 Latest releases I've contributed to
 
