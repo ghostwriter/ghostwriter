@@ -11,6 +11,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-fastroute/pull/17) on [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-session/pull/19) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication/pull/19) on [mezzio/mezzio-authentication](https://github.com/mezzio/mezzio-authentication) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-basic/pull/16) on [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) (today)
@@ -25,7 +26,6 @@
 - [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 - [Mock methods with `static` return types](https://github.com/mockery/mockery/pull/1157) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 - [Mock methods with `mixed` return type](https://github.com/mockery/mockery/pull/1156) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
-- [Feature: Twitter release announcement](https://github.com/laminas/automatic-releases/pull/174) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
