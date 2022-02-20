@@ -11,6 +11,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authorization/pull/15) on [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-authentication-laminasauthentication/pull/15) on [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-csrf/pull/13) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (today)
 - [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-fastroute/pull/17) on [mezzio/mezzio-fastroute](https://github.com/mezzio/mezzio-fastroute) (today)
@@ -25,7 +26,6 @@
 - [Normalize composer version range](https://github.com/laminas/laminas-ci-matrix-action/pull/74) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (1 month ago)
 - [Feature: Inline configuration ](https://github.com/laravel-shift/blueprint/pull/536) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 month ago)
 - [Run tests on pull request](https://github.com/perftools/xhgui/pull/446) on [perftools/xhgui](https://github.com/perftools/xhgui) (1 month ago)
-- [Mock classes with `new` in initializers on PHP 8.1](https://github.com/mockery/mockery/pull/1160) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
