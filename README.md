@@ -11,21 +11,21 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-form/pull/168) on [laminas/laminas-form](https://github.com/laminas/laminas-form) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-oauth/pull/15) on [laminas/laminas-oauth](https://github.com/laminas/laminas-oauth) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-developer-tools/pull/45) on [laminas/laminas-developer-tools](https://github.com/laminas/laminas-developer-tools) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-authentication/pull/30) on [laminas/laminas-authentication](https://github.com/laminas/laminas-authentication) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-filter/pull/49) on [laminas/laminas-filter](https://github.com/laminas/laminas-filter) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-xmlrpc/pull/22) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-template/pull/6) on [laminas/laminas-cache-storage-adapter-template](https://github.com/laminas/laminas-cache-storage-adapter-template) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-development-mode/pull/17) on [laminas/laminas-development-mode](https://github.com/laminas/laminas-development-mode) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-permissions-acl/pull/29) on [laminas/laminas-permissions-acl](https://github.com/laminas/laminas-permissions-acl) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-coding-standard/pull/69) on [laminas/laminas-coding-standard](https://github.com/laminas/laminas-coding-standard) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-inputfilter/pull/50) on [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc/pull/104) on [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-composer-autoloading/pull/13) on [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-servicemanager-migration/pull/60) on [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-stratigility/pull/24) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/pull/15) on [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-diagnostics/pull/36) on [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-twitter/pull/24) on [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-plugin-prg/pull/15) on [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-paginator/pull/40) on [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-config-aggregator/pull/20) on [laminas/laminas-config-aggregator](https://github.com/laminas/laminas-config-aggregator) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-code/pull/128) on [laminas/laminas-code](https://github.com/laminas/laminas-code) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-diactoros/pull/80) on [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-stdlib/pull/56) on [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-plugin-identity/pull/10) on [laminas/laminas-mvc-plugin-identity](https://github.com/laminas/laminas-mvc-plugin-identity) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-filesystem/pull/41) on [laminas/laminas-cache-storage-adapter-filesystem](https://github.com/laminas/laminas-cache-storage-adapter-filesystem) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-benchmark/pull/2) on [laminas/laminas-cache-storage-adapter-benchmark](https://github.com/laminas/laminas-cache-storage-adapter-benchmark) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-db/pull/239) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-migration/pull/64) on [laminas/laminas-migration](https://github.com/laminas/laminas-migration) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mail/pull/181) on [laminas/laminas-mail](https://github.com/laminas/laminas-mail) (today)
 
 #### 🔭 Latest releases I've contributed to
 
