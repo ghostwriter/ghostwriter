@@ -11,21 +11,21 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-httphandlerrunner/pull/27) on [laminas/laminas-httphandlerrunner](https://github.com/laminas/laminas-httphandlerrunner) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-blackhole/pull/37) on [laminas/laminas-cache-storage-adapter-blackhole](https://github.com/laminas/laminas-cache-storage-adapter-blackhole) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas.dev/pull/9) on [laminas/laminas.dev](https://github.com/laminas/laminas.dev) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-session/pull/51) on [laminas/laminas-session](https://github.com/laminas/laminas-session) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-permissions-rbac/pull/28) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (today)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-auradi-config/pull/14) on [laminas/laminas-auradi-config](https://github.com/laminas/laminas-auradi-config) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-i18n-resources/pull/23) on [laminas/laminas-i18n-resources](https://github.com/laminas/laminas-i18n-resources) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-redis/pull/27) on [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/automatic-releases/pull/178) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-progressbar/pull/12) on [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-middleware/pull/24) on [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-pimple-config/pull/16) on [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-validator/pull/119) on [laminas/laminas-validator](https://github.com/laminas/laminas-validator) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-laminasrouter/pull/14) on [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) (1 day ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/mezzio/mezzio-flash/pull/17) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (1 day ago)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-stratigility/pull/24) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-navigation/pull/32) on [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-zend-server/pull/5) on [laminas/laminas-cache-storage-adapter-zend-server](https://github.com/laminas/laminas-cache-storage-adapter-zend-server) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-psr7bridge/pull/19) on [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-paginator-adapter-laminasdb/pull/11) on [laminas/laminas-paginator-adapter-laminasdb](https://github.com/laminas/laminas-paginator-adapter-laminasdb) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-memcached/pull/21) on [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-i18n/pull/70) on [laminas/laminas-i18n](https://github.com/laminas/laminas-i18n) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/getlaminas.org/pull/88) on [laminas/getlaminas.org](https://github.com/laminas/getlaminas.org) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-component-installer/pull/45) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-di/pull/37) on [laminas/laminas-di](https://github.com/laminas/laminas-di) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-json-server/pull/22) on [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-container-config-test/pull/13) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-skeleton-installer/pull/29) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-hydrator/pull/85) on [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) (today)
+- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-view/pull/144) on [laminas/laminas-view](https://github.com/laminas/laminas-view) (today)
 
 #### 🔭 Latest releases I've contributed to
 
