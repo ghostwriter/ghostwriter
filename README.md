@@ -47,16 +47,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (today)
 - [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files (today)
-- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (today)
-- [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) - OOP wrapper for the Twitter web service (today)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) - Aura.Router integration for Mezzio (1 day ago)
-- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) - Manage trees of pointers to web pages in order to build navigation systems (1 day ago)
-- [laminas/repo-template](https://github.com/laminas/repo-template) - Template repository for new Laminas components (1 day ago)
-- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications. (1 day ago)
+- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (today)
+- [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) - OOP wrapper for the Twitter web service (today)
+- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (today)
+- [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) - CORS component for Mezzio and other PSR-15 middleware runners. (1 day ago)
 - [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) - PSR-11 Pimple container configurator for Laminas and Mezzio applications (1 day ago)
+- [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) - Fully-featured XML-RPC server and client implementations (1 day ago)
+- [laminas/repo-template](https://github.com/laminas/repo-template) - Template repository for new Laminas components (1 day ago)
+- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers (1 day ago)
 
 #### 🌱 My latest projects
 
