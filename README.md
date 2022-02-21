@@ -47,16 +47,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (today)
+- [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files (today)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (today)
-- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (today)
-- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) - Authorization middleware for Mezzio and PSR-7 applications (1 day ago)
 - [laminas/repo-template](https://github.com/laminas/repo-template) - Template repository for new Laminas components (1 day ago)
 - [mezzio/repo-template](https://github.com/mezzio/repo-template) - Repository template for new Mezzio components (1 day ago)
+- [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) - Aura.Router integration for Mezzio (1 day ago)
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications. (1 day ago)
 - [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) - PSR-11 Pimple container configurator for Laminas and Mezzio applications (1 day ago)
 - [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) - CORS component for Mezzio and other PSR-15 middleware runners. (1 day ago)
-- [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) - Aura.Router integration for Mezzio (1 day ago)
 
 #### 🌱 My latest projects
 
