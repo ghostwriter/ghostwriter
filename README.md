@@ -34,6 +34,7 @@
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.2.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.2.0), 4 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 5 days ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 6 days ago) - Object-oriented interface to PHP sessions and storage
+- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ([4.2.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.2.0), 6 days ago) - Swoole support for Mezzio
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 6 days ago) - Locate PHP classfiles
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 week ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
@@ -43,20 +44,19 @@
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 2 weeks ago) - Create and update progress bars in different environments
 - [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 2 weeks ago) - Laminas Json-Server is a JSON-RPC server implementation.
 - [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.2](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.2), 2 weeks ago) - Problem Details for PSR-7 HTTP APIs addressing the RFC 7807 standard
-- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), 2 weeks ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. (1 day ago)
-- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session (1 day ago)
-- [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) - Aura.Router integration for Mezzio (1 day ago)
-- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) - Manage trees of pointers to web pages in order to build navigation systems (1 day ago)
+- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (today)
+- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (today)
+- [mezzio/mezzio-authorization](https://github.com/mezzio/mezzio-authorization) - Authorization middleware for Mezzio and PSR-7 applications (1 day ago)
+- [laminas/repo-template](https://github.com/laminas/repo-template) - Template repository for new Laminas components (1 day ago)
 - [mezzio/repo-template](https://github.com/mezzio/repo-template) - Repository template for new Mezzio components (1 day ago)
-- [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) - PSR-11 Pimple container configurator for Laminas and Mezzio applications (1 day ago)
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications. (1 day ago)
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (2 days ago)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 weeks ago)
+- [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) - PSR-11 Pimple container configurator for Laminas and Mezzio applications (1 day ago)
+- [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) - CORS component for Mezzio and other PSR-15 middleware runners. (1 day ago)
+- [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) - Aura.Router integration for Mezzio (1 day ago)
 
 #### 🌱 My latest projects
 
