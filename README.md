@@ -31,6 +31,7 @@
 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 2 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 3 days ago) - 
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.2.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.2.0), 4 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 5 days ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 6 days ago) - Object-oriented interface to PHP sessions and storage
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 6 days ago) - Locate PHP classfiles
@@ -38,25 +39,24 @@
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 2 weeks ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 2 weeks ago) - PSR-15 Middleware Microframework
+- [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) ([3.3.0](https://github.com/mezzio/mezzio-aurarouter/releases/tag/3.3.0), 2 weeks ago) - Aura.Router integration for Mezzio
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 2 weeks ago) - Create and update progress bars in different environments
 - [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 2 weeks ago) - Laminas Json-Server is a JSON-RPC server implementation.
 - [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.2](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.2), 2 weeks ago) - Problem Details for PSR-7 HTTP APIs addressing the RFC 7807 standard
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.5.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.5.0), 2 weeks ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
-- [laminas/laminas-form](https://github.com/laminas/laminas-form) ([3.0.2](https://github.com/laminas/laminas-form/releases/tag/3.0.2), 2 weeks ago) - Validate and display simple and complex forms, casting forms to business objects and vice versa
-- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) ([1.3.1](https://github.com/laminas/laminas-mvc-plugin-fileprg/releases/tag/1.3.1), 3 weeks ago) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. (1 day ago)
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session (1 day ago)
+- [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) - Aura.Router integration for Mezzio (1 day ago)
+- [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) - Manage trees of pointers to web pages in order to build navigation systems (1 day ago)
+- [mezzio/repo-template](https://github.com/mezzio/repo-template) - Repository template for new Mezzio components (1 day ago)
+- [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) - PSR-11 Pimple container configurator for Laminas and Mezzio applications (1 day ago)
+- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications. (1 day ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (2 days ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 weeks ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
-- [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) - GitHub Action for creating a CI job matrix. (1 month ago)
-- [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources (1 month ago)
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (1 month ago)
-- [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (1 month ago)
-- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (2 months ago)
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 months ago)
 
 #### 🌱 My latest projects
 
