@@ -48,15 +48,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (1 day ago)
+- [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) - Helper/Utility classes for Mezzio (today)
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) - Tools to facilitate integration testing of laminas-mvc applications (today)
 - [laminas/laminas-auradi-config](https://github.com/laminas/laminas-auradi-config) - PSR-11 Aura.DI container configurator for Laminas and Mezzio applications (1 day ago)
-- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (1 day ago)
+- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (1 day ago)
 - [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) - OOP wrapper for the Twitter web service (1 day ago)
+- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (1 day ago)
 - [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files (1 day ago)
+- [laminas/laminas-mvc-plugin-fileprg](https://github.com/laminas/laminas-mvc-plugin-fileprg) - Post/Redirect/Get plugin with file upload handling for laminas-mvc controllers (2 days ago)
 - [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) - CORS component for Mezzio and other PSR-15 middleware runners. (2 days ago)
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. (2 days ago)
-- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications. (2 days ago)
-- [laminas/laminas-pimple-config](https://github.com/laminas/laminas-pimple-config) - PSR-11 Pimple container configurator for Laminas and Mezzio applications (2 days ago)
 
 #### 🌱 My latest projects
 
