@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.5.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.5.0), today) - Installer plugin for Laminas MVC Skeleton application
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 3 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 4 days ago) - 
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.2.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.2.0), 5 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
@@ -43,7 +44,6 @@
 - [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) ([3.3.0](https://github.com/mezzio/mezzio-aurarouter/releases/tag/3.3.0), 2 weeks ago) - Aura.Router integration for Mezzio
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 2 weeks ago) - Create and update progress bars in different environments
 - [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) ([3.5.0](https://github.com/laminas/laminas-json-server/releases/tag/3.5.0), 2 weeks ago) - Laminas Json-Server is a JSON-RPC server implementation.
-- [mezzio/mezzio-problem-details](https://github.com/mezzio/mezzio-problem-details) ([1.6.2](https://github.com/mezzio/mezzio-problem-details/releases/tag/1.6.2), 2 weeks ago) - Problem Details for PSR-7 HTTP APIs addressing the RFC 7807 standard
 
 #### 👷 Check out what I'm currently working on
 
