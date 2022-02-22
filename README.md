@@ -47,10 +47,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files (1 day ago)
 - [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (1 day ago)
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (1 day ago)
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) - OOP wrapper for the Twitter web service (1 day ago)
 - [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) - Fully-featured XML-RPC server and client implementations (2 days ago)
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications. (2 days ago)
