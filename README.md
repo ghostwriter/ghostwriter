@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), today) - Programmatically filter and normalize data and files
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), today) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.5.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.5.0), today) - Installer plugin for Laminas MVC Skeleton application
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 3 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
@@ -40,7 +41,6 @@
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 1 week ago) - Locate PHP classfiles
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 week ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 2 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.13.2](https://github.com/laminas/laminas-filter/releases/tag/2.13.2), 2 weeks ago) - Programmatically filter and normalize data and files
 - [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 2 weeks ago) - PSR-15 Middleware Microframework
 - [mezzio/mezzio-aurarouter](https://github.com/mezzio/mezzio-aurarouter) ([3.3.0](https://github.com/mezzio/mezzio-aurarouter/releases/tag/3.3.0), 2 weeks ago) - Aura.Router integration for Mezzio
 - [laminas/laminas-progressbar](https://github.com/laminas/laminas-progressbar) ([2.10.0](https://github.com/laminas/laminas-progressbar/releases/tag/2.10.0), 2 weeks ago) - Create and update progress bars in different environments
@@ -48,15 +48,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [laminas/laminas-test](https://github.com/laminas/laminas-test) - Tools to facilitate integration testing of laminas-mvc applications (today)
 - [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) - Helper/Utility classes for Mezzio (today)
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) - Alias legacy ZF class names to Laminas Project equivalents. (today)
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) - Tools to facilitate integration testing of laminas-mvc applications (today)
-- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (1 day ago)
-- [laminas/laminas-auradi-config](https://github.com/laminas/laminas-auradi-config) - PSR-11 Aura.DI container configurator for Laminas and Mezzio applications (1 day ago)
-- [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) - OOP wrapper for the Twitter web service (1 day ago)
-- [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files (1 day ago)
+- [laminas/laminas-feed](https://github.com/laminas/laminas-feed) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub. (today)
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (today)
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) - Programmatically filter and normalize data and files (today)
 - [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (1 day ago)
-- [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) - Fully-featured XML-RPC server and client implementations (2 days ago)
+- [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) - Normalize and validate input sets from the web, APIs, the CLI, and more, including files (1 day ago)
+- [laminas/laminas-auradi-config](https://github.com/laminas/laminas-auradi-config) - PSR-11 Aura.DI container configurator for Laminas and Mezzio applications (1 day ago)
 
 #### 🌱 My latest projects
 
