@@ -47,16 +47,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) - Router subcomponent for Mezzio (today)
-- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) - Twig integration for Mezzio (today)
 - [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) - Session container and middleware for PSR-7 applications (today)
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) - Router subcomponent for Mezzio (today)
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (today)
+- [laminas/laminas-config-aggregator](https://github.com/laminas/laminas-config-aggregator) - Lightweight library for collecting and merging configuration from different sources (today)
+- [laminas/laminas-cache-storage-adapter-session](https://github.com/laminas/laminas-cache-storage-adapter-session) -  (today)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (today)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [laminas/laminas-router](https://github.com/laminas/laminas-router) - Flexible routing system for HTTP and console applications (today)
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) - Twig integration for Mezzio (today)
 - [laminas/laminas-migration](https://github.com/laminas/laminas-migration) - Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. (today)
-- [laminas/laminas-test](https://github.com/laminas/laminas-test) - Tools to facilitate integration testing of laminas-mvc applications (1 day ago)
-- [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) - Helper/Utility classes for Mezzio (1 day ago)
 
 #### 🌱 My latest projects
 
