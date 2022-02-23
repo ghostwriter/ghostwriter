@@ -47,16 +47,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) - Router subcomponent for Mezzio (today)
 - [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) - Twig integration for Mezzio (today)
+- [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) - Session container and middleware for PSR-7 applications (today)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [laminas/laminas-feed](https://github.com/laminas/laminas-feed) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub. (1 day ago)
-- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) - Paginate collections of data from arbitrary sources (1 day ago)
-- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications (1 day ago)
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria (1 day ago)
+- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (today)
+- [laminas/laminas-form](https://github.com/laminas/laminas-form) - Validate and display simple and complex forms, casting forms to business objects and vice versa (1 day ago)
 - [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
-- [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) - Helper/Utility classes for Mezzio (1 day ago)
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) - Factory-Driven Dependency Injection Container (1 day ago)
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) - Tools to facilitate integration testing of laminas-mvc applications (1 day ago)
+- [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) - Helper/Utility classes for Mezzio (1 day ago)
 
 #### 🌱 My latest projects
 
