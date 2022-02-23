@@ -48,15 +48,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (1 day ago)
+- [laminas/laminas-json-server](https://github.com/laminas/laminas-json-server) - Laminas Json-Server is a JSON-RPC server implementation. (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
-- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (1 day ago)
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) - Alias legacy ZF class names to Laminas Project equivalents. (1 day ago)
+- [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) - Paginate collections of data from arbitrary sources (1 day ago)
+- [laminas/laminas-cli](https://github.com/laminas/laminas-cli) - Console command runner, exposing commands written in Laminas MVC and Mezzio components and applications (1 day ago)
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria (1 day ago)
+- [laminas/laminas-hydrator](https://github.com/laminas/laminas-hydrator) - Serialize objects to arrays, and vice versa (1 day ago)
+- [mezzio/mezzio-helpers](https://github.com/mezzio/mezzio-helpers) - Helper/Utility classes for Mezzio (1 day ago)
 - [laminas/laminas-test](https://github.com/laminas/laminas-test) - Tools to facilitate integration testing of laminas-mvc applications (1 day ago)
-- [laminas/laminas-form](https://github.com/laminas/laminas-form) - Validate and display simple and complex forms, casting forms to business objects and vice versa (1 day ago)
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) - Factory-Driven Dependency Injection Container (1 day ago)
-- [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) - Trigger and listen to events within a PHP application (1 day ago)
 
 #### 🌱 My latest projects
 
