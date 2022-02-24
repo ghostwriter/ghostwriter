@@ -48,8 +48,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (today)
 - [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) - Laminas cache adapter for APCu (1 day ago)
-- [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) - Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache (1 day ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (1 day ago)
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) - Dispatch middleware pipelines in place of controllers in laminas-mvc. (1 day ago)
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) - Sets up Composer-based autoloading for your Laminas modules (1 day ago)
