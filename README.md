@@ -2,7 +2,7 @@
 
 ![ghostwriter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333)
 
-> if you dont like something, change it!
+> if you dont like something, **change it**!
 
 > knowledge **should** be **freely** accessible.
 
@@ -12,7 +12,7 @@
 
 > contributions **should** be attributed and or compensated.
 
-> do not be afraid to make impactful decisions that are selfish, your well-being is more important!
+> **dont** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
 ---
 #### 🔨 My recent Pull Requests
