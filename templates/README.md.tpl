@@ -2,11 +2,15 @@
 
 ![ghostwriter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333)
 
-> privacy is **not** a product.
+> if you dont like something, change it.
 
-> all work **should** be attributed and or compensated.
+> knowledge **should** be **freely** accessible.
 
-> knowledge **should** be **freely** available to all who seek.
+> privacy is a feature, **not** a product.
+
+> security is a process, **not** a product.
+
+> contributions **should** be attributed and or compensated.
 
 ---
 #### 🔨 My recent Pull Requests
