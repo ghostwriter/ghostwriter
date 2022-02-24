@@ -12,7 +12,7 @@
 
 > contributions **should** be attributed and or compensated.
 
-> do not be afraid to make impactful decisions that are selfish, your well-being is more important!
+> **dont** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
 ---
 #### 🔨 My recent Pull Requests
