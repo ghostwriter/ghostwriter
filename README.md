@@ -49,12 +49,12 @@
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [laminas/laminas-config-aggregator](https://github.com/laminas/laminas-config-aggregator) - Lightweight library for collecting and merging configuration from different sources (1 day ago)
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (1 day ago)
+- [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) - Session container and middleware for PSR-7 applications (1 day ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (1 day ago)
-- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) - Twig integration for Mezzio (1 day ago)
+- [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) - ext-session persistence adapter for mezzio-session (1 day ago)
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (1 day ago)
-- [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) - Laminas cache adapter for APCu (1 day ago)
-- [laminas/laminas-cache-storage-adapter-session](https://github.com/laminas/laminas-cache-storage-adapter-session) -  (1 day ago)
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (1 day ago)
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) - Twig integration for Mezzio (1 day ago)
 - [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) - laminas-mvc router support for Mezzio (1 day ago)
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (1 day ago)
 
