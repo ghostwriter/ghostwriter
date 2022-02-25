@@ -48,8 +48,8 @@
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 1 week ago) - Object-oriented interface to PHP sessions and storage
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ([4.2.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.2.0), 1 week ago) - Swoole support for Mezzio
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 1 week ago) - Locate PHP classfiles
+- [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.3](https://github.com/perftools/xhgui/releases/tag/0.20.3), 1 week ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 week ago) - A code generation tool for Laravel developers.
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 2 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 
 #### 👷 Check out what I'm currently working on
 
