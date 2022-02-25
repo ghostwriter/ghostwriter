@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), today) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 2 days ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 3 days ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 3 days ago) - Alias legacy ZF class names to Laminas Project equivalents.
@@ -49,20 +50,19 @@
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 1 week ago) - Locate PHP classfiles
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 week ago) - A code generation tool for Laravel developers.
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([v1.2.2](https://github.com/ghostwriter/styleci-action/releases/tag/v1.2.2), 2 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [mezzio/mezzio](https://github.com/mezzio/mezzio) ([3.10.0](https://github.com/mezzio/mezzio/releases/tag/3.10.0), 2 weeks ago) - PSR-15 Middleware Microframework
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (1 day ago)
-- [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) - Laminas cache adapter for APCu (2 days ago)
+- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) - Plugin for creating and exposing flash messages via laminas-mvc controllers (2 days ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (2 days ago)
-- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) - Dispatch middleware pipelines in place of controllers in laminas-mvc. (2 days ago)
-- [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) - Sets up Composer-based autoloading for your Laminas modules (2 days ago)
+- [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) - Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache (2 days ago)
+- [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) - Integration between laminas-mvc and laminas-i18n (2 days ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (2 days ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (2 days ago)
-- [laminas/laminas-dependency-plugin](https://github.com/laminas/laminas-dependency-plugin) - Replace zendframework and zfcampus packages with their Laminas Project equivalents. (2 days ago)
-- [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) - laminas-permissions-acl adapter for mezzio-authorization (2 days ago)
+- [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) - Sets up Composer-based autoloading for your Laminas modules (2 days ago)
+- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) - Dispatch middleware pipelines in place of controllers in laminas-mvc. (2 days ago)
 
 #### 🌱 My latest projects
 
