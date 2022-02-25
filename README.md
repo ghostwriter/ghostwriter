@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), today) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), today) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 2 days ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 3 days ago) - Programmatically filter and normalize data and files
@@ -48,7 +49,6 @@
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 1 week ago) - Object-oriented interface to PHP sessions and storage
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ([4.2.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.2.0), 1 week ago) - Swoole support for Mezzio
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 1 week ago) - Locate PHP classfiles
-- [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.3](https://github.com/perftools/xhgui/releases/tag/0.20.3), 1 week ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 1 week ago) - A code generation tool for Laravel developers.
 
 #### 👷 Check out what I'm currently working on
