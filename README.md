@@ -1,6 +1,6 @@
 # [![ghostwriter's GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsors&style=flat-square&logo=GitHub%20Sponsors)](https://github.com/sponsors/ghostwriter)
 
-![ghostwriter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333)
+<img alt="ghostwriter's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 > if you dont like something, **change it**!
 
@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), today) - Automated dependency injection for PSR-11 containers
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 1 day ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), 1 day ago) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 3 days ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
@@ -49,20 +50,19 @@
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 1 week ago) - Object-oriented interface to PHP sessions and storage
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ([4.2.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.2.0), 1 week ago) - Swoole support for Mezzio
 - [laminas/laminas-file](https://github.com/laminas/laminas-file) ([2.11.0](https://github.com/laminas/laminas-file/releases/tag/2.11.0), 1 week ago) - Locate PHP classfiles
-- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.3.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.3.0), 2 weeks ago) - A code generation tool for Laravel developers.
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (2 days ago)
-- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) - Plugin for creating and exposing flash messages via laminas-mvc controllers (3 days ago)
+- [laminas/laminas-cache-storage-adapter-apcu](https://github.com/laminas/laminas-cache-storage-adapter-apcu) - Laminas cache adapter for APCu (3 days ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (3 days ago)
-- [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) - Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache (3 days ago)
-- [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) - Integration between laminas-mvc and laminas-i18n (3 days ago)
+- [laminas/laminas-i18n-resources](https://github.com/laminas/laminas-i18n-resources) - Provides validator and captcha translations for laminas-i18n&#39;s Translator (3 days ago)
+- [laminas/laminas-mvc-plugin-identity](https://github.com/laminas/laminas-mvc-plugin-identity) - Plugin for retrieving the current authenticated identity within laminas-mvc controllers (3 days ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (3 days ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (3 days ago)
-- [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) - Sets up Composer-based autoloading for your Laminas modules (3 days ago)
-- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) - Dispatch middleware pipelines in place of controllers in laminas-mvc. (3 days ago)
+- [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (3 days ago)
+- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (3 days ago)
 
 #### 🌱 My latest projects
 
