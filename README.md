@@ -54,15 +54,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (4 days ago)
-- [laminas/laminas-mvc-plugin-flashmessenger](https://github.com/laminas/laminas-mvc-plugin-flashmessenger) - Plugin for creating and exposing flash messages via laminas-mvc controllers (5 days ago)
-- [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (5 days ago)
+- [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) - Twig integration for Mezzio (5 days ago)
+- [laminas/laminas-httphandlerrunner](https://github.com/laminas/laminas-httphandlerrunner) - Execute PSR-15 RequestHandlerInterface instances and emit responses they generate. (5 days ago)
 - [laminas/laminas-i18n-resources](https://github.com/laminas/laminas-i18n-resources) - Provides validator and captcha translations for laminas-i18n&#39;s Translator (5 days ago)
-- [laminas/laminas-mvc-plugin-identity](https://github.com/laminas/laminas-mvc-plugin-identity) - Plugin for retrieving the current authenticated identity within laminas-mvc controllers (5 days ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (5 days ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (5 days ago)
+- [laminas/laminas-mvc-plugin-identity](https://github.com/laminas/laminas-mvc-plugin-identity) - Plugin for retrieving the current authenticated identity within laminas-mvc controllers (5 days ago)
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (5 days ago)
-- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (5 days ago)
 
 #### 🌱 My latest projects
 
