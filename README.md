@@ -53,7 +53,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (5 days ago)
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (6 days ago)
