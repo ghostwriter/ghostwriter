@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), today) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 1 day ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 4 days ago) - Automated dependency injection for PSR-11 containers
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 5 days ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
@@ -49,20 +50,19 @@
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.2.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.2.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 2 weeks ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 2 weeks ago) - Object-oriented interface to PHP sessions and storage
-- [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) ([4.2.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.2.0), 2 weeks ago) - Swoole support for Mezzio
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 days ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (6 days ago)
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (1 week ago)
-- [laminas/laminas-development-mode](https://github.com/laminas/laminas-development-mode) - Laminas development mode script (1 week ago)
-- [laminas/laminas-httphandlerrunner](https://github.com/laminas/laminas-httphandlerrunner) - Execute PSR-15 RequestHandlerInterface instances and emit responses they generate. (1 week ago)
+- [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) - ext-session persistence adapter for mezzio-session (1 week ago)
+- [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) - Integration between laminas-mvc and laminas-i18n (1 week ago)
+- [laminas/laminas-dependency-plugin](https://github.com/laminas/laminas-dependency-plugin) - Replace zendframework and zfcampus packages with their Laminas Project equivalents. (1 week ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (1 week ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (1 week ago)
-- [laminas/laminas-i18n-resources](https://github.com/laminas/laminas-i18n-resources) - Provides validator and captcha translations for laminas-i18n&#39;s Translator (1 week ago)
-- [laminas/laminas-mvc-plugin-identity](https://github.com/laminas/laminas-mvc-plugin-identity) - Plugin for retrieving the current authenticated identity within laminas-mvc controllers (1 week ago)
+- [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) - Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache (1 week ago)
+- [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) - Sets up Composer-based autoloading for your Laminas modules (1 week ago)
 
 #### 🌱 My latest projects
 
