@@ -35,11 +35,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), today) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 1 day ago) - Testing utilities for laminas-cache adapters
-- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 4 days ago) - Automated dependency injection for PSR-11 containers
-- [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 5 days ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
-- [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), 5 days ago) - Integration between laminas-mvc and laminas-i18n
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 1 day ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 2 days ago) - Testing utilities for laminas-cache adapters
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 5 days ago) - Automated dependency injection for PSR-11 containers
+- [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 6 days ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
+- [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), 6 days ago) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 1 week ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 1 week ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 1 week ago) - Alias legacy ZF class names to Laminas Project equivalents.
@@ -47,15 +47,15 @@
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.3](https://github.com/laminas/laminas-mvc/releases/tag/3.3.3), 1 week ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 1 week ago) - 
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.2.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.2.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.2.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.2.0), 2 weeks ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 2 weeks ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 2 weeks ago) - Object-oriented interface to PHP sessions and storage
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 days ago)
-- [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (6 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 days ago)
+- [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (1 week ago)
 - [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) - ext-session persistence adapter for mezzio-session (1 week ago)
 - [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) - Integration between laminas-mvc and laminas-i18n (1 week ago)
 - [laminas/laminas-dependency-plugin](https://github.com/laminas/laminas-dependency-plugin) - Replace zendframework and zfcampus packages with their Laminas Project equivalents. (1 week ago)
