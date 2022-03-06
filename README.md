@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), today) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 4 days ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 5 days ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 1 week ago) - Automated dependency injection for PSR-11 containers
@@ -47,7 +48,6 @@
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.3](https://github.com/laminas/laminas-mvc/releases/tag/3.3.3), 1 week ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 2 weeks ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 2 weeks ago) - 
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.2.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.2.0), 2 weeks ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 2 weeks ago) - Manage trees of pointers to web pages in order to build navigation systems
 - [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 2 weeks ago) - Object-oriented interface to PHP sessions and storage
 
@@ -61,8 +61,8 @@
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (1 week ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (1 week ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (1 week ago)
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) - PSR-7 &lt;-&gt; laminas-http message conversions (1 week ago)
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) - Dispatch middleware pipelines in place of controllers in laminas-mvc. (1 week ago)
-- [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) - Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache (1 week ago)
 
 #### 🌱 My latest projects
 
