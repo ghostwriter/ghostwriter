@@ -53,7 +53,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (2 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (1 week ago)
@@ -61,8 +61,8 @@
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (1 week ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (1 week ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (1 week ago)
-- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) - PSR-7 &lt;-&gt; laminas-http message conversions (1 week ago)
 - [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) - Dispatch middleware pipelines in place of controllers in laminas-mvc. (1 week ago)
+- [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) - Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache (1 week ago)
 
 #### 🌱 My latest projects
 
