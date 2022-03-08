@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), today) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), 2 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 6 days ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 1 week ago) - Testing utilities for laminas-cache adapters
@@ -49,7 +50,6 @@
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 2 weeks ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 2 weeks ago) - 
 - [laminas/laminas-navigation](https://github.com/laminas/laminas-navigation) ([2.13.2](https://github.com/laminas/laminas-navigation/releases/tag/2.13.2), 2 weeks ago) - Manage trees of pointers to web pages in order to build navigation systems
-- [laminas/laminas-session](https://github.com/laminas/laminas-session) ([2.12.1](https://github.com/laminas/laminas-session/releases/tag/2.12.1), 3 weeks ago) - Object-oriented interface to PHP sessions and storage
 
 #### 👷 Check out what I'm currently working on
 
@@ -60,9 +60,9 @@
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (1 week ago)
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (1 week ago)
 - [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) - laminas-mvc router support for Mezzio (1 week ago)
+- [laminas/laminas-development-mode](https://github.com/laminas/laminas-development-mode) - Laminas development mode script (1 week ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (1 week ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (1 week ago)
-- [laminas/laminas-development-mode](https://github.com/laminas/laminas-development-mode) - Laminas development mode script (1 week ago)
 
 #### 🌱 My latest projects
 
