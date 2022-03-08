@@ -54,15 +54,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (3 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (1 week ago)
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (1 week ago)
-- [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (1 week ago)
+- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (1 week ago)
+- [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) - laminas-mvc router support for Mezzio (1 week ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (1 week ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (1 week ago)
-- [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) - Dispatch middleware pipelines in place of controllers in laminas-mvc. (1 week ago)
-- [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) - Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache (1 week ago)
+- [laminas/laminas-development-mode](https://github.com/laminas/laminas-development-mode) - Laminas development mode script (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -72,5 +72,6 @@
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker
 - [ghostwriter/evm-stack](https://github.com/ghostwriter/evm-stack) - Stack implementation written in solidity.
 
