@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.1](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.1), today) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 1 day ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 1 day ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), 3 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
@@ -48,7 +49,6 @@
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 2 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.5.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.5.0), 2 weeks ago) - Installer plugin for Laminas MVC Skeleton application
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.3](https://github.com/laminas/laminas-mvc/releases/tag/3.3.3), 2 weeks ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.0](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.0), 2 weeks ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 2 weeks ago) - 
 
 #### 👷 Check out what I'm currently working on
