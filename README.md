@@ -17,8 +17,8 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Add multi-platform build](https://github.com/ghostwriter/php/pull/12) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
-- [Update docker build and push workflow](https://github.com/ghostwriter/php/pull/11) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Add multi-platform build](https://github.com/ghostwriter/php/pull/12) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [Update docker build and push workflow](https://github.com/ghostwriter/php/pull/11) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/pull/15) on [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-diagnostics/pull/36) on [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-twitter/pull/24) on [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) (3 weeks ago)
@@ -35,26 +35,26 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.1](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.1), 5 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 6 days ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 6 days ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.1](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.1), 6 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 1 week ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 1 week ago) - Testing utilities for laminas-cache adapters
+- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 2 weeks ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 2 weeks ago) - Automated dependency injection for PSR-11 containers
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 2 weeks ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), 2 weeks ago) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 2 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 2 weeks ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 2 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
-- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.5.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.5.0), 2 weeks ago) - Installer plugin for Laminas MVC Skeleton application
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 3 weeks ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 3 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
+- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.5.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.5.0), 3 weeks ago) - Installer plugin for Laminas MVC Skeleton application
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.3](https://github.com/laminas/laminas-mvc/releases/tag/3.3.3), 3 weeks ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 3 weeks ago) - 
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (2 weeks ago)
