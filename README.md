@@ -55,8 +55,8 @@
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (1 week ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (2 weeks ago)
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more (3 weeks ago)
 - [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) - laminas-mvc router support for Mezzio (3 weeks ago)
