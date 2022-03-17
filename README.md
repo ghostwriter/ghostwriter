@@ -17,6 +17,7 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -31,7 +32,6 @@
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-twitter/pull/24) on [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-plugin-prg/pull/15) on [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-paginator/pull/40) on [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) (3 weeks ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-config-aggregator/pull/20) on [laminas/laminas-config-aggregator](https://github.com/laminas/laminas-config-aggregator) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
