@@ -17,6 +17,9 @@
 ---
 #### 🔨 My recent Pull Requests
 
+- [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump PHP to 8.1.4](https://github.com/ghostwriter/php/pull/17) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump PHP to 8.0.17](https://github.com/ghostwriter/php/pull/16) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Fix concurrency group for pull requests](https://github.com/ghostwriter/php/pull/15) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -29,9 +32,6 @@
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-plugin-prg/pull/15) on [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-paginator/pull/40) on [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-config-aggregator/pull/20) on [laminas/laminas-config-aggregator](https://github.com/laminas/laminas-config-aggregator) (3 weeks ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-code/pull/128) on [laminas/laminas-code](https://github.com/laminas/laminas-code) (3 weeks ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-diactoros/pull/80) on [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) (3 weeks ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-stdlib/pull/56) on [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -54,7 +54,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (1 week ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (3 weeks ago)
