@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), today) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.1](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.1), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 1 week ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
@@ -49,7 +50,6 @@
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 3 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.5.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.5.0), 3 weeks ago) - Installer plugin for Laminas MVC Skeleton application
 - [laminas/laminas-mvc](https://github.com/laminas/laminas-mvc) ([3.3.3](https://github.com/laminas/laminas-mvc/releases/tag/3.3.3), 3 weeks ago) - Laminas&#39;s event-driven MVC layer, including MVC Applications, Controllers, and Plugins
-- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-redis/releases/tag/2.1.0), 4 weeks ago) - 
 
 #### 👷 Check out what I'm currently working on
 
@@ -62,7 +62,7 @@
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (3 weeks ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (3 weeks ago)
 - [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) - Sets up Composer-based autoloading for your Laminas modules (3 weeks ago)
-- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (3 weeks ago)
+- [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) - PSR-7 &lt;-&gt; laminas-http message conversions (3 weeks ago)
 
 #### 🌱 My latest projects
 
