@@ -17,32 +17,32 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Bump PHP to 8.1.4](https://github.com/ghostwriter/php/pull/17) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Bump PHP to 8.0.17](https://github.com/ghostwriter/php/pull/16) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Fix concurrency group for pull requests](https://github.com/ghostwriter/php/pull/15) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [Bump `composer` 2.3.0-RC1](https://github.com/ghostwriter/php/pull/14) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
+- [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Bump PHP to 8.1.4](https://github.com/ghostwriter/php/pull/17) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Bump PHP to 8.0.17](https://github.com/ghostwriter/php/pull/16) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Fix concurrency group for pull requests](https://github.com/ghostwriter/php/pull/15) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Bump `composer` 2.3.0-RC1](https://github.com/ghostwriter/php/pull/14) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Add multi-platform build](https://github.com/ghostwriter/php/pull/12) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Update docker build and push workflow](https://github.com/ghostwriter/php/pull/11) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/pull/15) on [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-diagnostics/pull/36) on [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-twitter/pull/24) on [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) (3 weeks ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-mvc-plugin-prg/pull/15) on [laminas/laminas-mvc-plugin-prg](https://github.com/laminas/laminas-mvc-plugin-prg) (3 weeks ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-paginator/pull/40) on [laminas/laminas-paginator](https://github.com/laminas/laminas-paginator) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), today) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.1](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.1), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.2](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.2), today) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 1 day ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 1 week ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 2 weeks ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 2 weeks ago) - Testing utilities for laminas-cache adapters
-- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 2 weeks ago) - Automated dependency injection for PSR-11 containers
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 3 weeks ago) - Automated dependency injection for PSR-11 containers
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 3 weeks ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), 3 weeks ago) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 3 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
@@ -53,11 +53,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 days ago)
-- [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (1 week ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 days ago)
+- [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (2 weeks ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (3 weeks ago)
 - [laminas/laminas-psr7bridge](https://github.com/laminas/laminas-psr7bridge) - PSR-7 &lt;-&gt; laminas-http message conversions (3 weeks ago)
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (3 weeks ago)
