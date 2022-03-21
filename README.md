@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.6.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.6.0), today) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.13.0](https://github.com/laminas/laminas-ldap/releases/tag/2.13.0), 2 days ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.2](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.2), 2 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 3 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
@@ -49,7 +50,6 @@
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 3 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 3 weeks ago) - Programmatically filter and normalize data and files
 - [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 3 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
-- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.5.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.5.0), 3 weeks ago) - Installer plugin for Laminas MVC Skeleton application
 
 #### 👷 Check out what I'm currently working on
 
