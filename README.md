@@ -17,47 +17,47 @@
 ---
 #### 🔨 My recent Pull Requests
 
-- [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Setup oracle services for GitHub Actions](https://github.com/ghostwriter/laminas-org-laminas-db/pull/1) on [ghostwriter/laminas-org-laminas-db](https://github.com/ghostwriter/laminas-org-laminas-db) (1 day ago)
-- [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 days ago)
-- [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump PHP to 8.1.4](https://github.com/ghostwriter/php/pull/17) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump PHP to 8.0.17](https://github.com/ghostwriter/php/pull/16) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Fix concurrency group for pull requests](https://github.com/ghostwriter/php/pull/15) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
-- [Bump `composer` 2.3.0-RC1](https://github.com/ghostwriter/php/pull/14) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Setup oracle services for GitHub Actions](https://github.com/ghostwriter/laminas-org-laminas-db/pull/1) on [ghostwriter/laminas-org-laminas-db](https://github.com/ghostwriter/laminas-org-laminas-db) (2 days ago)
+- [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (3 days ago)
+- [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump PHP to 8.1.4](https://github.com/ghostwriter/php/pull/17) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump PHP to 8.0.17](https://github.com/ghostwriter/php/pull/16) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Fix concurrency group for pull requests](https://github.com/ghostwriter/php/pull/15) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [Bump `composer` 2.3.0-RC1](https://github.com/ghostwriter/php/pull/14) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 - [Add multi-platform build](https://github.com/ghostwriter/php/pull/12) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Update docker build and push workflow](https://github.com/ghostwriter/php/pull/11) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/pull/15) on [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.6.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.6.0), today) - Mezzio PSR-11 container configuration tests
-- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.13.0](https://github.com/laminas/laminas-ldap/releases/tag/2.13.0), 2 days ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.2](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.2), 2 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 3 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 1 week ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 1 week ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
+- [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.6.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.6.0), 1 day ago) - Mezzio PSR-11 container configuration tests
+- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.13.0](https://github.com/laminas/laminas-ldap/releases/tag/2.13.0), 3 days ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.2](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.2), 3 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 4 days ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 2 weeks ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
+- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 2 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), 2 weeks ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 2 weeks ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 2 weeks ago) - Testing utilities for laminas-cache adapters
+- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 3 weeks ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 3 weeks ago) - Automated dependency injection for PSR-11 containers
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 3 weeks ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), 3 weeks ago) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 3 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
-- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 3 weeks ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 3 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
+- [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 4 weeks ago) - Programmatically filter and normalize data and files
+- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 4 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - Automates the release workflow for semver-compliant repositories through GitHub Actions. (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (3 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (5 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - Automates the release workflow for semver-compliant repositories through GitHub Actions. (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (4 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (6 days ago)
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (2 weeks ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (3 weeks ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (3 weeks ago)
