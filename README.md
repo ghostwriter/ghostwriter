@@ -54,6 +54,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) - Composer plugin for injecting modules and configuration providers into application configuration (today)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - Automates the release workflow for semver-compliant repositories through GitHub Actions. (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (4 days ago)
@@ -61,7 +62,6 @@
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (2 weeks ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (3 weeks ago)
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages (3 weeks ago)
-- [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) - laminas-mvc router support for Mezzio (3 weeks ago)
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (3 weeks ago)
 
 #### 🌱 My latest projects
