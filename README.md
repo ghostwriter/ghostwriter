@@ -35,6 +35,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.7.0](https://github.com/laminas/laminas-component-installer/releases/tag/2.7.0), today) - Composer plugin for injecting modules and configuration providers into application configuration
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.6.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.6.0), 1 day ago) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.13.0](https://github.com/laminas/laminas-ldap/releases/tag/2.13.0), 3 days ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.2](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.2), 3 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
@@ -49,7 +50,6 @@
 - [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) ([1.3.1](https://github.com/laminas/laminas-mvc-i18n/releases/tag/1.3.1), 3 weeks ago) - Integration between laminas-mvc and laminas-i18n
 - [laminas/laminas-mail](https://github.com/laminas/laminas-mail) ([2.16.0](https://github.com/laminas/laminas-mail/releases/tag/2.16.0), 3 weeks ago) - Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages
 - [laminas/laminas-filter](https://github.com/laminas/laminas-filter) ([2.14.0](https://github.com/laminas/laminas-filter/releases/tag/2.14.0), 4 weeks ago) - Programmatically filter and normalize data and files
-- [laminas/laminas-zendframework-bridge](https://github.com/laminas/laminas-zendframework-bridge) ([1.5.0](https://github.com/laminas/laminas-zendframework-bridge/releases/tag/1.5.0), 4 weeks ago) - Alias legacy ZF class names to Laminas Project equivalents.
 
 #### 👷 Check out what I'm currently working on
 
