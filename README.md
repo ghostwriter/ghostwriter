@@ -1,6 +1,6 @@
 # [![ghostwriter's GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsors&style=flat-square&logo=GitHub%20Sponsors)](https://github.com/sponsors/ghostwriter)
 
-<img alt="ghostwriter's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+<img alt="ghostwriter's GitHub streak" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostwriter">
 
 > if you dont like something, **change it**!
 
@@ -15,6 +15,9 @@
 > **dont** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
 ---
+
+<img alt="ghostwriter's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+
 #### 🔨 My recent Pull Requests
 
 - [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
@@ -54,6 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (today)
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) - Composer plugin for injecting modules and configuration providers into application configuration (1 day ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - Automates the release workflow for semver-compliant repositories through GitHub Actions. (2 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
@@ -62,7 +66,6 @@
 - [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (2 weeks ago)
 - [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (3 weeks ago)
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) - Mezzio PSR-11 container configuration tests (4 weeks ago)
-- [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs (4 weeks ago)
 
 #### 🌱 My latest projects
 
