@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `laminas/laminas-coding-standard` to `^2.3.0`](https://github.com/laminas/laminas-db/pull/240) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (today)
 - [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Setup oracle services for GitHub Actions](https://github.com/ghostwriter/laminas-org-laminas-db/pull/1) on [ghostwriter/laminas-org-laminas-db](https://github.com/ghostwriter/laminas-org-laminas-db) (3 days ago)
@@ -34,7 +35,6 @@
 - [Bump `composer` 2.3.0-RC1](https://github.com/ghostwriter/php/pull/14) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Add multi-platform build](https://github.com/ghostwriter/php/pull/12) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Update docker build and push workflow](https://github.com/ghostwriter/php/pull/11) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Prepare for Renovate with reusable workflows](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb/pull/15) on [laminas/laminas-cache-storage-adapter-ext-mongodb](https://github.com/laminas/laminas-cache-storage-adapter-ext-mongodb) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
