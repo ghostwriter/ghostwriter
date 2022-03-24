@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/25) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `mongodb` to `1.13.0`](https://github.com/ghostwriter/php/pull/24) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `laminas/laminas-coding-standard` to `^2.3.0`](https://github.com/laminas/laminas-db/pull/240) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (1 day ago)
 - [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
@@ -34,7 +35,6 @@
 - [Bump PHP to 8.0.17](https://github.com/ghostwriter/php/pull/16) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Fix concurrency group for pull requests](https://github.com/ghostwriter/php/pull/15) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` 2.3.0-RC1](https://github.com/ghostwriter/php/pull/14) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Add multi-platform build](https://github.com/ghostwriter/php/pull/12) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
