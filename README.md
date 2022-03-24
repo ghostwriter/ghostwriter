@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-feed](https://github.com/laminas/laminas-feed) ([2.17.0](https://github.com/laminas/laminas-feed/releases/tag/2.17.0), today) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub.
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.3](https://github.com/laminas/laminas-cache/releases/tag/3.1.3), today) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-memory](https://github.com/laminas/laminas-memory) ([2.9.0](https://github.com/laminas/laminas-memory/releases/tag/2.9.0), today) - Manage data in an environment with limited memory
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.20.0](https://github.com/laminas/laminas-view/releases/tag/2.20.0), 1 day ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
@@ -52,7 +53,6 @@
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 3 weeks ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 3 weeks ago) - Testing utilities for laminas-cache adapters
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.4.0](https://github.com/laminas/laminas-di/releases/tag/3.4.0), 3 weeks ago) - Automated dependency injection for PSR-11 containers
-- [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.4](https://github.com/perftools/xhgui/releases/tag/0.20.4), 3 weeks ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 
 #### 👷 Check out what I'm currently working on
 
