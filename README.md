@@ -62,10 +62,10 @@
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (2 days ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (2 days ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (2 days ago)
+- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (2 days ago)
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) - Composer plugin for injecting modules and configuration providers into application configuration (3 days ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - Automates the release workflow for semver-compliant repositories through GitHub Actions. (4 days ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 week ago)
-- [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
