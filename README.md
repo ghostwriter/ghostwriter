@@ -56,7 +56,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 days ago)
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (4 days ago)
