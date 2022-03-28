@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `memcached-3.2.0`](https://github.com/ghostwriter/php/pull/27) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/26) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/25) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [Bump `mongodb` to `1.13.0`](https://github.com/ghostwriter/php/pull/24) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
@@ -34,7 +35,6 @@
 - [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump PHP to 8.1.4](https://github.com/ghostwriter/php/pull/17) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump PHP to 8.0.17](https://github.com/ghostwriter/php/pull/16) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Fix concurrency group for pull requests](https://github.com/ghostwriter/php/pull/15) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
