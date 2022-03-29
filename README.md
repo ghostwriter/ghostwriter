@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.14.0](https://github.com/laminas/laminas-db/releases/tag/2.14.0), today) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.0), today) - PSR HTTP Message implementations
 - [laminas/laminas-feed](https://github.com/laminas/laminas-feed) ([2.17.0](https://github.com/laminas/laminas-feed/releases/tag/2.17.0), 5 days ago) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub.
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.3](https://github.com/laminas/laminas-cache/releases/tag/3.1.3), 5 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
@@ -52,7 +53,6 @@
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 3 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), 3 weeks ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.14.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.14.0), 3 weeks ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.0.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.0.0), 4 weeks ago) - Testing utilities for laminas-cache adapters
 
 #### 👷 Check out what I'm currently working on
 
