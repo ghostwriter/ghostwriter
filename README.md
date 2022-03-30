@@ -50,9 +50,9 @@
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.13.0](https://github.com/laminas/laminas-ldap/releases/tag/2.13.0), 1 week ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.2](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.2), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [laminas/laminas-authentication](https://github.com/laminas/laminas-authentication) ([2.10.1](https://github.com/laminas/laminas-authentication/releases/tag/2.10.1), 3 weeks ago) - provides an API for authentication and includes concrete authentication adapters for common use case scenarios
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 3 weeks ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
 - [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 3 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.3.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.3.0), 3 weeks ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 
 #### 👷 Check out what I'm currently working on
 
