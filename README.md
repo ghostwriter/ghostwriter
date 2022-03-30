@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), today) - Username/password, session-backed authentication adapter for mezzio-authentication.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), today) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.14.1](https://github.com/laminas/laminas-db/releases/tag/2.14.1), today) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.0), 1 day ago) - PSR HTTP Message implementations
@@ -52,7 +53,6 @@
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 1 week ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-authentication](https://github.com/laminas/laminas-authentication) ([2.10.1](https://github.com/laminas/laminas-authentication/releases/tag/2.10.1), 3 weeks ago) - provides an API for authentication and includes concrete authentication adapters for common use case scenarios
 - [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) ([2.10.0](https://github.com/laminas/laminas-escaper/releases/tag/2.10.0), 3 weeks ago) - Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs
-- [laminas/laminas-validator](https://github.com/laminas/laminas-validator) ([2.17.0](https://github.com/laminas/laminas-validator/releases/tag/2.17.0), 3 weeks ago) - Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria
 
 #### 👷 Check out what I'm currently working on
 
