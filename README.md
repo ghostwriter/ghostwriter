@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.14.0](https://github.com/laminas/laminas-db/releases/tag/2.14.0), 1 day ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
+- [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.14.1](https://github.com/laminas/laminas-db/releases/tag/2.14.1), today) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.0), 1 day ago) - PSR HTTP Message implementations
 - [laminas/laminas-feed](https://github.com/laminas/laminas-feed) ([2.17.0](https://github.com/laminas/laminas-feed/releases/tag/2.17.0), 6 days ago) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub.
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.3](https://github.com/laminas/laminas-cache/releases/tag/3.1.3), 6 days ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
