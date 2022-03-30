@@ -58,7 +58,7 @@
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
-- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - Automates the release workflow for semver-compliant repositories through GitHub Actions. (1 day ago)
+- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (1 day ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (5 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (6 days ago)
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (1 week ago)
@@ -69,7 +69,7 @@
 
 #### 🌱 My latest projects
 
-- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - Automates the release workflow for semver-compliant repositories through GitHub Actions.
+- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
