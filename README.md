@@ -20,6 +20,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `composer` to `2.3.2`](https://github.com/ghostwriter/php/pull/30) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `composer` to `2.3.1`](https://github.com/ghostwriter/php/pull/29) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `composer` to `2.2.10`](https://github.com/ghostwriter/php/pull/28) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [Bump `memcached-3.2.0`](https://github.com/ghostwriter/php/pull/27) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
@@ -33,8 +35,6 @@
 - [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
 - [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
