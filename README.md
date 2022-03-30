@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `composer` to `2.3.1`](https://github.com/ghostwriter/php/pull/29) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `composer` to `2.2.10`](https://github.com/ghostwriter/php/pull/28) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [Bump `memcached-3.2.0`](https://github.com/ghostwriter/php/pull/27) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/26) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
@@ -34,7 +35,6 @@
 - [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Refactor GitHub Actions concurrency group](https://github.com/ghostwriter/php/pull/19) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump PHP to 8.0.17RC1](https://github.com/ghostwriter/php/pull/18) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump PHP to 8.1.4](https://github.com/ghostwriter/php/pull/17) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (1 day ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (5 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (6 days ago)
