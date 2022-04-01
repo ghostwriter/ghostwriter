@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `composer` to `2.2.11`](https://github.com/ghostwriter/php/pull/32) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Bump `composer` to `2.3.2`](https://github.com/ghostwriter/php/pull/30) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Bump `composer` to `2.3.1`](https://github.com/ghostwriter/php/pull/29) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
@@ -34,7 +35,6 @@
 - [Setup oracle services for GitHub Actions](https://github.com/ghostwriter/laminas-org-laminas-db/pull/1) on [ghostwriter/laminas-org-laminas-db](https://github.com/ghostwriter/laminas-org-laminas-db) (1 week ago)
 - [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
 - [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump PHP to 8.1.4RC1](https://github.com/ghostwriter/php/pull/20) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
