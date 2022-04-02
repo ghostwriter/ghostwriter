@@ -33,8 +33,8 @@
 - [Bump `laminas/laminas-coding-standard` to `^2.3.0`](https://github.com/laminas/laminas-db/pull/240) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (1 week ago)
 - [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Setup oracle services for GitHub Actions](https://github.com/ghostwriter/laminas-org-laminas-db/pull/1) on [ghostwriter/laminas-org-laminas-db](https://github.com/ghostwriter/laminas-org-laminas-db) (1 week ago)
 - [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 weeks ago)
+- [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
