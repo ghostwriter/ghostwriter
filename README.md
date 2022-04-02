@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `composer` to `2.3.3`](https://github.com/ghostwriter/php/pull/33) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `composer` to `2.2.11`](https://github.com/ghostwriter/php/pull/32) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Bump `composer` to `2.3.2`](https://github.com/ghostwriter/php/pull/30) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
@@ -34,7 +35,6 @@
 - [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Setup oracle services for GitHub Actions](https://github.com/ghostwriter/laminas-org-laminas-db/pull/1) on [ghostwriter/laminas-org-laminas-db](https://github.com/ghostwriter/laminas-org-laminas-db) (1 week ago)
 - [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 weeks ago)
-- [Refactor concurrency cancel-in-progress](https://github.com/ghostwriter/php/pull/21) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (4 days ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
