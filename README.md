@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
 - [Bump composer dependencies](https://github.com/ghostwriter/composer-lock/pull/4) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
 - [Bump `composer` to `2.3.3`](https://github.com/ghostwriter/php/pull/33) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `composer` to `2.2.11`](https://github.com/ghostwriter/php/pull/32) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -34,10 +35,10 @@
 - [Bump `laminas/laminas-coding-standard` to `^2.3.0`](https://github.com/laminas/laminas-db/pull/240) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (1 week ago)
 - [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Update composer dependencies](https://github.com/ghostwriter/composer-lock/pull/2) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), today) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.0](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.0), 3 days ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 3 days ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), 3 days ago) - A set of components for performing diagnostic tests in PHP applications
@@ -50,7 +51,6 @@
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.7.0](https://github.com/laminas/laminas-component-installer/releases/tag/2.7.0), 1 week ago) - Composer plugin for injecting modules and configuration providers into application configuration
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.6.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.6.0), 1 week ago) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.13.0](https://github.com/laminas/laminas-ldap/releases/tag/2.13.0), 2 weeks ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.2](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.2), 2 weeks ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 2 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
 - [laminas/laminas-authentication](https://github.com/laminas/laminas-authentication) ([2.10.1](https://github.com/laminas/laminas-authentication/releases/tag/2.10.1), 3 weeks ago) - provides an API for authentication and includes concrete authentication adapters for common use case scenarios
 
@@ -58,14 +58,14 @@
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (4 days ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (1 week ago)
-- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (1 week ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (1 week ago)
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (1 week ago)
+- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (1 week ago)
 - [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) - Composer plugin for injecting modules and configuration providers into application configuration (1 week ago)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 weeks ago)
 
 #### 🌱 My latest projects
 
