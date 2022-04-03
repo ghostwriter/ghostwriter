@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/ghostwriter/composer-lock/pull/7) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
 - [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
 - [Bump composer dependencies](https://github.com/ghostwriter/composer-lock/pull/4) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
 - [Bump `composer` to `2.3.3`](https://github.com/ghostwriter/php/pull/33) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -34,7 +35,6 @@
 - [Bump `mongodb` to `1.13.0`](https://github.com/ghostwriter/php/pull/24) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `laminas/laminas-coding-standard` to `^2.3.0`](https://github.com/laminas/laminas-db/pull/240) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (1 week ago)
 - [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
