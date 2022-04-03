@@ -20,30 +20,30 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
-- [Bump composer dependencies](https://github.com/ghostwriter/composer-lock/pull/4) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (today)
-- [Bump `composer` to `2.3.3`](https://github.com/ghostwriter/php/pull/33) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
-- [Bump `composer` to `2.2.11`](https://github.com/ghostwriter/php/pull/32) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [Bump `composer` to `2.3.2`](https://github.com/ghostwriter/php/pull/30) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [Bump `composer` to `2.3.1`](https://github.com/ghostwriter/php/pull/29) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [Bump `composer` to `2.2.10`](https://github.com/ghostwriter/php/pull/28) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump `memcached-3.2.0`](https://github.com/ghostwriter/php/pull/27) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
+- [Bump composer dependencies](https://github.com/ghostwriter/composer-lock/pull/4) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
+- [Bump `composer` to `2.3.3`](https://github.com/ghostwriter/php/pull/33) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
+- [Bump `composer` to `2.2.11`](https://github.com/ghostwriter/php/pull/32) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [Bump `composer` to `2.3.2`](https://github.com/ghostwriter/php/pull/30) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [Bump `composer` to `2.3.1`](https://github.com/ghostwriter/php/pull/29) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [Bump `composer` to `2.2.10`](https://github.com/ghostwriter/php/pull/28) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump `memcached-3.2.0`](https://github.com/ghostwriter/php/pull/27) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 - [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/26) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/25) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `mongodb` to `1.13.0`](https://github.com/ghostwriter/php/pull/24) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `laminas/laminas-coding-standard` to `^2.3.0`](https://github.com/laminas/laminas-db/pull/240) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (1 week ago)
-- [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
+- [Bump `composer` to `1.10.25`](https://github.com/ghostwriter/php/pull/22) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), today) - Bumps composer.lock file, optionally lock the minimum supported PHP version
-- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.0](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.0), 3 days ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
-- [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 3 days ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
-- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), 3 days ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.14.1](https://github.com/laminas/laminas-db/releases/tag/2.14.1), 3 days ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.0), 4 days ago) - PSR HTTP Message implementations
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), 1 day ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.0](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.0), 4 days ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
+- [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 4 days ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
+- [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), 4 days ago) - A set of components for performing diagnostic tests in PHP applications
+- [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.14.1](https://github.com/laminas/laminas-db/releases/tag/2.14.1), 4 days ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.0), 5 days ago) - PSR HTTP Message implementations
 - [laminas/laminas-feed](https://github.com/laminas/laminas-feed) ([2.17.0](https://github.com/laminas/laminas-feed/releases/tag/2.17.0), 1 week ago) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub.
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.3](https://github.com/laminas/laminas-cache/releases/tag/3.1.3), 1 week ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-memory](https://github.com/laminas/laminas-memory) ([2.9.0](https://github.com/laminas/laminas-memory/releases/tag/2.9.0), 1 week ago) - Manage data in an environment with limited memory
@@ -56,11 +56,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
-- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (4 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
+- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (5 days ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (1 week ago)
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (1 week ago)
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (1 week ago)
