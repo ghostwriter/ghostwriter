@@ -20,6 +20,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Build on `push` to `main` branch](https://github.com/ghostwriter/php/pull/35) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `xdebug` to `3.1.4`](https://github.com/ghostwriter/php/pull/34) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Update README.md](https://github.com/ghostwriter/composer-lock/pull/7) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
 - [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 days ago)
 - [Bump composer dependencies](https://github.com/ghostwriter/composer-lock/pull/4) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 days ago)
@@ -33,8 +35,6 @@
 - [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/26) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/25) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `mongodb` to `1.13.0`](https://github.com/ghostwriter/php/pull/24) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `laminas/laminas-coding-standard` to `^2.3.0`](https://github.com/laminas/laminas-db/pull/240) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (1 week ago)
-- [Bump `composer` to `2.3.0-RC2`](https://github.com/ghostwriter/php/pull/23) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (2 days ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (6 days ago)
