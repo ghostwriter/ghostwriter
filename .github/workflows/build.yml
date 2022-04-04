@@ -31,7 +31,7 @@ jobs:
           gpg-private-key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
 
-      - run: go get github.com/muesli/markscribe
+      - run: go install github.com/muesli/markscribe
 
       - run: markscribe -write README.md templates/README.md.tpl
         env:
