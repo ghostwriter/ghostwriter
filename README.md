@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.0](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.0), today) - Factory-Driven Dependency Injection Container
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), 2 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.0](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.0), 5 days ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 5 days ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
@@ -52,7 +53,6 @@
 - [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) ([0.6.0](https://github.com/laminas/laminas-container-config-test/releases/tag/0.6.0), 2 weeks ago) - Mezzio PSR-11 container configuration tests
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) ([2.13.0](https://github.com/laminas/laminas-ldap/releases/tag/2.13.0), 2 weeks ago) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) ([latest](https://github.com/ghostwriter/styleci-action/releases/tag/latest), 2 weeks ago) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
-- [laminas/laminas-authentication](https://github.com/laminas/laminas-authentication) ([2.10.1](https://github.com/laminas/laminas-authentication/releases/tag/2.10.1), 3 weeks ago) - provides an API for authentication and includes concrete authentication adapters for common use case scenarios
 
 #### 👷 Check out what I'm currently working on
 
