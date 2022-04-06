@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.1](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.1), today) - PSR HTTP Message implementations
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.2](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.2), today) - PSR HTTP Message implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.5.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.5.0), 1 day ago) - laminas-view PhpRenderer integration for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.1](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.1), 2 days ago) - Factory-Driven Dependency Injection Container
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), 4 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
