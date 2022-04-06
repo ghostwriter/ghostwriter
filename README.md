@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.1](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.1), today) - PSR HTTP Message implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.5.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.5.0), 1 day ago) - laminas-view PhpRenderer integration for Mezzio
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.1](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.1), 2 days ago) - Factory-Driven Dependency Injection Container
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), 4 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
@@ -45,7 +46,6 @@
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 1 week ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.14.1](https://github.com/laminas/laminas-db/releases/tag/2.14.1), 1 week ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.0), 1 week ago) - PSR HTTP Message implementations
 - [laminas/laminas-feed](https://github.com/laminas/laminas-feed) ([2.17.0](https://github.com/laminas/laminas-feed/releases/tag/2.17.0), 1 week ago) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub.
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.3](https://github.com/laminas/laminas-cache/releases/tag/3.1.3), 1 week ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-memory](https://github.com/laminas/laminas-memory) ([2.9.0](https://github.com/laminas/laminas-memory/releases/tag/2.9.0), 1 week ago) - Manage data in an environment with limited memory
