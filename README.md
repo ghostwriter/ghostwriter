@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.0), today) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), today) - Factory-Driven Dependency Injection Container
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), today) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), today) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
@@ -52,7 +53,6 @@
 - [laminas/laminas-cache](https://github.com/laminas/laminas-cache) ([3.1.3](https://github.com/laminas/laminas-cache/releases/tag/3.1.3), 2 weeks ago) - Caching implementation with a variety of storage options, as well as codified caching strategies for callbacks, classes, and output
 - [laminas/laminas-memory](https://github.com/laminas/laminas-memory) ([2.9.0](https://github.com/laminas/laminas-memory/releases/tag/2.9.0), 2 weeks ago) - Manage data in an environment with limited memory
 - [laminas/laminas-view](https://github.com/laminas/laminas-view) ([2.20.0](https://github.com/laminas/laminas-view/releases/tag/2.20.0), 2 weeks ago) - Flexible view layer supporting and providing multiple view layers, helpers, and more
-- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) ([2.7.0](https://github.com/laminas/laminas-component-installer/releases/tag/2.7.0), 2 weeks ago) - Composer plugin for injecting modules and configuration providers into application configuration
 
 #### 👷 Check out what I'm currently working on
 
