@@ -20,6 +20,10 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
+- [Add `CODEOWNERS` file](https://github.com/ghostwriter/styleci-action/pull/3) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
+- [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/styleci-action/pull/2) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
+- [QA: Disable unnecessary scheduled builds](https://github.com/ghostwriter/styleci-action/pull/1) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
 - [Bump `composer` to `2.3.4`](https://github.com/ghostwriter/php/pull/36) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Build on `push` to `main` branch](https://github.com/ghostwriter/php/pull/35) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 - [Bump `xdebug` to `3.1.4`](https://github.com/ghostwriter/php/pull/34) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
@@ -31,10 +35,6 @@
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to `2.3.2`](https://github.com/ghostwriter/php/pull/30) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to `2.3.1`](https://github.com/ghostwriter/php/pull/29) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `composer` to `2.2.10`](https://github.com/ghostwriter/php/pull/28) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `memcached-3.2.0`](https://github.com/ghostwriter/php/pull/27) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/26) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `memcached` to `3.2.0`](https://github.com/ghostwriter/php/pull/25) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -56,6 +56,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (today)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
@@ -65,7 +66,6 @@
 - [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (2 weeks ago)
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (2 weeks ago)
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (2 weeks ago)
-- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) - Composer plugin for injecting modules and configuration providers into application configuration (2 weeks ago)
 
 #### 🌱 My latest projects
 
