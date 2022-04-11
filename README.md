@@ -20,13 +20,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
-- [Add `CODEOWNERS` file](https://github.com/ghostwriter/styleci-action/pull/3) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
-- [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/styleci-action/pull/2) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
-- [QA: Disable unnecessary scheduled builds](https://github.com/ghostwriter/styleci-action/pull/1) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)
-- [Bump `composer` to `2.3.4`](https://github.com/ghostwriter/php/pull/36) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [Build on `push` to `main` branch](https://github.com/ghostwriter/php/pull/35) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [Bump `xdebug` to `3.1.4`](https://github.com/ghostwriter/php/pull/34) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 day ago)
+- [Add `CODEOWNERS` file](https://github.com/ghostwriter/styleci-action/pull/3) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 day ago)
+- [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/styleci-action/pull/2) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 day ago)
+- [QA: Disable unnecessary scheduled builds](https://github.com/ghostwriter/styleci-action/pull/1) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 day ago)
+- [Bump `composer` to `2.3.4`](https://github.com/ghostwriter/php/pull/36) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [Build on `push` to `main` branch](https://github.com/ghostwriter/php/pull/35) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [Bump `xdebug` to `3.1.4`](https://github.com/ghostwriter/php/pull/34) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Update README.md](https://github.com/ghostwriter/composer-lock/pull/7) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
 - [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
 - [Bump composer dependencies](https://github.com/ghostwriter/composer-lock/pull/4) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
@@ -38,14 +38,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 3 days ago) - laminas-authentication adapter for mezzio-authentication.
-- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.0), 3 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 3 days ago) - Factory-Driven Dependency Injection Container
-- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 3 days ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
-- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 3 days ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
-- [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) ([3.5.0](https://github.com/laminas/laminas-eventmanager/releases/tag/3.5.0), 4 days ago) - Trigger and listen to events within a PHP application
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.2](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.2), 4 days ago) - PSR HTTP Message implementations
-- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.5.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.5.0), 5 days ago) - laminas-view PhpRenderer integration for Mezzio
+- [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 4 days ago) - laminas-authentication adapter for mezzio-authentication.
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.0), 4 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
+- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 4 days ago) - Factory-Driven Dependency Injection Container
+- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 4 days ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
+- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 4 days ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
+- [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) ([3.5.0](https://github.com/laminas/laminas-eventmanager/releases/tag/3.5.0), 5 days ago) - Trigger and listen to events within a PHP application
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.2](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.2), 5 days ago) - PSR HTTP Message implementations
+- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.5.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.5.0), 6 days ago) - laminas-view PhpRenderer integration for Mezzio
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 1 week ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
@@ -56,9 +56,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (today)
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 week ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (1 week ago)
