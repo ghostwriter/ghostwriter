@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), today) - laminas-view PhpRenderer integration for Mezzio
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 4 days ago) - laminas-authentication adapter for mezzio-authentication.
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.0), 4 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 4 days ago) - Factory-Driven Dependency Injection Container
@@ -45,7 +46,6 @@
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 4 days ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 - [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) ([3.5.0](https://github.com/laminas/laminas-eventmanager/releases/tag/3.5.0), 5 days ago) - Trigger and listen to events within a PHP application
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.2](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.2), 5 days ago) - PSR HTTP Message implementations
-- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.5.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.5.0), 6 days ago) - laminas-view PhpRenderer integration for Mezzio
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 1 week ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), 1 week ago) - A set of components for performing diagnostic tests in PHP applications
