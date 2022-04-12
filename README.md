@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.7.0](https://github.com/laminas/laminas-crypt/releases/tag/3.7.0), today) - Strong cryptography tools and password hashing
+- [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.8.0](https://github.com/laminas/laminas-crypt/releases/tag/3.8.0), today) - Strong cryptography tools and password hashing
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 1 day ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 day ago) - laminas-view PhpRenderer integration for Mezzio
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 5 days ago) - laminas-authentication adapter for mezzio-authentication.
