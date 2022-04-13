@@ -20,6 +20,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump composer `v1.10.26` and `v2.3.5`](https://github.com/ghostwriter/php/pull/37) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump PHP `7.4`, Add `Psalm` and Drop reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/22) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (today)
 - [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)
 - [Add `CODEOWNERS` file](https://github.com/ghostwriter/styleci-action/pull/3) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/styleci-action/pull/2) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)
@@ -33,8 +35,6 @@
 - [Bump `composer` to `2.3.3`](https://github.com/ghostwriter/php/pull/33) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to `2.2.11`](https://github.com/ghostwriter/php/pull/32) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `composer` to `2.3.2`](https://github.com/ghostwriter/php/pull/30) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `composer` to `2.3.1`](https://github.com/ghostwriter/php/pull/29) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
