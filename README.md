@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), today) - Installer plugin for Laminas MVC Skeleton application
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), today) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.8.0](https://github.com/laminas/laminas-crypt/releases/tag/3.8.0), 1 day ago) - Strong cryptography tools and password hashing
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 2 days ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
@@ -52,7 +53,6 @@
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.3](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.3), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 2 weeks ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
 - [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) ([1.15.0](https://github.com/laminas/laminas-diagnostics/releases/tag/1.15.0), 2 weeks ago) - A set of components for performing diagnostic tests in PHP applications
-- [laminas/laminas-feed](https://github.com/laminas/laminas-feed) ([2.17.0](https://github.com/laminas/laminas-feed/releases/tag/2.17.0), 2 weeks ago) - Consume and generate Atom and RSS feeds, and interact with Pubsubhubbub.
 
 #### 👷 Check out what I'm currently working on
 
