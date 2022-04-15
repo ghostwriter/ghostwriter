@@ -20,6 +20,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump composer `v1.10.26` and `v2.3.5`](https://github.com/ghostwriter/php/pull/37) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Bump PHP `7.4`, Add `Psalm` and Drop reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/22) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 days ago)
 - [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (5 days ago)
@@ -32,9 +35,6 @@
 - [Update README.md](https://github.com/ghostwriter/composer-lock/pull/7) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
 - [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
 - [Bump composer dependencies](https://github.com/ghostwriter/composer-lock/pull/4) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
-- [Bump `composer` to `2.3.3`](https://github.com/ghostwriter/php/pull/33) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `composer` to `2.2.11`](https://github.com/ghostwriter/php/pull/32) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/php/pull/31) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
