@@ -20,9 +20,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump composer `v1.10.26` and `v2.3.5`](https://github.com/ghostwriter/php/pull/37) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump PHP `7.4`, Add `Psalm` and Drop reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/22) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (1 week ago)
 - [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 week ago)
@@ -56,16 +56,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (6 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 week ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (2 weeks ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (3 weeks ago)
-- [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (3 weeks ago)
-- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (4 weeks ago)
-- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (4 weeks ago)
-- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (4 weeks ago)
+- [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (4 weeks ago)
+- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (1 month ago)
+- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (1 month ago)
+- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (1 month ago)
 
 #### 🌱 My latest projects
 
