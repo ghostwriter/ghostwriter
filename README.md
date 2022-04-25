@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [QA: Composer and GitHub Actions](https://github.com/ghostwriter/composer-lock/pull/9) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 day ago)
+- [QA: Composer and GitHub Actions](https://github.com/ghostwriter/composer-lock/pull/9) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 days ago)
 - [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -31,20 +31,20 @@
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/styleci-action/pull/2) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 weeks ago)
 - [QA: Disable unnecessary scheduled builds](https://github.com/ghostwriter/styleci-action/pull/1) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 weeks ago)
 - [Bump `composer` to `2.3.4`](https://github.com/ghostwriter/php/pull/36) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Build on `push` to `main` branch](https://github.com/ghostwriter/php/pull/35) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `xdebug` to `3.1.4`](https://github.com/ghostwriter/php/pull/34) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
+- [Build on `push` to `main` branch](https://github.com/ghostwriter/php/pull/35) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
+- [Bump `xdebug` to `3.1.4`](https://github.com/ghostwriter/php/pull/34) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 - [Update README.md](https://github.com/ghostwriter/composer-lock/pull/7) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (3 weeks ago)
 - [Switch to reusable workflows](https://github.com/ghostwriter/composer-lock/pull/5) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 1 day ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 2 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 1 week ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 1 week ago) - Installer plugin for Laminas MVC Skeleton application
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), 1 week ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.8.0](https://github.com/laminas/laminas-crypt/releases/tag/3.8.0), 1 week ago) - Strong cryptography tools and password hashing
-- [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 1 week ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
-- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 week ago) - laminas-view PhpRenderer integration for Mezzio
+- [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 2 weeks ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
+- [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 2 weeks ago) - laminas-view PhpRenderer integration for Mezzio
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 2 weeks ago) - laminas-authentication adapter for mezzio-authentication.
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.0](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.0), 2 weeks ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 2 weeks ago) - Factory-Driven Dependency Injection Container
@@ -56,7 +56,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 weeks ago)
