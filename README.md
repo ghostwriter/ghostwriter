@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.1.1](https://github.com/ghostwriter/container/releases/tag/0.1.1), today) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 2 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 1 week ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 1 week ago) - Installer plugin for Laminas MVC Skeleton application
@@ -52,7 +53,6 @@
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 2 weeks ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 - [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) ([3.5.0](https://github.com/laminas/laminas-eventmanager/releases/tag/3.5.0), 2 weeks ago) - Trigger and listen to events within a PHP application
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.2](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.2), 2 weeks ago) - PSR HTTP Message implementations
-- [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) ([1.4.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.4.0), 3 weeks ago) - Username/password, session-backed authentication adapter for mezzio-authentication.
 
 #### 👷 Check out what I'm currently working on
 
