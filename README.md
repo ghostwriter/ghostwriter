@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.1.1](https://github.com/ghostwriter/container/releases/tag/0.1.1), 1 day ago) - 
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.1.1](https://github.com/ghostwriter/container/releases/tag/0.1.1), 1 day ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 3 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 1 week ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 1 week ago) - Installer plugin for Laminas MVC Skeleton application
@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/container](https://github.com/ghostwriter/container) -  (1 day ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 weeks ago)
@@ -72,7 +72,7 @@
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources
-- [ghostwriter/container](https://github.com/ghostwriter/container) - 
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
