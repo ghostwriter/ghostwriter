@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.4.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.4.0), today) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.1.1](https://github.com/ghostwriter/container/releases/tag/0.1.1), 3 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 5 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 2 weeks ago) - Skeleton application for creating laminas-mvc based projects.
@@ -52,7 +53,6 @@
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 3 weeks ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 3 weeks ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 - [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) ([3.5.0](https://github.com/laminas/laminas-eventmanager/releases/tag/3.5.0), 3 weeks ago) - Trigger and listen to events within a PHP application
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.9.2](https://github.com/laminas/laminas-diactoros/releases/tag/2.9.2), 3 weeks ago) - PSR HTTP Message implementations
 
 #### 👷 Check out what I'm currently working on
 
@@ -64,8 +64,8 @@
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (3 weeks ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (1 month ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (1 month ago)
-- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (1 month ago)
 - [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (1 month ago)
+- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (1 month ago)
 
 #### 🌱 My latest projects
 
