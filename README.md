@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.1](https://github.com/laminas/laminas-log/releases/tag/2.15.1), today) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.4.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.4.0), 1 day ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.1.1](https://github.com/ghostwriter/container/releases/tag/0.1.1), 4 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 6 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
@@ -52,7 +53,6 @@
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 3 weeks ago) - Factory-Driven Dependency Injection Container
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 3 weeks ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
 - [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 3 weeks ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
-- [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) ([3.5.0](https://github.com/laminas/laminas-eventmanager/releases/tag/3.5.0), 3 weeks ago) - Trigger and listen to events within a PHP application
 
 #### 👷 Check out what I'm currently working on
 
