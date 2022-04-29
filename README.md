@@ -20,11 +20,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Initial release](https://github.com/ghostwriter/container/pull/1) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
-- [QA: Composer and GitHub Actions](https://github.com/ghostwriter/composer-lock/pull/9) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (5 days ago)
-- [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [Initial release](https://github.com/ghostwriter/container/pull/1) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)
+- [QA: Composer and GitHub Actions](https://github.com/ghostwriter/composer-lock/pull/9) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (6 days ago)
+- [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
+- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
+- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Bump composer `v1.10.26` and `v2.3.5`](https://github.com/ghostwriter/php/pull/37) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Bump PHP `7.4`, Add `Psalm` and Drop reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/22) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 weeks ago)
 - [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 weeks ago)
@@ -38,9 +38,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.4.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.4.0), today) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.1.1](https://github.com/ghostwriter/container/releases/tag/0.1.1), 3 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 5 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.4.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.4.0), 1 day ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.1.1](https://github.com/ghostwriter/container/releases/tag/0.1.1), 4 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 6 days ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 2 weeks ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 2 weeks ago) - Installer plugin for Laminas MVC Skeleton application
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), 2 weeks ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
@@ -56,9 +56,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (3 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (4 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 weeks ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (3 weeks ago)
