@@ -56,7 +56,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (5 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 weeks ago)
