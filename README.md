@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [QA: Optimize and cleanup](https://github.com/ghostwriter/container/pull/3) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [Match zero or one whitespace character](https://github.com/laminas/laminas-ci-matrix-action/pull/89) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (today)
 - [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-ci-matrix-action/pull/88) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (today)
 - [QA - Refactoring and code cleanup](https://github.com/ghostwriter/container/pull/2) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)
@@ -34,12 +35,11 @@
 - [Add `CODEOWNERS` file](https://github.com/ghostwriter/styleci-action/pull/3) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/styleci-action/pull/2) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
 - [QA: Disable unnecessary scheduled builds](https://github.com/ghostwriter/styleci-action/pull/1) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
-- [Bump `composer` to `2.3.4`](https://github.com/ghostwriter/php/pull/36) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.2.2](https://github.com/ghostwriter/container/releases/tag/0.2.2), today) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), today) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.2.1](https://github.com/ghostwriter/container/releases/tag/0.2.1), 1 day ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.1](https://github.com/laminas/laminas-log/releases/tag/2.15.1), 3 days ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 2 weeks ago) - Skeleton application for creating laminas-mvc based projects.
