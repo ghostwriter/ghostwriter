@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-continuous-integration-action/pull/92) on [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) (today)
 - [QA: Optimize and cleanup](https://github.com/ghostwriter/container/pull/3) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [Match zero or one whitespace character](https://github.com/laminas/laminas-ci-matrix-action/pull/89) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (today)
 - [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-ci-matrix-action/pull/88) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (today)
@@ -34,7 +35,6 @@
 - [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
 - [Add `CODEOWNERS` file](https://github.com/ghostwriter/styleci-action/pull/3) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
 - [Use GitHub Actions cache exporter for docker builds](https://github.com/ghostwriter/styleci-action/pull/2) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
-- [QA: Disable unnecessary scheduled builds](https://github.com/ghostwriter/styleci-action/pull/1) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
