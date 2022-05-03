@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.2.2](https://github.com/ghostwriter/container/releases/tag/0.2.2), 1 day ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.0](https://github.com/ghostwriter/container/releases/tag/0.3.0), today) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 1 day ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.1](https://github.com/laminas/laminas-log/releases/tag/2.15.1), 4 days ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (1 day ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (3 weeks ago)
