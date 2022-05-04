@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), today) - PSR HTTP Message implementations
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), today) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.0](https://github.com/ghostwriter/container/releases/tag/0.3.0), 1 day ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 2 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
@@ -52,7 +53,6 @@
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 3 weeks ago) - laminas-authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 3 weeks ago) - Factory-Driven Dependency Injection Container
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 3 weeks ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
-- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 3 weeks ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 
 #### 👷 Check out what I'm currently working on
 
