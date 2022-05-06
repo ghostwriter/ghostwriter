@@ -20,29 +20,29 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/php/pull/43) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
-- [Add `invoke` method and property accessors](https://github.com/ghostwriter/container/pull/4) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)
-- [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-continuous-integration-action/pull/92) on [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) (3 days ago)
-- [QA: Optimize and cleanup](https://github.com/ghostwriter/container/pull/3) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
-- [Match zero or one whitespace character](https://github.com/laminas/laminas-ci-matrix-action/pull/89) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (3 days ago)
-- [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-ci-matrix-action/pull/88) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (3 days ago)
-- [QA - Refactoring and code cleanup](https://github.com/ghostwriter/container/pull/2) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)
+- [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/php/pull/43) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
+- [Add `invoke` method and property accessors](https://github.com/ghostwriter/container/pull/4) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
+- [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-continuous-integration-action/pull/92) on [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) (4 days ago)
+- [QA: Optimize and cleanup](https://github.com/ghostwriter/container/pull/3) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)
+- [Match zero or one whitespace character](https://github.com/laminas/laminas-ci-matrix-action/pull/89) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (4 days ago)
+- [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-ci-matrix-action/pull/88) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (4 days ago)
+- [QA - Refactoring and code cleanup](https://github.com/ghostwriter/container/pull/2) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)
 - [Initial release](https://github.com/ghostwriter/container/pull/1) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 - [QA: Composer and GitHub Actions](https://github.com/ghostwriter/composer-lock/pull/9) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
-- [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
+- [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
+- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
+- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 - [Bump composer `v1.10.26` and `v2.3.5`](https://github.com/ghostwriter/php/pull/37) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 - [Bump PHP `7.4`, Add `Psalm` and Drop reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/22) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (3 weeks ago)
 - [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), 1 day ago) - PSR HTTP Message implementations
-- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 1 day ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.0](https://github.com/ghostwriter/container/releases/tag/0.3.0), 2 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 3 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
-- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.1](https://github.com/laminas/laminas-log/releases/tag/2.15.1), 6 days ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
+- [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), 2 days ago) - PSR HTTP Message implementations
+- [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 2 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.0](https://github.com/ghostwriter/container/releases/tag/0.3.0), 3 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 4 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
+- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.1](https://github.com/laminas/laminas-log/releases/tag/2.15.1), 1 week ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 1 week ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 3 weeks ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 3 weeks ago) - Installer plugin for Laminas MVC Skeleton application
@@ -56,10 +56,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (2 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 weeks ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (3 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (3 weeks ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 month ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (1 month ago)
