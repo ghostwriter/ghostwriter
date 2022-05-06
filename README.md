@@ -20,6 +20,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump docker/setup-buildx-action from 1 to 2](https://github.com/ghostwriter/php/pull/49) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump docker/build-push-action from 2 to 3](https://github.com/ghostwriter/php/pull/48) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/php/pull/43) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [Add `invoke` method and property accessors](https://github.com/ghostwriter/container/pull/4) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
 - [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-continuous-integration-action/pull/92) on [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) (4 days ago)
@@ -33,8 +35,6 @@
 - [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 - [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 - [Bump composer `v1.10.26` and `v2.3.5`](https://github.com/ghostwriter/php/pull/37) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
-- [Bump PHP `7.4`, Add `Psalm` and Drop reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/22) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (3 weeks ago)
-- [Make docker build workflow dispatch-able](https://github.com/ghostwriter/styleci-action/pull/4) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
