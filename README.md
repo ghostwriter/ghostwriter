@@ -20,6 +20,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump docker/login-action from 1 to 2](https://github.com/ghostwriter/php/pull/51) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump docker/setup-qemu-action from 1 to 2](https://github.com/ghostwriter/php/pull/50) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump docker/setup-buildx-action from 1 to 2](https://github.com/ghostwriter/php/pull/49) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump docker/build-push-action from 2 to 3](https://github.com/ghostwriter/php/pull/48) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/php/pull/43) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -33,8 +35,6 @@
 - [QA: Composer and GitHub Actions](https://github.com/ghostwriter/composer-lock/pull/9) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (1 week ago)
 - [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 - [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
-- [Bump `PHP` v7.4.29](https://github.com/ghostwriter/php/pull/38) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
-- [Bump composer `v1.10.26` and `v2.3.5`](https://github.com/ghostwriter/php/pull/37) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (3 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (3 weeks ago)
