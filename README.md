@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.5.0](https://github.com/laminas/laminas-di/releases/tag/3.5.0), today) - Automated dependency injection for PSR-11 containers
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), 5 days ago) - PSR HTTP Message implementations
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 5 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.0](https://github.com/ghostwriter/container/releases/tag/0.3.0), 6 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
@@ -52,7 +53,6 @@
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 4 weeks ago) - laminas-view PhpRenderer integration for Mezzio
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 1 month ago) - Factory-Driven Dependency Injection Container
-- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 1 month ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
 
 #### 👷 Check out what I'm currently working on
 
