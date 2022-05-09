@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [QA: code cleanup](https://github.com/ghostwriter/container/pull/5) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [Bump `docker/login-action` from 1 to 2](https://github.com/ghostwriter/php/pull/51) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Bump `docker/setup-qemu-action` from 1 to 2](https://github.com/ghostwriter/php/pull/50) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Bump `docker/setup-buildx-action` from 1 to 2](https://github.com/ghostwriter/php/pull/49) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
@@ -34,14 +35,13 @@
 - [Initial release](https://github.com/ghostwriter/container/pull/1) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)
 - [QA: Composer and GitHub Actions](https://github.com/ghostwriter/composer-lock/pull/9) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (2 weeks ago)
 - [Bump `PHP` v8.1.5](https://github.com/ghostwriter/php/pull/40) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
-- [Bump `PHP` v8.0.18](https://github.com/ghostwriter/php/pull/39) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.1](https://github.com/ghostwriter/container/releases/tag/0.3.1), today) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.5.0](https://github.com/laminas/laminas-di/releases/tag/3.5.0), today) - Automated dependency injection for PSR-11 containers
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), 5 days ago) - PSR HTTP Message implementations
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 5 days ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.0](https://github.com/ghostwriter/container/releases/tag/0.3.0), 6 days ago) - Provides an extensible PSR-11, Dependency Injection Service Container.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.1](https://github.com/laminas/laminas-log/releases/tag/2.15.1), 1 week ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 2 weeks ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
@@ -56,9 +56,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (today)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (6 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (4 weeks ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 month ago)
