@@ -43,20 +43,20 @@
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), 1 week ago) - PSR HTTP Message implementations
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
-- [laminas/laminas-log](https://github.com/laminas/laminas-log) ([2.15.1](https://github.com/laminas/laminas-log/releases/tag/2.15.1), 1 week ago) - Robust, composite logger with filtering, formatting, and PSR-3 support
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 2 weeks ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
-- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([1.4.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0), 4 weeks ago) - Skeleton application for creating laminas-mvc based projects.
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 4 weeks ago) - Installer plugin for Laminas MVC Skeleton application
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), 4 weeks ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
-- [laminas/laminas-crypt](https://github.com/laminas/laminas-crypt) ([3.8.0](https://github.com/laminas/laminas-crypt/releases/tag/3.8.0), 4 weeks ago) - Strong cryptography tools and password hashing
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 1 month ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 month ago) - laminas-view PhpRenderer integration for Mezzio
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 1 month ago) - Factory-Driven Dependency Injection Container
+- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 1 month ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
+- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 1 month ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
+- [laminas/laminas-eventmanager](https://github.com/laminas/laminas-eventmanager) ([3.5.0](https://github.com/laminas/laminas-eventmanager/releases/tag/3.5.0), 1 month ago) - Trigger and listen to events within a PHP application
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides an extensible PSR-11, Dependency Injection Service Container. (2 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 weeks ago)
