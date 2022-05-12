@@ -20,6 +20,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `PHP` v8.1.6](https://github.com/ghostwriter/php/pull/55) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `PHP` v8.1.6RC1](https://github.com/ghostwriter/php/pull/54) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `PHP` v8.0.19RC1](https://github.com/ghostwriter/php/pull/53) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump `PHP` v8.0.19](https://github.com/ghostwriter/php/pull/52) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Bump markdownlint cli2 to 0.4.0](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/3) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (today)
@@ -33,8 +35,6 @@
 - [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-continuous-integration-action/pull/92) on [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) (1 week ago)
 - [QA: Optimize and cleanup](https://github.com/ghostwriter/container/pull/3) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 - [Match zero or one whitespace character](https://github.com/laminas/laminas-ci-matrix-action/pull/89) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (1 week ago)
-- [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-ci-matrix-action/pull/88) on [laminas/laminas-ci-matrix-action](https://github.com/laminas/laminas-ci-matrix-action) (1 week ago)
-- [QA - Refactoring and code cleanup](https://github.com/ghostwriter/container/pull/2) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
