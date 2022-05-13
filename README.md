@@ -38,9 +38,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.6.0](https://github.com/laminas/laminas-di/releases/tag/3.6.0), today) - Automated dependency injection for PSR-11 containers
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.1.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.1.0), 2 days ago) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.1](https://github.com/ghostwriter/container/releases/tag/0.3.1), 4 days ago) - Provides a PSR-11 Container implementation.
-- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.5.0](https://github.com/laminas/laminas-di/releases/tag/3.5.0), 4 days ago) - Automated dependency injection for PSR-11 containers
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), 1 week ago) - PSR HTTP Message implementations
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
