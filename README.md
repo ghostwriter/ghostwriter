@@ -38,7 +38,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/console](https://github.com/ghostwriter/console) ([0.1.0](https://github.com/ghostwriter/console/releases/tag/0.1.0), today) - Provides a micro-framework for a Console Application
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.6.0](https://github.com/laminas/laminas-di/releases/tag/3.6.0), 1 day ago) - Automated dependency injection for PSR-11 containers
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.1.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.1.0), 3 days ago) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.1](https://github.com/ghostwriter/container/releases/tag/0.3.1), 5 days ago) - Provides a PSR-11 Container implementation.
@@ -53,16 +52,17 @@
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 1 month ago) - Factory-Driven Dependency Injection Container
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 1 month ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
+- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 1 month ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for a Console Application (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
+- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for a Console Application (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 day ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (3 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (5 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (4 weeks ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 month ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (1 month ago)
