@@ -56,10 +56,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for a Console Application (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 day ago)
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (3 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (5 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (4 weeks ago)
