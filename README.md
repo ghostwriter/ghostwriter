@@ -57,15 +57,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides an implementation of Rust&#39;s Result type (today)
-- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
+- [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides an implementation of Rust&#39;s Result type for PHP (today)
+- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an implementation of Rust&#39;s Option type for PHP (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
+- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 day ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (2 days ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (4 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (6 days ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
-- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -76,7 +76,7 @@
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation.
-- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides an implementation of Rust&#39;s Result type
+- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an implementation of Rust&#39;s Option type for PHP
+- [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides an implementation of Rust&#39;s Result type for PHP
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 
