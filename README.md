@@ -20,13 +20,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;Bump ubuntu from 20.04 to 22.04&#34;](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/4) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (2 days ago)
-- [Bump `PHP` v8.1.6](https://github.com/ghostwriter/php/pull/55) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [Bump `PHP` v8.1.6RC1](https://github.com/ghostwriter/php/pull/54) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [Bump `PHP` v8.0.19RC1](https://github.com/ghostwriter/php/pull/53) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [Bump `PHP` v8.0.19](https://github.com/ghostwriter/php/pull/52) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [Bump markdownlint cli2 to 0.4.0](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/3) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (2 days ago)
-- [QA: code cleanup](https://github.com/ghostwriter/container/pull/5) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)
+- [Revert &#34;Bump ubuntu from 20.04 to 22.04&#34;](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/4) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (3 days ago)
+- [Bump `PHP` v8.1.6](https://github.com/ghostwriter/php/pull/55) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Bump `PHP` v8.1.6RC1](https://github.com/ghostwriter/php/pull/54) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Bump `PHP` v8.0.19RC1](https://github.com/ghostwriter/php/pull/53) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Bump `PHP` v8.0.19](https://github.com/ghostwriter/php/pull/52) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Bump markdownlint cli2 to 0.4.0](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/3) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (3 days ago)
+- [QA: code cleanup](https://github.com/ghostwriter/container/pull/5) on [ghostwriter/container](https://github.com/ghostwriter/container) (6 days ago)
 - [Bump `docker/login-action` from 1 to 2](https://github.com/ghostwriter/php/pull/51) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `docker/setup-qemu-action` from 1 to 2](https://github.com/ghostwriter/php/pull/50) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `docker/setup-buildx-action` from 1 to 2](https://github.com/ghostwriter/php/pull/49) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -38,9 +38,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.6.0](https://github.com/laminas/laminas-di/releases/tag/3.6.0), 1 day ago) - Automated dependency injection for PSR-11 containers
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.1.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.1.0), 3 days ago) - Provides a PSR-14 Event Dispatcher implementation.
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.1](https://github.com/ghostwriter/container/releases/tag/0.3.1), 5 days ago) - Provides a PSR-11 Container implementation.
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.6.0](https://github.com/laminas/laminas-di/releases/tag/3.6.0), 2 days ago) - Automated dependency injection for PSR-11 containers
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.1.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.1.0), 4 days ago) - Provides a PSR-14 Event Dispatcher implementation.
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.1](https://github.com/ghostwriter/container/releases/tag/0.3.1), 6 days ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.10.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.10.0), 1 week ago) - PSR HTTP Message implementations
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 1 week ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 1 week ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
@@ -56,13 +56,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
-- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (today)
-- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 day ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (3 days ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (5 days ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
+- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 day ago)
+- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (2 days ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (4 days ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (6 days ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 month ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (1 month ago)
