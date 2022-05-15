@@ -58,7 +58,7 @@
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides an implementation of Rust&#39;s Result type for PHP (today)
-- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an implementation of Rust&#39;s Option type for PHP (today)
+- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an Option type implementation for PHP (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 day ago)
@@ -76,7 +76,7 @@
 - [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) - TN Resources
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation.
-- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an implementation of Rust&#39;s Option type for PHP
+- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an Option type implementation for PHP
 - [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides an implementation of Rust&#39;s Result type for PHP
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 
