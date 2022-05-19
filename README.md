@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Initial release](https://github.com/ghostwriter/option/pull/1) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Revert &#34;Bump ubuntu from 20.04 to 22.04&#34;](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/4) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (1 week ago)
 - [Bump `PHP` v8.1.6](https://github.com/ghostwriter/php/pull/55) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `PHP` v8.1.6RC1](https://github.com/ghostwriter/php/pull/54) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -34,10 +35,10 @@
 - [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/php/pull/43) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Add `invoke` method and property accessors](https://github.com/ghostwriter/container/pull/4) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)
 - [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-continuous-integration-action/pull/92) on [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) (2 weeks ago)
-- [QA: Optimize and cleanup](https://github.com/ghostwriter/container/pull/3) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/option](https://github.com/ghostwriter/option) ([0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0), today) - Provides an Option type implementation for PHP
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.11.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.11.0), 2 days ago) - PSR HTTP Message implementations
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.7.0](https://github.com/laminas/laminas-di/releases/tag/3.7.0), 4 days ago) - Automated dependency injection for PSR-11 containers
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.1.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.1.0), 1 week ago) - Provides a PSR-14 Event Dispatcher implementation.
@@ -52,14 +53,13 @@
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 1 month ago) - Factory-Driven Dependency Injection Container
 - [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 1 month ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
-- [mezzio/mezzio-authentication-oauth2](https://github.com/mezzio/mezzio-authentication-oauth2) ([2.4.1](https://github.com/mezzio/mezzio-authentication-oauth2/releases/tag/2.4.1), 1 month ago) - OAuth2 (server) authentication middleware for Mezzio and PSR-7 applications.
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 days ago)
 - [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides a Result type implementation for PHP (4 days ago)
-- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an Option type implementation for PHP (4 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (5 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (6 days ago)
@@ -74,7 +74,7 @@
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation.
-- [ghostwriter/option-type](https://github.com/ghostwriter/option-type) - Provides an Option type implementation for PHP
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP
 - [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides a Result type implementation for PHP
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
