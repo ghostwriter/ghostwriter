@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Initial release](https://github.com/ghostwriter/result/pull/1) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [Initial release](https://github.com/ghostwriter/option/pull/1) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Revert &#34;Bump ubuntu from 20.04 to 22.04&#34;](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/4) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (1 week ago)
 - [Bump `PHP` v8.1.6](https://github.com/ghostwriter/php/pull/55) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -34,7 +35,6 @@
 - [Bump `docker/build-push-action` from 2 to 3](https://github.com/ghostwriter/php/pull/48) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/php/pull/43) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Add `invoke` method and property accessors](https://github.com/ghostwriter/container/pull/4) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)
-- [Support `schedule` event for GitHub Actions](https://github.com/laminas/laminas-continuous-integration-action/pull/92) on [laminas/laminas-continuous-integration-action](https://github.com/laminas/laminas-continuous-integration-action) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,15 +57,15 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (today)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (2 days ago)
-- [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides a Result type implementation for PHP (4 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (5 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (6 days ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (1 week ago)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
+- [nathane/styleci-action](https://github.com/nathane/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -75,8 +75,8 @@
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP
-- [ghostwriter/result-type](https://github.com/ghostwriter/result-type) - Provides a Result type implementation for PHP
+- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool.
+- [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions
 
