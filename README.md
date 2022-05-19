@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/result](https://github.com/ghostwriter/result) ([0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0), today) - Provides a Result type implementation for PHP
 - [ghostwriter/option](https://github.com/ghostwriter/option) ([0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0), today) - Provides an Option type implementation for PHP
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.11.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.11.0), 2 days ago) - PSR HTTP Message implementations
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.7.0](https://github.com/laminas/laminas-di/releases/tag/3.7.0), 4 days ago) - Automated dependency injection for PSR-11 containers
@@ -52,7 +53,6 @@
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 month ago) - laminas-view PhpRenderer integration for Mezzio
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 - [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 1 month ago) - Factory-Driven Dependency Injection Container
-- [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) ([2.12.0](https://github.com/laminas/laminas-captcha/releases/tag/2.12.0), 1 month ago) - Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more
 
 #### 👷 Check out what I'm currently working on
 
