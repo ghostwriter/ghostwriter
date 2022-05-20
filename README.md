@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/automated-compliance](https://github.com/ghostwriter/automated-compliance) ([0.1.0](https://github.com/ghostwriter/automated-compliance/releases/tag/0.1.0), today) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools on any platform via GitHub Action.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), today) - Testing utilities for laminas-cache adapters
 - [ghostwriter/result](https://github.com/ghostwriter/result) ([0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0), 1 day ago) - Provides a Result type implementation for PHP
 - [ghostwriter/option](https://github.com/ghostwriter/option) ([0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0), 1 day ago) - Provides an Option type implementation for PHP
@@ -52,12 +53,12 @@
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), 1 month ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 1 month ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 month ago) - laminas-view PhpRenderer integration for Mezzio
-- [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 
 #### 👷 Check out what I'm currently working on
 
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/automated-compliance](https://github.com/ghostwriter/automated-compliance) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools on any platform via GitHub Action. (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 day ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (3 days ago)
@@ -65,7 +66,6 @@
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (1 week ago)
-- [nathane/styleci-action](https://github.com/nathane/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (1 month ago)
 
 #### 🌱 My latest projects
 
