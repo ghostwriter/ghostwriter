@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), today) - Testing utilities for laminas-cache adapters
 - [ghostwriter/result](https://github.com/ghostwriter/result) ([0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0), 1 day ago) - Provides a Result type implementation for PHP
 - [ghostwriter/option](https://github.com/ghostwriter/option) ([0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0), 1 day ago) - Provides an Option type implementation for PHP
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.11.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.11.0), 3 days ago) - PSR HTTP Message implementations
@@ -52,7 +53,6 @@
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 1 month ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 month ago) - laminas-view PhpRenderer integration for Mezzio
 - [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
-- [laminas/laminas-servicemanager](https://github.com/laminas/laminas-servicemanager) ([3.11.2](https://github.com/laminas/laminas-servicemanager/releases/tag/3.11.2), 1 month ago) - Factory-Driven Dependency Injection Container
 
 #### 👷 Check out what I'm currently working on
 
