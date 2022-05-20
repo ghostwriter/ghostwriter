@@ -69,7 +69,7 @@
 
 #### 🌱 My latest projects
 
-- [ghostwriter/act](https://github.com/ghostwriter/act) - Automated Compliance Tool, Gives PHP developers the ability to automatically configure and execute multiple CI/CD &amp; QA Testing tools on any platform via GitHub Action.
+- [ghostwriter/act](https://github.com/ghostwriter/act) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools on any platform via GitHub Action.
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications.
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
