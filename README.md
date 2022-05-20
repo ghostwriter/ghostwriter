@@ -76,7 +76,7 @@
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP
-- [ghostwriter/code-2345678](https://github.com/ghostwriter/code-2345678) - 
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
+- [ghostwriter/curl](https://github.com/ghostwriter/curl) - curl for Github Actions
 
