@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `actions/cache` v3](https://github.com/ghostwriter/php/pull/58) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [GitHub cache exporter](https://github.com/ghostwriter/php/pull/56) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [Initial release](https://github.com/ghostwriter/result/pull/1) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)
 - [Initial release](https://github.com/ghostwriter/option/pull/1) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)
@@ -34,7 +35,6 @@
 - [Bump `docker/setup-qemu-action` from 1 to 2](https://github.com/ghostwriter/php/pull/50) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Bump `docker/setup-buildx-action` from 1 to 2](https://github.com/ghostwriter/php/pull/49) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Bump `docker/build-push-action` from 2 to 3](https://github.com/ghostwriter/php/pull/48) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/php/pull/43) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
