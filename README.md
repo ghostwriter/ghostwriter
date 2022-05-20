@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Initial release](https://github.com/ghostwriter/automated-compliance/pull/1) on [ghostwriter/automated-compliance](https://github.com/ghostwriter/automated-compliance) (today)
 - [Bump `actions/cache` v3](https://github.com/ghostwriter/php/pull/58) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [GitHub cache exporter](https://github.com/ghostwriter/php/pull/56) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [Initial release](https://github.com/ghostwriter/result/pull/1) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)
@@ -34,7 +35,6 @@
 - [Bump `docker/login-action` from 1 to 2](https://github.com/ghostwriter/php/pull/51) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Bump `docker/setup-qemu-action` from 1 to 2](https://github.com/ghostwriter/php/pull/50) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Bump `docker/setup-buildx-action` from 1 to 2](https://github.com/ghostwriter/php/pull/49) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Bump `docker/build-push-action` from 2 to 3](https://github.com/ghostwriter/php/pull/48) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -69,7 +69,7 @@
 
 #### 🌱 My latest projects
 
-- [ghostwriter/act](https://github.com/ghostwriter/act) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools on any platform via GitHub Action.
+- [ghostwriter/automated-compliance](https://github.com/ghostwriter/automated-compliance) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools on any platform via GitHub Action.
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications.
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
