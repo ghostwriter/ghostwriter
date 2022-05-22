@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) ([0.0.1](https://github.com/ghostwriter/compliance-automation/releases/tag/0.0.1), today) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.0), today) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.2](https://github.com/ghostwriter/container/releases/tag/0.3.2), 1 day ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 2 days ago) - Testing utilities for laminas-cache adapters
@@ -52,7 +53,6 @@
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), 1 month ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 1 month ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 month ago) - laminas-view PhpRenderer integration for Mezzio
-- [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 
 #### 👷 Check out what I'm currently working on
 
