@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Psalms issue](https://github.com/ghostwriter/compliance-automation/pull/6) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
 - [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance-automation/pull/5) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
 - [Rename automated-compliance to ghostwriter-compliance-automation](https://github.com/ghostwriter/compliance-automation/pull/4) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
 - [Update composer.json](https://github.com/ghostwriter/compliance-automation/pull/3) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
@@ -34,11 +35,10 @@
 - [Revert &#34;Bump ubuntu from 20.04 to 22.04&#34;](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/4) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (1 week ago)
 - [Bump `PHP` v8.1.6](https://github.com/ghostwriter/php/pull/55) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `PHP` v8.1.6RC1](https://github.com/ghostwriter/php/pull/54) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `PHP` v8.0.19RC1](https://github.com/ghostwriter/php/pull/53) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) ([0.0.1](https://github.com/ghostwriter/compliance-automation/releases/tag/0.0.1), today) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
+- [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) ([0.0.2](https://github.com/ghostwriter/compliance-automation/releases/tag/0.0.2), today) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.0), today) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.2](https://github.com/ghostwriter/container/releases/tag/0.3.2), 1 day ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 2 days ago) - Testing utilities for laminas-cache adapters
