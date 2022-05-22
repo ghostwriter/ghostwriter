@@ -38,7 +38,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) ([0.0.2](https://github.com/ghostwriter/compliance/releases/tag/0.0.2), today) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.0), today) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.2](https://github.com/ghostwriter/container/releases/tag/0.3.2), 1 day ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 2 days ago) - Testing utilities for laminas-cache adapters
@@ -53,11 +52,12 @@
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), 1 month ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) ([2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0), 1 month ago) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations
 - [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) ([2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0), 1 month ago) - laminas-view PhpRenderer integration for Mezzio
+- [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) ([1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0), 1 month ago) - laminas-authentication adapter for mezzio-authentication.
 
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action. (today)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
@@ -69,7 +69,7 @@
 
 #### 🌱 My latest projects
 
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action.
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications.
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
