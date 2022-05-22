@@ -20,14 +20,14 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Psalms issue](https://github.com/ghostwriter/compliance-automation/pull/6) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
-- [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance-automation/pull/5) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
-- [Rename automated-compliance to ghostwriter-compliance-automation](https://github.com/ghostwriter/compliance-automation/pull/4) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
-- [Update composer.json](https://github.com/ghostwriter/compliance-automation/pull/3) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
-- [Update README.md](https://github.com/ghostwriter/compliance-automation/pull/2) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (today)
+- [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
+- [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance/pull/5) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
+- [Rename automated-compliance to ghostwriter-compliance-automation](https://github.com/ghostwriter/compliance/pull/4) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
+- [Update composer.json](https://github.com/ghostwriter/compliance/pull/3) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
+- [Update README.md](https://github.com/ghostwriter/compliance/pull/2) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
 - [Feature: Event Service Provider](https://github.com/ghostwriter/event-dispatcher/pull/1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
 - [QA: Code refactoring](https://github.com/ghostwriter/container/pull/6) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)
-- [Initial release](https://github.com/ghostwriter/compliance-automation/pull/1) on [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) (2 days ago)
+- [Initial release](https://github.com/ghostwriter/compliance/pull/1) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)
 - [Bump `actions/cache` v3](https://github.com/ghostwriter/php/pull/58) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [GitHub cache exporter](https://github.com/ghostwriter/php/pull/56) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Initial release](https://github.com/ghostwriter/result/pull/1) on [ghostwriter/result](https://github.com/ghostwriter/result) (3 days ago)
@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) ([0.0.2](https://github.com/ghostwriter/compliance-automation/releases/tag/0.0.2), today) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) ([0.0.2](https://github.com/ghostwriter/compliance/releases/tag/0.0.2), today) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.0), today) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.2](https://github.com/ghostwriter/container/releases/tag/0.3.2), 1 day ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 2 days ago) - Testing utilities for laminas-cache adapters
@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action. (today)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action. (today)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
@@ -69,7 +69,7 @@
 
 #### 🌱 My latest projects
 
-- [ghostwriter/compliance-automation](https://github.com/ghostwriter/compliance-automation) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Automatically configure and execute multiple CI/CD &amp; QA Testing tools via GitHub Action.
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications.
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
