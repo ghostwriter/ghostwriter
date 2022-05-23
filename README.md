@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
 - [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
 - [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance/pull/5) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
 - [Rename automated-compliance to ghostwriter-compliance-automation](https://github.com/ghostwriter/compliance/pull/4) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
@@ -34,7 +35,6 @@
 - [Initial release](https://github.com/ghostwriter/option/pull/1) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)
 - [Revert &#34;Bump ubuntu from 20.04 to 22.04&#34;](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/4) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (1 week ago)
 - [Bump `PHP` v8.1.6](https://github.com/ghostwriter/php/pull/55) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `PHP` v8.1.6RC1](https://github.com/ghostwriter/php/pull/54) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
