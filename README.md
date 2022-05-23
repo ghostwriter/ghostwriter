@@ -38,6 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.6.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.6.0), today) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.0), 1 day ago) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.2](https://github.com/ghostwriter/container/releases/tag/0.3.2), 2 days ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 3 days ago) - Testing utilities for laminas-cache adapters
@@ -46,7 +47,6 @@
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.11.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.11.0), 6 days ago) - PSR HTTP Message implementations
 - [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.7.0](https://github.com/laminas/laminas-di/releases/tag/3.7.0), 1 week ago) - Automated dependency injection for PSR-11 containers
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 2 weeks ago) - HTTP Basic Authentication adapter for mezzio-authentication.
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.5.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.5.0), 3 weeks ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 1 month ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 1 month ago) - Installer plugin for Laminas MVC Skeleton application
 - [perftools/xhgui](https://github.com/perftools/xhgui) ([0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5), 1 month ago) - Web interface for XHProf profiling data can store data in MongoDB or PDO database
