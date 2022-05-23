@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.1), today) - Provides a PSR-14 Event Dispatcher implementation.
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.2), today) - Provides a PSR-14 Event Dispatcher implementation.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.6.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.6.0), today) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.2](https://github.com/ghostwriter/container/releases/tag/0.3.2), 2 days ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 3 days ago) - Testing utilities for laminas-cache adapters
@@ -57,8 +57,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (today)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (2 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (4 days ago)
@@ -69,6 +69,7 @@
 
 #### 🌱 My latest projects
 
+- [ghostwriter/draft](https://github.com/ghostwriter/draft) - A code generation tool for Laminas developers.
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action.
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications.
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) - 
@@ -78,5 +79,4 @@
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP
 - [ghostwriter/.github](https://github.com/ghostwriter/.github) - default community health files
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress
 
