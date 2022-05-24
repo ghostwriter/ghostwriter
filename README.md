@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Feature: Add `ghostwriter-compliance init` Command](https://github.com/ghostwriter/compliance/pull/7) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
+- [Feature: Add `compliance init` Command](https://github.com/ghostwriter/compliance/pull/7) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
 - [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/3) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
 - [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
 - [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)
