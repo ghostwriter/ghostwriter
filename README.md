@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: Bind a service with tags](https://github.com/ghostwriter/container/pull/7) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [QA: Test `compliance.yml` workflow](https://github.com/ghostwriter/compliance/pull/10) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
 - [Feature: Add `compliance matrix` command](https://github.com/ghostwriter/compliance/pull/9) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
 - [Feature: Add docker build action](https://github.com/ghostwriter/compliance/pull/8) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)
@@ -34,13 +35,12 @@
 - [Feature: Event Service Provider](https://github.com/ghostwriter/event-dispatcher/pull/1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)
 - [QA: Code refactoring](https://github.com/ghostwriter/container/pull/6) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)
 - [Initial release](https://github.com/ghostwriter/compliance/pull/1) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (6 days ago)
-- [Bump `actions/cache` v3](https://github.com/ghostwriter/php/pull/58) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0), today) - Provides a PSR-11 Container implementation.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.2), 3 days ago) - Provides a PSR-14 Event Dispatcher implementation.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.6.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.6.0), 3 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.3.2](https://github.com/ghostwriter/container/releases/tag/0.3.2), 5 days ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 6 days ago) - Testing utilities for laminas-cache adapters
 - [ghostwriter/result](https://github.com/ghostwriter/result) ([0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0), 1 week ago) - Provides a Result type implementation for PHP
 - [ghostwriter/option](https://github.com/ghostwriter/option) ([0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0), 1 week ago) - Provides an Option type implementation for PHP
@@ -57,9 +57,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (today)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (3 days ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (5 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (6 days ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
