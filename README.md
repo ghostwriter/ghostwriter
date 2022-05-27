@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
 - [Feature: Bind a service with tags](https://github.com/ghostwriter/container/pull/7) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)
 - [QA: Test `compliance.yml` workflow](https://github.com/ghostwriter/compliance/pull/10) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)
@@ -34,7 +35,6 @@
 - [Update composer.json](https://github.com/ghostwriter/compliance/pull/3) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (5 days ago)
 - [Update README.md](https://github.com/ghostwriter/compliance/pull/2) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (5 days ago)
 - [Feature: Event Service Provider](https://github.com/ghostwriter/event-dispatcher/pull/1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)
-- [QA: Code refactoring](https://github.com/ghostwriter/container/pull/6) on [ghostwriter/container](https://github.com/ghostwriter/container) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
