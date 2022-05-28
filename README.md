@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)
 - [Feature: Bind a service with tags](https://github.com/ghostwriter/container/pull/7) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)
@@ -34,7 +35,6 @@
 - [Rename automated-compliance to ghostwriter-compliance-automation](https://github.com/ghostwriter/compliance/pull/4) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (6 days ago)
 - [Update composer.json](https://github.com/ghostwriter/compliance/pull/3) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (6 days ago)
 - [Update README.md](https://github.com/ghostwriter/compliance/pull/2) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (6 days ago)
-- [Feature: Event Service Provider](https://github.com/ghostwriter/event-dispatcher/pull/1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
