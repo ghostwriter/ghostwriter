@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.3](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.3), 2 days ago) - Provides a PSR-14 Event Dispatcher implementation.
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.4](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.4), today) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0), 2 days ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.6.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.6.0), 5 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 1 week ago) - Testing utilities for laminas-cache adapters
@@ -58,7 +58,7 @@
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (2 days ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (2 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (2 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
