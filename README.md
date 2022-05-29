@@ -57,7 +57,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) (1 day ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides a PSR-14 Event Dispatcher implementation. (2 days ago)
