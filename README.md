@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.7.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.7.0), 3 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0), today) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.2.4](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.2.4), 3 days ago) - Provides a PSR-14 Event Dispatcher implementation.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0), 5 days ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 1 week ago) - Testing utilities for laminas-cache adapters
