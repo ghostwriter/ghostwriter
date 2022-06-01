@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (today)
 - [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (5 days ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)
@@ -34,7 +35,6 @@
 - [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance/pull/5) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Rename automated-compliance to ghostwriter-compliance-automation](https://github.com/ghostwriter/compliance/pull/4) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Update composer.json](https://github.com/ghostwriter/compliance/pull/3) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
-- [Update README.md](https://github.com/ghostwriter/compliance/pull/2) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
