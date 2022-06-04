@@ -38,7 +38,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.3.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.1), today) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2), today) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification.
 - [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0), 4 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
 - [ghostwriter/container](https://github.com/ghostwriter/container) ([0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0), 1 week ago) - Provides a PSR-11 Container implementation.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 2 weeks ago) - Testing utilities for laminas-cache adapters
@@ -56,10 +56,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 (today)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (today)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
 - [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (5 days ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) (1 week ago)
@@ -77,6 +77,6 @@
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation.
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification.
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP
 
