@@ -29,13 +29,15 @@
 {{- end}}
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+
+| Project | Description |
+| --- | --- |{{range recentContributions 50}}
+| [{{.Repo.Name}}]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
 
 #### 🌱 My latest projects
 
-| Repo | Description |
+| Project | Description |
 | --- | --- |{{range recentRepos 30}}
 | [{{.Name}}]({{.URL}}) | {{.Description}} |
 {{- end}}
