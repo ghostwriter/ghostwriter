@@ -77,13 +77,17 @@
 | [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | [ghostwriter/console](https://github.com/ghostwriter/console) | Provides a micro-framework for Console Applications. |
 | [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
+| [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) |  |
+| [ghostwriter/automation](https://github.com/ghostwriter/automation) | Automates the release workflow for SemVer-compliant and Github Actions Versioning-compliant repositories |
 | [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
+| [ghostwriter/tn-resources](https://github.com/ghostwriter/tn-resources) | TN Resources |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | [ghostwriter/.github](https://github.com/ghostwriter/.github) | default community health files |
 | [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
+| [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | [ghostwriter/curl](https://github.com/ghostwriter/curl) | curl for Github Actions |
 | [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | [ghostwriter/exercism](https://github.com/ghostwriter/exercism) | This is a showcase of some of the solutions that i published on Exercism |
