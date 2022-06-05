@@ -59,9 +59,9 @@
 
 | Project | Description |
 | --- | --- |
+| [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
 | [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
-| [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
 | [ghostwriter/code](https://github.com/ghostwriter/code) | 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) |
