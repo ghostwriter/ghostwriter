@@ -56,20 +56,62 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 day ago)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
-- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) (1 day ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
-- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 weeks ago)
+| Project | Description |
+| --- | --- |
+| [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
+| [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
+| [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
+| [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
+| [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
+| [ghostwriter/code](https://github.com/ghostwriter/code) | 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) |
+| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
+| [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
+| [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
+| [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
+| [ghostwriter/console](https://github.com/ghostwriter/console) | Provides a micro-framework for Console Applications. |
+| [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
+| [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
+| [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) |  |
+| [laminas/laminas-db](https://github.com/laminas/laminas-db) | Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations |
+| [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) |  |
+| [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) |  |
+| [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) | Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory |
+| [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
+| [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) |  |
+| [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
+| [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) | Dispatch middleware pipelines in place of controllers in laminas-mvc. |
+| [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
+| [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
+| [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) | Router subcomponent for Mezzio |
+| [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) | PSR-7 middleware foundation for building and dispatching middleware pipelines |
+| [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) | Session container and middleware for PSR-7 applications |
+| [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) | laminas-mvc router support for Mezzio |
+| [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
+| [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) | Testing utilities for laminas-cache adapters |
+| [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) | Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more |
+| [laminas/laminas-migration](https://github.com/laminas/laminas-migration) | Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. |
+| [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) | ext-session persistence adapter for mezzio-session |
+| [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
+| [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
+| [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) | Installer plugin for Laminas MVC Skeleton application |
+| [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
+| [laminas/laminas-config-aggregator](https://github.com/laminas/laminas-config-aggregator) | Lightweight library for collecting and merging configuration from different sources |
+| [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) | Sets up Composer-based autoloading for your Laminas modules |
+| [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
+| [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) | PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration |
+| [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
+| [laminas/laminas-developer-tools](https://github.com/laminas/laminas-developer-tools) | Module for developer and debug tools for use with laminas-mvc applications. |
+| [laminas/laminas-mail](https://github.com/laminas/laminas-mail) | Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages |
+| [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) | laminas-permissions-acl adapter for mezzio-authorization |
+| [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) | Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs |
+| [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) | Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache |
+| [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) | PSR-6 session persistence adapter for mezzio-session. |
+| [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
 
 #### 🌱 My latest projects
 
-| Repo | Description |
+| Project | Description |
 | --- | --- |
 | [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | [ghostwriter/code](https://github.com/ghostwriter/code) | 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) |
