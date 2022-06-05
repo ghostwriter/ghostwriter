@@ -24,8 +24,9 @@
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 15}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+| Project | Description | Version | Release Date }
+| --- | --- | --- | --- |{{range recentReleases 15}}
+| [{{.Name}}]({{.URL}}) | {{.Description}} | [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) | {{.LastRelease.PublishedAt}} ({{humanize .LastRelease.PublishedAt}}) |
 {{- end}}
 
 #### 👷 Check out what I'm currently working on
