@@ -36,7 +36,7 @@
 #### 🌱 My latest projects
 
 | Repo | Description |
-| --- | --- |
-{{range recentRepos 30}}| [{{.Name}}]({{.URL}}) | {{.Description}} |
+| --- | --- |{{range recentRepos 30}}
+| [{{.Name}}]({{.URL}}) | {{.Description}} |
 {{- end}}
 
