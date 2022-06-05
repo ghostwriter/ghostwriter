@@ -1,28 +1,28 @@
-# [![ghostwriter's GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=Sponsors&style=flat-square&logo=GitHub%20Sponsors)](https://github.com/sponsors/ghostwriter)
+# [![ghostwriter's GitHub Sponsors](https://img.shields.io/github/sponsors/ghostwriter?label=GitHub+Sponsors&style=flat-square&logo=GitHub%20Sponsors)](https://github.com/sponsors/ghostwriter)
 
-<img alt="ghostwriter's GitHub streak" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostwriter">
+<img alt="ghostwriter's GitHub streak" width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
 
-> if you dont like something, **change it**!
+> if you don't like something, **change it**!
 
 > knowledge **should** be **freely** accessible.
 
 > privacy is a feature, **not** a product.
 
+<img alt="ghostwriter's GitHub stats" width="300px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+
 > security is a process, **not** a product.
 
 > contributions **should** be attributed and or compensated.
 
-> **dont** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
+> **don't** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
 ---
 
-<img alt="ghostwriter's GitHub stats" align="right" src="https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
-
 #### 🔨 My recent Pull Requests
 
-- [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
-- [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (3 days ago)
+- [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
+- [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (4 days ago)
 - [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
@@ -33,19 +33,19 @@
 - [Feature: Add `compliance init` Command](https://github.com/ghostwriter/compliance/pull/7) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/3) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
 - [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
-- [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
-- [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance/pull/5) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
+- [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
+- [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance/pull/5) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2), today) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification.
-- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0), 4 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
-- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0), 1 week ago) - Provides a PSR-11 Container implementation.
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2), 1 day ago) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification.
+- [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) ([0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0), 5 days ago) - Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules.
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0), 1 week ago) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification.
 - [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) ([2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0), 2 weeks ago) - Testing utilities for laminas-cache adapters
 - [ghostwriter/result](https://github.com/ghostwriter/result) ([0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0), 2 weeks ago) - Provides a Result type implementation for PHP
 - [ghostwriter/option](https://github.com/ghostwriter/option) ([0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0), 2 weeks ago) - Provides an Option type implementation for PHP
 - [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) ([2.11.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.11.0), 2 weeks ago) - PSR HTTP Message implementations
-- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.7.0](https://github.com/laminas/laminas-di/releases/tag/3.7.0), 2 weeks ago) - Automated dependency injection for PSR-11 containers
+- [laminas/laminas-di](https://github.com/laminas/laminas-di) ([3.7.0](https://github.com/laminas/laminas-di/releases/tag/3.7.0), 3 weeks ago) - Automated dependency injection for PSR-11 containers
 - [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) ([1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1), 1 month ago) - HTTP Basic Authentication adapter for mezzio-authentication.
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) ([0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4), 1 month ago) - Bumps composer.lock file, optionally lock the minimum supported PHP version
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) ([0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0), 1 month ago) - Installer plugin for Laminas MVC Skeleton application
@@ -56,15 +56,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (today)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
-- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (today)
-- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
+- [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 day ago)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 day ago)
+- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation. (1 week ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -76,7 +76,7 @@
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications.
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) - 
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a PSR-11 Container implementation.
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification.
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification.
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP
 
