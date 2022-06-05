@@ -8,9 +8,9 @@
 
 > privacy is a feature, **not** a product.
 
-<img alt="ghostwriter's GitHub stats" width="300px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
-
 > security is a process, **not** a product.
+
+<img alt="ghostwriter's GitHub stats" width="300px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 > contributions **should** be attributed and or compensated.
 
