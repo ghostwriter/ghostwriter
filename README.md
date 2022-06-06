@@ -14,7 +14,7 @@
 
 > **don't** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
-<img alt="ghostwriter's GitHub stats" width="300px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&icon_color=333">
+<img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 ---
 
@@ -30,11 +30,6 @@
 - [Feature: Bind a service with tags](https://github.com/ghostwriter/container/pull/7) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 - [QA: Test `compliance.yml` workflow](https://github.com/ghostwriter/compliance/pull/10) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Feature: Add `compliance matrix` command](https://github.com/ghostwriter/compliance/pull/9) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
-- [Feature: Add docker build action](https://github.com/ghostwriter/compliance/pull/8) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
-- [Feature: Add `compliance init` Command](https://github.com/ghostwriter/compliance/pull/7) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
-- [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/3) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
-- [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
-- [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
