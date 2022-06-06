@@ -20,9 +20,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
-- [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (4 days ago)
+- [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)
+- [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (5 days ago)
 - [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
@@ -31,16 +31,16 @@
 - [Feature: Add `compliance matrix` command](https://github.com/ghostwriter/compliance/pull/9) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Feature: Add docker build action](https://github.com/ghostwriter/compliance/pull/8) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Feature: Add `compliance init` Command](https://github.com/ghostwriter/compliance/pull/7) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
-- [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/3) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
-- [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
+- [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/3) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
+- [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
 - [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
 - [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance/pull/5) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Release Date }
 | --- | --- | --- | --- |
-| [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 2022-06-04 09:33:47 &#43;0000 UTC (1 day ago) |
-| [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) | Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. | [0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0) | 2022-05-31 16:32:41 &#43;0000 UTC (5 days ago) |
+| [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 2022-06-04 09:33:47 &#43;0000 UTC (2 days ago) |
+| [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) | Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. | [0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0) | 2022-05-31 16:32:41 &#43;0000 UTC (6 days ago) |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. | [0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0) | 2022-05-26 14:20:48 &#43;0000 UTC (1 week ago) |
 | [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) | Testing utilities for laminas-cache adapters | [2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0) | 2022-05-20 15:16:57 &#43;0000 UTC (2 weeks ago) |
 | [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP | [0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0) | 2022-05-19 18:36:17 &#43;0000 UTC (2 weeks ago) |
@@ -53,7 +53,7 @@
 | [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5) | 2022-04-13 14:01:17 &#43;0000 UTC (1 month ago) |
 | [laminas/laminas-db](https://github.com/laminas/laminas-db) | Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations | [2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0) | 2022-04-11 13:27:14 &#43;0000 UTC (1 month ago) |
 | [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) | laminas-view PhpRenderer integration for Mezzio | [2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0) | 2022-04-11 09:49:01 &#43;0000 UTC (1 month ago) |
-| [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) | laminas-authentication adapter for mezzio-authentication. | [1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0) | 2022-04-07 21:50:28 &#43;0000 UTC (1 month ago) |
+| [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) | laminas-authentication adapter for mezzio-authentication. | [1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0) | 2022-04-07 21:50:28 &#43;0000 UTC (2 months ago) |
 
 #### 👷 Check out what I'm currently working on
 
