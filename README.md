@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Bump `composer` to 2.2.14](https://github.com/ghostwriter/php/pull/61) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)
 - [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (5 days ago)
@@ -34,7 +35,6 @@
 - [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/3) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
 - [Feature: Add Generics via PHPDocs](https://github.com/ghostwriter/event-dispatcher/pull/2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
 - [Fix Psalms issue](https://github.com/ghostwriter/compliance/pull/6) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
-- [Rename automated-compliance.php to ghostwriter-compliance-automation.php](https://github.com/ghostwriter/compliance/pull/5) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Release Date }
@@ -59,17 +59,17 @@
 
 | Project | Description |
 | --- | --- |
+| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
 | [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
 | [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | [ghostwriter/code](https://github.com/ghostwriter/code) | 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) |
-| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
 | [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
-| [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | [ghostwriter/console](https://github.com/ghostwriter/console) | Provides a micro-framework for Console Applications. |
 | [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
