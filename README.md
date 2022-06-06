@@ -39,6 +39,7 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Release Date }
 | --- | --- | --- | --- |
+| [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable | [0.1.2](https://github.com/laminas/laminas-servicemanager-inspector/releases/tag/0.1.2) | 2022-06-06 09:05:56 &#43;0000 UTC (today) |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 2022-06-04 09:33:47 &#43;0000 UTC (2 days ago) |
 | [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) | Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. | [0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0) | 2022-05-31 16:32:41 &#43;0000 UTC (6 days ago) |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. | [0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0) | 2022-05-26 14:20:48 &#43;0000 UTC (1 week ago) |
@@ -53,7 +54,6 @@
 | [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5) | 2022-04-13 14:01:17 &#43;0000 UTC (1 month ago) |
 | [laminas/laminas-db](https://github.com/laminas/laminas-db) | Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations | [2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0) | 2022-04-11 13:27:14 &#43;0000 UTC (1 month ago) |
 | [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) | laminas-view PhpRenderer integration for Mezzio | [2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0) | 2022-04-11 09:49:01 &#43;0000 UTC (1 month ago) |
-| [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) | laminas-authentication adapter for mezzio-authentication. | [1.3.0](https://github.com/mezzio/mezzio-authentication-laminasauthentication/releases/tag/1.3.0) | 2022-04-07 21:50:28 &#43;0000 UTC (2 months ago) |
 
 #### 👷 Check out what I'm currently working on
 
