@@ -60,16 +60,16 @@
 | Project | Description |
 | --- | --- |
 | [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
-| [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
+| [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
 | [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
-| [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
+| [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | [ghostwriter/code](https://github.com/ghostwriter/code) | 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) |
 | [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
-| [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
-| [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
 | [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
+| [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | [ghostwriter/console](https://github.com/ghostwriter/console) | Provides a micro-framework for Console Applications. |
 | [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
