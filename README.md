@@ -39,6 +39,7 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Release Date }
 | --- | --- | --- | --- |
+| [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 2022-06-06 17:07:11 &#43;0000 UTC (today) |
 | [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable | [0.1.2](https://github.com/laminas/laminas-servicemanager-inspector/releases/tag/0.1.2) | 2022-06-06 09:05:56 &#43;0000 UTC (today) |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 2022-06-04 09:33:47 &#43;0000 UTC (2 days ago) |
 | [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) | Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. | [0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0) | 2022-05-31 16:32:41 &#43;0000 UTC (6 days ago) |
@@ -51,7 +52,6 @@
 | [mezzio/mezzio-authentication-basic](https://github.com/mezzio/mezzio-authentication-basic) | HTTP Basic Authentication adapter for mezzio-authentication. | [1.4.1](https://github.com/mezzio/mezzio-authentication-basic/releases/tag/1.4.1) | 2022-05-04 12:36:49 &#43;0000 UTC (1 month ago) |
 | [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version | [0.1.4](https://github.com/ghostwriter/composer-lock/releases/tag/0.1.4) | 2022-04-23 23:37:57 &#43;0000 UTC (1 month ago) |
 | [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) | Installer plugin for Laminas MVC Skeleton application | [0.6.0](https://github.com/laminas/laminas-skeleton-installer/releases/tag/0.6.0) | 2022-04-13 15:02:06 &#43;0000 UTC (1 month ago) |
-| [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.5](https://github.com/perftools/xhgui/releases/tag/0.20.5) | 2022-04-13 14:01:17 &#43;0000 UTC (1 month ago) |
 | [laminas/laminas-db](https://github.com/laminas/laminas-db) | Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations | [2.15.0](https://github.com/laminas/laminas-db/releases/tag/2.15.0) | 2022-04-11 13:27:14 &#43;0000 UTC (1 month ago) |
 | [mezzio/mezzio-laminasviewrenderer](https://github.com/mezzio/mezzio-laminasviewrenderer) | laminas-view PhpRenderer integration for Mezzio | [2.6.0](https://github.com/mezzio/mezzio-laminasviewrenderer/releases/tag/2.6.0) | 2022-04-11 09:49:01 &#43;0000 UTC (1 month ago) |
 
