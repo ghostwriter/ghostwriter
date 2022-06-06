@@ -24,22 +24,14 @@
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
-| Project | Description | Version | Release Date }
-| --- | --- | --- | --- |{{range recentReleases 15}}
-| [{{.Name}}]({{.URL}}) | {{.Description}} | [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) | {{.LastRelease.PublishedAt}} ({{humanize .LastRelease.PublishedAt}}) |
+| Project | Description | Version | Released |
+| --- | --- | --- | --- |{{range recentReleases 10}}
+| [{{.Name}}]({{.URL}}) | {{.Description}} | [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) | {{humanize .LastRelease.PublishedAt}} |
 {{- end}}
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Check out the projects I'm currently working on
 
 | Project | Description |
 | --- | --- |{{range recentContributions 50}}
 | [{{.Repo.Name}}]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
-
-#### 🌱 My latest projects
-
-| Project | Description |
-| --- | --- |{{range recentRepos 30}}
-| [{{.Name}}]({{.URL}}) | {{.Description}} |
-{{- end}}
-
