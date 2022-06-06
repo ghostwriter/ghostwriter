@@ -14,12 +14,12 @@
 
 > **don't** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
-<img alt="ghostwriter's GitHub stats" width="300px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&icon_color=333">
+<img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 ---
 
 #### 🔨 My recent Pull Requests
-{{range recentPullRequests 15}}
+{{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
