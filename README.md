@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add `compliance config` and `compliance workflow` Commands](https://github.com/ghostwriter/compliance/pull/12) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
 - [Bump `composer` to 2.2.14](https://github.com/ghostwriter/php/pull/61) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 days ago)
 - [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
@@ -29,7 +30,6 @@
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
 - [Feature: Bind a service with tags](https://github.com/ghostwriter/container/pull/7) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 - [QA: Test `compliance.yml` workflow](https://github.com/ghostwriter/compliance/pull/10) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
-- [Feature: Add `compliance matrix` command](https://github.com/ghostwriter/compliance/pull/9) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
@@ -49,8 +49,8 @@
 
 | Project | Description |
 | --- | --- |
-| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
+| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
 | [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
