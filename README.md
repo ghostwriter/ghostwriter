@@ -34,6 +34,7 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
 | --- | --- | --- | --- |
+| [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) | Normalize and validate input sets from the web, APIs, the CLI, and more, including files | [2.14.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.14.0) | today |
 | [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 1 day ago |
 | [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable | [0.1.2](https://github.com/laminas/laminas-servicemanager-inspector/releases/tag/0.1.2) | 1 day ago |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 3 days ago |
@@ -43,7 +44,6 @@
 | [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP | [0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0) | 2 weeks ago |
 | [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP | [0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0) | 2 weeks ago |
 | [laminas/laminas-diactoros](https://github.com/laminas/laminas-diactoros) | PSR HTTP Message implementations | [2.11.0](https://github.com/laminas/laminas-diactoros/releases/tag/2.11.0) | 3 weeks ago |
-| [laminas/laminas-di](https://github.com/laminas/laminas-di) | Automated dependency injection for PSR-11 containers | [3.7.0](https://github.com/laminas/laminas-di/releases/tag/3.7.0) | 3 weeks ago |
 
 #### 👷 Check out the projects I'm currently working on
 
@@ -77,25 +77,25 @@
 | [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) | Router subcomponent for Mezzio |
 | [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) | PSR-7 middleware foundation for building and dispatching middleware pipelines |
 | [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) | Session container and middleware for PSR-7 applications |
+| [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) | ext-session persistence adapter for mezzio-session |
 | [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) | laminas-mvc router support for Mezzio |
 | [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
 | [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) | Testing utilities for laminas-cache adapters |
 | [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) | Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more |
 | [laminas/laminas-migration](https://github.com/laminas/laminas-migration) | Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. |
-| [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) | ext-session persistence adapter for mezzio-session |
 | [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
 | [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
+| [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) | Sets up Composer-based autoloading for your Laminas modules |
 | [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) | Installer plugin for Laminas MVC Skeleton application |
 | [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | [laminas/laminas-config-aggregator](https://github.com/laminas/laminas-config-aggregator) | Lightweight library for collecting and merging configuration from different sources |
-| [laminas/laminas-composer-autoloading](https://github.com/laminas/laminas-composer-autoloading) | Sets up Composer-based autoloading for your Laminas modules |
-| [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
 | [laminas/laminas-config-aggregator-parameters](https://github.com/laminas/laminas-config-aggregator-parameters) | PostProcessor extension for laminas/laminas-config-aggregator to allow usage of templated parameters within your configuration |
+| [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
 | [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | [laminas/laminas-developer-tools](https://github.com/laminas/laminas-developer-tools) | Module for developer and debug tools for use with laminas-mvc applications. |
+| [laminas/laminas-development-mode](https://github.com/laminas/laminas-development-mode) | Laminas development mode script |
 | [laminas/laminas-mail](https://github.com/laminas/laminas-mail) | Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages |
 | [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) | laminas-permissions-acl adapter for mezzio-authorization |
 | [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) | Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs |
 | [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) | Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache |
-| [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) | PSR-6 session persistence adapter for mezzio-session. |
 | [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
