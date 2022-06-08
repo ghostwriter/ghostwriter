@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [QA:Bump XDebug to 3.1.5](https://github.com/ghostwriter/php/pull/62) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[8.1] Support `never` return type](https://github.com/mockery/mockery/pull/1184) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)
 - [Add `compliance config` and `compliance workflow` Commands](https://github.com/ghostwriter/compliance/pull/12) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
 - [Bump `composer` to 2.2.14](https://github.com/ghostwriter/php/pull/61) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
@@ -29,7 +30,6 @@
 - [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
-- [Feature: Bind a service with tags](https://github.com/ghostwriter/container/pull/7) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
@@ -49,17 +49,17 @@
 
 | Project | Description |
 | --- | --- |
+| [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
+| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
 | [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
-| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
-| [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
+| [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
 | [ghostwriter/code](https://github.com/ghostwriter/code) | 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
-| [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
-| [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
+| [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | [ghostwriter/console](https://github.com/ghostwriter/console) | Provides a micro-framework for Console Applications. |
 | [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
@@ -73,9 +73,9 @@
 | [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
 | [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) | Dispatch middleware pipelines in place of controllers in laminas-mvc. |
 | [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
+| [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) | PSR-7 middleware foundation for building and dispatching middleware pipelines |
 | [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
 | [mezzio/mezzio-router](https://github.com/mezzio/mezzio-router) | Router subcomponent for Mezzio |
-| [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) | PSR-7 middleware foundation for building and dispatching middleware pipelines |
 | [mezzio/mezzio-session](https://github.com/mezzio/mezzio-session) | Session container and middleware for PSR-7 applications |
 | [mezzio/mezzio-session-ext](https://github.com/mezzio/mezzio-session-ext) | ext-session persistence adapter for mezzio-session |
 | [mezzio/mezzio-laminasrouter](https://github.com/mezzio/mezzio-laminasrouter) | laminas-mvc router support for Mezzio |
