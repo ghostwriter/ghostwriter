@@ -34,7 +34,7 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
 | --- | --- | --- | --- |
-| [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) | SPL extensions, array utilities, error handlers, and more | [3.9.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.9.0) | today |
+| [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) | SPL extensions, array utilities, error handlers, and more | [3.9.1](https://github.com/laminas/laminas-stdlib/releases/tag/3.9.1) | today |
 | [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) | Normalize and validate input sets from the web, APIs, the CLI, and more, including files | [2.15.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.15.0) | 1 day ago |
 | [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 2 days ago |
 | [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable | [0.1.2](https://github.com/laminas/laminas-servicemanager-inspector/releases/tag/0.1.2) | 2 days ago |
