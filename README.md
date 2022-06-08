@@ -20,12 +20,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[8.1] Support `never` return type](https://github.com/mockery/mockery/pull/1184) on [mockery/mockery](https://github.com/mockery/mockery) (today)
-- [Add `compliance config` and `compliance workflow` Commands](https://github.com/ghostwriter/compliance/pull/12) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
-- [Bump `composer` to 2.2.14](https://github.com/ghostwriter/php/pull/61) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 days ago)
-- [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
-- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (6 days ago)
+- [[8.1] Support `never` return type](https://github.com/mockery/mockery/pull/1184) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)
+- [Add `compliance config` and `compliance workflow` Commands](https://github.com/ghostwriter/compliance/pull/12) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)
+- [Bump `composer` to 2.2.14](https://github.com/ghostwriter/php/pull/61) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)
+- [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (1 week ago)
 - [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
@@ -34,11 +34,11 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
 | --- | --- | --- | --- |
-| [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) | Normalize and validate input sets from the web, APIs, the CLI, and more, including files | [2.15.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.15.0) | today |
-| [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) | SPL extensions, array utilities, error handlers, and more | [3.8.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.8.0) | today |
-| [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 1 day ago |
-| [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable | [0.1.2](https://github.com/laminas/laminas-servicemanager-inspector/releases/tag/0.1.2) | 1 day ago |
-| [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 3 days ago |
+| [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) | Normalize and validate input sets from the web, APIs, the CLI, and more, including files | [2.15.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.15.0) | 1 day ago |
+| [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) | SPL extensions, array utilities, error handlers, and more | [3.8.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.8.0) | 1 day ago |
+| [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 2 days ago |
+| [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable | [0.1.2](https://github.com/laminas/laminas-servicemanager-inspector/releases/tag/0.1.2) | 2 days ago |
+| [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 4 days ago |
 | [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) | Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. | [0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0) | 1 week ago |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. | [0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0) | 1 week ago |
 | [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) | Testing utilities for laminas-cache adapters | [2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0) | 2 weeks ago |
