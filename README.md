@@ -34,6 +34,7 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
 | --- | --- | --- | --- |
+| [laminas/laminas-validator](https://github.com/laminas/laminas-validator) | Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria | [2.18.0](https://github.com/laminas/laminas-validator/releases/tag/2.18.0) | today |
 | [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) | SPL extensions, array utilities, error handlers, and more | [3.10.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.10.0) | today |
 | [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) | Normalize and validate input sets from the web, APIs, the CLI, and more, including files | [2.15.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.15.0) | 2 days ago |
 | [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 3 days ago |
@@ -43,7 +44,6 @@
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. | [0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0) | 2 weeks ago |
 | [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) | Testing utilities for laminas-cache adapters | [2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0) | 2 weeks ago |
 | [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP | [0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0) | 3 weeks ago |
-| [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP | [0.1.0](https://github.com/ghostwriter/option/releases/tag/0.1.0) | 3 weeks ago |
 
 #### 👷 Check out the projects I'm currently working on
 
