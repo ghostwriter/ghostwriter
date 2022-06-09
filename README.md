@@ -34,13 +34,13 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
 | --- | --- | --- | --- |
+| [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) | Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. | [0.9.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.9.0) | today |
 | [laminas/laminas-validator](https://github.com/laminas/laminas-validator) | Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria | [2.19.0](https://github.com/laminas/laminas-validator/releases/tag/2.19.0) | today |
 | [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) | SPL extensions, array utilities, error handlers, and more | [3.10.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.10.0) | today |
 | [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) | Normalize and validate input sets from the web, APIs, the CLI, and more, including files | [2.15.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.15.0) | 2 days ago |
 | [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 3 days ago |
 | [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable | [0.1.2](https://github.com/laminas/laminas-servicemanager-inspector/releases/tag/0.1.2) | 3 days ago |
 | [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. | [0.3.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/0.3.2) | 5 days ago |
-| [laminas/laminas-servicemanager-migration](https://github.com/laminas/laminas-servicemanager-migration) | Migrate your code to laminas-servicemanager 4.x compatibility utilizing Rector rules. | [0.8.0](https://github.com/laminas/laminas-servicemanager-migration/releases/tag/0.8.0) | 1 week ago |
 | [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. | [0.4.0](https://github.com/ghostwriter/container/releases/tag/0.4.0) | 2 weeks ago |
 | [laminas/laminas-cache-storage-adapter-test](https://github.com/laminas/laminas-cache-storage-adapter-test) | Testing utilities for laminas-cache adapters | [2.1.0](https://github.com/laminas/laminas-cache-storage-adapter-test/releases/tag/2.1.0) | 2 weeks ago |
 | [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP | [0.1.0](https://github.com/ghostwriter/result/releases/tag/0.1.0) | 3 weeks ago |
@@ -71,7 +71,7 @@
 | [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
 | [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) |  |
 | [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
-| [laminas/laminas-mvc-middleware](https://github.com/laminas/laminas-mvc-middleware) | Dispatch middleware pipelines in place of controllers in laminas-mvc. |
+| [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) | Integration between laminas-mvc and laminas-i18n |
 | [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) | PSR-7 middleware foundation for building and dispatching middleware pipelines |
 | [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
 | [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
@@ -93,9 +93,9 @@
 | [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
 | [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | [laminas/laminas-developer-tools](https://github.com/laminas/laminas-developer-tools) | Module for developer and debug tools for use with laminas-mvc applications. |
-| [laminas/laminas-development-mode](https://github.com/laminas/laminas-development-mode) | Laminas development mode script |
 | [laminas/laminas-mail](https://github.com/laminas/laminas-mail) | Provides generalized functionality to compose and send both text and MIME-compliant multipart e-mail messages |
 | [mezzio/mezzio-authorization-acl](https://github.com/mezzio/mezzio-authorization-acl) | laminas-permissions-acl adapter for mezzio-authorization |
 | [laminas/laminas-escaper](https://github.com/laminas/laminas-escaper) | Securely and safely escape HTML, HTML attributes, JavaScript, CSS, and URLs |
 | [laminas/laminas-cache-storage-deprecated-factory](https://github.com/laminas/laminas-cache-storage-deprecated-factory) | Temporary storage adapter factory for fluent migration to laminas-cache v3 when working with laminas components which depend on laminas-cache |
+| [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) | PSR-6 session persistence adapter for mezzio-session. |
 | [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
