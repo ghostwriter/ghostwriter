@@ -34,7 +34,7 @@
 #### 🔭 Latest releases I've contributed to
 | Project | Description | Version | Released |
 | --- | --- | --- | --- |
-| [laminas/laminas-validator](https://github.com/laminas/laminas-validator) | Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria | [2.18.0](https://github.com/laminas/laminas-validator/releases/tag/2.18.0) | today |
+| [laminas/laminas-validator](https://github.com/laminas/laminas-validator) | Validation classes for a wide range of domains, and the ability to chain validators to create complex validation criteria | [2.19.0](https://github.com/laminas/laminas-validator/releases/tag/2.19.0) | today |
 | [laminas/laminas-stdlib](https://github.com/laminas/laminas-stdlib) | SPL extensions, array utilities, error handlers, and more | [3.10.0](https://github.com/laminas/laminas-stdlib/releases/tag/3.10.0) | today |
 | [laminas/laminas-inputfilter](https://github.com/laminas/laminas-inputfilter) | Normalize and validate input sets from the web, APIs, the CLI, and more, including files | [2.15.0](https://github.com/laminas/laminas-inputfilter/releases/tag/2.15.0) | 2 days ago |
 | [perftools/xhgui](https://github.com/perftools/xhgui) | Web interface for XHProf profiling data can store data in MongoDB or PDO database | [0.20.6](https://github.com/perftools/xhgui/releases/tag/0.20.6) | 3 days ago |
