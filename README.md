@@ -14,8 +14,6 @@
 
 > **don't** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
-<img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
-
 ---
 
 #### My latest Projects & Contributions
@@ -41,11 +39,6 @@
 | [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) |  |
 | [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) | Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory |
 | [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
-| [laminas/laminas-cache-storage-adapter-memory](https://github.com/laminas/laminas-cache-storage-adapter-memory) |  |
-| [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
-| [laminas/laminas-mvc-i18n](https://github.com/laminas/laminas-mvc-i18n) | Integration between laminas-mvc and laminas-i18n |
-| [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) | PSR-7 middleware foundation for building and dispatching middleware pipelines |
-| [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
 
 #### My recent Pull Requests
 
@@ -59,3 +52,5 @@
 - [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
+
+<img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
