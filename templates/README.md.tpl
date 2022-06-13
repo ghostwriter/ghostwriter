@@ -18,20 +18,13 @@
 
 ---
 
-#### 🔨 My recent Pull Requests
+#### My latest Projects & Contributions
+| Project | Description |
+| --- | --- |{{range recentContributions 25}}
+| [{{.Repo.Name}}]({{.Repo.URL}}) | {{.Repo.Description}} |
+{{- end}}
+
+#### My recent Pull Requests
 {{range recentPullRequests 10}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-#### 🔭 Latest releases I've contributed to
-| Project | Description | Version | Released |
-| --- | --- | --- | --- |{{range recentReleases 10}}
-| [{{.Name}}]({{.URL}}) | {{.Description}} | [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) | {{humanize .LastRelease.PublishedAt}} |
-{{- end}}
-
-#### 👷 Check out the projects I'm currently working on
-
-| Project | Description |
-| --- | --- |{{range recentContributions 50}}
-| [{{.Repo.Name}}]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
