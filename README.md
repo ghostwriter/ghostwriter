@@ -43,6 +43,9 @@
 
 #### My recent Pull Requests
 
+- [Bump `PHP` to `8.1.7`](https://github.com/ghostwriter/php/pull/65) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `PHP` to `8.0.20`](https://github.com/ghostwriter/php/pull/64) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `PHP` to `7.4.30`](https://github.com/ghostwriter/php/pull/63) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [QA:Bump XDebug to 3.1.5](https://github.com/ghostwriter/php/pull/62) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
 - [[8.1] Support `never` return type](https://github.com/mockery/mockery/pull/1184) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)
 - [Add `compliance config` and `compliance workflow` Commands](https://github.com/ghostwriter/compliance/pull/12) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (6 days ago)
@@ -50,6 +53,3 @@
 - [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
 - [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (1 week ago)
-- [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
-- [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
