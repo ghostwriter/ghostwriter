@@ -17,28 +17,29 @@
 ---
 
 #### My latest Projects & Contributions
-| Project | Description |
-| --- | --- |
-| [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) | Coronavirus cases in Ethiopia |
-| [ghostwriter/php](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
-| [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
-| [ghostwriter/compliance](https://github.com/ghostwriter/compliance) | Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
-| [ghostwriter/wip](https://github.com/ghostwriter/wip) | work in progress |
-| [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
-| [ghostwriter/http](https://github.com/ghostwriter/http) | HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
-| [ghostwriter/code](https://github.com/ghostwriter/code) | 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) |
-| [ghostwriter/container](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
-| [ghostwriter/option](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
-| [ghostwriter/result](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
-| [ghostwriter/console](https://github.com/ghostwriter/console) | Provides a micro-framework for Console Applications. |
-| [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
-| [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
-| [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) |  |
-| [laminas/laminas-db](https://github.com/laminas/laminas-db) | Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations |
-| [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) |  |
-| [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) |  |
-| [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) | Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory |
-| [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
+
+- [COVID19Ethiopia/ethiopia-coronavirus-data-collection](https://github.com/COVID19Ethiopia/ethiopia-coronavirus-data-collection) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
+- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (5 days ago)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (6 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
+- [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
+- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) (1 week ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 weeks ago)
+- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (3 weeks ago)
+- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 month ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
+- [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (2 months ago)
+- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (2 months ago)
+- [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (2 months ago)
+- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (2 months ago)
+- [laminas/laminas-cache-storage-adapter-redis](https://github.com/laminas/laminas-cache-storage-adapter-redis) -  (2 months ago)
+- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (2 months ago)
+- [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) - Composer plugin for injecting modules and configuration providers into application configuration (2 months ago)
+
+<img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 #### My recent Pull Requests
 
@@ -52,5 +53,3 @@
 - [QA: Bump composer to 2.2.13](https://github.com/ghostwriter/php/pull/59) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [Feature: Configure tools](https://github.com/ghostwriter/compliance/pull/11) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)
 - [Bump `ghostwriter/container` v0.4.0](https://github.com/ghostwriter/event-dispatcher/pull/4) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
-
-<img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
