@@ -18,9 +18,9 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
-- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (6 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
+- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
@@ -43,13 +43,13 @@
 
 #### My recent Pull Requests
 
-- [Bump `PHP` to `8.1.7`](https://github.com/ghostwriter/php/pull/65) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Bump `PHP` to `8.0.20`](https://github.com/ghostwriter/php/pull/64) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [Bump `PHP` to `7.4.30`](https://github.com/ghostwriter/php/pull/63) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [QA:Bump XDebug to 3.1.5](https://github.com/ghostwriter/php/pull/62) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [Bump `PHP` to `8.1.7`](https://github.com/ghostwriter/php/pull/65) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Bump `PHP` to `8.0.20`](https://github.com/ghostwriter/php/pull/64) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [Bump `PHP` to `7.4.30`](https://github.com/ghostwriter/php/pull/63) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [QA:Bump XDebug to 3.1.5](https://github.com/ghostwriter/php/pull/62) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[8.1] Support `never` return type](https://github.com/mockery/mockery/pull/1184) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [Add `compliance config` and `compliance workflow` Commands](https://github.com/ghostwriter/compliance/pull/12) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [Bump `composer` to 2.2.14](https://github.com/ghostwriter/php/pull/61) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
 - [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (1 week ago)
+- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (2 weeks ago)
