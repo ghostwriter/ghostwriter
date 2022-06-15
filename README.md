@@ -19,15 +19,15 @@
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - work in progress (1 week ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 Structured PHP code generation and modification through an abstract syntax tree (AST) (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 weeks ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (3 weeks ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 month ago)
 - [ghostwriter/laminas-org-laminas-ci-matrix-action](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) -  (1 month ago)
