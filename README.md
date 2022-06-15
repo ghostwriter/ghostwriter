@@ -43,6 +43,7 @@
 
 #### My recent Pull Requests
 
+- [Feature: Add compliance](https://github.com/ghostwriter/draft/pull/1) on [ghostwriter/draft](https://github.com/ghostwriter/draft) (today)
 - [Bump `PHP` to `8.1.7`](https://github.com/ghostwriter/php/pull/65) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Bump `PHP` to `8.0.20`](https://github.com/ghostwriter/php/pull/64) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Bump `PHP` to `7.4.30`](https://github.com/ghostwriter/php/pull/63) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
@@ -52,4 +53,3 @@
 - [Bump `composer` to 2.2.14](https://github.com/ghostwriter/php/pull/61) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Remove PSR-14](https://github.com/ghostwriter/event-dispatcher/pull/5) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
 - [Feature: Add Composer&#39;s global `/vendor/bin` PATH environment variable](https://github.com/ghostwriter/php/pull/60) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Disable the rendering of emojis in Markdown](https://github.com/mezzio/mezzio-tooling/pull/26) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (2 weeks ago)
