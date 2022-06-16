@@ -52,4 +52,3 @@
 - [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/wip/pull/9) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/container/pull/8) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/result/pull/2) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
-- [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/option/pull/4) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
