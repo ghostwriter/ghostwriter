@@ -5,7 +5,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "0 * * * *"
 jobs:
   markscribe:
     runs-on: ubuntu-latest
