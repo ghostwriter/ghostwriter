@@ -8,9 +8,9 @@
 
 > privacy is a feature, **not** a product.
 
-> security is a process, **not** a product.
+> security is a process, **not** a feature **or** a product.
 
-> contributions **should** be attributed and or compensated.
+> contributions **must** be attributed and or compensated.
 
 > **don't** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
