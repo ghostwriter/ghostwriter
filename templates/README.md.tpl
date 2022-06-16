@@ -19,7 +19,7 @@
 ---
 
 #### My latest Projects & Contributions
-{{range recentContributions 20}}
+{{range recentContributions 25}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
