@@ -48,12 +48,13 @@
 
 #### My recent Pull Requests
 
+- [Bump `composer` to 2.3.7 on PHP 8.1](https://github.com/ghostwriter/php/pull/70) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `composer` to 2.3.7 on PHP 8.0](https://github.com/ghostwriter/php/pull/69) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `composer` to 2.3.7 on PHP 7.4](https://github.com/ghostwriter/php/pull/68) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `composer` to 2.3.7 on PHP 7.3](https://github.com/ghostwriter/php/pull/67) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump `composer` to 2.3.7 on PHP 7.2](https://github.com/ghostwriter/php/pull/66) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Update `composer.json` &amp; `composer.lock` files](https://github.com/ghostwriter/wip/pull/10) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)
 - [Update README.md](https://github.com/ghostwriter/http/pull/2) on [ghostwriter/http](https://github.com/ghostwriter/http) (3 days ago)
 - [Update README.md](https://github.com/ghostwriter/console/pull/2) on [ghostwriter/console](https://github.com/ghostwriter/console) (3 days ago)
 - [Update README.md](https://github.com/ghostwriter/container/pull/10) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
 - [Feature: Add compliance](https://github.com/ghostwriter/container/pull/9) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
-- [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/console/pull/1) on [ghostwriter/console](https://github.com/ghostwriter/console) (4 days ago)
-- [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/composer-lock/pull/11) on [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) (4 days ago)
-- [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/http/pull/1) on [ghostwriter/http](https://github.com/ghostwriter/http) (4 days ago)
-- [Use `phpunit.xsd` schema in `vendor` directory](https://github.com/ghostwriter/compliance/pull/13) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (4 days ago)
