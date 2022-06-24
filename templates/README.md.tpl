@@ -14,6 +14,8 @@
 
 > **don't** be afraid to make impactful decisions that are selfish, **your well-being is more important**!
 
+> **good** products **fail** because their founders are **bad at marketing**, **awful** products **succeed** with **great marketing**.
+
 <img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 ---
