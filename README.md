@@ -22,12 +22,12 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
-- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (2 days ago)
-- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 PHP code generation and modification through an abstract syntax tree (AST) (3 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
+- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (3 days ago)
+- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 PHP code generation and modification through an abstract syntax tree (AST) (4 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
@@ -50,13 +50,13 @@
 
 #### My recent Pull Requests
 
-- [Add a thank you note](https://github.com/ghostwriter/collection/pull/1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
-- [Support `workflow_dispatch` event](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/8) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (1 day ago)
-- [Update README.md](https://github.com/ghostwriter/wip/pull/11) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)
-- [Bump `composer` to 2.3.7 on PHP 8.1](https://github.com/ghostwriter/php/pull/70) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump `composer` to 2.3.7 on PHP 8.0](https://github.com/ghostwriter/php/pull/69) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump `composer` to 2.3.7 on PHP 7.4](https://github.com/ghostwriter/php/pull/68) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump `composer` to 2.3.7 on PHP 7.3](https://github.com/ghostwriter/php/pull/67) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Bump `composer` to 2.3.7 on PHP 7.2](https://github.com/ghostwriter/php/pull/66) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
-- [Update `composer.json` &amp; `composer.lock` files](https://github.com/ghostwriter/wip/pull/10) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (6 days ago)
+- [Add a thank you note](https://github.com/ghostwriter/collection/pull/1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 day ago)
+- [Support `workflow_dispatch` event](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/8) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (2 days ago)
+- [Update README.md](https://github.com/ghostwriter/wip/pull/11) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 days ago)
+- [Bump `composer` to 2.3.7 on PHP 8.1](https://github.com/ghostwriter/php/pull/70) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump `composer` to 2.3.7 on PHP 8.0](https://github.com/ghostwriter/php/pull/69) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump `composer` to 2.3.7 on PHP 7.4](https://github.com/ghostwriter/php/pull/68) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump `composer` to 2.3.7 on PHP 7.3](https://github.com/ghostwriter/php/pull/67) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Bump `composer` to 2.3.7 on PHP 7.2](https://github.com/ghostwriter/php/pull/66) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [Update `composer.json` &amp; `composer.lock` files](https://github.com/ghostwriter/wip/pull/10) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [Update README.md](https://github.com/ghostwriter/http/pull/2) on [ghostwriter/http](https://github.com/ghostwriter/http) (1 week ago)
