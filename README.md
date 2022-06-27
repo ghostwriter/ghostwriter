@@ -22,21 +22,21 @@
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (today)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
-- [ghostwriter/finder](https://github.com/ghostwriter/finder) - 🔍 Finder: find files and directories. (today)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 PHP code generation and modification through an abstract syntax tree (AST) (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/finder](https://github.com/ghostwriter/finder) - 🔍 Finder: find files and directories. (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (3 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (5 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
-- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
+- [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (1 week ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (1 week ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - A code generation tool for Laminas &amp; Mezzio developers. (1 week ago)
 - [ghostwriter/laminas-org-laminas-ci-matrix-action](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) -  (1 month ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
@@ -50,7 +50,9 @@
 
 #### My recent Pull Requests
 
-- [v0.4.x](https://github.com/ghostwriter/event-dispatcher/pull/7) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
+- [Feature: Replace a service](https://github.com/ghostwriter/container/pull/11) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
+- [Update README.md](https://github.com/ghostwriter/event-dispatcher/pull/8) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
+- [Use DateTime Event PropagationStopped](https://github.com/ghostwriter/event-dispatcher/pull/7) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
 - [Add a thank you note](https://github.com/ghostwriter/collection/pull/1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)
 - [Support `workflow_dispatch` event](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/8) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (4 days ago)
 - [Update README.md](https://github.com/ghostwriter/wip/pull/11) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)
@@ -58,5 +60,3 @@
 - [Bump `composer` to 2.3.7 on PHP 8.0](https://github.com/ghostwriter/php/pull/69) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to 2.3.7 on PHP 7.4](https://github.com/ghostwriter/php/pull/68) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to 2.3.7 on PHP 7.3](https://github.com/ghostwriter/php/pull/67) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `composer` to 2.3.7 on PHP 7.2](https://github.com/ghostwriter/php/pull/66) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Update `composer.json` &amp; `composer.lock` files](https://github.com/ghostwriter/wip/pull/10) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
