@@ -50,6 +50,7 @@
 
 #### My recent Pull Requests
 
+- [v0.4.x](https://github.com/ghostwriter/event-dispatcher/pull/7) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
 - [Add a thank you note](https://github.com/ghostwriter/collection/pull/1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)
 - [Support `workflow_dispatch` event](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/8) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (4 days ago)
 - [Update README.md](https://github.com/ghostwriter/wip/pull/11) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)
@@ -59,4 +60,3 @@
 - [Bump `composer` to 2.3.7 on PHP 7.3](https://github.com/ghostwriter/php/pull/67) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to 2.3.7 on PHP 7.2](https://github.com/ghostwriter/php/pull/66) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Update `composer.json` &amp; `composer.lock` files](https://github.com/ghostwriter/wip/pull/10) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
-- [Update README.md](https://github.com/ghostwriter/http/pull/2) on [ghostwriter/http](https://github.com/ghostwriter/http) (1 week ago)
