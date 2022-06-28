@@ -50,6 +50,7 @@
 
 #### My recent Pull Requests
 
+- [Add PHP 8.2](https://github.com/ghostwriter/php/pull/71) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Feature: Replace a service](https://github.com/ghostwriter/container/pull/11) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)
 - [Update README.md](https://github.com/ghostwriter/event-dispatcher/pull/8) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
 - [Use DateTime Event PropagationStopped](https://github.com/ghostwriter/event-dispatcher/pull/7) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
@@ -59,4 +60,3 @@
 - [Bump `composer` to 2.3.7 on PHP 8.1](https://github.com/ghostwriter/php/pull/70) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to 2.3.7 on PHP 8.0](https://github.com/ghostwriter/php/pull/69) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Bump `composer` to 2.3.7 on PHP 7.4](https://github.com/ghostwriter/php/pull/68) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `composer` to 2.3.7 on PHP 7.3](https://github.com/ghostwriter/php/pull/67) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
