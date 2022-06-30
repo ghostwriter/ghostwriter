@@ -37,7 +37,7 @@
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (2 weeks ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 weeks ago)
 - [ghostwriter/composer-lock](https://github.com/ghostwriter/composer-lock) - Bumps composer.lock file, optionally lock the minimum supported PHP version (2 weeks ago)
-- [ghostwriter/draft](https://github.com/ghostwriter/draft) - A code generation tool for Laminas &amp; Mezzio developers. (2 weeks ago)
+- [ghostwriter/draft](https://github.com/ghostwriter/draft) - A code generation tool for PHP developers. (2 weeks ago)
 - [ghostwriter/laminas-org-laminas-ci-matrix-action](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) -  (1 month ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (2 months ago)
 - [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (3 months ago)
