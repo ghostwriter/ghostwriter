@@ -50,6 +50,8 @@
 
 #### My recent Pull Requests
 
+- [Bump composer 2.3.8](https://github.com/ghostwriter/php/pull/74) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [Bump composer 2.2.15](https://github.com/ghostwriter/php/pull/73) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Update README.md](https://github.com/ghostwriter/php/pull/72) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Add PHP 8.2](https://github.com/ghostwriter/php/pull/71) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [Feature: Replace a service](https://github.com/ghostwriter/container/pull/11) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)
@@ -58,5 +60,3 @@
 - [Add a thank you note](https://github.com/ghostwriter/collection/pull/1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)
 - [Support `workflow_dispatch` event](https://github.com/ghostwriter/laminas-continuous-integration-action/pull/8) on [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) (1 week ago)
 - [Update README.md](https://github.com/ghostwriter/wip/pull/11) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
-- [Bump `composer` to 2.3.7 on PHP 8.1](https://github.com/ghostwriter/php/pull/70) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Bump `composer` to 2.3.7 on PHP 8.0](https://github.com/ghostwriter/php/pull/69) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
