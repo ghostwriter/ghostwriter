@@ -6,9 +6,9 @@
 
 > knowledge **should** be **freely** accessible.
 
-> privacy is a feature, **not** a product.
+> **privacy** is a **feature**, **not** a **product**.
 
-> security is a process, **not** a feature **or** a product.
+> **security** is a **process**, **not** a **feature** or a **product**.
 
 > contributions **must** be attributed and or compensated.
 
