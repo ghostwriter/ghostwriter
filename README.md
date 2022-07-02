@@ -22,14 +22,14 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (4 days ago)
-- [ghostwriter/finder](https://github.com/ghostwriter/finder) - Find files and directories in PHP (4 days ago)
-- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 PHP code generation and modification through an abstract syntax tree (AST) (4 days ago)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (4 days ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (4 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (5 days ago)
+- [ghostwriter/finder](https://github.com/ghostwriter/finder) - Find files and directories in PHP (5 days ago)
+- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 PHP code generation and modification through an abstract syntax tree (AST) (5 days ago)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (5 days ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (5 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - Provides a micro-framework for Console Applications. (2 weeks ago)
@@ -50,12 +50,12 @@
 
 #### My recent Pull Requests
 
-- [Bump xdebug from 3.1.5 to 3.2.0](https://github.com/ghostwriter/php/pull/75) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
-- [Bump composer 2.3.8](https://github.com/ghostwriter/php/pull/74) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
-- [Bump composer 2.2.15](https://github.com/ghostwriter/php/pull/73) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
-- [Update README.md](https://github.com/ghostwriter/php/pull/72) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [Add PHP 8.2](https://github.com/ghostwriter/php/pull/71) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [Feature: Replace a service](https://github.com/ghostwriter/container/pull/11) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)
-- [Update README.md](https://github.com/ghostwriter/event-dispatcher/pull/8) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)
-- [Use DateTime Event PropagationStopped](https://github.com/ghostwriter/event-dispatcher/pull/7) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)
+- [Bump xdebug from 3.1.5 to 3.2.0](https://github.com/ghostwriter/php/pull/75) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
+- [Bump composer 2.3.8](https://github.com/ghostwriter/php/pull/74) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
+- [Bump composer 2.2.15](https://github.com/ghostwriter/php/pull/73) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
+- [Update README.md](https://github.com/ghostwriter/php/pull/72) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Add PHP 8.2](https://github.com/ghostwriter/php/pull/71) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [Feature: Replace a service](https://github.com/ghostwriter/container/pull/11) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)
+- [Update README.md](https://github.com/ghostwriter/event-dispatcher/pull/8) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)
+- [Use DateTime Event PropagationStopped](https://github.com/ghostwriter/event-dispatcher/pull/7) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)
 - [Add a thank you note](https://github.com/ghostwriter/collection/pull/1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)
