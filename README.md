@@ -25,9 +25,9 @@
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (today)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - Find files and directories in PHP (1 week ago)
-- [ghostwriter/code](https://github.com/ghostwriter/code) - 🐘 PHP code generation and modification through an abstract syntax tree (AST) (1 week ago)
+- [ghostwriter/code](https://github.com/ghostwriter/code) - code generation and modification through an abstract syntax tree (AST) for PHP (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
@@ -50,6 +50,8 @@
 
 #### My recent Pull Requests
 
+- [Refactor `register` method](https://github.com/ghostwriter/container/pull/12) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
+- [QA: Build all PHP versions](https://github.com/ghostwriter/php/pull/85) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.2]Bump composer/composer from 2.3.8 to 2.3.9](https://github.com/ghostwriter/php/pull/84) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.1]Bump composer/composer from 2.3.8 to 2.3.9](https://github.com/ghostwriter/php/pull/83) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.0]Bump composer/composer from 2.3.8 to 2.3.9](https://github.com/ghostwriter/php/pull/82) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -58,5 +60,3 @@
 - [[PHP 7.2]Bump composer/composer from 2.3.8 to 2.3.9](https://github.com/ghostwriter/php/pull/79) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.1]Bump composer/composer from 2.2.15 to 2.2.16](https://github.com/ghostwriter/php/pull/78) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.0]Bump composer/composer from 2.2.15 to 2.2.16](https://github.com/ghostwriter/php/pull/77) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
-- [[PHP 5.6]Bump composer/composer from 2.2.15 to 2.2.16](https://github.com/ghostwriter/php/pull/76) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
-- [Bump xdebug from 3.1.5 to 3.2.0](https://github.com/ghostwriter/php/pull/75) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
