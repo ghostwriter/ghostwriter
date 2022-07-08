@@ -23,13 +23,13 @@
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Environment Variables for PHP (today)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Environment Variables for PHP (today)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (3 days ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (3 days ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - code generation and modification through an abstract syntax tree (AST) for PHP (1 week ago)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - Find files and directories in PHP (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (2 weeks ago)
@@ -50,6 +50,9 @@
 
 #### My recent Pull Requests
 
+- [Update README.md](https://github.com/ghostwriter/wip/pull/12) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [Update README.md](https://github.com/ghostwriter/environment/pull/3) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
+- [Cleanup composer dependencies](https://github.com/ghostwriter/environment/pull/2) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
 - [Initial release](https://github.com/ghostwriter/environment/pull/1) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
 - [[PHP 8.1]Bump PHP-CLI from 8.1.7 to 8.1.8](https://github.com/ghostwriter/php/pull/89) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.7 to 8.1.8](https://github.com/ghostwriter/php/pull/88) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -57,6 +60,3 @@
 - [[PHP 8.0]Bump PHP-FPM from 8.0.20 to 8.0.21](https://github.com/ghostwriter/php/pull/86) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Update README.md](https://github.com/ghostwriter/container/pull/13) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
 - [Refactor `register` method](https://github.com/ghostwriter/container/pull/12) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)
-- [QA: Build all PHP versions](https://github.com/ghostwriter/php/pull/85) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 8.2]Bump composer/composer from 2.3.8 to 2.3.9](https://github.com/ghostwriter/php/pull/84) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 8.1]Bump composer/composer from 2.3.8 to 2.3.9](https://github.com/ghostwriter/php/pull/83) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
