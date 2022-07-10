@@ -24,7 +24,7 @@
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from the `getenv()` method, `$_ENV` and `$_SERVER` super-globals (1 day ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
 - [ghostwriter/platform](https://github.com/ghostwriter/platform) - Provides access to common PHP Runtime Environment and System information (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
@@ -50,6 +50,7 @@
 
 #### My recent Pull Requests
 
+- [Support `$_ENV` and `$_SERVER` variables](https://github.com/ghostwriter/environment/pull/5) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
 - [Merge environment and server variables](https://github.com/ghostwriter/environment/pull/4) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 day ago)
 - [Delete compliance.php](https://github.com/ghostwriter/http/pull/3) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 days ago)
 - [Update compliance.php](https://github.com/ghostwriter/draft/pull/3) on [ghostwriter/draft](https://github.com/ghostwriter/draft) (2 days ago)
@@ -59,4 +60,3 @@
 - [Initial release](https://github.com/ghostwriter/environment/pull/1) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (2 days ago)
 - [[PHP 8.1]Bump PHP-CLI from 8.1.7 to 8.1.8](https://github.com/ghostwriter/php/pull/89) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.7 to 8.1.8](https://github.com/ghostwriter/php/pull/88) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [[PHP 8.0]Bump PHP-CLI from 8.0.20 to 8.0.21](https://github.com/ghostwriter/php/pull/87) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
