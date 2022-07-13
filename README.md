@@ -22,7 +22,7 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (2 days ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (2 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 days ago)
@@ -50,6 +50,7 @@
 
 #### My recent Pull Requests
 
+- [Optimize early return and remove isEmpty](https://github.com/ghostwriter/collection/pull/2) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
 - [Initial release](https://github.com/ghostwriter/json/pull/1) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 days ago)
 - [Support `$_ENV` and `$_SERVER` variables](https://github.com/ghostwriter/environment/pull/5) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (3 days ago)
 - [Merge environment and server variables](https://github.com/ghostwriter/environment/pull/4) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (4 days ago)
@@ -59,4 +60,3 @@
 - [Update README.md](https://github.com/ghostwriter/environment/pull/3) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (5 days ago)
 - [Cleanup composer dependencies](https://github.com/ghostwriter/environment/pull/2) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (5 days ago)
 - [Initial release](https://github.com/ghostwriter/environment/pull/1) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (5 days ago)
-- [[PHP 8.1]Bump PHP-CLI from 8.1.7 to 8.1.8](https://github.com/ghostwriter/php/pull/89) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
