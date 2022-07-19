@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Rebuild on new commit and cancel previous builds accept for scheduled builds](https://github.com/ghostwriter/php/pull/114) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP-FPM 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/113) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP-CLI 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/112) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP-FPM 8.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/111) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -36,7 +37,6 @@
 - [[PHP-CLI 7.3]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/102) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0alpha2 to 8.2.0alpha3](https://github.com/ghostwriter/php/pull/100) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0alpha2 to 8.2.0alpha3](https://github.com/ghostwriter/php/pull/99) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [[PHP 8.2]Bump composer/composer from 2.3.9 to 2.3.10](https://github.com/ghostwriter/php/pull/98) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 
 #### My latest Projects & Contributions
 
