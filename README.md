@@ -23,7 +23,7 @@
 #### My recent Pull Requests & Contributions
 
 - [Update README.md](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/2) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 day ago)
-- [feature/update php extensions](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/1) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 day ago)
+- [Update PHP extensions](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/1) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 day ago)
 - [Rebuild on new commit and cancel previous builds accept for scheduled builds](https://github.com/ghostwriter/php/pull/114) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP-FPM 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/113) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP-CLI 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/112) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
