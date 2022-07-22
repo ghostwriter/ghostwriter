@@ -22,6 +22,11 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.1]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/119) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/118) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.4]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/117) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.3]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/116) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.2]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/115) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Update README.md](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/2) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (3 days ago)
 - [Update PHP extensions](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/1) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (3 days ago)
 - [Rebuild on new commit and cancel previous builds accept for scheduled builds](https://github.com/ghostwriter/php/pull/114) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
@@ -32,20 +37,15 @@
 - [[PHP-FPM 8.1]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/109) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [[PHP-CLI 8.1]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/108) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [[PHP-FPM 8.0]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/107) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP-CLI 8.0]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/106) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP-FPM 7.4]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/105) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP-CLI 7.4]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/104) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP-FPM 7.3]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/103) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP-CLI 7.3]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/102) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 day ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
