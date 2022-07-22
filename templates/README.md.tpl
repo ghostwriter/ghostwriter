@@ -1,4 +1,4 @@
-# ghostwriter
+# ghostwriter - php
 
 <img alt="ghostwriter's GitHub streak" width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
 
