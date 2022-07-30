@@ -22,8 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
-- [[PHP 8.2]Bump Xdebug from 3.2.0alpha1 to 3.2.0alpha2](https://github.com/ghostwriter/php/pull/121) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
-- [[PHP 8.2]Bump Xdebug from dev-branch to 3.2.0alpha1](https://github.com/ghostwriter/php/pull/120) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
+- [[PHP 8.2]Bump Xdebug from 3.2.0alpha1 to 3.2.0alpha2](https://github.com/ghostwriter/php/pull/121) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
+- [[PHP 8.2]Bump Xdebug from dev-branch to 3.2.0alpha1](https://github.com/ghostwriter/php/pull/120) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [[PHP 8.1]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/119) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/118) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 7.4]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/117) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,9 +40,9 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
