@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [feature/prepare release](https://github.com/ghostwriter/option/pull/8) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [feature/optimize and cleanup](https://github.com/ghostwriter/option/pull/7) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [feature/update composer](https://github.com/ghostwriter/option/pull/6) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Update README.md](https://github.com/ghostwriter/option/pull/5) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
@@ -36,7 +37,6 @@
 - [Update PHP extensions](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/1) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (2 weeks ago)
 - [Rebuild on new commit and cancel previous builds accept for scheduled builds](https://github.com/ghostwriter/php/pull/114) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [[PHP-FPM 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/113) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP-CLI 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/112) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
