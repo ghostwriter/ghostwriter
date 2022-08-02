@@ -22,6 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
+- [feature/optimize and cleanup](https://github.com/ghostwriter/option/pull/7) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [feature/update composer](https://github.com/ghostwriter/option/pull/6) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [Update README.md](https://github.com/ghostwriter/option/pull/5) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [[PHP 8.2]Bump Xdebug from 3.2.0alpha1 to 3.2.0alpha2](https://github.com/ghostwriter/php/pull/121) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
 - [[PHP 8.2]Bump Xdebug from dev-branch to 3.2.0alpha1](https://github.com/ghostwriter/php/pull/120) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
 - [[PHP 8.1]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/119) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -34,12 +37,10 @@
 - [Rebuild on new commit and cancel previous builds accept for scheduled builds](https://github.com/ghostwriter/php/pull/114) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [[PHP-FPM 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/113) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [[PHP-CLI 7.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/112) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP-FPM 8.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/111) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP-CLI 8.2]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/110) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP-FPM 8.1]Bump `mongodb` extension from 1.13.0 to 1.14.0](https://github.com/ghostwriter/php/pull/109) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (3 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
@@ -47,13 +48,12 @@
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (2 weeks ago)
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (3 weeks ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (3 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (3 weeks ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (3 weeks ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 weeks ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (3 weeks ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 month ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - [wip]Provides a micro-framework for Console Applications. (1 month ago)
