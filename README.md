@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [qa/code cleanup](https://github.com/ghostwriter/result/pull/6) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [Update README.md](https://github.com/ghostwriter/result/pull/5) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [feature/bump and refactor dependencies](https://github.com/ghostwriter/result/pull/4) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [feature/refactor generics](https://github.com/ghostwriter/option/pull/9) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
@@ -36,13 +37,12 @@
 - [[PHP 8.0]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/118) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 7.4]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/117) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 7.3]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/116) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 7.2]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/115) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (today)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
-- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 day ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (5 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
