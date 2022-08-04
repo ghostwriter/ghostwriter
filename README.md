@@ -22,6 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
+- [add composer dependencies](https://github.com/ghostwriter/wip/pull/14) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [qa/update composer dependencies](https://github.com/ghostwriter/wip/pull/13) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [qa/code cleanup](https://github.com/ghostwriter/result/pull/6) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [Update README.md](https://github.com/ghostwriter/result/pull/5) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [feature/bump and refactor dependencies](https://github.com/ghostwriter/result/pull/4) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
@@ -35,24 +37,22 @@
 - [[PHP 8.2]Bump Xdebug from dev-branch to 3.2.0alpha1](https://github.com/ghostwriter/php/pull/120) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/119) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/118) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 7.4]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/117) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 7.3]Bump composer/composer from 2.3.10 to 2.4.0-RC1](https://github.com/ghostwriter/php/pull/116) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (today)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (5 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (3 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (3 weeks ago)
-- [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (3 weeks ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (3 weeks ago)
+- [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (3 weeks ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (3 weeks ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (3 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (3 weeks ago)
