@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.1]Bump PHP-FPM from 8.1.8 to 8.1.9](https://github.com/ghostwriter/php/pull/125) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.1]Bump PHP-CLI from 8.1.8 to 8.1.9](https://github.com/ghostwriter/php/pull/124) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.0]Bump PHP-CLI from 8.0.21 to 8.0.22](https://github.com/ghostwriter/php/pull/123) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.21 to 8.0.22](https://github.com/ghostwriter/php/pull/122) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -36,7 +37,6 @@
 - [feature/optimize and cleanup](https://github.com/ghostwriter/option/pull/7) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)
 - [feature/update composer](https://github.com/ghostwriter/option/pull/6) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)
 - [Update README.md](https://github.com/ghostwriter/option/pull/5) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)
-- [[PHP 8.2]Bump Xdebug from 3.2.0alpha1 to 3.2.0alpha2](https://github.com/ghostwriter/php/pull/121) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
