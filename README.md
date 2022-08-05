@@ -40,9 +40,9 @@
 
 #### My latest Projects & Contributions
 
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (6 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
