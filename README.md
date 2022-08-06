@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Fix cs issues](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/4) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (today)
 - [feature/push and merge with gh cli](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/3) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (today)
 - [Update README.md](https://github.com/ghostwriter/collection/pull/4) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
 - [feature/add option package](https://github.com/ghostwriter/collection/pull/3) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
@@ -36,7 +37,6 @@
 - [feature/bump and refactor dependencies](https://github.com/ghostwriter/result/pull/4) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
 - [feature/refactor generics](https://github.com/ghostwriter/option/pull/9) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
 - [feature/switch to compliance](https://github.com/ghostwriter/result/pull/3) on [ghostwriter/result](https://github.com/ghostwriter/result) (4 days ago)
-- [feature/prepare release](https://github.com/ghostwriter/option/pull/8) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)
 
 #### My latest Projects & Contributions
 
