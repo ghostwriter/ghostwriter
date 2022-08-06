@@ -22,6 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
+- [feature/fix coding standard](https://github.com/ghostwriter/compliance/pull/15) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
+- [feature/bump composer dependencies](https://github.com/ghostwriter/compliance/pull/14) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)
+- [feature/update composer dependencies](https://github.com/ghostwriter/environment/pull/6) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
 - [Fix cs issues](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/4) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (today)
 - [feature/push and merge with gh cli](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/3) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (today)
 - [Update README.md](https://github.com/ghostwriter/collection/pull/4) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
@@ -34,23 +37,20 @@
 - [qa/update composer dependencies](https://github.com/ghostwriter/wip/pull/13) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)
 - [qa/code cleanup](https://github.com/ghostwriter/result/pull/6) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
 - [Update README.md](https://github.com/ghostwriter/result/pull/5) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
-- [feature/bump and refactor dependencies](https://github.com/ghostwriter/result/pull/4) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
-- [feature/refactor generics](https://github.com/ghostwriter/option/pull/9) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
-- [feature/switch to compliance](https://github.com/ghostwriter/result/pull/3) on [ghostwriter/result](https://github.com/ghostwriter/result) (4 days ago)
 
 #### My latest Projects & Contributions
 
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 day ago)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 day ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (2 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 days ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (1 week ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (3 weeks ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (3 weeks ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (3 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (4 weeks ago)
