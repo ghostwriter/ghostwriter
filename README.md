@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [chore/bump composer dependencies](https://github.com/ghostwriter/environment/pull/7) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
 - [Update README.md](https://github.com/ghostwriter/json/pull/7) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 days ago)
 - [update composer](https://github.com/ghostwriter/json/pull/6) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 days ago)
 - [Update rector.php](https://github.com/ghostwriter/json/pull/5) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 days ago)
@@ -36,16 +37,15 @@
 - [Update README.md](https://github.com/ghostwriter/collection/pull/4) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)
 - [feature/add option package](https://github.com/ghostwriter/collection/pull/3) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.8 to 8.1.9](https://github.com/ghostwriter/php/pull/125) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [[PHP 8.1]Bump PHP-CLI from 8.1.8 to 8.1.9](https://github.com/ghostwriter/php/pull/124) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 days ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (5 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (6 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (6 days ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (6 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (6 days ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
