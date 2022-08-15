@@ -22,14 +22,14 @@
 
 #### My recent Pull Requests & Contributions
 
-- [chore/bump composer dependencies](https://github.com/ghostwriter/finder/pull/1) on [ghostwriter/finder](https://github.com/ghostwriter/finder) (3 days ago)
-- [chore/bump composer dependencies](https://github.com/ghostwriter/environment/pull/7) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (3 days ago)
-- [Update README.md](https://github.com/ghostwriter/json/pull/7) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
-- [update composer](https://github.com/ghostwriter/json/pull/6) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
-- [Update rector.php](https://github.com/ghostwriter/json/pull/5) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
-- [Update infection.json.dist](https://github.com/ghostwriter/json/pull/4) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
-- [Update ecs.php](https://github.com/ghostwriter/json/pull/3) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
-- [update psalm config](https://github.com/ghostwriter/json/pull/2) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
+- [chore/bump composer dependencies](https://github.com/ghostwriter/finder/pull/1) on [ghostwriter/finder](https://github.com/ghostwriter/finder) (4 days ago)
+- [chore/bump composer dependencies](https://github.com/ghostwriter/environment/pull/7) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (4 days ago)
+- [Update README.md](https://github.com/ghostwriter/json/pull/7) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
+- [update composer](https://github.com/ghostwriter/json/pull/6) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
+- [Update rector.php](https://github.com/ghostwriter/json/pull/5) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
+- [Update infection.json.dist](https://github.com/ghostwriter/json/pull/4) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
+- [Update ecs.php](https://github.com/ghostwriter/json/pull/3) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
+- [update psalm config](https://github.com/ghostwriter/json/pull/2) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
 - [feature/fix coding standard](https://github.com/ghostwriter/compliance/pull/15) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [feature/bump composer dependencies](https://github.com/ghostwriter/compliance/pull/14) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 - [feature/update composer dependencies](https://github.com/ghostwriter/environment/pull/6) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (3 days ago)
-- [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (3 days ago)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (5 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (4 days ago)
+- [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (4 days ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (6 days ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
