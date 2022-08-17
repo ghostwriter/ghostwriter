@@ -22,8 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
-- [chore/bump composer dependencies](https://github.com/ghostwriter/finder/pull/1) on [ghostwriter/finder](https://github.com/ghostwriter/finder) (5 days ago)
-- [chore/bump composer dependencies](https://github.com/ghostwriter/environment/pull/7) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (5 days ago)
+- [chore/bump composer dependencies](https://github.com/ghostwriter/finder/pull/1) on [ghostwriter/finder](https://github.com/ghostwriter/finder) (6 days ago)
+- [chore/bump composer dependencies](https://github.com/ghostwriter/environment/pull/7) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (6 days ago)
 - [Update README.md](https://github.com/ghostwriter/json/pull/7) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
 - [update composer](https://github.com/ghostwriter/json/pull/6) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
 - [Update rector.php](https://github.com/ghostwriter/json/pull/5) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
@@ -40,9 +40,9 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (5 days ago)
-- [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (5 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (6 days ago)
+- [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (6 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
@@ -50,7 +50,7 @@
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 weeks ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (2 weeks ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (3 weeks ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 month ago)
