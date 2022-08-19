@@ -22,6 +22,12 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump PHP-FPM from 8.2.0beta2 to 8.2.0beta3](https://github.com/ghostwriter/php/pull/137) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.0beta2 to 8.2.0beta3](https://github.com/ghostwriter/php/pull/136) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-FPM from 8.2.0beta1 to 8.2.0beta2](https://github.com/ghostwriter/php/pull/135) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.0beta1 to 8.2.0beta2](https://github.com/ghostwriter/php/pull/134) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-FPM from 8.2.0alpha3 to 8.2.0beta1](https://github.com/ghostwriter/php/pull/133) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.0alpha3 to 8.2.0beta1](https://github.com/ghostwriter/php/pull/132) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.1]Bump composer/composer from 2.4.0-RC1 to 2.4.0](https://github.com/ghostwriter/php/pull/131) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.0]Bump composer/composer from 2.4.0-RC1 to 2.4.0](https://github.com/ghostwriter/php/pull/130) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.4]Bump composer/composer from 2.4.0-RC1 to 2.4.0](https://github.com/ghostwriter/php/pull/129) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -31,12 +37,6 @@
 - [chore/bump composer dependencies](https://github.com/ghostwriter/finder/pull/1) on [ghostwriter/finder](https://github.com/ghostwriter/finder) (1 week ago)
 - [chore/bump composer dependencies](https://github.com/ghostwriter/environment/pull/7) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
 - [Update README.md](https://github.com/ghostwriter/json/pull/7) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
-- [update composer](https://github.com/ghostwriter/json/pull/6) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
-- [Update rector.php](https://github.com/ghostwriter/json/pull/5) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
-- [Update infection.json.dist](https://github.com/ghostwriter/json/pull/4) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
-- [Update ecs.php](https://github.com/ghostwriter/json/pull/3) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
-- [update psalm config](https://github.com/ghostwriter/json/pull/2) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
-- [feature/fix coding standard](https://github.com/ghostwriter/compliance/pull/15) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)
 
 #### My latest Projects & Contributions
 
