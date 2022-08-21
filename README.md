@@ -22,6 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
+- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/15) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [feature/use json library](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/6) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (today)
 - [feature/add pr number](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/5) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 day ago)
 - [[PHP 8.2]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/146) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.1]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/145) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -35,21 +37,19 @@
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0beta2 to 8.2.0beta3](https://github.com/ghostwriter/php/pull/137) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0beta2 to 8.2.0beta3](https://github.com/ghostwriter/php/pull/136) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0beta1 to 8.2.0beta2](https://github.com/ghostwriter/php/pull/135) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [[PHP 8.2]Bump PHP-CLI from 8.2.0beta1 to 8.2.0beta2](https://github.com/ghostwriter/php/pull/134) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
-- [[PHP 8.2]Bump PHP-FPM from 8.2.0alpha3 to 8.2.0beta1](https://github.com/ghostwriter/php/pull/133) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 day ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (2 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (2 weeks ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 weeks ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 weeks ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (3 weeks ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 month ago)
