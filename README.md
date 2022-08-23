@@ -62,6 +62,6 @@
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (2 months ago)
 - [ghostwriter/laminas-org-laminas-ci-matrix-action](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) -  (3 months ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (4 months ago)
-- [ghostwriter/release-milestones](https://github.com/ghostwriter/release-milestones) -  (4 months ago)
+- [nathane/release-milestones](https://github.com/nathane/release-milestones) -  (4 months ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (5 months ago)
 - [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (5 months ago)
