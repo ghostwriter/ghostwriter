@@ -22,10 +22,10 @@
 
 #### My recent Pull Requests & Contributions
 
-- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/16) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)
-- [[PHP 8.2]Bump Xdebug from 3.2.0alpha2 to 3.2.0alpha3](https://github.com/ghostwriter/php/pull/147) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/15) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (6 days ago)
-- [feature/use json library](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/6) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (6 days ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/16) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 days ago)
+- [[PHP 8.2]Bump Xdebug from 3.2.0alpha2 to 3.2.0alpha3](https://github.com/ghostwriter/php/pull/147) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/15) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
+- [feature/use json library](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/6) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [feature/add pr number](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/5) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [[PHP 8.2]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/146) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/145) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,11 +40,11 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
-- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (5 days ago)
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (6 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 days ago)
+- [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (6 days ago)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (2 weeks ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 weeks ago)
