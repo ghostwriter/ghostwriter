@@ -41,8 +41,8 @@
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
@@ -64,4 +64,4 @@
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (4 months ago)
 - [nathane/release-milestones](https://github.com/nathane/release-milestones) -  (5 months ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (5 months ago)
-- [laminas/laminas-cache-storage-adapter-memcached](https://github.com/laminas/laminas-cache-storage-adapter-memcached) -  (5 months ago)
+- [laminas/laminas-ldap](https://github.com/laminas/laminas-ldap) - Provides support for LDAP operations including but not limited to binding, searching and modifying entries in an LDAP directory (5 months ago)
