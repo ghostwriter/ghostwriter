@@ -22,8 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
-- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/16) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
-- [[PHP 8.2]Bump Xdebug from 3.2.0alpha2 to 3.2.0alpha3](https://github.com/ghostwriter/php/pull/147) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/16) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)
+- [[PHP 8.2]Bump Xdebug from 3.2.0alpha2 to 3.2.0alpha3](https://github.com/ghostwriter/php/pull/147) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 - [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/15) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [feature/use json library](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/6) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [feature/add pr number](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/5) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
@@ -40,14 +40,14 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (6 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (6 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (2 weeks ago)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 weeks ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (3 weeks ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (3 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (3 weeks ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (3 weeks ago)
@@ -59,8 +59,8 @@
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (1 month ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - [wip]Provides a micro-framework for Console Applications. (2 months ago)
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (2 months ago)
-- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (2 months ago)
-- [ghostwriter/laminas-org-laminas-ci-matrix-action](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) -  (3 months ago)
+- [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (3 months ago)
+- [ghostwriter/laminas-org-laminas-ci-matrix-action](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) -  (4 months ago)
 - [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (4 months ago)
 - [nathane/release-milestones](https://github.com/nathane/release-milestones) -  (5 months ago)
 - [laminas/laminas-db](https://github.com/laminas/laminas-db) - Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations (5 months ago)
