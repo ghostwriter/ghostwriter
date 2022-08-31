@@ -22,8 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
-- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/16) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)
-- [[PHP 8.2]Bump Xdebug from 3.2.0alpha2 to 3.2.0alpha3](https://github.com/ghostwriter/php/pull/147) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/16) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (6 days ago)
+- [[PHP 8.2]Bump Xdebug from 3.2.0alpha2 to 3.2.0alpha3](https://github.com/ghostwriter/php/pull/147) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/15) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [feature/use json library](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/6) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [feature/add pr number](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/5) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
@@ -40,9 +40,9 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (6 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (6 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
@@ -51,7 +51,7 @@
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (3 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (3 weeks ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (3 weeks ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 weeks ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (4 weeks ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (1 month ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 month ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 month ago)
