@@ -22,6 +22,10 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump PHP-FPM from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/155) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/154) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump PHP-FPM from 8.0.23 to 8.0.23RC1](https://github.com/ghostwriter/php/pull/153) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump PHP-CLI from 8.0.23 to 8.0.23RC1](https://github.com/ghostwriter/php/pull/152) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.9 to 8.1.10](https://github.com/ghostwriter/php/pull/151) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.1]Bump PHP-CLI from 8.1.9 to 8.1.10](https://github.com/ghostwriter/php/pull/150) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.22 to 8.0.23](https://github.com/ghostwriter/php/pull/149) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -33,10 +37,6 @@
 - [feature/add pr number](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/5) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [[PHP 8.2]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/146) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/145) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.0]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/144) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 7.4]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/143) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 7.3]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/142) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 7.2]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/141) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
