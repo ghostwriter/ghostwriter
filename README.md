@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Update docker build to cancel-in-progress](https://github.com/ghostwriter/php/pull/156) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/155) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/154) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.23 to 8.0.23RC1](https://github.com/ghostwriter/php/pull/153) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -36,13 +37,12 @@
 - [feature/use json library](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/6) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [feature/add pr number](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/5) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [[PHP 8.2]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/146) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.1]Bump composer/composer from 2.4.0 to 2.4.1](https://github.com/ghostwriter/php/pull/145) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 day ago)
