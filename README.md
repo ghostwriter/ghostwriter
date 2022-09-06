@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Merge 1.3 up into master branch](https://github.com/mockery/mockery/pull/1189) on [mockery/mockery](https://github.com/mockery/mockery) (today)
 - [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/10) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/17) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [[PHP 8.0]Bump PHP-CLI from 8.0.23RC1 to 8.0.23](https://github.com/ghostwriter/php/pull/159) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
@@ -36,7 +37,6 @@
 - [[PHP 8.1]Bump PHP-CLI from 8.1.9 to 8.1.10](https://github.com/ghostwriter/php/pull/150) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.22 to 8.0.23](https://github.com/ghostwriter/php/pull/149) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
 - [[PHP 8.0]Bump PHP-CLI from 8.0.22 to 8.0.23](https://github.com/ghostwriter/php/pull/148) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
-- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/16) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 
 #### My latest Projects & Contributions
 
