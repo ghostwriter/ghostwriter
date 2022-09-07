@@ -40,17 +40,17 @@
 
 #### My latest Projects & Contributions
 
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (6 days ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (6 days ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (6 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (6 days ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (6 days ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (6 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (6 days ago)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (6 days ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (2 weeks ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (3 weeks ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (4 weeks ago)
