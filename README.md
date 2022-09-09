@@ -22,13 +22,13 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Merge 1.3 up into master branch](https://github.com/mockery/mockery/pull/1189) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)
-- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/10) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
-- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/17) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)
-- [[PHP 8.0]Bump PHP-CLI from 8.0.23RC1 to 8.0.23](https://github.com/ghostwriter/php/pull/159) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [[PHP 8.2]Bump PHP-FPM from 8.2-rc to 8.2.0RC1](https://github.com/ghostwriter/php/pull/158) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [[PHP 8.2]Bump PHP-CLI from 8.2-rc to 8.2.0RC1](https://github.com/ghostwriter/php/pull/157) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
-- [Update docker build to cancel-in-progress](https://github.com/ghostwriter/php/pull/156) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
+- [Merge 1.3 up into master branch](https://github.com/mockery/mockery/pull/1189) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/10) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/17) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 days ago)
+- [[PHP 8.0]Bump PHP-CLI from 8.0.23RC1 to 8.0.23](https://github.com/ghostwriter/php/pull/159) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [[PHP 8.2]Bump PHP-FPM from 8.2-rc to 8.2.0RC1](https://github.com/ghostwriter/php/pull/158) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [[PHP 8.2]Bump PHP-CLI from 8.2-rc to 8.2.0RC1](https://github.com/ghostwriter/php/pull/157) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
+- [Update docker build to cancel-in-progress](https://github.com/ghostwriter/php/pull/156) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/155) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/154) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.23 to 8.0.23RC1](https://github.com/ghostwriter/php/pull/153) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (6 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
