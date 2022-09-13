@@ -22,9 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Merge 1.3 up into master branch](https://github.com/mockery/mockery/pull/1189) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)
-- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/10) on [ghostwriter/option](https://github.com/ghostwriter/option) (6 days ago)
-- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/17) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (6 days ago)
+- [Merge 1.3 up into master branch](https://github.com/mockery/mockery/pull/1189) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/10) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/17) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [[PHP 8.0]Bump PHP-CLI from 8.0.23RC1 to 8.0.23](https://github.com/ghostwriter/php/pull/159) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2-rc to 8.2.0RC1](https://github.com/ghostwriter/php/pull/158) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2-rc to 8.2.0RC1](https://github.com/ghostwriter/php/pull/157) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (2 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (6 days ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (6 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (3 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
