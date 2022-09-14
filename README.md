@@ -22,6 +22,12 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump composer/composer from 2.4.1 to 2.4.2](https://github.com/ghostwriter/php/pull/165) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump composer/composer from 2.4.1 to 2.4.2](https://github.com/ghostwriter/php/pull/164) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump composer/composer from 2.4.1 to 2.4.2](https://github.com/ghostwriter/php/pull/163) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.4]Bump composer/composer from 2.4.1 to 2.4.2](https://github.com/ghostwriter/php/pull/162) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.3]Bump composer/composer from 2.4.1 to 2.4.2](https://github.com/ghostwriter/php/pull/161) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.2]Bump composer/composer from 2.4.1 to 2.4.2](https://github.com/ghostwriter/php/pull/160) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Merge 1.3 up into master branch](https://github.com/mockery/mockery/pull/1189) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/10) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)
 - [feature/update composer dependencies](https://github.com/ghostwriter/wip/pull/17) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
@@ -31,20 +37,14 @@
 - [Update docker build to cancel-in-progress](https://github.com/ghostwriter/php/pull/156) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/155) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0beta3 to 8.2-rc](https://github.com/ghostwriter/php/pull/154) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.0]Bump PHP-FPM from 8.0.23 to 8.0.23RC1](https://github.com/ghostwriter/php/pull/153) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.0]Bump PHP-CLI from 8.0.23 to 8.0.23RC1](https://github.com/ghostwriter/php/pull/152) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.1]Bump PHP-FPM from 8.1.9 to 8.1.10](https://github.com/ghostwriter/php/pull/151) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.1]Bump PHP-CLI from 8.1.9 to 8.1.10](https://github.com/ghostwriter/php/pull/150) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.0]Bump PHP-FPM from 8.0.22 to 8.0.23](https://github.com/ghostwriter/php/pull/149) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.0]Bump PHP-CLI from 8.0.22 to 8.0.23](https://github.com/ghostwriter/php/pull/148) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (4 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
