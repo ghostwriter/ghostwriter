@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [update composer](https://github.com/ghostwriter/json/pull/8) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
+- [Update composer dependancies](https://github.com/ghostwriter/json/pull/8) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
 - [[PHP-FPM 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/191) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP-CLI 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/190) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP-FPM 8.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/189) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
