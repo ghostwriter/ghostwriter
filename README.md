@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [[BC][4.x]Add `PSR-17` Support and Remove deprecated](https://github.com/laminas/laminas-stratigility/pull/32) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (today)
+- [[BC][4.x]Add `PSR-17` Support and Remove deprecated Class/Functions](https://github.com/laminas/laminas-stratigility/pull/32) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (today)
 - [Update composer dependancies](https://github.com/ghostwriter/json/pull/8) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
 - [[PHP-FPM 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/191) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
 - [[PHP-CLI 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/190) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)
