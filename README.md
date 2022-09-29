@@ -22,6 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Add API to README.md](https://github.com/ghostwriter/option/pull/13) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [Update README.md](https://github.com/ghostwriter/option/pull/12) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/11) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Add `PSR-17` Support and Remove deprecated Class/Functions](https://github.com/laminas/laminas-stratigility/pull/32) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (3 days ago)
 - [Update composer dependancies](https://github.com/ghostwriter/json/pull/8) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
 - [[PHP-FPM 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/191) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -34,22 +37,19 @@
 - [[PHP-CLI 7.4]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/184) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-FPM 7.3]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/183) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-CLI 7.3]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/182) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-FPM 7.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/181) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-CLI 7.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/180) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-FPM 7.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/179) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (6 days ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (6 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (2 weeks ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 weeks ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 weeks ago)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (4 weeks ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (4 weeks ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (4 weeks ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (4 weeks ago)
