@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [feature/update composer dependencies](https://github.com/ghostwriter/collection/pull/5) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
 - [Add API to README.md](https://github.com/ghostwriter/result/pull/7) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)
 - [Add API to README.md](https://github.com/ghostwriter/option/pull/13) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)
 - [Update README.md](https://github.com/ghostwriter/option/pull/12) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)
@@ -36,25 +37,24 @@
 - [[PHP-CLI 8.0]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/186) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-FPM 7.4]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/185) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-CLI 7.4]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/184) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-FPM 7.3]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/183) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 day ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (1 week ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (2 weeks ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 weeks ago)
+- [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (4 weeks ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (4 weeks ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (4 weeks ago)
-- [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (4 weeks ago)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (4 weeks ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 month ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 month ago)
 - [ghostwriter/console](https://github.com/ghostwriter/console) - [wip]Provides a micro-framework for Console Applications. (3 months ago)
