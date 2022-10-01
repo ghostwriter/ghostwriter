@@ -22,6 +22,11 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump PHP-FPM from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/200) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/199) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump PHP-FPM from 8.1.10 to 8.1.11](https://github.com/ghostwriter/php/pull/198) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump PHP-CLI from 8.1.10 to 8.1.11](https://github.com/ghostwriter/php/pull/197) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump PHP-CLI from 8.0.23 to 8.0.24](https://github.com/ghostwriter/php/pull/196) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.4]Bump PHP-FPM from 7.4.31 to 7.4.32](https://github.com/ghostwriter/php/pull/195) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.4]Bump PHP-CLI from 7.4.31 to 7.4.32](https://github.com/ghostwriter/php/pull/194) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.4]Bump PHP-FPM from 7.4.30 to 7.4.31](https://github.com/ghostwriter/php/pull/193) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -32,11 +37,6 @@
 - [Update README.md](https://github.com/ghostwriter/option/pull/12) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
 - [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/11) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
 - [Add `PSR-17` Support and Remove deprecated Class/Functions](https://github.com/laminas/laminas-stratigility/pull/32) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (5 days ago)
-- [Update composer dependancies](https://github.com/ghostwriter/json/pull/8) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
-- [[PHP-FPM 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/191) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-CLI 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/190) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-FPM 8.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/189) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-CLI 8.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/188) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
