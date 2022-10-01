@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 7.4]Bump PHP-FPM from 7.4.31 to 7.4.32](https://github.com/ghostwriter/php/pull/195) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.4]Bump PHP-CLI from 7.4.31 to 7.4.32](https://github.com/ghostwriter/php/pull/194) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.4]Bump PHP-FPM from 7.4.30 to 7.4.31](https://github.com/ghostwriter/php/pull/193) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 7.4]Bump PHP-CLI from 7.4.30 to 7.4.31](https://github.com/ghostwriter/php/pull/192) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -36,7 +37,6 @@
 - [[PHP-CLI 8.2]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/190) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-FPM 8.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/189) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-CLI 8.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/188) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-FPM 8.0]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/187) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
