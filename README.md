@@ -22,6 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 7.4]Bump PHP-CLI from 7.4.31 to 7.4.32](https://github.com/ghostwriter/php/pull/194) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.4]Bump PHP-FPM from 7.4.30 to 7.4.31](https://github.com/ghostwriter/php/pull/193) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.4]Bump PHP-CLI from 7.4.30 to 7.4.31](https://github.com/ghostwriter/php/pull/192) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [feature/update composer dependencies](https://github.com/ghostwriter/collection/pull/5) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 day ago)
 - [Add API to README.md](https://github.com/ghostwriter/result/pull/7) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
 - [Add API to README.md](https://github.com/ghostwriter/option/pull/13) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
@@ -34,12 +37,10 @@
 - [[PHP-FPM 8.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/189) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-CLI 8.1]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/188) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP-FPM 8.0]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/187) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-CLI 8.0]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/186) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-FPM 7.4]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/185) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP-CLI 7.4]Bump `apcu` extension from 5.1.21 to 5.1.22](https://github.com/ghostwriter/php/pull/184) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (2 days ago)
@@ -47,7 +48,6 @@
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (2 days ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (3 weeks ago)
