@@ -22,8 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
-- [add support for PHP 8.2](https://github.com/ghostwriter/wip/pull/18) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
-- [add support for PHP 8.2](https://github.com/ghostwriter/result/pull/8) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
+- [Add support for PHP 8.2](https://github.com/ghostwriter/wip/pull/18) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [Add support for PHP 8.2](https://github.com/ghostwriter/result/pull/8) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [Add support for PHP 8.2](https://github.com/ghostwriter/option/pull/14) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [feature/add support for PHP 8.2](https://github.com/ghostwriter/event-dispatcher/pull/9) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/200) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
