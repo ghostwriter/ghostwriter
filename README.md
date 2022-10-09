@@ -22,11 +22,11 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Update README.md](https://github.com/ghostwriter/version/pull/1) on [ghostwriter/version](https://github.com/ghostwriter/version) (3 days ago)
-- [Add support for PHP 8.2](https://github.com/ghostwriter/wip/pull/18) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
-- [Add support for PHP 8.2](https://github.com/ghostwriter/result/pull/8) on [ghostwriter/result](https://github.com/ghostwriter/result) (4 days ago)
-- [Add support for PHP 8.2](https://github.com/ghostwriter/option/pull/14) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)
-- [Add support for PHP 8.2](https://github.com/ghostwriter/event-dispatcher/pull/9) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)
+- [Update README.md](https://github.com/ghostwriter/version/pull/1) on [ghostwriter/version](https://github.com/ghostwriter/version) (4 days ago)
+- [Add support for PHP 8.2](https://github.com/ghostwriter/wip/pull/18) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)
+- [Add support for PHP 8.2](https://github.com/ghostwriter/result/pull/8) on [ghostwriter/result](https://github.com/ghostwriter/result) (5 days ago)
+- [Add support for PHP 8.2](https://github.com/ghostwriter/option/pull/14) on [ghostwriter/option](https://github.com/ghostwriter/option) (5 days ago)
+- [Add support for PHP 8.2](https://github.com/ghostwriter/event-dispatcher/pull/9) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/200) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/199) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.10 to 8.1.11](https://github.com/ghostwriter/php/pull/198) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,14 +40,14 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (4 days ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (4 days ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (4 days ago)
-- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (4 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (4 days ago)
-- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (4 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (5 days ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (5 days ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (5 days ago)
+- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (5 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (5 days ago)
+- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (5 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
