@@ -40,8 +40,8 @@
 
 #### My latest Projects & Contributions
 
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
