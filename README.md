@@ -22,8 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
-- [provide psr 14 implementation](https://github.com/ghostwriter/event-dispatcher/pull/10) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)
-- [Update README.md](https://github.com/ghostwriter/version/pull/1) on [ghostwriter/version](https://github.com/ghostwriter/version) (6 days ago)
+- [provide psr 14 implementation](https://github.com/ghostwriter/event-dispatcher/pull/10) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)
+- [Update README.md](https://github.com/ghostwriter/version/pull/1) on [ghostwriter/version](https://github.com/ghostwriter/version) (1 week ago)
 - [Add support for PHP 8.2](https://github.com/ghostwriter/wip/pull/18) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [Add support for PHP 8.2](https://github.com/ghostwriter/result/pull/8) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
 - [Add support for PHP 8.2](https://github.com/ghostwriter/option/pull/14) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)
@@ -40,8 +40,8 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (2 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
