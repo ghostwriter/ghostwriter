@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump Xdebug from 3.2.0alpha3 to 3.2.0RC1](https://github.com/ghostwriter/php/pull/205) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0RC3 to 8.2.0RC4](https://github.com/ghostwriter/php/pull/204) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0RC3 to 8.2.0RC4](https://github.com/ghostwriter/php/pull/203) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0RC2 to 8.2.0RC3](https://github.com/ghostwriter/php/pull/202) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -36,12 +37,11 @@
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/199) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.10 to 8.1.11](https://github.com/ghostwriter/php/pull/198) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump PHP-CLI from 8.1.10 to 8.1.11](https://github.com/ghostwriter/php/pull/197) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.0]Bump PHP-CLI from 8.0.23 to 8.0.24](https://github.com/ghostwriter/php/pull/196) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (4 days ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
