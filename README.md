@@ -22,6 +22,12 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/211) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/210) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/209) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.4]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/208) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.3]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/207) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 7.2]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/206) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.2]Bump Xdebug from 3.2.0alpha3 to 3.2.0RC1](https://github.com/ghostwriter/php/pull/205) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0RC3 to 8.2.0RC4](https://github.com/ghostwriter/php/pull/204) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.0RC3 to 8.2.0RC4](https://github.com/ghostwriter/php/pull/203) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
@@ -31,17 +37,11 @@
 - [Update README.md](https://github.com/ghostwriter/version/pull/1) on [ghostwriter/version](https://github.com/ghostwriter/version) (1 week ago)
 - [Add support for PHP 8.2](https://github.com/ghostwriter/wip/pull/18) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [Add support for PHP 8.2](https://github.com/ghostwriter/result/pull/8) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
-- [Add support for PHP 8.2](https://github.com/ghostwriter/option/pull/14) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)
-- [Add support for PHP 8.2](https://github.com/ghostwriter/event-dispatcher/pull/9) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
-- [[PHP 8.2]Bump PHP-FPM from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/200) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.2]Bump PHP-CLI from 8.2.0RC1 to 8.2.0RC2](https://github.com/ghostwriter/php/pull/199) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.1]Bump PHP-FPM from 8.1.10 to 8.1.11](https://github.com/ghostwriter/php/pull/198) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.1]Bump PHP-CLI from 8.1.10 to 8.1.11](https://github.com/ghostwriter/php/pull/197) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
