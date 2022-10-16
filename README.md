@@ -40,11 +40,11 @@
 
 #### My latest Projects & Contributions
 
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
