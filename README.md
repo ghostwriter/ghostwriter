@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Memoize object construction and method call result](https://github.com/doctrine/lexer/pull/68) on [doctrine/lexer](https://github.com/doctrine/lexer) (today)
 - [[PHP 8.2]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/211) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.1]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/210) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
 - [[PHP 8.0]Bump composer/composer from 2.4.2 to 2.4.3](https://github.com/ghostwriter/php/pull/209) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)
@@ -36,7 +37,6 @@
 - [provide psr 14 implementation](https://github.com/ghostwriter/event-dispatcher/pull/10) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)
 - [Update README.md](https://github.com/ghostwriter/version/pull/1) on [ghostwriter/version](https://github.com/ghostwriter/version) (1 week ago)
 - [Add support for PHP 8.2](https://github.com/ghostwriter/wip/pull/18) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
-- [Add support for PHP 8.2](https://github.com/ghostwriter/result/pull/8) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
 
 #### My latest Projects & Contributions
 
