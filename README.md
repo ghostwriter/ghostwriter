@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [feature/updates](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/7) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (3 days ago)
+- [feature/updates](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/7) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (4 days ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.24 to 8.0.25](https://github.com/ghostwriter/php/pull/235) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.23 to 8.0.24](https://github.com/ghostwriter/php/pull/234) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.23RC1 to 8.0.23](https://github.com/ghostwriter/php/pull/233) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/tn-therapists](https://github.com/ghostwriter/tn-therapists) - TN Therapists (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (3 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/tn-therapists](https://github.com/ghostwriter/tn-therapists) - TN Therapists (2 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (4 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (3 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (3 weeks ago)
@@ -64,4 +64,4 @@
 - [mockery/mockery](https://github.com/mockery/mockery) - Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). (5 months ago)
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (5 months ago)
 - [ghostwriter/laminas-org-laminas-ci-matrix-action](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) -  (6 months ago)
-- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (6 months ago)
+- [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) - Analyze your PHP, JS and CSS code with StyleCI CLI Tool. (7 months ago)
