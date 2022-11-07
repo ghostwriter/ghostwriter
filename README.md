@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [feature/updates](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/7) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (4 days ago)
+- [feature/updates](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/7) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (5 days ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.24 to 8.0.25](https://github.com/ghostwriter/php/pull/235) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.23 to 8.0.24](https://github.com/ghostwriter/php/pull/234) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.23RC1 to 8.0.23](https://github.com/ghostwriter/php/pull/233) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/tn-therapists](https://github.com/ghostwriter/tn-therapists) - TN Therapists (2 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (4 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/tn-therapists](https://github.com/ghostwriter/tn-therapists) - TN Therapists (3 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (5 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (3 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (3 weeks ago)
