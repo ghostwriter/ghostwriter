@@ -22,13 +22,13 @@
 
 #### My recent Pull Requests & Contributions
 
-- [update composer dependancies](https://github.com/ghostwriter/collection/pull/6) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 day ago)
-- [[PHP 8.2]Bump Xdebug from 3.2.0RC1 to 3.2.0RC2](https://github.com/ghostwriter/php/pull/243) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 8.1]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/242) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 8.0]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/241) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 7.4]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/240) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 7.3]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/239) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 7.2]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/238) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [update composer dependancies](https://github.com/ghostwriter/collection/pull/6) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 days ago)
+- [[PHP 8.2]Bump Xdebug from 3.2.0RC1 to 3.2.0RC2](https://github.com/ghostwriter/php/pull/243) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [[PHP 8.1]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/242) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [[PHP 8.0]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/241) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [[PHP 7.4]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/240) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [[PHP 7.3]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/239) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [[PHP 7.2]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/238) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [[PHP 7.4]Bump PHP-FPM from 7.4.32 to 7.4.33](https://github.com/ghostwriter/php/pull/237) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 7.4]Bump PHP-CLI from 7.4.32 to 7.4.33](https://github.com/ghostwriter/php/pull/236) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [feature/updates](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/7) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
@@ -40,11 +40,11 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
-- [ghostwriter/laminas-redis-session](https://github.com/ghostwriter/laminas-redis-session) - helping out in laminas slack (5 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 days ago)
+- [ghostwriter/laminas-redis-session](https://github.com/ghostwriter/laminas-redis-session) - helping out in laminas slack (6 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (6 days ago)
 - [ghostwriter/tn-therapists](https://github.com/ghostwriter/tn-therapists) - TN Therapists (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 month ago)
