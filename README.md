@@ -22,6 +22,10 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump PHP-FPM from 8.2.0RC5 to 8.2.0RC6](https://github.com/ghostwriter/php/pull/247) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.0RC5 to 8.2.0RC6](https://github.com/ghostwriter/php/pull/246) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-FPM from 8.2.0RC4 to 8.2.0RC5](https://github.com/ghostwriter/php/pull/245) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.0RC4 to 8.2.0RC5](https://github.com/ghostwriter/php/pull/244) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [update composer dependancies](https://github.com/ghostwriter/collection/pull/6) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 days ago)
 - [[PHP 8.2]Bump Xdebug from 3.2.0RC1 to 3.2.0RC2](https://github.com/ghostwriter/php/pull/243) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [[PHP 8.1]Bump Xdebug from 3.1.5 to 3.1.6](https://github.com/ghostwriter/php/pull/242) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
@@ -33,16 +37,12 @@
 - [[PHP 7.4]Bump PHP-CLI from 7.4.32 to 7.4.33](https://github.com/ghostwriter/php/pull/236) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [feature/updates](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/7) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.24 to 8.0.25](https://github.com/ghostwriter/php/pull/235) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.0]Bump PHP-FPM from 8.0.23 to 8.0.24](https://github.com/ghostwriter/php/pull/234) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.0]Bump PHP-FPM from 8.0.23RC1 to 8.0.23](https://github.com/ghostwriter/php/pull/233) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.1]Bump PHP-FPM from 8.1.11 to 8.1.12](https://github.com/ghostwriter/php/pull/232) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.1]Bump PHP-CLI from 8.1.11 to 8.1.12](https://github.com/ghostwriter/php/pull/231) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 days ago)
 - [ghostwriter/laminas-redis-session](https://github.com/ghostwriter/laminas-redis-session) - helping out in laminas slack (6 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (6 days ago)
 - [ghostwriter/tn-therapists](https://github.com/ghostwriter/tn-therapists) - TN Therapists (1 week ago)
