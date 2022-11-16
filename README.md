@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-twigrenderer/pull/24) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-hal/pull/63) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-session-cache/pull/34) on [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-swoole/pull/105) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (today)
@@ -36,7 +37,6 @@
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-twitter/pull/30) on [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) (today)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-diagnostics/pull/61) on [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-captcha/pull/27) on [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-barcode/pull/20) on [laminas/laminas-barcode](https://github.com/laminas/laminas-barcode) (1 day ago)
 
 #### My latest Projects & Contributions
 
