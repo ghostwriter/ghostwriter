@@ -22,6 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-authorization-rbac/pull/23) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (today)
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-authentication-session/pull/25) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-twigrenderer/pull/24) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-hal/pull/63) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-session-cache/pull/34) on [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) (today)
@@ -35,8 +37,6 @@
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-xmlrpc/pull/30) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (today)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-xml/pull/16) on [laminas/laminas-xml](https://github.com/laminas/laminas-xml) (today)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-twitter/pull/30) on [laminas/laminas-twitter](https://github.com/laminas/laminas-twitter) (today)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-diagnostics/pull/61) on [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-captcha/pull/27) on [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) (1 day ago)
 
 #### My latest Projects & Contributions
 
