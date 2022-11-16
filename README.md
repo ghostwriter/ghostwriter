@@ -31,7 +31,7 @@
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-twigrenderer/pull/24) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-hal/pull/63) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-session-cache/pull/34) on [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) (today)
-- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-swoole/pull/105) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (today)
+- [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-swoole/pull/105) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-authentication-laminasauthentication/pull/23) on [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-cors/pull/49) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/repo-template/pull/18) on [mezzio/repo-template](https://github.com/mezzio/repo-template) (today)
