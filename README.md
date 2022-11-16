@@ -22,6 +22,12 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-hal/pull/63) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-session-cache/pull/34) on [mezzio/mezzio-session-cache](https://github.com/mezzio/mezzio-session-cache) (today)
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-swoole/pull/105) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (today)
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-authentication-laminasauthentication/pull/23) on [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) (today)
+- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-cors/pull/49) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (today)
+- [Feature: Support PHP 8.2](https://github.com/mezzio/repo-template/pull/18) on [mezzio/repo-template](https://github.com/mezzio/repo-template) (today)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-server/pull/55) on [laminas/laminas-server](https://github.com/laminas/laminas-server) (today)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-servicemanager-inspector/pull/12) on [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) (today)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-container-config-test/pull/17) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (today)
@@ -31,12 +37,6 @@
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-diagnostics/pull/61) on [laminas/laminas-diagnostics](https://github.com/laminas/laminas-diagnostics) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-captcha/pull/27) on [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-barcode/pull/20) on [laminas/laminas-barcode](https://github.com/laminas/laminas-barcode) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-permissions-rbac/pull/34) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-memory/pull/9) on [laminas/laminas-memory](https://github.com/laminas/laminas-memory) (1 day ago)
-- [Feature: Support PHP 8.2 ](https://github.com/laminas/laminas-skeleton-installer/pull/43) on [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-log/pull/45) on [laminas/laminas-log](https://github.com/laminas/laminas-log) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-component-installer/pull/63) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-db/pull/261) on [laminas/laminas-db](https://github.com/laminas/laminas-db) (1 day ago)
 
 #### My latest Projects & Contributions
 
