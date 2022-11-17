@@ -40,11 +40,11 @@
 
 #### My latest Projects & Contributions
 
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) - Plates integration for Mezzio (1 day ago)
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session (1 day ago)
 - [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) - Migrate Mezzio applications from v2 to v3 (1 day ago)
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) - RBAC permission adapter for mezzio-authorization (1 day ago)
 - [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session (1 day ago)
 - [laminas/laminas-xml](https://github.com/laminas/laminas-xml) - Utility library for XML usage, best practices, and security in PHP (2 days ago)
