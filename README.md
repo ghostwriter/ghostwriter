@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-tooling/pull/35) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-csrf/pull/18) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-migration/pull/22) on [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-platesrenderer/pull/21) on [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) (1 day ago)
@@ -36,7 +37,6 @@
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-cors/pull/49) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/repo-template/pull/18) on [mezzio/repo-template](https://github.com/mezzio/repo-template) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/laminas/laminas-server/pull/55) on [laminas/laminas-server](https://github.com/laminas/laminas-server) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/laminas/laminas-servicemanager-inspector/pull/12) on [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) (1 day ago)
 
 #### My latest Projects & Contributions
 
