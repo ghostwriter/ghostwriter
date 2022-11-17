@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Add support for PHP 8.2, drop support for PHP 7.4 and reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/28) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (today)
 - [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-skeleton/pull/97) on [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) (today)
 - [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-tooling/pull/35) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (today)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-csrf/pull/18) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (1 day ago)
@@ -36,7 +37,6 @@
 - [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-swoole/pull/105) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-authentication-laminasauthentication/pull/23) on [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-cors/pull/49) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 day ago)
-- [Feature: Support PHP 8.2](https://github.com/mezzio/repo-template/pull/18) on [mezzio/repo-template](https://github.com/mezzio/repo-template) (1 day ago)
 
 #### My latest Projects & Contributions
 
