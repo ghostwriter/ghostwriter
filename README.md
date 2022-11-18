@@ -40,7 +40,7 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) - Plates integration for Mezzio (2 days ago)
 - [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session (2 days ago)
 - [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) - Migrate Mezzio applications from v2 to v3 (2 days ago)
