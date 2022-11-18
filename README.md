@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Add support for PHP 8.2, drop support for PHP 7.4 and reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/28) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (1 day ago)
+- [Add support for PHP 8.2, drop support for PHP 7.4 and deprecated reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/28) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (1 day ago)
 - [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-skeleton/pull/97) on [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) (1 day ago)
 - [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-tooling/pull/35) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (1 day ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-csrf/pull/18) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 days ago)
