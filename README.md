@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Update composer dependencies](https://github.com/ghostwriter/wip/pull/19) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
+- [Update composer dependencies](https://github.com/ghostwriter/wip/pull/19) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)
 - [Add support for PHP 8.2, drop support for PHP 7.4 and deprecated reCaptcha Mailhide](https://github.com/laminas/laminas-recaptcha/pull/28) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (1 week ago)
 - [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-skeleton/pull/97) on [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) (1 week ago)
 - [Add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-tooling/pull/35) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (3 days ago)
-- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (3 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (4 days ago)
+- [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (4 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (1 week ago)
 - [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session (1 week ago)
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (1 week ago)
