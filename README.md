@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/16) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Update composer dependencies](https://github.com/ghostwriter/json/pull/9) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
 - [Update composer dependencies](https://github.com/ghostwriter/option/pull/15) on [ghostwriter/option](https://github.com/ghostwriter/option) (6 days ago)
 - [Update composer dependencies](https://github.com/ghostwriter/result/pull/9) on [ghostwriter/result](https://github.com/ghostwriter/result) (6 days ago)
@@ -36,12 +37,12 @@
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-csrf/pull/18) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 weeks ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-migration/pull/22) on [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) (2 weeks ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-platesrenderer/pull/21) on [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) (2 weeks ago)
-- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-flash/pull/24) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (5 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (6 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (6 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (6 days ago)
@@ -51,7 +52,6 @@
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (6 days ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (1 week ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (2 weeks ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (2 weeks ago)
 - [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session (2 weeks ago)
