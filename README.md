@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [feature/drop inheritance](https://github.com/ghostwriter/option/pull/17) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/16) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Update composer dependencies](https://github.com/ghostwriter/json/pull/9) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)
 - [Update composer dependencies](https://github.com/ghostwriter/option/pull/15) on [ghostwriter/option](https://github.com/ghostwriter/option) (6 days ago)
@@ -36,7 +37,6 @@
 - [Upgrade dependencies, add support for PHP 8.2, drop support for PHP 7.4](https://github.com/mezzio/mezzio-tooling/pull/35) on [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) (2 weeks ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-csrf/pull/18) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 weeks ago)
 - [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-migration/pull/22) on [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) (2 weeks ago)
-- [Feature: Support PHP 8.2](https://github.com/mezzio/mezzio-platesrenderer/pull/21) on [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
@@ -61,7 +61,7 @@
 - [mezzio/mezzio-migration](https://github.com/mezzio/mezzio-migration) - Migrate Mezzio applications from v2 to v3 (2 weeks ago)
 - [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) - Username/password, session-backed authentication adapter for mezzio-authentication. (2 weeks ago)
 - [laminas/laminas-migration](https://github.com/laminas/laminas-migration) - Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. (2 weeks ago)
-- [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) - CORS component for Mezzio and other PSR-15 middleware runners. (2 weeks ago)
+- [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (2 weeks ago)
 - [laminas/laminas-skeleton-installer](https://github.com/laminas/laminas-skeleton-installer) - Installer plugin for Laminas MVC Skeleton application (2 weeks ago)
 - [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) - Hypertext Application Language implementation for PHP and PSR-7 (2 weeks ago)
-- [laminas/laminas-servicemanager-inspector](https://github.com/laminas/laminas-servicemanager-inspector) - Make your autowiring reliable (2 weeks ago)
+- [laminas/laminas-barcode](https://github.com/laminas/laminas-barcode) - Programmatically create and render barcodes as images or in PDFs (2 weeks ago)
