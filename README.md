@@ -22,11 +22,11 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Bump psalm to ^5.1](https://github.com/ghostwriter/json/pull/10) on [ghostwriter/json](https://github.com/ghostwriter/json) (3 days ago)
-- [Drop inheritance](https://github.com/ghostwriter/environment/pull/8) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (3 days ago)
-- [Bump psalm to ^5.0](https://github.com/ghostwriter/collection/pull/7) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)
-- [Drop inheritance](https://github.com/ghostwriter/option/pull/17) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)
-- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/16) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)
+- [Bump psalm to ^5.1](https://github.com/ghostwriter/json/pull/10) on [ghostwriter/json](https://github.com/ghostwriter/json) (4 days ago)
+- [Drop inheritance](https://github.com/ghostwriter/environment/pull/8) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (4 days ago)
+- [Bump psalm to ^5.0](https://github.com/ghostwriter/collection/pull/7) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 days ago)
+- [Drop inheritance](https://github.com/ghostwriter/option/pull/17) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)
+- [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/16) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)
 - [Update composer dependencies](https://github.com/ghostwriter/json/pull/9) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
 - [Update composer dependencies](https://github.com/ghostwriter/option/pull/15) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)
 - [Update composer dependencies](https://github.com/ghostwriter/result/pull/9) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
@@ -40,13 +40,13 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (3 days ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 days ago)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (3 days ago)
-- [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (3 days ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (3 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (4 days ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (4 days ago)
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (4 days ago)
+- [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (4 days ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (4 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for PHP developers. (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
@@ -63,5 +63,5 @@
 - [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session (2 weeks ago)
 - [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) - Plates integration for Mezzio (2 weeks ago)
 - [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) - RBAC permission adapter for mezzio-authorization (2 weeks ago)
-- [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) - laminas-authentication adapter for mezzio-authentication. (2 weeks ago)
-- [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) - CORS component for Mezzio and other PSR-15 middleware runners. (2 weeks ago)
+- [mezzio/mezzio-authentication-laminasauthentication](https://github.com/mezzio/mezzio-authentication-laminasauthentication) - laminas-authentication adapter for mezzio-authentication. (3 weeks ago)
+- [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) - CORS component for Mezzio and other PSR-15 middleware runners. (3 weeks ago)
