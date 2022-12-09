@@ -40,7 +40,7 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 day ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for Laravel developers. (1 day ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (2 days ago)
