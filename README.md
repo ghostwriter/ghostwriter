@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Log error response message](https://github.com/laminas/automatic-releases/pull/221) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (today)
 - [Enable debug mode for GitHub Actions](https://github.com/laminas/automatic-releases/pull/220) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (today)
 - [[PHP 8.2]Bump Xdebug from 3.2.0RC2 to 3.2.0](https://github.com/ghostwriter/php/pull/254) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.0RC6 to 8.2.0](https://github.com/ghostwriter/php/pull/253) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -36,7 +37,6 @@
 - [feature/update composer dependencies](https://github.com/ghostwriter/option/pull/16) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)
 - [Update composer dependencies](https://github.com/ghostwriter/json/pull/9) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 weeks ago)
 - [Update composer dependencies](https://github.com/ghostwriter/option/pull/15) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)
-- [Update composer dependencies](https://github.com/ghostwriter/result/pull/9) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
