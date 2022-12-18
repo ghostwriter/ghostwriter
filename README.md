@@ -40,12 +40,12 @@
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/pizza-place](https://github.com/ghostwriter/pizza-place) - Livestreaming on twitch: building a pizza place locator API for a mobile app. (today)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for Laravel developers. (1 day ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
-- [ghostwriter/pizza-place](https://github.com/ghostwriter/pizza-place) - Livestreaming on twitch: building a pizza place locator API for a mobile app. (3 days ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 week ago)
