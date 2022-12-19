@@ -22,8 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
-- [chore/update composer dependencies](https://github.com/ghostwriter/json/pull/11) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
-- [chore/update composer dependencies](https://github.com/ghostwriter/wip/pull/22) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [Update composer dependencies](https://github.com/ghostwriter/json/pull/11) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
+- [Update composer dependencies](https://github.com/ghostwriter/wip/pull/22) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [Fix env-specific tests](https://github.com/laminas/automatic-releases/pull/225) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 day ago)
 - [Log error response message](https://github.com/laminas/automatic-releases/pull/221) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 days ago)
 - [Enable debug mode for GitHub Actions](https://github.com/laminas/automatic-releases/pull/220) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (3 days ago)
