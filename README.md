@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [chore/update composer dependencies](https://github.com/ghostwriter/environment/pull/9) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
+- [Update composer dependencies](https://github.com/ghostwriter/environment/pull/9) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
 - [Update composer dependencies](https://github.com/ghostwriter/option/pull/19) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Update composer dependencies](https://github.com/ghostwriter/json/pull/11) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
 - [Update composer dependencies](https://github.com/ghostwriter/wip/pull/22) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
