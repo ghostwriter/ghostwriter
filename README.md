@@ -40,11 +40,11 @@
 
 #### My latest Projects & Contributions
 
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 day ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 day ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (5 days ago)
