@@ -64,4 +64,4 @@
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 month ago)
 - [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) - OOP wrapper for the ReCaptcha web service (1 month ago)
 - [mezzio/mezzio-tooling](https://github.com/mezzio/mezzio-tooling) - Migration and development tooling for Mezzio (1 month ago)
-- [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) - Flash messages for PSR-7 and PSR-15 applications using mezzio-session (1 month ago)
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session (1 month ago)
