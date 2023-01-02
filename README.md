@@ -22,6 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Update LICENSE](https://github.com/ghostwriter/wip/pull/25) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [Create CHANGELOG.md](https://github.com/ghostwriter/wip/pull/24) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [Update composer dependencies](https://github.com/ghostwriter/wip/pull/23) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [Initial release](https://github.com/ghostwriter/config/pull/1) on [ghostwriter/config](https://github.com/ghostwriter/config) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/option/pull/20) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)
@@ -35,14 +37,12 @@
 - [[PHP 7.4]Bump composer/composer from 2.5.0 to 2.5.1](https://github.com/ghostwriter/php/pull/263) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 7.3]Bump composer/composer from 2.5.0 to 2.5.1](https://github.com/ghostwriter/php/pull/262) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 7.2]Bump composer/composer from 2.5.0 to 2.5.1](https://github.com/ghostwriter/php/pull/261) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.2]Bump composer/composer from 2.4.4 to 2.5.0](https://github.com/ghostwriter/php/pull/260) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.1]Bump composer/composer from 2.4.4 to 2.5.0](https://github.com/ghostwriter/php/pull/259) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
