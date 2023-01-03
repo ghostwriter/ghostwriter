@@ -22,12 +22,12 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Update LICENSE](https://github.com/ghostwriter/wip/pull/25) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
-- [Create CHANGELOG.md](https://github.com/ghostwriter/wip/pull/24) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
-- [Update composer dependencies](https://github.com/ghostwriter/wip/pull/23) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
-- [Initial release](https://github.com/ghostwriter/config/pull/1) on [ghostwriter/config](https://github.com/ghostwriter/config) (today)
-- [Lock file maintenance](https://github.com/ghostwriter/option/pull/20) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)
-- [Re-running automatic releases actions after failure](https://github.com/laminas/automatic-releases/pull/230) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (1 day ago)
+- [Update LICENSE](https://github.com/ghostwriter/wip/pull/25) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)
+- [Create CHANGELOG.md](https://github.com/ghostwriter/wip/pull/24) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)
+- [Update composer dependencies](https://github.com/ghostwriter/wip/pull/23) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)
+- [Initial release](https://github.com/ghostwriter/config/pull/1) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 day ago)
+- [Lock file maintenance](https://github.com/ghostwriter/option/pull/20) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
+- [Re-running automatic releases actions after failure](https://github.com/laminas/automatic-releases/pull/230) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (2 days ago)
 - [Psalm baseline](https://github.com/ghostwriter/environment/pull/11) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
 - [Bump composer dependencies](https://github.com/ghostwriter/environment/pull/10) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
 - [Drop interface](https://github.com/ghostwriter/collection/pull/8) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
-- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (1 day ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
+- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (2 days ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
