@@ -35,7 +35,7 @@
 - [Update composer dependencies](https://github.com/ghostwriter/wip/pull/23) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 days ago)
 - [Initial release](https://github.com/ghostwriter/config/pull/1) on [ghostwriter/config](https://github.com/ghostwriter/config) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/option/pull/20) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)
-- [Re-running automatic releases actions after failure](https://github.com/laminas/automatic-releases/pull/230) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (4 days ago)
+- [Skip creating GIT tag if one already exists, enabling re-running of the action if a release creation fails](https://github.com/laminas/automatic-releases/pull/230) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (4 days ago)
 - [Psalm baseline](https://github.com/ghostwriter/environment/pull/11) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
 
 #### My latest Projects & Contributions
@@ -46,6 +46,7 @@
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
+- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (4 days ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
@@ -53,9 +54,8 @@
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (2 weeks ago)
-- [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 weeks ago)
-- [ghostwriter/pizza-place](https://github.com/ghostwriter/pizza-place) - Livestreaming on twitch: building a pizza place locator API for a mobile app. (2 weeks ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 weeks ago)
+- [ghostwriter/pizza-place](https://github.com/ghostwriter/pizza-place) - Livestreaming on twitch: building a pizza place locator API for a mobile app. (2 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for Laravel developers. (2 weeks ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (3 weeks ago)
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (3 weeks ago)
