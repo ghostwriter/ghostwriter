@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Remove superfluous `softDeletes` &amp; `softDeletesTz` columns](https://github.com/laravel-shift/blueprint/pull/592) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (today)
 - [Return correct return-type hints](https://github.com/laravel-shift/blueprint/pull/591) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (today)
 - [Add Coding Standard](https://github.com/ghostwriter/wip/pull/27) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [Refactor Config API](https://github.com/ghostwriter/config/pull/3) on [ghostwriter/config](https://github.com/ghostwriter/config) (today)
@@ -36,7 +37,6 @@
 - [Initial release](https://github.com/ghostwriter/config/pull/1) on [ghostwriter/config](https://github.com/ghostwriter/config) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/option/pull/20) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)
 - [Skip creating GIT tag if one already exists, enabling re-running of the action if a release creation fails](https://github.com/laminas/automatic-releases/pull/230) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (4 days ago)
-- [Psalm baseline](https://github.com/ghostwriter/environment/pull/11) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
 
 #### My latest Projects & Contributions
 
