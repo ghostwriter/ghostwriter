@@ -22,7 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
-- [feature/initial release](https://github.com/ghostwriter/coding-standard/pull/1) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
+- [Add Coding Standard](https://github.com/ghostwriter/wip/pull/27) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [Refactor Config API](https://github.com/ghostwriter/config/pull/3) on [ghostwriter/config](https://github.com/ghostwriter/config) (today)
+- [Initial release](https://github.com/ghostwriter/coding-standard/pull/1) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/container/pull/14) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/26) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)
 - [Lock file maintenance](https://github.com/ghostwriter/option/pull/21) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)
@@ -35,20 +37,18 @@
 - [Re-running automatic releases actions after failure](https://github.com/laminas/automatic-releases/pull/230) on [laminas/automatic-releases](https://github.com/laminas/automatic-releases) (4 days ago)
 - [Psalm baseline](https://github.com/ghostwriter/environment/pull/11) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
 - [Bump composer dependencies](https://github.com/ghostwriter/environment/pull/10) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
-- [Drop interface](https://github.com/ghostwriter/collection/pull/8) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)
-- [[PHP 8.2]Bump composer/composer from 2.5.0 to 2.5.1](https://github.com/ghostwriter/php/pull/266) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (today)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
-- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
-- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (2 days ago)
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
+- [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
