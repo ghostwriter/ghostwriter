@@ -22,6 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Update rector](https://github.com/ghostwriter/option/pull/23) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [Add coding-standard](https://github.com/ghostwriter/option/pull/22) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Support`remember_token` column name](https://github.com/laravel-shift/faker-registry/pull/2) on [laravel-shift/faker-registry](https://github.com/laravel-shift/faker-registry) (today)
 - [Remove superfluous `softDeletes` &amp; `softDeletesTz` columns](https://github.com/laravel-shift/blueprint/pull/592) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 day ago)
 - [Return correct return-type hints](https://github.com/laravel-shift/blueprint/pull/591) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 day ago)
@@ -35,27 +37,25 @@
 - [Update LICENSE](https://github.com/ghostwriter/wip/pull/25) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
 - [Create CHANGELOG.md](https://github.com/ghostwriter/wip/pull/24) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
 - [Update composer dependencies](https://github.com/ghostwriter/wip/pull/23) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
-- [Initial release](https://github.com/ghostwriter/config/pull/1) on [ghostwriter/config](https://github.com/ghostwriter/config) (4 days ago)
-- [Lock file maintenance](https://github.com/ghostwriter/option/pull/20) on [ghostwriter/option](https://github.com/ghostwriter/option) (5 days ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (1 day ago)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (3 days ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (5 days ago)
-- [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
+- [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 weeks ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (2 weeks ago)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 weeks ago)
 - [ghostwriter/pizza-place](https://github.com/ghostwriter/pizza-place) - Livestreaming on twitch: building a pizza place locator API for a mobile app. (2 weeks ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 weeks ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for Laravel developers. (2 weeks ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (3 weeks ago)
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (4 weeks ago)
