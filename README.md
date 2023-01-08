@@ -23,9 +23,9 @@
 #### My recent Pull Requests & Contributions
 
 - [Lock file maintenance](https://github.com/ghostwriter/result/pull/10) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
-- [chore/composer locker](https://github.com/ghostwriter/json/pull/12) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
+- [Lock file maintenance](https://github.com/ghostwriter/json/pull/12) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/collection/pull/10) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
-- [Composer locker](https://github.com/ghostwriter/collection/pull/9) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
+- [Lock file maintenance](https://github.com/ghostwriter/collection/pull/9) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/environment/pull/12) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/container/pull/15) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/config/pull/4) on [ghostwriter/config](https://github.com/ghostwriter/config) (today)
