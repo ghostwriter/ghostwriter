@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/config/pull/5) on [ghostwriter/config](https://github.com/ghostwriter/config) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/3) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/2) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
 - [Update psalm config](https://github.com/ghostwriter/wip/pull/29) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
@@ -36,22 +37,21 @@
 - [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/2) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (5 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/result/pull/10) on [ghostwriter/result](https://github.com/ghostwriter/result) (5 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/json/pull/12) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
-- [Lock file maintenance](https://github.com/ghostwriter/collection/pull/10) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)
 
 #### My latest Projects & Contributions
 
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (today)
+- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (5 days ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (5 days ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (5 days ago)
-- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (5 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (5 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (5 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (5 days ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (5 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (5 days ago)
 - [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (5 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (5 days ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (6 days ago)
@@ -62,6 +62,6 @@
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 month ago)
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (1 month ago)
 - [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) - Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds! (1 month ago)
-- [ghostwriter/plex](https://github.com/ghostwriter/plex) - [wip] Lexical Analysis library for PHP (Lexer, Tokenizer, Scanner, Parser, Generator) (1 month ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [wip]code generation and modification through an abstract syntax tree (AST) for PHP (1 month ago)
+- [ghostwriter/plex](https://github.com/ghostwriter/plex) - [wip] Lexical Analysis library for PHP (Lexer, Tokenizer, Scanner, Parser, Generator) (1 month ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 month ago)
