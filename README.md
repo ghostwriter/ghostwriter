@@ -42,7 +42,7 @@
 
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (today)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (today)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (5 days ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (5 days ago)
