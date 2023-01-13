@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/3) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/2) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
 - [Update psalm config](https://github.com/ghostwriter/wip/pull/29) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.26 to 8.0.27](https://github.com/ghostwriter/php/pull/272) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
@@ -36,13 +37,12 @@
 - [Lock file maintenance](https://github.com/ghostwriter/result/pull/10) on [ghostwriter/result](https://github.com/ghostwriter/result) (5 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/json/pull/12) on [ghostwriter/json](https://github.com/ghostwriter/json) (5 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/collection/pull/10) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)
-- [Lock file maintenance](https://github.com/ghostwriter/collection/pull/9) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (4 days ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (5 days ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (5 days ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (5 days ago)
