@@ -22,13 +22,13 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/5) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (today)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/4) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
-- [Refactor LockListener](https://github.com/ghostwriter/composer-locker/pull/4) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (1 day ago)
-- [Refactor ProcessRunner](https://github.com/ghostwriter/composer-locker/pull/3) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (1 day ago)
-- [Lock file maintenance](https://github.com/ghostwriter/config/pull/5) on [ghostwriter/config](https://github.com/ghostwriter/config) (3 days ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/3) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/2) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/5) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (1 day ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/4) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)
+- [Refactor LockListener](https://github.com/ghostwriter/composer-locker/pull/4) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 days ago)
+- [Refactor ProcessRunner](https://github.com/ghostwriter/composer-locker/pull/3) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/config/pull/5) on [ghostwriter/config](https://github.com/ghostwriter/config) (4 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/3) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/2) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [Update psalm config](https://github.com/ghostwriter/wip/pull/29) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.26 to 8.0.27](https://github.com/ghostwriter/php/pull/272) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-CLI from 8.0.26 to 8.0.27](https://github.com/ghostwriter/php/pull/271) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,10 +40,10 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (today)
-- [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (today)
-- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (3 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
+- [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (1 day ago)
+- [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (4 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
@@ -57,7 +57,7 @@
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 weeks ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (3 weeks ago)
-- [ghostwriter/pizza-place](https://github.com/ghostwriter/pizza-place) - Livestreaming on twitch: building a pizza place locator API for a mobile app. (4 weeks ago)
+- [ghostwriter/pizza-place](https://github.com/ghostwriter/pizza-place) - Livestreaming on twitch: building a pizza place locator API for a mobile app. (1 month ago)
 - [ghostwriter/draft](https://github.com/ghostwriter/draft) - [wip]A code generation tool for Laravel developers. (1 month ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 month ago)
 - [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) - Swoole support for Mezzio (1 month ago)
