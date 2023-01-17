@@ -22,7 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
-- [feature/add invoke method](https://github.com/ghostwriter/container/pull/16) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
+- [Add infection configuration](https://github.com/ghostwriter/container/pull/17) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
+- [Drop PHP 8.0](https://github.com/ghostwriter/json/pull/13) on [ghostwriter/json](https://github.com/ghostwriter/json) (today)
+- [Add `invoke` method](https://github.com/ghostwriter/container/pull/16) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/5) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (1 day ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/4) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)
 - [Refactor LockListener](https://github.com/ghostwriter/composer-locker/pull/4) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 days ago)
@@ -35,25 +37,23 @@
 - [[PHP 8.0]Bump PHP-CLI from 8.0.26 to 8.0.27](https://github.com/ghostwriter/php/pull/271) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.13 to 8.1.14](https://github.com/ghostwriter/php/pull/270) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump PHP-CLI from 8.1.13 to 8.1.14](https://github.com/ghostwriter/php/pull/269) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.2]Bump PHP-FPM from 8.2.0 to 8.2.1](https://github.com/ghostwriter/php/pull/268) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.2]Bump PHP-CLI from 8.2.0 to 8.2.1](https://github.com/ghostwriter/php/pull/267) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 day ago)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 day ago)
 - [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (1 day ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (4 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/finder](https://github.com/ghostwriter/finder) - [wip]Find files and directories in PHP (1 week ago)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
 - [laminas/automatic-releases](https://github.com/laminas/automatic-releases) - Automated release process for `laminas/` projects, usable as github action (2 weeks ago)
 - [ghostwriter/http](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (3 weeks ago)
