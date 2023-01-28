@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/31) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (6 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/31) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/30) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [Configure coding standard](https://github.com/ghostwriter/config/pull/6) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)
 - [Drop PHP 8.0](https://github.com/ghostwriter/environment/pull/13) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)
@@ -40,9 +40,9 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (1 day ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (6 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (2 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
