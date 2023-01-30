@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Prepare for v3 release](https://github.com/php-fig/container/pull/48) on [php-fig/container](https://github.com/php-fig/container) (today)
 - [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
 - [Bump `ghostwriter/option`](https://github.com/ghostwriter/result/pull/11) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)
@@ -36,7 +37,6 @@
 - [Refactor coding standard](https://github.com/ghostwriter/event-dispatcher/pull/15) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)
 - [Drop PHP 8.0](https://github.com/ghostwriter/option/pull/25) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)
 - [Add infection configuration](https://github.com/ghostwriter/container/pull/17) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
-- [Drop PHP 8.0](https://github.com/ghostwriter/json/pull/13) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)
 
 #### My latest Projects & Contributions
 
