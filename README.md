@@ -22,6 +22,8 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/option/pull/26) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/32) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/5) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/31) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/30) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
@@ -35,24 +37,22 @@
 - [Add `invoke` method](https://github.com/ghostwriter/container/pull/16) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/5) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 weeks ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/4) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)
-- [Refactor LockListener](https://github.com/ghostwriter/composer-locker/pull/4) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 weeks ago)
-- [Refactor ProcessRunner](https://github.com/ghostwriter/composer-locker/pull/3) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
-- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (2 days ago)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (2 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
+- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (2 days ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 week ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (1 week ago)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
-- [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (2 weeks ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 weeks ago)
-- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (2 weeks ago)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 weeks ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 weeks ago)
+- [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (2 weeks ago)
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (2 weeks ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (2 weeks ago)
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (2 weeks ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 weeks ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (3 weeks ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (3 weeks ago)
