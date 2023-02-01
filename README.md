@@ -22,13 +22,13 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Prepare for v3 release](https://github.com/php-fig/container/pull/48) on [php-fig/container](https://github.com/php-fig/container) (1 day ago)
-- [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)
-- [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)
-- [Bump `ghostwriter/option`](https://github.com/ghostwriter/result/pull/11) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)
-- [Lock file maintenance](https://github.com/ghostwriter/option/pull/26) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)
-- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/32) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/5) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
+- [Prepare for v3 release](https://github.com/php-fig/container/pull/48) on [php-fig/container](https://github.com/php-fig/container) (2 days ago)
+- [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
+- [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
+- [Bump `ghostwriter/option`](https://github.com/ghostwriter/result/pull/11) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/option/pull/26) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/32) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/5) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/31) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/30) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 weeks ago)
 - [Configure coding standard](https://github.com/ghostwriter/config/pull/6) on [ghostwriter/config](https://github.com/ghostwriter/config) (2 weeks ago)
@@ -40,12 +40,12 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (2 days ago)
-- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (2 days ago)
-- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (3 days ago)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (3 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (3 days ago)
+- [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (3 days ago)
+- [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (4 days ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (4 days ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (2 weeks ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (2 weeks ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (2 weeks ago)
