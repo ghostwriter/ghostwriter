@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Add Assertions and Bump PHP `&gt;=8.0,&lt;8.3`](https://github.com/trinet-at/mezzio-test/pull/7) on [trinet-at/mezzio-test](https://github.com/trinet-at/mezzio-test) (today)
 - [Prepare for v3 release](https://github.com/php-fig/container/pull/48) on [php-fig/container](https://github.com/php-fig/container) (3 days ago)
 - [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (3 days ago)
 - [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (3 days ago)
@@ -36,7 +37,6 @@
 - [Drop PHP 8.0](https://github.com/ghostwriter/collection/pull/11) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)
 - [Refactor coding standard](https://github.com/ghostwriter/event-dispatcher/pull/15) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)
 - [Drop PHP 8.0](https://github.com/ghostwriter/option/pull/25) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)
-- [Add infection configuration](https://github.com/ghostwriter/container/pull/17) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
