@@ -30,7 +30,7 @@
 - [[PHP 8.2]Bump PHP-FPM from 8.2.1 to 8.2.2](https://github.com/ghostwriter/php/pull/274) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.1 to 8.2.2](https://github.com/ghostwriter/php/pull/273) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/9) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (2 days ago)
-- [Add Assertions and Bump PHP `&gt;=8.0,&lt;8.3`](https://github.com/trinet-at/mezzio-test/pull/7) on [trinet-at/mezzio-test](https://github.com/trinet-at/mezzio-test) (3 days ago)
+- [Add Assertions with Http test helpers and Bump PHP &#34;&gt;=8.0,&lt;8.3&#34;](https://github.com/trinet-at/mezzio-test/pull/7) on [trinet-at/mezzio-test](https://github.com/trinet-at/mezzio-test) (3 days ago)
 - [Prepare for v3 release](https://github.com/php-fig/container/pull/48) on [php-fig/container](https://github.com/php-fig/container) (6 days ago)
 - [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (6 days ago)
 - [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (6 days ago)
