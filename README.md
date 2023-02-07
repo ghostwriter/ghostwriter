@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/9) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/8) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/10) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/7) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
@@ -36,7 +37,6 @@
 - [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
 - [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
 - [Bump `ghostwriter/option`](https://github.com/ghostwriter/result/pull/11) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
-- [Lock file maintenance](https://github.com/ghostwriter/option/pull/26) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)
 
 #### My latest Projects & Contributions
 
