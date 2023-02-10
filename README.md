@@ -22,6 +22,12 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump composer/composer from 2.5.2 to 2.5.3](https://github.com/ghostwriter/php/pull/282) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump composer/composer from 2.5.2 to 2.5.3](https://github.com/ghostwriter/php/pull/281) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump composer/composer from 2.5.2 to 2.5.3](https://github.com/ghostwriter/php/pull/280) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump composer/composer from 2.5.1 to 2.5.2](https://github.com/ghostwriter/php/pull/279) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump composer/composer from 2.5.1 to 2.5.2](https://github.com/ghostwriter/php/pull/278) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump composer/composer from 2.5.1 to 2.5.2](https://github.com/ghostwriter/php/pull/277) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/option/pull/30) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [chore/update tests](https://github.com/ghostwriter/option/pull/29) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Update psalm.xml.dist](https://github.com/ghostwriter/option/pull/28) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
@@ -31,23 +37,17 @@
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/8) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/10) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (6 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/7) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/6) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
-- [[PHP 8.1]Bump PHP-FPM from 8.1.14 to 8.1.15](https://github.com/ghostwriter/php/pull/276) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.1]Bump PHP-CLI from 8.1.14 to 8.1.15](https://github.com/ghostwriter/php/pull/275) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.2]Bump PHP-FPM from 8.2.1 to 8.2.2](https://github.com/ghostwriter/php/pull/274) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.2]Bump PHP-CLI from 8.2.1 to 8.2.2](https://github.com/ghostwriter/php/pull/273) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Lock file maintenance](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/9) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
 
 #### My latest Projects & Contributions
 
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (today)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (6 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
 - [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (1 week ago)
