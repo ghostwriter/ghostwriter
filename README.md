@@ -22,6 +22,10 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/option/pull/30) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [chore/update tests](https://github.com/ghostwriter/option/pull/29) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [Update psalm.xml.dist](https://github.com/ghostwriter/option/pull/28) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
+- [Update phpunit.xml.dist](https://github.com/ghostwriter/option/pull/27) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/10) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/9) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/8) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
@@ -33,21 +37,17 @@
 - [[PHP 8.2]Bump PHP-FPM from 8.2.1 to 8.2.2](https://github.com/ghostwriter/php/pull/274) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.1 to 8.2.2](https://github.com/ghostwriter/php/pull/273) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/9) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (1 week ago)
-- [Add Assertions with Http test helpers and Bump PHP &#34;&gt;=8.0,&lt;8.3&#34;](https://github.com/trinet-at/mezzio-test/pull/7) on [trinet-at/mezzio-test](https://github.com/trinet-at/mezzio-test) (1 week ago)
-- [Prepare for v3 release](https://github.com/php-fig/container/pull/48) on [php-fig/container](https://github.com/php-fig/container) (1 week ago)
-- [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
-- [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (1 day ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (6 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
-- [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 week ago)
 - [ghostwriter/result](https://github.com/ghostwriter/result) - Provides a Result type implementation for PHP (1 week ago)
 - [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (1 week ago)
