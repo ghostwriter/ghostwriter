@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/10) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/9) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/8) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater/pull/10) on [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) (6 days ago)
@@ -36,14 +37,13 @@
 - [Prepare for v3 release](https://github.com/php-fig/container/pull/48) on [php-fig/container](https://github.com/php-fig/container) (1 week ago)
 - [Update README.md](https://github.com/ghostwriter/result/pull/13) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
 - [Bump to `PHP 8.1`](https://github.com/ghostwriter/result/pull/12) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
-- [Bump `ghostwriter/option`](https://github.com/ghostwriter/result/pull/11) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (1 day ago)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (3 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (6 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
