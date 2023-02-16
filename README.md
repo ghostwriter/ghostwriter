@@ -22,6 +22,9 @@
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/303) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/302) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/301) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.2 to 8.2.3](https://github.com/ghostwriter/php/pull/300) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.2 to 8.2.3](https://github.com/ghostwriter/php/pull/299) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [[PHP 8.1]Bump PHP-FPM from 8.1.15 to 8.1.16](https://github.com/ghostwriter/php/pull/298) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
@@ -34,9 +37,6 @@
 - [Lock file maintenance](https://github.com/ghostwriter/collection/pull/12) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 days ago)
 - [Fix markdown-lint issues](https://github.com/laminas/laminas-stratigility/pull/39) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (3 days ago)
 - [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.0 to 1.15.1](https://github.com/ghostwriter/php/pull/294) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
-- [[PHP-CLI 8.2]Bump `mongodb` extension from 1.15.0 to 1.15.1](https://github.com/ghostwriter/php/pull/293) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
-- [[PHP-FPM 8.1]Bump `mongodb` extension from 1.15.0 to 1.15.1](https://github.com/ghostwriter/php/pull/292) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
-- [[PHP-CLI 8.1]Bump `mongodb` extension from 1.15.0 to 1.15.1](https://github.com/ghostwriter/php/pull/291) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)
 
 #### My latest Projects & Contributions
 
