@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Allow Dynamic Properties on PHP 8.2](https://github.com/mockery/mockery/pull/1214) on [mockery/mockery](https://github.com/mockery/mockery) (today)
 - [[PHP 8.2]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/303) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [[PHP 8.1]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/302) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [[PHP 8.0]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/301) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
@@ -36,7 +37,6 @@
 - [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/16) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/collection/pull/12) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)
 - [Fix markdown-lint issues](https://github.com/laminas/laminas-stratigility/pull/39) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (6 days ago)
-- [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.0 to 1.15.1](https://github.com/ghostwriter/php/pull/294) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
