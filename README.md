@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/13) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Allow Dynamic Properties on PHP 8.2](https://github.com/mockery/mockery/pull/1214) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)
 - [[PHP 8.2]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/303) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [[PHP 8.1]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/302) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
@@ -36,12 +37,11 @@
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/11) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/16) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/collection/pull/12) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (6 days ago)
-- [Fix markdown-lint issues](https://github.com/laminas/laminas-stratigility/pull/39) on [laminas/laminas-stratigility](https://github.com/laminas/laminas-stratigility) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (4 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 days ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (6 days ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (6 days ago)
