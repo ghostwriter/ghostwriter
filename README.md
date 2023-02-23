@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)
 - [Add `MockeryExceptionInterface` for PHPUnit 10](https://github.com/mockery/mockery/pull/1217) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/13) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
@@ -36,7 +37,6 @@
 - [[PHP 8.0]Bump PHP-FPM from 8.0.27 to 8.0.28](https://github.com/ghostwriter/php/pull/296) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-CLI from 8.0.27 to 8.0.28](https://github.com/ghostwriter/php/pull/295) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/12) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/11) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 
 #### My latest Projects & Contributions
 
