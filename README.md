@@ -22,11 +22,11 @@
 
 #### My recent Pull Requests & Contributions
 
-- [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (today)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)
-- [Add `MockeryExceptionInterface` for PHPUnit 10](https://github.com/mockery/mockery/pull/1217) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/13) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)
-- [Allow Dynamic Properties on PHP 8.2](https://github.com/mockery/mockery/pull/1214) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)
+- [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)
+- [Add `MockeryExceptionInterface` for PHPUnit 10](https://github.com/mockery/mockery/pull/1217) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/13) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)
+- [Allow Dynamic Properties on PHP 8.2](https://github.com/mockery/mockery/pull/1214) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)
 - [[PHP 8.2]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/303) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.1]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/302) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/301) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
@@ -40,8 +40,8 @@
 
 #### My latest Projects & Contributions
 
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (2 days ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (2 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (3 days ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
