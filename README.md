@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/15) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)
 - [Add `MockeryExceptionInterface` for PHPUnit 10](https://github.com/mockery/mockery/pull/1217) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)
@@ -36,12 +37,11 @@
 - [[PHP 8.1]Bump PHP-CLI from 8.1.15 to 8.1.16](https://github.com/ghostwriter/php/pull/297) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.27 to 8.0.28](https://github.com/ghostwriter/php/pull/296) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 - [[PHP 8.0]Bump PHP-CLI from 8.0.27 to 8.0.28](https://github.com/ghostwriter/php/pull/295) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/12) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (4 days ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 week ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 week ago)
