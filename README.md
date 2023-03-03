@@ -40,7 +40,7 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (2 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
 - [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of Black and African American Therapists in Nashville, TN and Therapists serving Black and African American communities. Publicly available information collected to help promote Healing Ourselves and Healing Others. #BlackLivesMatter (4 days ago)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (5 days ago)
 - [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) - [WIP] Filesystem abstraction for PHP (2 weeks ago)
