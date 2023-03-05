@@ -22,6 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/16) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/15) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
@@ -36,13 +37,12 @@
 - [[PHP 8.1]Bump PHP-FPM from 8.1.15 to 8.1.16](https://github.com/ghostwriter/php/pull/298) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [[PHP 8.1]Bump PHP-CLI from 8.1.15 to 8.1.16](https://github.com/ghostwriter/php/pull/297) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [[PHP 8.0]Bump PHP-FPM from 8.0.27 to 8.0.28](https://github.com/ghostwriter/php/pull/296) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
-- [[PHP 8.0]Bump PHP-CLI from 8.0.27 to 8.0.28](https://github.com/ghostwriter/php/pull/295) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 
 #### My latest Projects & Contributions
 
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
 - [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of Black and African American Therapists in Nashville, TN and Therapists serving Black and African American communities. Publicly available information collected to help promote Healing Ourselves and Healing Others. #BlackLivesMatter (6 days ago)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 week ago)
 - [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) - [WIP] Filesystem abstraction for PHP (2 weeks ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
