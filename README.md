@@ -22,12 +22,12 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/16) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/16) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/15) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [Add `MockeryExceptionInterface` for PHPUnit 10](https://github.com/mockery/mockery/pull/1217) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/13) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/13) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)
 - [Allow Dynamic Properties on PHP 8.2](https://github.com/mockery/mockery/pull/1214) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)
 - [[PHP 8.2]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/303) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
 - [[PHP 8.1]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/302) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)
@@ -40,9 +40,9 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 day ago)
-- [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of Black and African American Therapists in Nashville, TN and Therapists serving Black and African American communities. Publicly available information collected to help promote Healing Ourselves and Healing Others. #BlackLivesMatter (6 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (2 days ago)
+- [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of Black and African American Therapists in Nashville, TN and Therapists serving Black and African American communities. Publicly available information collected to help promote Healing Ourselves and Healing Others. #BlackLivesMatter (1 week ago)
 - [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) - [WIP] Filesystem abstraction for PHP (2 weeks ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (2 weeks ago)
@@ -59,9 +59,9 @@
 - [ghostwriter/compliance](https://github.com/ghostwriter/compliance) - [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. (3 weeks ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (3 weeks ago)
 - [ghostwriter/laminas-continuous-integration-action](https://github.com/ghostwriter/laminas-continuous-integration-action) -  (3 weeks ago)
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (4 weeks ago)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 month ago)
 - [ghostwriter/code](https://github.com/ghostwriter/code) - [🚧 WIP]code generation and modification through an abstract syntax tree (AST) for PHP (1 month ago)
 - [ghostwriter/version](https://github.com/ghostwriter/version) - parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. (1 month ago)
 - [ghostwriter/router](https://github.com/ghostwriter/router) - Router implementation for PHP inspired by PSR-7, PSR-15, and PSR-17 specification. (1 month ago)
 - [ghostwriter/database](https://github.com/ghostwriter/database) - 💾 Database implementation for PHP (1 month ago)
-- [laravel-shift/faker-registry](https://github.com/laravel-shift/faker-registry) -  (1 month ago)
+- [laravel-shift/faker-registry](https://github.com/laravel-shift/faker-registry) -  (2 months ago)
