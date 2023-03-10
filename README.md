@@ -22,7 +22,7 @@
 
 #### My recent Pull Requests & Contributions
 
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/16) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/16) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/15) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)
@@ -40,8 +40,8 @@
 
 #### My latest Projects & Contributions
 
-- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (today)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (5 days ago)
+- [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 day ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (6 days ago)
 - [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of Black and African American Therapists in Nashville, TN and Therapists serving Black and African American communities. Publicly available information collected to help promote Healing Ourselves and Healing Others. #BlackLivesMatter (1 week ago)
 - [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) - [WIP] Filesystem abstraction for PHP (3 weeks ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 weeks ago)
