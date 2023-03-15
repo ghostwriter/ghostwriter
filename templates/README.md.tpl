@@ -1,5 +1,13 @@
 # ghostwriter - php
 
+I'm a passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies.
+
+If you appreciate my work and would like to support me, please consider becoming a GitHub Sponsor. Your sponsorship will help me to continue creating high-quality projects and contributing to the open-source community.
+
+Thank you for your support!
+
+---
+
 <img alt="ghostwriter's GitHub streak" width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
 
 > if you don't like something, **change it**!
