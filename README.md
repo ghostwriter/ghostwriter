@@ -44,7 +44,7 @@
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 day ago)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (5 days ago)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 week ago)
-- [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of Black and African American Therapists in Nashville, TN and Therapists serving Black and African American communities. Publicly available information collected to help promote Healing Ourselves and Healing Others. #BlackLivesMatter (2 weeks ago)
+- [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter (2 weeks ago)
 - [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) - [WIP] Filesystem abstraction for PHP (3 weeks ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (4 weeks ago)
