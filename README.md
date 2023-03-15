@@ -2,7 +2,7 @@
 
 I'm a passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies.
 
-If you appreciate my work and would like to support me, please consider becoming a GitHub Sponsor. Your sponsorship will help me to continue creating high-quality projects and contributing to the open-source community.
+If you appreciate my work and would like to support me, please consider becoming a [`GitHub Sponsor`](https://github.com/sponsors/ghostwriter). Your sponsorship will help me to continue creating high-quality projects and contributing to the open-source community.
 
 Thank you for your support!
 
