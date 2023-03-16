@@ -30,6 +30,10 @@ Thank you for your support!
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump PHP-FPM from 8.2.3 to 8.2.4](https://github.com/ghostwriter/php/pull/307) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump PHP-CLI from 8.2.3 to 8.2.4](https://github.com/ghostwriter/php/pull/306) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump PHP-FPM from 8.1.16 to 8.1.17](https://github.com/ghostwriter/php/pull/305) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump PHP-CLI from 8.1.16 to 8.1.17](https://github.com/ghostwriter/php/pull/304) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/16) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/15) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)
 - [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)
@@ -41,20 +45,16 @@ Thank you for your support!
 - [[PHP 8.1]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/302) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)
 - [[PHP 8.0]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/301) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.2 to 8.2.3](https://github.com/ghostwriter/php/pull/300) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)
-- [[PHP 8.2]Bump PHP-CLI from 8.2.2 to 8.2.3](https://github.com/ghostwriter/php/pull/299) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)
-- [[PHP 8.1]Bump PHP-FPM from 8.1.15 to 8.1.16](https://github.com/ghostwriter/php/pull/298) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)
-- [[PHP 8.1]Bump PHP-CLI from 8.1.15 to 8.1.16](https://github.com/ghostwriter/php/pull/297) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)
-- [[PHP 8.0]Bump PHP-FPM from 8.0.27 to 8.0.28](https://github.com/ghostwriter/php/pull/296) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/mezzio-laminas-form-elements](https://github.com/ghostwriter/mezzio-laminas-form-elements) - Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio (2 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (2 days ago)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (6 days ago)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (1 week ago)
 - [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter (2 weeks ago)
 - [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) - [WIP] Filesystem abstraction for PHP (4 weeks ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 weeks ago)
 - [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 month ago)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 month ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 month ago)
