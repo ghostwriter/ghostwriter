@@ -48,7 +48,7 @@ Thank you for your support!
 
 #### My latest Projects & Contributions
 
-- [ghostwriter/plex](https://github.com/ghostwriter/plex) - [wip] Lexical Analysis library for PHP (Lexer, Tokenizer, Scanner, Parser, Generator) (today)
+- [ghostwriter/plex](https://github.com/ghostwriter/plex) - [WIP] Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
 - [ghostwriter/mezzio-laminas-form-elements](https://github.com/ghostwriter/mezzio-laminas-form-elements) - Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio (4 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (4 days ago)
