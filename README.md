@@ -30,6 +30,7 @@ Thank you for your support!
 
 #### My recent Pull Requests & Contributions
 
+- [Bump Composer Dependencies](https://github.com/ghostwriter/plex/pull/2) on [ghostwriter/plex](https://github.com/ghostwriter/plex) (today)
 - [Add UTF-8 character Tokenizer](https://github.com/ghostwriter/plex/pull/1) on [ghostwriter/plex](https://github.com/ghostwriter/plex) (1 day ago)
 - [[PHP 8.2]Bump PHP-FPM from 8.2.3 to 8.2.4](https://github.com/ghostwriter/php/pull/307) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
 - [[PHP 8.2]Bump PHP-CLI from 8.2.3 to 8.2.4](https://github.com/ghostwriter/php/pull/306) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
@@ -44,7 +45,6 @@ Thank you for your support!
 - [Allow Dynamic Properties on PHP 8.2](https://github.com/mockery/mockery/pull/1214) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)
 - [[PHP 8.2]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/303) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)
 - [[PHP 8.1]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/302) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)
-- [[PHP 8.0]Bump composer/composer from 2.5.3 to 2.5.4](https://github.com/ghostwriter/php/pull/301) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)
 
 #### My latest Projects & Contributions
 
