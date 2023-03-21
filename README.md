@@ -30,6 +30,9 @@ Thank you for your support!
 
 #### My recent Pull Requests & Contributions
 
+- [[PHP 8.2]Bump composer/composer from 2.5.4 to 2.5.5](https://github.com/ghostwriter/php/pull/310) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.1]Bump composer/composer from 2.5.4 to 2.5.5](https://github.com/ghostwriter/php/pull/309) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump composer/composer from 2.5.4 to 2.5.5](https://github.com/ghostwriter/php/pull/308) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Update dependencies and refactor](https://github.com/ghostwriter/container/pull/18) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/17) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/config/pull/7) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 day ago)
@@ -42,17 +45,14 @@ Thank you for your support!
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/16) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/15) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)
 - [RFC: Mockery v2.0 with Support `PHPUnit &gt;=10.1` and Drop `PHP &lt;8.1`](https://github.com/mockery/mockery/pull/1219) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/14) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)
-- [Add `MockeryExceptionInterface` for PHPUnit 10](https://github.com/mockery/mockery/pull/1217) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/13) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 weeks ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (today)
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - My personal PHP Coding Standard (today)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (2 days ago)
 - [ghostwriter/plex](https://github.com/ghostwriter/plex) - [WIP] Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (3 days ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (5 days ago)
 - [ghostwriter/mezzio-laminas-form-elements](https://github.com/ghostwriter/mezzio-laminas-form-elements) - Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (1 week ago)
