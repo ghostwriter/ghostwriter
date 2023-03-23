@@ -48,15 +48,15 @@ Thank you for your support!
 
 #### My latest Projects & Contributions
 
-- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (today)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (today)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (today)
 - [ghostwriter/syntax](https://github.com/ghostwriter/syntax) - Here be dragons... 🐉 (today)
+- [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (today)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (1 day ago)
-- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (today)
 - [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (1 day ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (1 day ago)
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (1 day ago)
+- [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (2 days ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (4 days ago)
