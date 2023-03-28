@@ -30,6 +30,10 @@ Thank you for your support!
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)
+- [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.0]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/312) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
+- [[PHP 8.2]Bump Xdebug from 3.2.0 to 3.2.1](https://github.com/ghostwriter/php/pull/311) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)
 - [Refactor `Collection::contains`](https://github.com/ghostwriter/collection/pull/13) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (6 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/18) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/33) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
@@ -41,24 +45,20 @@ Thank you for your support!
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/17) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/config/pull/7) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)
 - [Bump Composer Dependencies](https://github.com/ghostwriter/plex/pull/2) on [ghostwriter/plex](https://github.com/ghostwriter/plex) (1 week ago)
-- [Add UTF-8 character Tokenizer](https://github.com/ghostwriter/plex/pull/1) on [ghostwriter/plex](https://github.com/ghostwriter/plex) (1 week ago)
-- [[PHP 8.2]Bump PHP-FPM from 8.2.3 to 8.2.4](https://github.com/ghostwriter/php/pull/307) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.2]Bump PHP-CLI from 8.2.3 to 8.2.4](https://github.com/ghostwriter/php/pull/306) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
-- [[PHP 8.1]Bump PHP-FPM from 8.1.16 to 8.1.17](https://github.com/ghostwriter/php/pull/305) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 #### My latest Projects & Contributions
 
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (5 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (today)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (today)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (today)
 - [ghostwriter/syntax](https://github.com/ghostwriter/syntax) - Here be dragons... 🐉 (5 days ago)
-- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (5 days ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (5 days ago)
+- [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (5 days ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (5 days ago)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (6 days ago)
-- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (6 days ago)
 - [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (6 days ago)
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) - Provides a Collection implementation for PHP (6 days ago)
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (6 days ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (1 week ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (1 week ago)
 - [ghostwriter/plex](https://github.com/ghostwriter/plex) - [WIP] Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (1 week ago)
 - [ghostwriter/mezzio-laminas-form-elements](https://github.com/ghostwriter/mezzio-laminas-form-elements) - Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio (2 weeks ago)
