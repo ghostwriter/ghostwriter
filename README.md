@@ -30,6 +30,7 @@ Thank you for your support!
 
 #### My recent Pull Requests & Contributions
 
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/19) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)
 - [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
 - [[PHP 8.0]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/312) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)
@@ -44,12 +45,11 @@ Thank you for your support!
 - [Update dependencies and refactor](https://github.com/ghostwriter/container/pull/18) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/17) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/config/pull/7) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)
-- [Bump Composer Dependencies](https://github.com/ghostwriter/plex/pull/2) on [ghostwriter/plex](https://github.com/ghostwriter/plex) (1 week ago)
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (today)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (2 days ago)
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (2 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (2 days ago)
 - [ghostwriter/syntax](https://github.com/ghostwriter/syntax) - Here be dragons... 🐉 (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
