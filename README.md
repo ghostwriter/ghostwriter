@@ -51,7 +51,7 @@ Thank you for your support!
 - [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (1 day ago)
 - [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
-- [ghostwriter/syntax](https://github.com/ghostwriter/syntax) - Here be dragons... 🐉 (1 week ago)
+- [ghostwriter/syntax](https://github.com/ghostwriter/syntax) - Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
 - [ghostwriter/ghostwriter-php-docker-template-updater](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) - Helps me update various docker templates via PHP CLI. (1 week ago)
