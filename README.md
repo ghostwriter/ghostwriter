@@ -30,11 +30,11 @@ Thank you for your support!
 
 #### My recent Pull Requests & Contributions
 
-- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/19) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)
-- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 days ago)
-- [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 8.0]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/312) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
-- [[PHP 8.2]Bump Xdebug from 3.2.0 to 3.2.1](https://github.com/ghostwriter/php/pull/311) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/19) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)
+- [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)
+- [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [[PHP 8.0]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/312) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
+- [[PHP 8.2]Bump Xdebug from 3.2.0 to 3.2.1](https://github.com/ghostwriter/php/pull/311) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)
 - [Refactor `Collection::contains`](https://github.com/ghostwriter/collection/pull/13) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/18) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/33) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
@@ -48,9 +48,9 @@ Thank you for your support!
 
 #### My latest Projects & Contributions
 
-- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (1 day ago)
-- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (3 days ago)
-- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (3 days ago)
+- [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) - PHP Coding Standard (2 days ago)
+- [ghostwriter/php](https://github.com/ghostwriter/php) - Development and Production-ready PHP Images for Docker (4 days ago)
+- [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (4 days ago)
 - [ghostwriter/syntax](https://github.com/ghostwriter/syntax) - Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (1 week ago)
 - [ghostwriter/option](https://github.com/ghostwriter/option) - Provides an Option type implementation for PHP (1 week ago)
 - [ghostwriter/json](https://github.com/ghostwriter/json) - Type safe JSON encoder and decoder for PHP (1 week ago)
@@ -60,7 +60,7 @@ Thank you for your support!
 - [ghostwriter/environment](https://github.com/ghostwriter/environment) - Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals (1 week ago)
 - [ghostwriter/container](https://github.com/ghostwriter/container) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. (1 week ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (1 week ago)
-- [ghostwriter/plex](https://github.com/ghostwriter/plex) - [WIP] Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (1 week ago)
+- [ghostwriter/plex](https://github.com/ghostwriter/plex) - [WIP] Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (2 weeks ago)
 - [ghostwriter/mezzio-laminas-form-elements](https://github.com/ghostwriter/mezzio-laminas-form-elements) - Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio (2 weeks ago)
 - [COVID19Ethiopia/coronavirus-data](https://github.com/COVID19Ethiopia/coronavirus-data) - Coronavirus cases in Ethiopia (3 weeks ago)
 - [BMHANashville/therapists](https://github.com/BMHANashville/therapists) - Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter (1 month ago)
