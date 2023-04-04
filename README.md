@@ -48,9 +48,9 @@ Thank you for your support!
 
 #### My latest Projects & Contributions
 
+- [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (today)
 - [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. (1 day ago)
 - [ghostwriter/coronavirus-data-ethiopia](https://github.com/ghostwriter/coronavirus-data-ethiopia) - Coronavirus cases in Ethiopia (1 day ago)
-- [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (1 day ago)
 - [ghostwriter/wip](https://github.com/ghostwriter/wip) - My personal template for new PHP projects (1 day ago)
 - [ghostwriter/config](https://github.com/ghostwriter/config) - Provides an object that maps configuration keys to values. (3 days ago)
 - [ghostwriter/syntax](https://github.com/ghostwriter/syntax) - [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) (3 days ago)
