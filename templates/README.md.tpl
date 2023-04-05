@@ -8,8 +8,6 @@ Thank you for your support!
 
 ---
 
-<img alt="ghostwriter's GitHub streak" width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
-
 > if you don't like something, **change it**!
 
 > knowledge **should** be **freely** accessible.
@@ -24,7 +22,12 @@ Thank you for your support!
 
 > **good** products **fail** because of **bad marketing**, **awful** products **succeed** with **great marketing**.
 
-<img alt="ghostwriter's GitHub stats" width="360px" align="right" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+---
+
+<div align="center">
+    <img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
+    <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+</div>
 
 ---
 
