@@ -33,7 +33,7 @@ Thank you for your support!
 | State | Description |
 | --- | --- |{{range recentPullRequests 15}}
 | ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 15}}
-| (TAGGED) | [`Release {{.Name}} {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})|
+| (TAGGED) | Release [`{{.Name}}:{{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})|
 {{- end}}
 
 #### Recent Projects & Contributions
