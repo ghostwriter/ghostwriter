@@ -28,12 +28,16 @@ Thank you for your support!
 
 ---
 
-#### My recent Pull Requests & Contributions
+#### Recent Pull Requests & Releases
 {{range recentPullRequests 15}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### My latest Projects & Contributions
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+
+#### Recent Projects & Contributions
 {{range recentContributions 25}}
 - (⭐️ {{.Repo.Stargazers}})[`{{.Repo.Name}}`]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
