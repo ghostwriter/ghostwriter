@@ -47,16 +47,16 @@ Thank you for your support!
 - (MERGED) [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
 
-- Tagged [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)
-- Tagged [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)
-- Tagged [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)
-- Tagged [1.4.0](https://github.com/ghostwriter/container/releases/tag/1.4.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)
-- Tagged [1.8.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.8.0) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 weeks ago)
-- Tagged [2.0.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.0.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (3 weeks ago)
-- Tagged [v2.7.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.7.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 month ago)
-- Tagged [2.16.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.16.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (1 month ago)
-- Tagged [2.6.1](https://github.com/mezzio/mezzio-hal/releases/tag/2.6.1) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 month ago)
-- Tagged [1.7.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.7.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (2 months ago)
+- (TAGGED) [`Release 1.4.1`](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)
+- (TAGGED) [`Release 1.3.0`](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)
+- (TAGGED) [`Release 1.4.0`](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)
+- (TAGGED) [`Release 1.4.0`](https://github.com/ghostwriter/container/releases/tag/1.4.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)
+- (TAGGED) [`Release 1.8.0`](https://github.com/mezzio/mezzio-csrf/releases/tag/1.8.0) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 weeks ago)
+- (TAGGED) [`Release 2.0.0`](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.0.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (3 weeks ago)
+- (TAGGED) [`Release v2.7.0`](https://github.com/laravel-shift/blueprint/releases/tag/v2.7.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 month ago)
+- (TAGGED) [`Release 2.16.0`](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.16.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (1 month ago)
+- (TAGGED) [`Release 2.6.1`](https://github.com/mezzio/mezzio-hal/releases/tag/2.6.1) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 month ago)
+- (TAGGED) [`Release 1.7.0`](https://github.com/mezzio/mezzio-cors/releases/tag/1.7.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (2 months ago)
 
 #### Recent Projects & Contributions
 
