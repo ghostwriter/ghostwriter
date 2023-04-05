@@ -28,7 +28,7 @@ Thank you for your support!
 
 ---
 
-#### My recent Pull Requests & Contributions
+#### Recent Pull Requests & Releases
 
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)
 - [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 day ago)
@@ -46,7 +46,19 @@ Thank you for your support!
 - [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)
 - [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)
 
-#### My latest Projects & Contributions
+
+- [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) ([1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1), 2 days ago) - Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification.
+- [ghostwriter/collection](https://github.com/ghostwriter/collection) ([1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0), 2 weeks ago) - Provides a Collection implementation for PHP
+- [ghostwriter/option](https://github.com/ghostwriter/option) ([1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0), 2 weeks ago) - Provides an Option type implementation for PHP
+- [ghostwriter/container](https://github.com/ghostwriter/container) ([1.4.0](https://github.com/ghostwriter/container/releases/tag/1.4.0), 2 weeks ago) - Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification.
+- [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) ([1.8.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.8.0), 2 weeks ago) - CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session
+- [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) ([2.0.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.0.0), 3 weeks ago) - Skeleton application for creating laminas-mvc based projects.
+- [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) ([v2.7.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.7.0), 1 month ago) - A code generation tool for Laravel developers.
+- [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) ([2.16.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.16.0), 1 month ago) - Fully-featured XML-RPC server and client implementations
+- [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) ([2.6.1](https://github.com/mezzio/mezzio-hal/releases/tag/2.6.1), 1 month ago) - Hypertext Application Language implementation for PHP and PSR-7
+- [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) ([1.7.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.7.0), 2 months ago) - CORS component for Mezzio and other PSR-15 middleware runners.
+
+#### Recent Projects & Contributions
 
 - (⭐️ 2)[`ghostwriter/http`](https://github.com/ghostwriter/http) - [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. (1 day ago)
 - (⭐️ 0)[`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) - Automated composer.json &amp; composer.lock file maintenance. (1 day ago)
