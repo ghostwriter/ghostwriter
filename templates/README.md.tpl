@@ -30,10 +30,10 @@ Thank you for your support!
 
 #### Recent Pull Requests & Releases
 
-| State | Title | Repo |
-| --- | --- | --- |{{range recentPullRequests 15}}
-| ({{.State}}) | [{{.Title}}]({{.URL}}) ({{humanize .CreatedAt}}) | [{{.Repo.Name}}]({{.Repo.URL}}) |{{- end}}{{range recentReleases 15}}
-| (TAGGED) | [`Release {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})| [{{.Name}}]({{.URL}}) |
+| State | Description |
+| --- | --- |{{range recentPullRequests 15}}
+| ({{.State}}) | [{{.Title}}]({{.URL}}) ({{humanize .CreatedAt}}) on [{{.Repo.Name}}]({{.Repo.URL}}) |{{- end}}{{range recentReleases 15}}
+| (TAGGED) | [`Release {{.Name}} {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})|
 {{- end}}
 
 #### Recent Projects & Contributions
