@@ -66,28 +66,28 @@ Thank you for your support!
 #### Recent Projects & Contributions
 | Repo | Description |
 | --- | --- |
-| [`ghostwriter/http`](https://github.com/ghostwriter/http) ⭐️ (2) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
-| [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) ⭐️ (0) | Automated composer.json &amp; composer.lock file maintenance. |
-| [`ghostwriter/wip`](https://github.com/ghostwriter/wip) ⭐️ (1) | My personal template for new PHP projects |
-| [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) ⭐️ (2) | Coronavirus cases in Ethiopia |
-| [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) ⭐️ (0) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
-| [`ghostwriter/config`](https://github.com/ghostwriter/config) ⭐️ (0) | Provides an object that maps configuration keys to values. |
-| [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) ⭐️ (1) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
-| [`ghostwriter/container`](https://github.com/ghostwriter/container) ⭐️ (0) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
-| [`ghostwriter/result`](https://github.com/ghostwriter/result) ⭐️ (0) | Provides a Result type implementation for PHP |
-| [`ghostwriter/option`](https://github.com/ghostwriter/option) ⭐️ (2) | Provides an Option type implementation for PHP |
-| [`ghostwriter/json`](https://github.com/ghostwriter/json) ⭐️ (0) | Type safe JSON encoder and decoder for PHP |
-| [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) ⭐️ (0) | PHP Coding Standard |
-| [`ghostwriter/php`](https://github.com/ghostwriter/php) ⭐️ (0) | Development and Production-ready PHP Images for Docker |
-| [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) ⭐️ (0) | Helps me update various docker templates via PHP CLI. |
-| [`ghostwriter/environment`](https://github.com/ghostwriter/environment) ⭐️ (0) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
-| [`ghostwriter/collection`](https://github.com/ghostwriter/collection) ⭐️ (2) | Provides a Collection implementation for PHP |
-| [`ghostwriter/mezzio-laminas-form-elements`](https://github.com/ghostwriter/mezzio-laminas-form-elements) ⭐️ (0) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
-| [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) ⭐️ (0) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
-| [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) ⭐️ (0) | [WIP] Filesystem abstraction for PHP |
-| [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) ⭐️ (0) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
-| [`ghostwriter/draft`](https://github.com/ghostwriter/draft) ⭐️ (0) | [wip]A code generation tool for Laravel developers. |
-| [`ghostwriter/laminas-continuous-integration-action`](https://github.com/ghostwriter/laminas-continuous-integration-action) ⭐️ (0) |  |
-| [`ghostwriter/version`](https://github.com/ghostwriter/version) ⭐️ (0) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
-| [`ghostwriter/router`](https://github.com/ghostwriter/router) ⭐️ (1) | Router implementation for PHP inspired by PSR-7, PSR-15, and PSR-17 specification. |
-| [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) ⭐️ (2429) | A code generation tool for Laravel developers. |
+| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
+| ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
+| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
+| ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
+| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
+| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
+| ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
+| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
+| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
+| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
+| ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
+| ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
+| ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
+| ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
+| ⭐️ (0) [`ghostwriter/mezzio-laminas-form-elements`](https://github.com/ghostwriter/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
+| ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
+| ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | [WIP] Filesystem abstraction for PHP |
+| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
+| ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
+| ⭐️ (0) [`ghostwriter/laminas-continuous-integration-action`](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
+| ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
+| ⭐️ (1) [`ghostwriter/router`](https://github.com/ghostwriter/router) | Router implementation for PHP inspired by PSR-7, PSR-15, and PSR-17 specification. |
+| ⭐️ (2429) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
