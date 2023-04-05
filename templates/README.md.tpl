@@ -34,7 +34,7 @@ Thank you for your support!
 {{- end}}
 
 {{range recentReleases 10}}
-- Tagged [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})
+- (TAGGED) [`Release {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 #### Recent Projects & Contributions
