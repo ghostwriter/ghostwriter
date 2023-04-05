@@ -35,5 +35,5 @@ Thank you for your support!
 
 #### My latest Projects & Contributions
 {{range recentContributions 25}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) (⭐️ {{.Repo.Stargazers}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- (⭐️ {{.Repo.Stargazers}})[`{{.Repo.Name}}`]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
