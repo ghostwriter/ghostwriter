@@ -39,5 +39,5 @@ Thank you for your support!
 #### Recent Projects & Contributions
 | Repo | Description |
 | --- | --- |{{range recentContributions 25}}
-| [`{{.Repo.Name}}`]({{.Repo.URL}}) ⭐️ ({{.Repo.Stargazers}}) | {{.Repo.Description}} |
+| ⭐️ ({{.Repo.Stargazers}}) [`{{.Repo.Name}}`]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
