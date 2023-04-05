@@ -32,21 +32,21 @@ Thank you for your support!
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) (1 day ago) on [ghostwriter/wip](https://github.com/ghostwriter/wip) |
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) (1 day ago) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) |
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) (1 day ago) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) |
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-factory/pull/13) (1 day ago) on [php-fig/http-factory](https://github.com/php-fig/http-factory) |
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-client/pull/17) (1 day ago) on [php-fig/http-client](https://github.com/php-fig/http-client) |
-| (MERGED) | [Update `compliance.yml`](https://github.com/ghostwriter/http/pull/6) (1 day ago) on [ghostwriter/http](https://github.com/ghostwriter/http) |
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/coronavirus-data-ethiopia/pull/1) (2 days ago) on [ghostwriter/coronavirus-data-ethiopia](https://github.com/ghostwriter/coronavirus-data-ethiopia) |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/6) (2 days ago) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) |
-| (MERGED) | [Support binding listeners to an `EventInterface`](https://github.com/ghostwriter/event-dispatcher/pull/20) (2 days ago) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/35) (2 days ago) on [ghostwriter/wip](https://github.com/ghostwriter/wip) |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/19) (2 days ago) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/result/pull/15) (4 days ago) on [ghostwriter/result](https://github.com/ghostwriter/result) |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/19) (6 days ago) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) (1 week ago) on [ghostwriter/wip](https://github.com/ghostwriter/wip) |
-| (MERGED) | [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) (1 week ago) on [ghostwriter/php](https://github.com/ghostwriter/php) |
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 day ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (1 day ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-factory/pull/13) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (1 day ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-client/pull/17) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 day ago)|
+| (MERGED) | [Update `compliance.yml`](https://github.com/ghostwriter/http/pull/6) on [ghostwriter/http](https://github.com/ghostwriter/http) (1 day ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/coronavirus-data-ethiopia/pull/1) on [ghostwriter/coronavirus-data-ethiopia](https://github.com/ghostwriter/coronavirus-data-ethiopia) (2 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/6) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 days ago)|
+| (MERGED) | [Support binding listeners to an `EventInterface`](https://github.com/ghostwriter/event-dispatcher/pull/20) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/35) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/19) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/result/pull/15) on [ghostwriter/result](https://github.com/ghostwriter/result) (4 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/19) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)|
+| (MERGED) | [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (TAGGED) | [`Release ghostwriter/event-dispatcher 1.4.1`](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) (2 days ago)|
 | (TAGGED) | [`Release ghostwriter/collection 1.3.0`](https://github.com/ghostwriter/collection/releases/tag/1.3.0) (2 weeks ago)|
 | (TAGGED) | [`Release ghostwriter/option 1.4.0`](https://github.com/ghostwriter/option/releases/tag/1.4.0) (2 weeks ago)|
