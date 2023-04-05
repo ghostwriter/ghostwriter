@@ -47,21 +47,21 @@ Thank you for your support!
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/19) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)|
 | (MERGED) | [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
-| (TAGGED) | Release [`ghostwriter/event-dispatcher:1.4.1`](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) (2 days ago)|
-| (TAGGED) | Release [`ghostwriter/collection:1.3.0`](https://github.com/ghostwriter/collection/releases/tag/1.3.0) (2 weeks ago)|
-| (TAGGED) | Release [`ghostwriter/option:1.4.0`](https://github.com/ghostwriter/option/releases/tag/1.4.0) (2 weeks ago)|
-| (TAGGED) | Release [`ghostwriter/container:1.4.0`](https://github.com/ghostwriter/container/releases/tag/1.4.0) (2 weeks ago)|
-| (TAGGED) | Release [`mezzio/mezzio-csrf:1.8.0`](https://github.com/mezzio/mezzio-csrf/releases/tag/1.8.0) (2 weeks ago)|
-| (TAGGED) | Release [`laminas/laminas-mvc-skeleton:2.0.0`](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.0.0) (3 weeks ago)|
-| (TAGGED) | Release [`laravel-shift/blueprint:v2.7.0`](https://github.com/laravel-shift/blueprint/releases/tag/v2.7.0) (1 month ago)|
-| (TAGGED) | Release [`laminas/laminas-xmlrpc:2.16.0`](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.16.0) (1 month ago)|
-| (TAGGED) | Release [`mezzio/mezzio-hal:2.6.1`](https://github.com/mezzio/mezzio-hal/releases/tag/2.6.1) (1 month ago)|
-| (TAGGED) | Release [`mezzio/mezzio-cors:1.7.0`](https://github.com/mezzio/mezzio-cors/releases/tag/1.7.0) (2 months ago)|
-| (TAGGED) | Release [`ghostwriter/result:1.2.0`](https://github.com/ghostwriter/result/releases/tag/1.2.0) (2 months ago)|
-| (TAGGED) | Release [`ghostwriter/config:0.3.0`](https://github.com/ghostwriter/config/releases/tag/0.3.0) (2 months ago)|
-| (TAGGED) | Release [`ghostwriter/environment:1.1.0`](https://github.com/ghostwriter/environment/releases/tag/1.1.0) (2 months ago)|
-| (TAGGED) | Release [`ghostwriter/json:1.1.0`](https://github.com/ghostwriter/json/releases/tag/1.1.0) (2 months ago)|
-| (TAGGED) | Release [`mezzio/mezzio-platesrenderer:2.9.0`](https://github.com/mezzio/mezzio-platesrenderer/releases/tag/2.9.0) (2 months ago)|
+| (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
+| (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
+| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
+| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/container/releases/tag/1.4.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
+| (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.8.0) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 weeks ago)|
+| (TAGGED) | Release [2.0.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.0.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (3 weeks ago)|
+| (TAGGED) | Release [v2.7.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.7.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 month ago)|
+| (TAGGED) | Release [2.16.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.16.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (1 month ago)|
+| (TAGGED) | Release [2.6.1](https://github.com/mezzio/mezzio-hal/releases/tag/2.6.1) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 month ago)|
+| (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.7.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (2 months ago)|
+| (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/result/releases/tag/1.2.0) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 months ago)|
+| (TAGGED) | Release [0.3.0](https://github.com/ghostwriter/config/releases/tag/0.3.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (2 months ago)|
+| (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/environment/releases/tag/1.1.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (2 months ago)|
+| (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/json/releases/tag/1.1.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 months ago)|
+| (TAGGED) | Release [2.9.0](https://github.com/mezzio/mezzio-platesrenderer/releases/tag/2.9.0) on [mezzio/mezzio-platesrenderer](https://github.com/mezzio/mezzio-platesrenderer) (2 months ago)|
 
 #### Recent Projects & Contributions
 | Repo | Description |
