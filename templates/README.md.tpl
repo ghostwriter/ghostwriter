@@ -31,9 +31,10 @@ Thank you for your support!
 #### Recent Pull Requests & Releases
 
 | _ | _ | _ |
-| --- | --- | --- |
-{{range recentPullRequests 15}}| ({{.State}}) | [{{.Title}}]({{.URL}}) ({{humanize .CreatedAt}}) | [{{.Repo.Name}}]({{.Repo.URL}}) |{{- end}}
-{{range recentReleases 15}}| (TAGGED) | [`Release {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})| [{{.Name}}]({{.URL}}) |{{- end}}
+| --- | --- | --- |{{range recentPullRequests 15}}
+| ({{.State}}) | [{{.Title}}]({{.URL}}) ({{humanize .CreatedAt}}) | [{{.Repo.Name}}]({{.Repo.URL}}) |{{- end}}{{range recentReleases 15}}
+| (TAGGED) | [`Release {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})| [{{.Name}}]({{.URL}}) |
+{{- end}}
 
 #### Recent Projects & Contributions
 {{range recentContributions 25}}
