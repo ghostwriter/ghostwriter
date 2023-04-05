@@ -29,15 +29,18 @@ Thank you for your support!
 ---
 
 #### Recent Pull Requests & Releases
-{{range recentPullRequests 15}}
-- ({{.State}}) [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
 
-{{range recentReleases 10}}
-- (TAGGED) [`Release {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})
-{{- end}}
+| _ | _ | _ |
+| --- | --- | --- |
+{{range recentPullRequests 15}}| ({{.State}}) | [{{.Title}}]({{.URL}}) ({{humanize .CreatedAt}}) | [{{.Repo.Name}}]({{.Repo.URL}}) |{{- end}}
+{{range recentReleases 15}}| (TAGGED) | [`Release {{.LastRelease.TagName}}`]({{.LastRelease.URL}}) ({{humanize .LastRelease.PublishedAt}})| [{{.Name}}]({{.URL}}) |{{- end}}
 
 #### Recent Projects & Contributions
 {{range recentContributions 25}}
 - (⭐️ {{.Repo.Stargazers}})[`{{.Repo.Name}}`]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### Recent followers
+{{range followers 5}}
+- [{{.Login}}]({{.URL}})
 {{- end}}
