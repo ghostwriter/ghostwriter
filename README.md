@@ -35,6 +35,8 @@ Thank you for your support!
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/styleci-action/pull/15) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)|
+| (MERGED) | [Bump docker/build-push-action from 2 to 4](https://github.com/ghostwriter/styleci-action/pull/14) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)|
 | (MERGED) | [Bump docker/metadata-action from 3 to 4](https://github.com/ghostwriter/styleci-action/pull/13) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)|
 | (MERGED) | [Bump docker/setup-buildx-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/12) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)|
 | (MERGED) | [Bump docker/setup-qemu-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/11) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (today)|
@@ -48,8 +50,6 @@ Thank you for your support!
 | (MERGED) | [Update `compliance.yml`](https://github.com/ghostwriter/http/pull/6) on [ghostwriter/http](https://github.com/ghostwriter/http) (1 day ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/coronavirus-data-ethiopia/pull/1) on [ghostwriter/coronavirus-data-ethiopia](https://github.com/ghostwriter/coronavirus-data-ethiopia) (2 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/6) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (2 days ago)|
-| (MERGED) | [Support binding listeners to an `EventInterface`](https://github.com/ghostwriter/event-dispatcher/pull/20) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/35) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
