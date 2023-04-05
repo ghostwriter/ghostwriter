@@ -1,6 +1,6 @@
-# ghostwriter - php
+# ghostwriter
 
-I'm a passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies.
+A passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies.
 
 If you appreciate my work and would like to support me, please consider becoming a [`GitHub Sponsor`](https://github.com/sponsors/ghostwriter). Your sponsorship will help me to continue creating high-quality projects and contributing to the open-source community.
 
@@ -35,5 +35,5 @@ Thank you for your support!
 
 #### My latest Projects & Contributions
 {{range recentContributions 25}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) ([{{.Repo.LastRelease.TagName}}]({{.Repo.LastRelease.URL}}), {{humanize .Repo.LastRelease.PublishedAt}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
