@@ -31,17 +31,21 @@ Thank you for your support!
     <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 </div>
 
-<div align="center">Recent Pull Requests & Releases</div>
+### Recent Pull Requests & Releases
 
+<div align="center">
 | State | Description |
 | --- | --- |{{range recentPullRequests 15}}
 | ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 5}}
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
 {{- end}}
+</div>
 
-<div align="center">Recent Contributions</div>
+### Recent Contributions
 
+<div align="center">
 | Repo | Description |
 | --- | --- |{{range recentContributions 100}}
 | ⭐️ ({{.Repo.Stargazers}}) [`{{.Repo.Name}}`]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
+</div>
