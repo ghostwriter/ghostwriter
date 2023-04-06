@@ -119,7 +119,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (146) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
 | ⭐️ (0) [`ghostwriter/composer-lock`](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
 | ⭐️ (0) [`ghostwriter/console`](https://github.com/ghostwriter/console) | [wip]Provides a micro-framework for Console Applications. |
-| ⭐️ (10387) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10388) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/automation`](https://github.com/ghostwriter/automation) | Automates the release workflow for SemVer-compliant and Github Actions Versioning-compliant repositories |
 | ⭐️ (0) [`ghostwriter/laminas-org-laminas-ci-matrix-action`](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) |  |
 
