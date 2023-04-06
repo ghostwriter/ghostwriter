@@ -27,7 +27,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 #### Recent Pull Requests & Releases
 
 | State | Description |
-| --- | --- |{{range recentPullRequests 15}}
+| --- | --- |{{range recentPullRequests 25}}
 | ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 5}}
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
 {{- end}}
