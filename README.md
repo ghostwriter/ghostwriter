@@ -43,11 +43,11 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)|
 | (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (2 days ago)|
 | (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (2 days ago)|
+| (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (today)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 days ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/container/releases/tag/1.4.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
-| (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.8.0) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 weeks ago)|
 
 <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
