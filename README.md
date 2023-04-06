@@ -27,13 +27,11 @@ Thank you for your support!
 ---
 
 <div align="center">
-    <img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
-    <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
-</div>
 
-### Recent Pull Requests & Releases
+<img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
 
-<div align="center">
+#### Recent Pull Requests & Releases
+
 | State | Description |
 | --- | --- |
 | (MERGED) | [Bump docker/build-push-action from 3 to 4](https://github.com/ghostwriter/php/pull/316) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
@@ -56,11 +54,11 @@ Thank you for your support!
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/container/releases/tag/1.4.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-csrf/releases/tag/1.8.0) on [mezzio/mezzio-csrf](https://github.com/mezzio/mezzio-csrf) (2 weeks ago)|
-</div>
 
-### Recent Contributions
+<img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
-<div align="center">
+#### Recent Contributions
+
 | Repo | Description |
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
@@ -129,4 +127,5 @@ Thank you for your support!
 | ⭐️ (10387) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/automation`](https://github.com/ghostwriter/automation) | Automates the release workflow for SemVer-compliant and Github Actions Versioning-compliant repositories |
 | ⭐️ (0) [`ghostwriter/laminas-org-laminas-ci-matrix-action`](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) |  |
+
 </div>
