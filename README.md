@@ -28,6 +28,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Bump `actions/checkout` from 2 to 3](https://github.com/ghostwriter/option/pull/35) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Add Codecov badge](https://github.com/ghostwriter/option/pull/33) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Add Codecov GitHub Action](https://github.com/ghostwriter/option/pull/32) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Bump docker/build-push-action from 3 to 4](https://github.com/ghostwriter/php/pull/316) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
@@ -42,7 +43,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)|
 | (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (2 days ago)|
 | (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (2 days ago)|
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-factory/pull/13) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (2 days ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 days ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
@@ -55,44 +55,44 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
-| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
-| ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
-| ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
-| ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
+| ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
+| ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
+| ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
+| ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
+| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
 | ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
-| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
-| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
+| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
-| ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
+| ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/mezzio-laminas-form-elements`](https://github.com/ghostwriter/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | [WIP] Filesystem abstraction for PHP |
 | ⭐️ (0) [`ghostwriter/laminas-continuous-integration-action`](https://github.com/ghostwriter/laminas-continuous-integration-action) |  |
 | ⭐️ (1) [`ghostwriter/router`](https://github.com/ghostwriter/router) | Router implementation for PHP inspired by PSR-7, PSR-15, and PSR-17 specification. |
-| ⭐️ (2430) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
 | ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
+| ⭐️ (2430) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
 | ⭐️ (137) [`laminas/automatic-releases`](https://github.com/laminas/automatic-releases) | Automated release process for `laminas/` projects, usable as github action |
 | ⭐️ (0) [`ghostwriter/pizza-place`](https://github.com/ghostwriter/pizza-place) | Livestreaming on twitch: building a pizza place locator API for a mobile app. |
 | ⭐️ (79) [`mezzio/mezzio-swoole`](https://github.com/mezzio/mezzio-swoole) | Swoole support for Mezzio |
 | ⭐️ (97) [`mezzio/mezzio-skeleton`](https://github.com/mezzio/mezzio-skeleton) | Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds! |
-| ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | ⭐️ (16) [`mezzio/mezzio-tooling`](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
+| ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | ⭐️ (3) [`mezzio/mezzio-migration`](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
-| ⭐️ (6) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
-| ⭐️ (7) [`mezzio/mezzio-authorization-rbac`](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
 | ⭐️ (6) [`mezzio/mezzio-flash`](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
+| ⭐️ (7) [`mezzio/mezzio-authorization-rbac`](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
+| ⭐️ (6) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
 | ⭐️ (5) [`mezzio/mezzio-platesrenderer`](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
 | ⭐️ (7) [`mezzio/mezzio-csrf`](https://github.com/mezzio/mezzio-csrf) | CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session |
 | ⭐️ (7) [`mezzio/mezzio-twigrenderer`](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
