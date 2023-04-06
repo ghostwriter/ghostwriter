@@ -1,6 +1,6 @@
 # ghostwriter
 
-I'm a passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies. If you appreciate and would like to support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/ghostwriter).
+A passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies. If you appreciate and would like to support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/ghostwriter).
 
 ---
 
