@@ -7,6 +7,7 @@ If you appreciate and would like to support my work, consider becoming a [`GitHu
 <div align="center">
 Thank you for your support!
 </div>
+
 ---
 
 > if you don't like something, **change it**!
