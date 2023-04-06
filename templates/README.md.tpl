@@ -1,23 +1,23 @@
 # ghostwriter
 
-I'm a passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies. If you appreciate and would like to support my work, consider becoming a [`GitHub Sponsor`](https://github.com/sponsors/ghostwriter).
+I'm a passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies. If you appreciate and would like to support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/ghostwriter).
 
 ---
 
 <div align="center">
 
 > if you don't like something, **change it**!
->
+
 > knowledge **should** be **freely** accessible.
->
+
 > **privacy** is a **feature**, **not** a **product**.
->
+
 > **security** is a **process**, **not** a **feature** or a **product**.
->
+
 > **contributions** must be **attributed** and or **compensated**.
->
+
 > have the confidence to make **impactful decisions** that are **selfish**, **your well-being is more important**!
->
+
 > **good** products **fail** because of **bad marketing**, **awful** products **succeed** with **great marketing**.
 
 ---
