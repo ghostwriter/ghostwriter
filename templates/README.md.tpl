@@ -2,10 +2,11 @@
 
 A passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies.
 
-If you appreciate my work and would like to support me, please consider becoming a [`GitHub Sponsor`](https://github.com/sponsors/ghostwriter). Your sponsorship will help me to continue creating high-quality projects and contributing to the open-source community.
+If you appreciate and would like to support my work, consider becoming a [`GitHub Sponsor`](https://github.com/sponsors/ghostwriter).
 
+<div align="center">
 Thank you for your support!
-
+</div>
 ---
 
 > if you don't like something, **change it**!
@@ -29,13 +30,15 @@ Thank you for your support!
     <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 </div>
 
-#### Recent Projects Contributions (Pull Requests & Releases)
+<div align="center">Recent Pull Requests & Releases</div>
 
 | State | Description |
 | --- | --- |{{range recentPullRequests 15}}
 | ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 5}}
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
 {{- end}}
+
+<div align="center">Recent Contributions</div>
 
 | Repo | Description |
 | --- | --- |{{range recentContributions 100}}
