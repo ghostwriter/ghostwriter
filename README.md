@@ -28,6 +28,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Bump `ghostwriter/container` from 1.4.0 to 1.5.0](https://github.com/ghostwriter/syntax/pull/7) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (today)|
+| (MERGED) | [Extend services via aliases](https://github.com/ghostwriter/container/pull/21) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (MERGED) | [Update `compliance.yml` workflow](https://github.com/ghostwriter/syntax/pull/6) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (today)|
 | (MERGED) | [Refactor `Token`](https://github.com/ghostwriter/syntax/pull/5) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (today)|
 | (MERGED) | [Refactor `Container`](https://github.com/ghostwriter/container/pull/20) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
@@ -51,13 +53,11 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-factory/pull/13) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (4 days ago)|
 | (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-client/pull/17) on [php-fig/http-client](https://github.com/php-fig/http-client) (4 days ago)|
 | (MERGED) | [Update `compliance.yml`](https://github.com/ghostwriter/http/pull/6) on [ghostwriter/http](https://github.com/ghostwriter/http) (4 days ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/coronavirus-data-ethiopia/pull/1) on [ghostwriter/coronavirus-data-ethiopia](https://github.com/ghostwriter/coronavirus-data-ethiopia) (5 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/6) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (5 days ago)|
+| (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/container/releases/tag/1.5.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (2 days ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
-| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/container/releases/tag/1.4.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 
 <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
@@ -65,8 +65,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
-| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP inspired by PSR-11 specification. |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
