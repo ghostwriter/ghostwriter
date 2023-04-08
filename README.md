@@ -38,14 +38,14 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `actions/checkout` from 2 to 3](https://github.com/ghostwriter/option/pull/35) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
 | (MERGED) | [Add Codecov badge](https://github.com/ghostwriter/option/pull/33) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
 | (MERGED) | [Add Codecov GitHub Action](https://github.com/ghostwriter/option/pull/32) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
-| (MERGED) | [Bump docker/build-push-action from 3 to 4](https://github.com/ghostwriter/php/pull/316) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)|
+| (MERGED) | [Bump `docker/build-push-action` from 3 to 4](https://github.com/ghostwriter/php/pull/316) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)|
 | (MERGED) | [Create `.github/dependabot.yml`](https://github.com/ghostwriter/php/pull/314) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/styleci-action/pull/15) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
 | (MERGED) | [Bump docker/build-push-action from 2 to 4](https://github.com/ghostwriter/styleci-action/pull/14) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
-| (MERGED) | [Bump docker/metadata-action from 3 to 4](https://github.com/ghostwriter/styleci-action/pull/13) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
-| (MERGED) | [Bump docker/setup-buildx-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/12) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
-| (MERGED) | [Bump docker/setup-qemu-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/11) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
-| (MERGED) | [Bump docker/login-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/10) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/styleci-action/pull/13) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump `docker/setup-buildx-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/12) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump `docker/setup-qemu-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/11) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump `docker/login-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/10) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/compliance/pull/16) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (3 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)|
 | (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (4 days ago)|
