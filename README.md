@@ -24,6 +24,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 <img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
 
+<img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+
 #### Recent Pull Requests & Releases
 
 | State | Description |
@@ -58,8 +60,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
-
-<img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 #### Recent Contributions
 
