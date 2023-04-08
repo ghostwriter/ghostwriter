@@ -28,33 +28,33 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/20) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
-| (MERGED) | [Bump `actions/checkout` from 2 to 3](https://github.com/ghostwriter/option/pull/35) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)|
-| (MERGED) | [Add Codecov badge](https://github.com/ghostwriter/option/pull/33) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)|
-| (MERGED) | [Add Codecov GitHub Action](https://github.com/ghostwriter/option/pull/32) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)|
-| (MERGED) | [Bump docker/build-push-action from 3 to 4](https://github.com/ghostwriter/php/pull/316) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
-| (MERGED) | [Create `.github/dependabot.yml`](https://github.com/ghostwriter/php/pull/314) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/styleci-action/pull/15) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 days ago)|
-| (MERGED) | [Bump docker/build-push-action from 2 to 4](https://github.com/ghostwriter/styleci-action/pull/14) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 days ago)|
-| (MERGED) | [Bump docker/metadata-action from 3 to 4](https://github.com/ghostwriter/styleci-action/pull/13) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 days ago)|
-| (MERGED) | [Bump docker/setup-buildx-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/12) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 days ago)|
-| (MERGED) | [Bump docker/setup-qemu-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/11) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 days ago)|
-| (MERGED) | [Bump docker/login-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/10) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (2 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/compliance/pull/16) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 days ago)|
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (3 days ago)|
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (3 days ago)|
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-factory/pull/13) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (3 days ago)|
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-client/pull/17) on [php-fig/http-client](https://github.com/php-fig/http-client) (3 days ago)|
-| (MERGED) | [Update `compliance.yml`](https://github.com/ghostwriter/http/pull/6) on [ghostwriter/http](https://github.com/ghostwriter/http) (3 days ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/coronavirus-data-ethiopia/pull/1) on [ghostwriter/coronavirus-data-ethiopia](https://github.com/ghostwriter/coronavirus-data-ethiopia) (4 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/6) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (4 days ago)|
-| (MERGED) | [Support binding listeners to an `EventInterface`](https://github.com/ghostwriter/event-dispatcher/pull/20) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/35) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/19) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/result/pull/15) on [ghostwriter/result](https://github.com/ghostwriter/result) (6 days ago)|
-| (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (1 day ago)|
-| (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/20) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
+| (MERGED) | [Bump `actions/checkout` from 2 to 3](https://github.com/ghostwriter/option/pull/35) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
+| (MERGED) | [Add Codecov badge](https://github.com/ghostwriter/option/pull/33) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
+| (MERGED) | [Add Codecov GitHub Action](https://github.com/ghostwriter/option/pull/32) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
+| (MERGED) | [Bump docker/build-push-action from 3 to 4](https://github.com/ghostwriter/php/pull/316) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)|
+| (MERGED) | [Create `.github/dependabot.yml`](https://github.com/ghostwriter/php/pull/314) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 days ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/styleci-action/pull/15) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump docker/build-push-action from 2 to 4](https://github.com/ghostwriter/styleci-action/pull/14) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump docker/metadata-action from 3 to 4](https://github.com/ghostwriter/styleci-action/pull/13) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump docker/setup-buildx-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/12) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump docker/setup-qemu-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/11) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Bump docker/login-action from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/10) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (3 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/compliance/pull/16) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (3 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (4 days ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (4 days ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-factory/pull/13) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (4 days ago)|
+| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-client/pull/17) on [php-fig/http-client](https://github.com/php-fig/http-client) (4 days ago)|
+| (MERGED) | [Update `compliance.yml`](https://github.com/ghostwriter/http/pull/6) on [ghostwriter/http](https://github.com/ghostwriter/http) (4 days ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/coronavirus-data-ethiopia/pull/1) on [ghostwriter/coronavirus-data-ethiopia](https://github.com/ghostwriter/coronavirus-data-ethiopia) (5 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/composer-locker/pull/6) on [ghostwriter/composer-locker](https://github.com/ghostwriter/composer-locker) (5 days ago)|
+| (MERGED) | [Support binding listeners to an `EventInterface`](https://github.com/ghostwriter/event-dispatcher/pull/20) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/35) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/19) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/result/pull/15) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
+| (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (2 days ago)|
+| (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/option/releases/tag/1.4.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/container/releases/tag/1.4.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
@@ -129,7 +129,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (146) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
 | ⭐️ (0) [`ghostwriter/composer-lock`](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
 | ⭐️ (0) [`ghostwriter/console`](https://github.com/ghostwriter/console) | [wip]Provides a micro-framework for Console Applications. |
-| ⭐️ (10389) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10390) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/automation`](https://github.com/ghostwriter/automation) | Automates the release workflow for SemVer-compliant and Github Actions Versioning-compliant repositories |
 | ⭐️ (0) [`ghostwriter/laminas-org-laminas-ci-matrix-action`](https://github.com/ghostwriter/laminas-org-laminas-ci-matrix-action) |  |
 
