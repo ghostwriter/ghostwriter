@@ -29,15 +29,15 @@ A passionate developer who loves to create innovative solutions to complex probl
 #### Recent Pull Requests & Releases
 
 | State | Description |
-| --- | --- |{{range recentPullRequests 25}}
-| ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 5}}
+| --- | --- |{{range recentReleases 6}}
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
-{{- end}}
+{{- end}}{{range recentPullRequests 42}}
+| ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}
 
 #### Recent Contributions
 
 | Repo | Description |
-| --- | --- |{{range recentContributions 100}}
+| --- | --- |{{range recentContributions 8}}
 | ⭐️ ({{.Repo.Stargazers}}) [`{{.Repo.Name}}`]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
 
