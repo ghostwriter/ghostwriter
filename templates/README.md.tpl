@@ -24,6 +24,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 <img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
 
+<img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+
 #### Recent Pull Requests & Releases
 
 | State | Description |
@@ -31,8 +33,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 5}}
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
 {{- end}}
-
-<img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 #### Recent Contributions
 
