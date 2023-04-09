@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
@@ -39,7 +40,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
-| ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
 
 #### Recent Pull Requests & Releases
 
@@ -48,6 +48,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/container/releases/tag/1.5.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (3 days ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)|
+| (MERGED) | [Implementing HTTP Parser](https://github.com/ghostwriter/http/pull/7) on [ghostwriter/http](https://github.com/ghostwriter/http) (today)|
 | (MERGED) | [Bump `ghostwriter/container` from 1.4.0 to 1.5.0](https://github.com/ghostwriter/syntax/pull/7) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (1 day ago)|
 | (MERGED) | [Extend services via aliases](https://github.com/ghostwriter/container/pull/21) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
 | (MERGED) | [Update `compliance.yml` workflow](https://github.com/ghostwriter/syntax/pull/6) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (1 day ago)|
@@ -89,6 +90,5 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/33) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 weeks ago)|
 | (MERGED) | [Feature: Iterate over an iterable](https://github.com/ghostwriter/option/pull/31) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.4 to 2.5.5](https://github.com/ghostwriter/php/pull/310) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.4 to 2.5.5](https://github.com/ghostwriter/php/pull/309) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 
 </div>
