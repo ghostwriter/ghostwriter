@@ -48,6 +48,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/container/releases/tag/1.5.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (3 days ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)|
+| (MERGED) | [Update `phpunit.xml.dist` configurations](https://github.com/ghostwriter/result/pull/17) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)|
 | (MERGED) | [Add `codecov.yml` workflow](https://github.com/ghostwriter/result/pull/16) on [ghostwriter/result](https://github.com/ghostwriter/result) (today)|
 | (MERGED) | [Implementing HTTP Parser](https://github.com/ghostwriter/http/pull/7) on [ghostwriter/http](https://github.com/ghostwriter/http) (today)|
 | (MERGED) | [Bump `ghostwriter/container` from 1.4.0 to 1.5.0](https://github.com/ghostwriter/syntax/pull/7) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (1 day ago)|
@@ -89,6 +90,5 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Refactor `Collection::contains`](https://github.com/ghostwriter/collection/pull/13) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/18) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/33) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 weeks ago)|
-| (MERGED) | [Feature: Iterate over an iterable](https://github.com/ghostwriter/option/pull/31) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 
 </div>
