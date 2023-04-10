@@ -30,16 +30,16 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
+| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
+| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
-| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
-| ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
+| ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
-| ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
+| ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
 
 #### Recent Pull Requests & Releases
 
@@ -48,6 +48,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/container/releases/tag/1.5.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (4 days ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
+| (MERGED) | [Refactor using Option class](https://github.com/ghostwriter/option/pull/36) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Update `phpunit.xml.dist` configurations](https://github.com/ghostwriter/result/pull/17) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)|
 | (MERGED) | [Add `codecov.yml` workflow](https://github.com/ghostwriter/result/pull/16) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 day ago)|
 | (MERGED) | [Implementing HTTP Parser](https://github.com/ghostwriter/http/pull/7) on [ghostwriter/http](https://github.com/ghostwriter/http) (1 day ago)|
@@ -89,6 +90,5 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.2]Bump Xdebug from 3.2.0 to 3.2.1](https://github.com/ghostwriter/php/pull/311) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [Refactor `Collection::contains`](https://github.com/ghostwriter/collection/pull/13) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/18) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/33) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 weeks ago)|
 
 </div>
