@@ -38,16 +38,16 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
+| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
-| ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
 
 #### Recent Pull Requests & Releases
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (today)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 day ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-factory/releases/tag/1.0.2) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (1 day ago)|
-| (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-handler/releases/tag/1.0.2) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (1 day ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/23) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/39) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)|
 | (MERGED) | [Setup dependabot](https://github.com/ghostwriter/coding-standard/pull/21) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
@@ -76,7 +76,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `docker/login-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/10) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (6 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/compliance/pull/16) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (6 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)|
-| (OPEN) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 week ago)|
+| (MERGED) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 week ago)|
 | (MERGED) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (1 week ago)|
 | (MERGED) | [Support `psr/http-message` v2](https://github.com/php-fig/http-factory/pull/13) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (1 week ago)|
 | (MERGED) | [Support `psr/http-message` v2](https://github.com/php-fig/http-client/pull/17) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 week ago)|
