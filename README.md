@@ -38,6 +38,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (5 days ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
+| (OPEN) | [Switch to PSR-4 autoload](https://github.com/mockery/mockery/pull/1225) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/23) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/39) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)|
 | (MERGED) | [Setup dependabot](https://github.com/ghostwriter/coding-standard/pull/21) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
@@ -79,7 +80,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/result/pull/15) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/19) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/34) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 weeks ago)|
-| (MERGED) | [[PHP 8.1]Bump Xdebug from 3.1.6 to 3.2.1](https://github.com/ghostwriter/php/pull/313) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 
 #### Recent Contributions
 
