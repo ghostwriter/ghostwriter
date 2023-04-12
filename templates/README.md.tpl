@@ -29,10 +29,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 #### Recent Pull Requests & Releases
 
 | State | Description |
-| --- | --- |{{range recentReleases 8}}
+| --- | --- |{{range recentPullRequests 42}}
+| ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 8}}
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
-{{- end}}{{range recentPullRequests 42}}
-| ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}
+{{- end}}
 
 #### Recent Contributions
 
