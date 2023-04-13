@@ -86,14 +86,14 @@ A passionate developer who loves to create innovative solutions to complex probl
 | Repo | Description |
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/hotwire`](https://github.com/ghostwriter/hotwire) | [wip] PSR-15 Middleware implementation that leverages Ajax and pushState to create dynamic user interfaces, sending HTML instead of JSON. |
-| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
+| ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
-| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
+| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
+| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
-| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 
 </div>
