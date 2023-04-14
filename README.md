@@ -51,9 +51,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/317) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
 | (MERGED) | [Bump `psr/http-message` dependencies](https://github.com/ghostwriter/http/pull/12) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 days ago)|
 | (MERGED) | [Bump `ghostwriter/container` to 1.5.0](https://github.com/ghostwriter/event-dispatcher/pull/22) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
-| (OPEN) | [Add `vimeo/psalm` and `psalm/plugin-phpunit`](https://github.com/mockery/mockery/pull/1230) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Add `vimeo/psalm` and `psalm/plugin-phpunit`](https://github.com/mockery/mockery/pull/1230) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (OPEN) | [Remove `hamcrest/hamcrest-php` and deprecate usage](https://github.com/mockery/mockery/pull/1227) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
-| (OPEN) | [Refactoring risky tests](https://github.com/mockery/mockery/pull/1226) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (MERGED) | [Refactoring risky tests](https://github.com/mockery/mockery/pull/1226) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
 | (OPEN) | [Switch to PSR-4 autoload](https://github.com/mockery/mockery/pull/1225) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/23) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/39) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)|
