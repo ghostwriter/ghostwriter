@@ -45,6 +45,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Bump `nick-invision/retry` to v2](https://github.com/mockery/mockery/pull/1234) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Bump `actions/checkout` to v3](https://github.com/mockery/mockery/pull/1233) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Split PHPUnit TestSuites for PHP 8.2](https://github.com/mockery/mockery/pull/1232) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (OPEN) | [Update PHPStorm metadata to support Intersection Types](https://github.com/mockery/mockery/pull/1231) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/320) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
@@ -85,8 +87,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `docker/login-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/10) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/compliance/pull/16) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/37) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)|
-| (MERGED) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-middleware/pull/9) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 week ago)|
-| (MERGED) | [Support `psr/http-message` v2](https://github.com/php-fig/http-server-handler/pull/7) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (4 days ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (5 days ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-factory/releases/tag/1.0.2) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (5 days ago)|
