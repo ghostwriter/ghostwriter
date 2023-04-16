@@ -45,6 +45,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Setup `Codecov` for code coverage](https://github.com/mockery/mockery/pull/1235) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Bump `phpunit` to 10.1](https://github.com/ghostwriter/option/pull/37) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/24) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
 | (MERGED) | [Bump `nick-invision/retry` to v2](https://github.com/mockery/mockery/pull/1234) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
@@ -86,7 +87,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `docker/metadata-action` from 3 to 4](https://github.com/ghostwriter/styleci-action/pull/13) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 week ago)|
 | (MERGED) | [Bump `docker/setup-buildx-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/12) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 week ago)|
 | (MERGED) | [Bump `docker/setup-qemu-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/11) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 week ago)|
-| (MERGED) | [Bump `docker/login-action` from 1 to 2](https://github.com/ghostwriter/styleci-action/pull/10) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (5 days ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (6 days ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-factory/releases/tag/1.0.2) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (6 days ago)|
