@@ -30,14 +30,14 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
+| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/hotwire`](https://github.com/ghostwriter/hotwire) | [wip] PSR-15 Middleware implementation that leverages Ajax and pushState to create dynamic user interfaces, sending HTML instead of JSON. |
 | ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
-| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 
@@ -45,6 +45,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)|
+| (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Prevent CI run duplication](https://github.com/mockery/mockery/pull/1239) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Unignore `composer.lock` file](https://github.com/mockery/mockery/pull/1237) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
@@ -84,9 +87,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `actions/checkout` from 2 to 3](https://github.com/ghostwriter/option/pull/35) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
 | (MERGED) | [Add Codecov badge](https://github.com/ghostwriter/option/pull/33) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
 | (MERGED) | [Add Codecov GitHub Action](https://github.com/ghostwriter/option/pull/32) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
-| (MERGED) | [Bump `docker/build-push-action` from 3 to 4](https://github.com/ghostwriter/php/pull/316) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
-| (MERGED) | [Create `.github/dependabot.yml`](https://github.com/ghostwriter/php/pull/314) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/styleci-action/pull/15) on [ghostwriter/styleci-action](https://github.com/ghostwriter/styleci-action) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-factory/releases/tag/1.0.2) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (1 week ago)|
