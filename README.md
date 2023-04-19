@@ -45,28 +45,28 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (today)|
-| (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
-| (MERGED) | [Prevent CI run duplication](https://github.com/mockery/mockery/pull/1239) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Unignore `composer.lock` file](https://github.com/mockery/mockery/pull/1237) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [Add `Psalm` CI Check](https://github.com/mockery/mockery/pull/1236) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (OPEN) | [Setup `Codecov` for code coverage](https://github.com/mockery/mockery/pull/1235) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
-| (MERGED) | [Bump `phpunit` to 10.1](https://github.com/ghostwriter/option/pull/37) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/24) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)|
-| (MERGED) | [Bump `nick-invision/retry` to v2](https://github.com/mockery/mockery/pull/1234) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
-| (MERGED) | [Bump `actions/checkout` to v3](https://github.com/mockery/mockery/pull/1233) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
-| (MERGED) | [Split PHPUnit TestSuites for PHP 8.2](https://github.com/mockery/mockery/pull/1232) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
-| (OPEN) | [Update PHPStorm metadata to support Intersection Types](https://github.com/mockery/mockery/pull/1231) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/320) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/319) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/318) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/317) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [Bump `psr/http-message` dependencies](https://github.com/ghostwriter/http/pull/12) on [ghostwriter/http](https://github.com/ghostwriter/http) (6 days ago)|
-| (MERGED) | [Bump `ghostwriter/container` to 1.5.0](https://github.com/ghostwriter/event-dispatcher/pull/22) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)|
-| (MERGED) | [Add `vimeo/psalm` and `psalm/plugin-phpunit`](https://github.com/mockery/mockery/pull/1230) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
-| (OPEN) | [Remove `hamcrest/hamcrest-php` and deprecate usage](https://github.com/mockery/mockery/pull/1227) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 day ago)|
+| (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 day ago)|
+| (MERGED) | [Prevent CI run duplication](https://github.com/mockery/mockery/pull/1239) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Unignore `composer.lock` file](https://github.com/mockery/mockery/pull/1237) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Add `Psalm` CI Check](https://github.com/mockery/mockery/pull/1236) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (OPEN) | [Setup `Codecov` for code coverage](https://github.com/mockery/mockery/pull/1235) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (MERGED) | [Bump `phpunit` to 10.1](https://github.com/ghostwriter/option/pull/37) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/24) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
+| (MERGED) | [Bump `nick-invision/retry` to v2](https://github.com/mockery/mockery/pull/1234) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
+| (MERGED) | [Bump `actions/checkout` to v3](https://github.com/mockery/mockery/pull/1233) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
+| (MERGED) | [Split PHPUnit TestSuites for PHP 8.2](https://github.com/mockery/mockery/pull/1232) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
+| (OPEN) | [Update PHPStorm metadata to support Intersection Types](https://github.com/mockery/mockery/pull/1231) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/320) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/319) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/318) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/317) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [Bump `psr/http-message` dependencies](https://github.com/ghostwriter/http/pull/12) on [ghostwriter/http](https://github.com/ghostwriter/http) (1 week ago)|
+| (MERGED) | [Bump `ghostwriter/container` to 1.5.0](https://github.com/ghostwriter/event-dispatcher/pull/22) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
+| (MERGED) | [Add `vimeo/psalm` and `psalm/plugin-phpunit`](https://github.com/mockery/mockery/pull/1230) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (OPEN) | [Remove `hamcrest/hamcrest-php` and deprecate usage](https://github.com/mockery/mockery/pull/1227) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Refactoring risky tests](https://github.com/mockery/mockery/pull/1226) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Switch to PSR-4 autoload](https://github.com/mockery/mockery/pull/1225) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/23) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
@@ -94,6 +94,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/container/releases/tag/1.5.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (1 week ago)|
 | (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
-| (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 weeks ago)|
+| (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/collection/releases/tag/1.3.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 weeks ago)|
 
 </div>
