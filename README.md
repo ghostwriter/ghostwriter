@@ -45,6 +45,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Update `.github/workflows/tests.yml` workflow](https://github.com/mockery/mockery/pull/1241) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)|
 | (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
@@ -86,7 +87,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/20) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `actions/checkout` from 2 to 3](https://github.com/ghostwriter/option/pull/35) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 | (MERGED) | [Add Codecov badge](https://github.com/ghostwriter/option/pull/33) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
-| (MERGED) | [Add Codecov GitHub Action](https://github.com/ghostwriter/option/pull/32) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-factory/releases/tag/1.0.2) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (1 week ago)|
