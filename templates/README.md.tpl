@@ -26,19 +26,19 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
-#### Recent Contributions
-
-| Repo | Description |
-| --- | --- |{{range recentContributions 10}}
-| ⭐️ ({{.Repo.Stargazers}}) [`{{.Repo.Name}}`]({{.Repo.URL}}) | {{.Repo.Description}} |
-{{- end}}
-
 #### Recent Pull Requests & Releases
 
 | State | Description |
 | --- | --- |{{range recentPullRequests 42}}
 | ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|{{- end}}{{range recentReleases 8}}
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
+{{- end}}
+
+#### Recent Contributions
+
+| Repo | Description |
+| --- | --- |{{range recentContributions 10}}
+| ⭐️ ({{.Repo.Stargazers}}) [`{{.Repo.Name}}`]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
 
 </div>
