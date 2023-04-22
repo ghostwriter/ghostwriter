@@ -45,6 +45,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Changelog v1.6.0](https://github.com/mockery/mockery/pull/1243) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1242) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Migrate PHPUnit 10.1 configuration](https://github.com/ghostwriter/container/pull/23) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
 | (MERGED) | [Setup `codecov`](https://github.com/ghostwriter/container/pull/22) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
@@ -86,7 +87,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `ghostwriter/container` from 1.4.0 to 1.5.0](https://github.com/ghostwriter/syntax/pull/7) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (2 weeks ago)|
 | (MERGED) | [Extend services via aliases](https://github.com/ghostwriter/container/pull/21) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 | (MERGED) | [Update `compliance.yml` workflow](https://github.com/ghostwriter/syntax/pull/6) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (2 weeks ago)|
-| (MERGED) | [Refactor `Token`](https://github.com/ghostwriter/syntax/pull/5) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (2 weeks ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-factory/releases/tag/1.0.2) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (1 week ago)|
