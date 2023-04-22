@@ -64,7 +64,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `nick-invision/retry` to v2](https://github.com/mockery/mockery/pull/1234) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Bump `actions/checkout` to v3](https://github.com/mockery/mockery/pull/1233) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Split PHPUnit TestSuites for PHP 8.2](https://github.com/mockery/mockery/pull/1232) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (OPEN) | [Update PHPStorm metadata to support Intersection Types](https://github.com/mockery/mockery/pull/1231) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Update PHPStorm metadata to support Intersection Types](https://github.com/mockery/mockery/pull/1231) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/320) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/319) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/318) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
