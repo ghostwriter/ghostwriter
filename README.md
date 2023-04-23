@@ -30,21 +30,21 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Changelog v1.6.0](https://github.com/mockery/mockery/pull/1243) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1242) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [Migrate PHPUnit 10.1 configuration](https://github.com/ghostwriter/container/pull/23) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
-| (MERGED) | [Setup `codecov`](https://github.com/ghostwriter/container/pull/22) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
-| (MERGED) | [Update tests to PHPUnit 10.1 syntax](https://github.com/ghostwriter/event-dispatcher/pull/24) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
-| (MERGED) | [Update dependencies](https://github.com/ghostwriter/event-dispatcher/pull/23) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
-| (OPEN) | [Update `.github/workflows/tests.yml` workflow](https://github.com/mockery/mockery/pull/1241) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
-| (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (4 days ago)|
-| (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 days ago)|
-| (MERGED) | [Prevent CI run duplication](https://github.com/mockery/mockery/pull/1239) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
-| (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
-| (MERGED) | [Unignore `composer.lock` file](https://github.com/mockery/mockery/pull/1237) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Add `Psalm` CI Check](https://github.com/mockery/mockery/pull/1236) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Setup `Codecov` for code coverage](https://github.com/mockery/mockery/pull/1235) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (OPEN) | [Changelog v1.6.0](https://github.com/mockery/mockery/pull/1243) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1242) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Migrate PHPUnit 10.1 configuration](https://github.com/ghostwriter/container/pull/23) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)|
+| (MERGED) | [Setup `codecov`](https://github.com/ghostwriter/container/pull/22) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)|
+| (MERGED) | [Update tests to PHPUnit 10.1 syntax](https://github.com/ghostwriter/event-dispatcher/pull/24) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 days ago)|
+| (MERGED) | [Update dependencies](https://github.com/ghostwriter/event-dispatcher/pull/23) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 days ago)|
+| (OPEN) | [Update `.github/workflows/tests.yml` workflow](https://github.com/mockery/mockery/pull/1241) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (5 days ago)|
+| (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (5 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (5 days ago)|
+| (MERGED) | [Prevent CI run duplication](https://github.com/mockery/mockery/pull/1239) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
+| (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
+| (MERGED) | [Unignore `composer.lock` file](https://github.com/mockery/mockery/pull/1237) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Add `Psalm` CI Check](https://github.com/mockery/mockery/pull/1236) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Setup `Codecov` for code coverage](https://github.com/mockery/mockery/pull/1235) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Bump `phpunit` to 10.1](https://github.com/ghostwriter/option/pull/37) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/24) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `nick-invision/retry` to v2](https://github.com/mockery/mockery/pull/1234) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -66,9 +66,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Setup dependabot](https://github.com/ghostwriter/coding-standard/pull/21) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `ghostwriter/collection` from 0.5.1 to 1.3.0](https://github.com/ghostwriter/syntax/pull/9) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (1 week ago)|
 | (MERGED) | [Refactor using Option class](https://github.com/ghostwriter/option/pull/36) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
-| (MERGED) | [Update `phpunit.xml.dist` configurations](https://github.com/ghostwriter/result/pull/17) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
-| (MERGED) | [Add `codecov.yml` workflow](https://github.com/ghostwriter/result/pull/16) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
-| (MERGED) | [Implementing HTTP Parser](https://github.com/ghostwriter/http/pull/7) on [ghostwriter/http](https://github.com/ghostwriter/http) (1 week ago)|
+| (MERGED) | [Update `phpunit.xml.dist` configurations](https://github.com/ghostwriter/result/pull/17) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 weeks ago)|
+| (MERGED) | [Add `codecov.yml` workflow](https://github.com/ghostwriter/result/pull/16) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 weeks ago)|
+| (MERGED) | [Implementing HTTP Parser](https://github.com/ghostwriter/http/pull/7) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 weeks ago)|
 | (MERGED) | [Bump `ghostwriter/container` from 1.4.0 to 1.5.0](https://github.com/ghostwriter/syntax/pull/7) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (2 weeks ago)|
 | (MERGED) | [Extend services via aliases](https://github.com/ghostwriter/container/pull/21) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 | (MERGED) | [Update `compliance.yml` workflow](https://github.com/ghostwriter/syntax/pull/6) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (2 weeks ago)|
