@@ -30,6 +30,12 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/326) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP-CLI 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/325) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP-FPM 8.1]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/324) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP-CLI 8.1]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/323) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP-FPM 8.0]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/322) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP-CLI 8.0]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/321) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
 | (MERGED) | [Improve `ClassAttributesPass` for Dynamic Properties](https://github.com/mockery/mockery/pull/1244) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (OPEN) | [Changelog v1.6.0](https://github.com/mockery/mockery/pull/1243) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1242) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
@@ -66,12 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/39) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 weeks ago)|
 | (MERGED) | [Setup dependabot](https://github.com/ghostwriter/coding-standard/pull/21) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
 | (MERGED) | [Bump `ghostwriter/collection` from 0.5.1 to 1.3.0](https://github.com/ghostwriter/syntax/pull/9) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (2 weeks ago)|
-| (MERGED) | [Refactor using Option class](https://github.com/ghostwriter/option/pull/36) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
-| (MERGED) | [Update `phpunit.xml.dist` configurations](https://github.com/ghostwriter/result/pull/17) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 weeks ago)|
-| (MERGED) | [Add `codecov.yml` workflow](https://github.com/ghostwriter/result/pull/16) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 weeks ago)|
-| (MERGED) | [Implementing HTTP Parser](https://github.com/ghostwriter/http/pull/7) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 weeks ago)|
-| (MERGED) | [Bump `ghostwriter/container` from 1.4.0 to 1.5.0](https://github.com/ghostwriter/syntax/pull/7) on [ghostwriter/syntax](https://github.com/ghostwriter/syntax) (2 weeks ago)|
-| (MERGED) | [Extend services via aliases](https://github.com/ghostwriter/container/pull/21) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (2 weeks ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-factory/releases/tag/1.0.2) on [php-fig/http-factory](https://github.com/php-fig/http-factory) (2 weeks ago)|
@@ -87,6 +87,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
@@ -94,6 +95,5 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (0) [`ghostwriter/pulse`](https://github.com/ghostwriter/pulse) | [wip] PSR-15 Middleware implementation that leverages Ajax and pushState to create dynamic user interfaces, sending HTML instead of JSON. |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
-| ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
 
 </div>
