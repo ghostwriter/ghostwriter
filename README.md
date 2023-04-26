@@ -85,6 +85,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
@@ -93,7 +94,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (0) [`ghostwriter/pulse`](https://github.com/ghostwriter/pulse) | [wip] PSR-15 Middleware implementation that leverages Ajax and pushState to create dynamic user interfaces, sending HTML instead of JSON. |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
-| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | My personal template for new PHP projects |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 
 </div>
