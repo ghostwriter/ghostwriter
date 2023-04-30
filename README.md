@@ -45,7 +45,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Setup `codecov`](https://github.com/ghostwriter/container/pull/22) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
 | (MERGED) | [Update tests to PHPUnit 10.1 syntax](https://github.com/ghostwriter/event-dispatcher/pull/24) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
 | (MERGED) | [Update dependencies](https://github.com/ghostwriter/event-dispatcher/pull/23) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
-| (OPEN) | [Update `.github/workflows/tests.yml` workflow](https://github.com/mockery/mockery/pull/1241) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Add PHPUnit workflow for PHP 8.3 ](https://github.com/mockery/mockery/pull/1241) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 week ago)|
 | (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
