@@ -30,7 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
+| (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
+| (MERGED) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (MERGED) | [Add `BUG_REPORT.yml` Issue template](https://github.com/mockery/mockery/pull/1246) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Deprecate `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1245) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/container/pull/24) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
@@ -71,7 +72,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `ghostwriter/container` to 1.5.0](https://github.com/ghostwriter/event-dispatcher/pull/22) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (MERGED) | [Add `vimeo/psalm` and `psalm/plugin-phpunit`](https://github.com/mockery/mockery/pull/1230) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (OPEN) | [Remove `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1227) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Refactoring risky tests](https://github.com/mockery/mockery/pull/1226) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
+| (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (6 days ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (2 weeks ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (3 weeks ago)|
@@ -79,21 +80,20 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-handler/releases/tag/1.0.2) on [php-fig/http-server-handler](https://github.com/php-fig/http-server-handler) (3 weeks ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/container/releases/tag/1.5.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 weeks ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/mezzio/mezzio-authorization-rbac/releases/tag/1.6.0) on [mezzio/mezzio-authorization-rbac](https://github.com/mezzio/mezzio-authorization-rbac) (3 weeks ago)|
-| (TAGGED) | Release [1.4.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 weeks ago)|
 
 #### Recent Contributions
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/promise`](https://github.com/ghostwriter/promise) | Promise implementation for PHP |
+| ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
-| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
+| ⭐️ (0) [`ghostwriter/promise`](https://github.com/ghostwriter/promise) | Promise implementation for PHP |
 | ⭐️ (0) [`ghostwriter/automation`](https://github.com/ghostwriter/automation) | [wip] GitHub Automation Tool - A solution for automated and scheduled execution of workflows. |
+| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
-| ⭐️ (0) [`ghostwriter/pulse`](https://github.com/ghostwriter/pulse) | [wip] PSR-15 Middleware implementation that leverages Ajax and pushState to create dynamic user interfaces, serving HTML instead of JSON. |
-| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
+| ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 
 </div>
