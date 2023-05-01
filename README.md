@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (MERGED) | [Add `BUG_REPORT.yml` Issue template](https://github.com/mockery/mockery/pull/1246) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Deprecate `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1245) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/container/pull/24) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Add `vimeo/psalm` and `psalm/plugin-phpunit`](https://github.com/mockery/mockery/pull/1230) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (OPEN) | [Remove `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1227) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Refactoring risky tests](https://github.com/mockery/mockery/pull/1226) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Switch to PSR-4 autoload](https://github.com/mockery/mockery/pull/1225) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (6 days ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (2 weeks ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (3 weeks ago)|
