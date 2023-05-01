@@ -31,7 +31,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | State | Description |
 | --- | --- |
 | (MERGED) | [Add `BUG_REPORT.yml` Issue template](https://github.com/mockery/mockery/pull/1246) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (OPEN) | [Deprecate `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1245) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Deprecate `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1245) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/container/pull/24) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
 | (MERGED) | [Bump `infection/infection` to 0.26.21](https://github.com/ghostwriter/coding-standard/pull/29) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
 | (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/326) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
