@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Merge `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1249) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (MERGED) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (MERGED) | [Add `BUG_REPORT.yml` Issue template](https://github.com/mockery/mockery/pull/1246) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `psr/http-message` dependencies](https://github.com/ghostwriter/http/pull/12) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 weeks ago)|
 | (MERGED) | [Bump `ghostwriter/container` to 1.5.0](https://github.com/ghostwriter/event-dispatcher/pull/22) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (MERGED) | [Add `vimeo/psalm` and `psalm/plugin-phpunit`](https://github.com/mockery/mockery/pull/1230) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (OPEN) | [Remove `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1227) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (6 days ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (2 weeks ago)|
