@@ -41,7 +41,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP-FPM 8.0]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/322) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [[PHP-CLI 8.0]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/321) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [Improve `ClassAttributesPass` for Dynamic Properties](https://github.com/mockery/mockery/pull/1244) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (OPEN) | [Changelog v1.6.0](https://github.com/mockery/mockery/pull/1243) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Changelog v1.6.0](https://github.com/mockery/mockery/pull/1243) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1242) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Migrate PHPUnit 10.1 configuration](https://github.com/ghostwriter/container/pull/23) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
 | (MERGED) | [Setup `codecov`](https://github.com/ghostwriter/container/pull/22) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
