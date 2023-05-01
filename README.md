@@ -30,7 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Update CHANGELOG.md](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Deprecate `PHP &lt;=8.0`](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1249) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (MERGED) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
