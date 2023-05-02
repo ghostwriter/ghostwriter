@@ -30,6 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/30) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/option/pull/40) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Deprecate `PHP &lt;=8.0`](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Merge `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1249) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 day ago)|
@@ -70,8 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.17 to 8.1.18](https://github.com/ghostwriter/php/pull/319) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/318) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.4 to 8.2.5](https://github.com/ghostwriter/php/pull/317) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [Bump `psr/http-message` dependencies](https://github.com/ghostwriter/http/pull/12) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 weeks ago)|
-| (MERGED) | [Bump `ghostwriter/container` to 1.5.0](https://github.com/ghostwriter/event-dispatcher/pull/22) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (TAGGED) | Release [2.1.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.1.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (today)|
 | (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 day ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
@@ -85,15 +85,15 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
-| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/promise`](https://github.com/ghostwriter/promise) | Promise implementation for PHP |
-| ⭐️ (0) [`ghostwriter/automation`](https://github.com/ghostwriter/automation) | [wip] GitHub Automation Tool - A solution for automated and scheduled execution of workflows. |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
-| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
-| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for PHP - Automatically configure and execute multiple CI/CD &amp; QA Tests via GitHub Action. |
-| ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
+| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
+| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
+| ⭐️ (0) [`ghostwriter/pulse`](https://github.com/ghostwriter/pulse) | [wip] PSR-15 Middleware implementation that leverages Ajax and pushState to create dynamic user interfaces, serving HTML instead of JSON. |
 
 </div>
