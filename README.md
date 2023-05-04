@@ -30,6 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Refactor `CountValidator` implementation](https://github.com/mockery/mockery/pull/1259) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Refactor `Loader` Interface and implementations](https://github.com/mockery/mockery/pull/1258) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Refactor `Generator` Interface and implementations](https://github.com/mockery/mockery/pull/1257) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Removed support for PHP 8.0 and lower](https://github.com/mockery/mockery/pull/1256) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1254) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
@@ -70,8 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Add `Psalm` CI Check](https://github.com/mockery/mockery/pull/1236) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Setup `Codecov` for code coverage](https://github.com/mockery/mockery/pull/1235) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Bump `phpunit` to 10.1](https://github.com/ghostwriter/option/pull/37) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/24) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
-| (MERGED) | [Bump `nick-invision/retry` to v2](https://github.com/mockery/mockery/pull/1234) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [2.1.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.1.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (2 days ago)|
 | (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
