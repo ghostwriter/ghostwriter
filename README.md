@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Refactor `Matcher` implementations](https://github.com/mockery/mockery/pull/1260) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Refactor `CountValidator` implementation](https://github.com/mockery/mockery/pull/1259) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Refactor `Loader` Interface and implementations](https://github.com/mockery/mockery/pull/1258) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Unignore `composer.lock` file](https://github.com/mockery/mockery/pull/1237) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Add `Psalm` CI Check](https://github.com/mockery/mockery/pull/1236) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Setup `Codecov` for code coverage](https://github.com/mockery/mockery/pull/1235) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [2.1.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.1.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (2 days ago)|
 | (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
