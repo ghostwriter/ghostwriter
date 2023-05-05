@@ -30,26 +30,26 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Refactor `Matcher` implementations](https://github.com/mockery/mockery/pull/1260) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Refactor `CountValidator` implementation](https://github.com/mockery/mockery/pull/1259) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Refactor `Loader` Interface and implementations](https://github.com/mockery/mockery/pull/1258) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Refactor `Generator` Interface and implementations](https://github.com/mockery/mockery/pull/1257) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Removed support for PHP 8.0 and lower](https://github.com/mockery/mockery/pull/1256) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1254) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/http/pull/18) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/26) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/43) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)|
-| (MERGED) | [Update docker-build-push.yml](https://github.com/ghostwriter/compliance/pull/17) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/30) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/option/pull/40) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 days ago)|
-| (MERGED) | [Deprecate `PHP &lt;=8.0`](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
-| (MERGED) | [Merge `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1249) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
-| (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)|
-| (MERGED) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)|
-| (MERGED) | [Add `BUG_REPORT.yml` Issue template](https://github.com/mockery/mockery/pull/1246) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
-| (MERGED) | [Deprecate `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1245) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/container/pull/24) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)|
+| (OPEN) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Refactor `Matcher` implementations](https://github.com/mockery/mockery/pull/1260) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Refactor `CountValidator` implementation](https://github.com/mockery/mockery/pull/1259) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Refactor `Loader` Interface and implementations](https://github.com/mockery/mockery/pull/1258) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Refactor `Generator` Interface and implementations](https://github.com/mockery/mockery/pull/1257) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Removed support for PHP 8.0 and lower](https://github.com/mockery/mockery/pull/1256) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1254) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/http/pull/18) on [ghostwriter/http](https://github.com/ghostwriter/http) (3 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/26) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/43) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 days ago)|
+| (MERGED) | [Update docker-build-push.yml](https://github.com/ghostwriter/compliance/pull/17) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (3 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/30) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/option/pull/40) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 days ago)|
+| (MERGED) | [Deprecate `PHP &lt;=8.0`](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
+| (MERGED) | [Merge `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1249) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
+| (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 days ago)|
+| (MERGED) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 days ago)|
+| (MERGED) | [Add `BUG_REPORT.yml` Issue template](https://github.com/mockery/mockery/pull/1246) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
+| (MERGED) | [Deprecate `hamcrest/hamcrest-php` package](https://github.com/mockery/mockery/pull/1245) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/container/pull/24) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)|
 | (MERGED) | [Bump `infection/infection` to 0.26.21](https://github.com/ghostwriter/coding-standard/pull/29) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/326) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [[PHP-CLI 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/325) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
@@ -59,9 +59,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP-CLI 8.0]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/321) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [Improve `ClassAttributesPass` for Dynamic Properties](https://github.com/mockery/mockery/pull/1244) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Changelog v1.6.0](https://github.com/mockery/mockery/pull/1243) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1242) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (MERGED) | [Migrate PHPUnit 10.1 configuration](https://github.com/ghostwriter/container/pull/23) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
-| (MERGED) | [Setup `codecov`](https://github.com/ghostwriter/container/pull/22) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
+| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1242) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
+| (MERGED) | [Migrate PHPUnit 10.1 configuration](https://github.com/ghostwriter/container/pull/23) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
+| (MERGED) | [Setup `codecov`](https://github.com/ghostwriter/container/pull/22) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 | (MERGED) | [Update tests to PHPUnit 10.1 syntax](https://github.com/ghostwriter/event-dispatcher/pull/24) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (MERGED) | [Update dependencies](https://github.com/ghostwriter/event-dispatcher/pull/23) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (MERGED) | [Add PHPUnit workflow for PHP 8.3 ](https://github.com/mockery/mockery/pull/1241) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
@@ -72,9 +72,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Unignore `composer.lock` file](https://github.com/mockery/mockery/pull/1237) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Add `Psalm` CI Check](https://github.com/mockery/mockery/pull/1236) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.7.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (today)|
-| (TAGGED) | Release [2.1.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.1.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (2 days ago)|
-| (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 days ago)|
+| (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.7.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (1 day ago)|
+| (TAGGED) | Release [2.1.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.1.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (3 days ago)|
+| (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 days ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-server-middleware/releases/tag/1.0.2) on [php-fig/http-server-middleware](https://github.com/php-fig/http-server-middleware) (3 weeks ago)|
 | (TAGGED) | Release [1.0.2](https://github.com/php-fig/http-client/releases/tag/1.0.2) on [php-fig/http-client](https://github.com/php-fig/http-client) (3 weeks ago)|
