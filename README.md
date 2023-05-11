@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Bump `vimeo/pslam` to 5.11.0](https://github.com/ghostwriter/coding-standard/pull/33) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
 | (OPEN) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Clean up](https://github.com/ghostwriter/option/pull/39) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/38) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 weeks ago)|
 | (MERGED) | [Prevent CI run duplication](https://github.com/mockery/mockery/pull/1239) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (OPEN) | [Cleanup and refactor](https://github.com/mockery/mockery/pull/1238) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (3 days ago)|
 | (TAGGED) | Release [3.5.0](https://github.com/laminas/laminas-permissions-rbac/releases/tag/3.5.0) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (6 days ago)|
 | (TAGGED) | Release [2.14.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.14.0) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (6 days ago)|
@@ -85,15 +85,15 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
-| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
-| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
+| ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
+| ⭐️ (0) [`ghostwriter/promise`](https://github.com/ghostwriter/promise) | Promise implementation for PHP |
+| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
-| ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
+| ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
-| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
+| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 
 </div>
