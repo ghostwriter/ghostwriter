@@ -30,8 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/39) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/38) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
+| (MERGED) | [Bump `rector/rector` from 0.15.25 to 0.16.0 ](https://github.com/ghostwriter/coding-standard/pull/39) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
+| (MERGED) | [Bump `phpunit/phpunit` and `symplify/easy-coding-standard`](https://github.com/ghostwriter/coding-standard/pull/38) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Update composer.json](https://github.com/ghostwriter/coding-standard/pull/37) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
