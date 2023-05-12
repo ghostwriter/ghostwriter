@@ -37,7 +37,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 #### Recent Contributions
 
 | Repo | Description |
-| --- | --- |{{range recentContributions 10}}
+| --- | --- |{{range recentContributions 100}}
 | ⭐️ ({{.Repo.Stargazers}}) [`{{.Repo.Name}}`]({{.Repo.URL}}) | {{.Repo.Description}} |
 {{- end}}
 
