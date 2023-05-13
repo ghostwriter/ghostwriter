@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Update infection.json.dist](https://github.com/ghostwriter/container/pull/26) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (MERGED) | [Bump `rector/rector` from 0.15.25 to 0.16.0 ](https://github.com/ghostwriter/coding-standard/pull/39) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
 | (MERGED) | [Bump `phpunit/phpunit` and `symplify/easy-coding-standard`](https://github.com/ghostwriter/coding-standard/pull/38) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
 | (MERGED) | [Update composer.json](https://github.com/ghostwriter/coding-standard/pull/37) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Update tests to PHPUnit 10.1 syntax](https://github.com/ghostwriter/event-dispatcher/pull/24) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 weeks ago)|
 | (MERGED) | [Update dependencies](https://github.com/ghostwriter/event-dispatcher/pull/23) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 weeks ago)|
 | (MERGED) | [Add PHPUnit workflow for PHP 8.3 ](https://github.com/mockery/mockery/pull/1241) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Update rector config](https://github.com/ghostwriter/wip/pull/40) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 weeks ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (5 days ago)|
 | (TAGGED) | Release [3.5.0](https://github.com/laminas/laminas-permissions-rbac/releases/tag/3.5.0) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (1 week ago)|
 | (TAGGED) | Release [2.14.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.14.0) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (1 week ago)|
