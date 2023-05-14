@@ -111,7 +111,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (1404) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
 | ⭐️ (156) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
-| ⭐️ (1518) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
+| ⭐️ (1519) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
 | ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
 | ⭐️ (168) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
 | ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
