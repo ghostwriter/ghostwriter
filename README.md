@@ -30,9 +30,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Bump `infection/infection` (0.26.21 =&gt; 0.27.0)](https://github.com/ghostwriter/coding-standard/pull/45) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/44) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [Bump slevomat/coding-standard (8.12.0 =&gt; 8.12.1)](https://github.com/ghostwriter/coding-standard/pull/43) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [Bump slevomat/coding-standard (8.11.1 =&gt; 8.12.0)](https://github.com/ghostwriter/coding-standard/pull/42) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` (8.12.0 =&gt; 8.12.1)](https://github.com/ghostwriter/coding-standard/pull/43) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` (8.11.1 =&gt; 8.12.0)](https://github.com/ghostwriter/coding-standard/pull/42) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/330) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/329) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
 | (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/328) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP-FPM 8.1]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/324) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [[PHP-CLI 8.1]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/323) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [[PHP-FPM 8.0]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/322) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
-| (MERGED) | [[PHP-CLI 8.0]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/321) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 week ago)|
 | (TAGGED) | Release [3.5.0](https://github.com/laminas/laminas-permissions-rbac/releases/tag/3.5.0) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (1 week ago)|
 | (TAGGED) | Release [2.14.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.14.0) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (1 week ago)|
@@ -85,8 +85,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/promise`](https://github.com/ghostwriter/promise) | Promise implementation for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
+| ⭐️ (0) [`ghostwriter/promise`](https://github.com/ghostwriter/promise) | Promise implementation for PHP |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | [WIP] Filesystem abstraction for PHP |
