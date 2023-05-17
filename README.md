@@ -30,21 +30,21 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Bump `infection/infection` (0.26.21 =&gt; 0.27.0)](https://github.com/ghostwriter/coding-standard/pull/45) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/44) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [Bump `slevomat/coding-standard` (8.12.0 =&gt; 8.12.1)](https://github.com/ghostwriter/coding-standard/pull/43) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [Bump `slevomat/coding-standard` (8.11.1 =&gt; 8.12.0)](https://github.com/ghostwriter/coding-standard/pull/42) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/330) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/329) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/328) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/327) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/40) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)|
-| (MERGED) | [Update infection.json.dist](https://github.com/ghostwriter/container/pull/26) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)|
-| (MERGED) | [Bump `rector/rector` from 0.15.25 to 0.16.0 ](https://github.com/ghostwriter/coding-standard/pull/39) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
-| (MERGED) | [Bump `phpunit/phpunit` and `symplify/easy-coding-standard`](https://github.com/ghostwriter/coding-standard/pull/38) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
-| (MERGED) | [Update composer.json](https://github.com/ghostwriter/coding-standard/pull/37) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
-| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)|
-| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
+| (MERGED) | [Bump `infection/infection` (0.26.21 =&gt; 0.27.0)](https://github.com/ghostwriter/coding-standard/pull/45) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/44) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` (8.12.0 =&gt; 8.12.1)](https://github.com/ghostwriter/coding-standard/pull/43) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` (8.11.1 =&gt; 8.12.0)](https://github.com/ghostwriter/coding-standard/pull/42) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/330) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/329) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/328) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/327) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/40) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
+| (MERGED) | [Update infection.json.dist](https://github.com/ghostwriter/container/pull/26) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)|
+| (MERGED) | [Bump `rector/rector` from 0.15.25 to 0.16.0 ](https://github.com/ghostwriter/coding-standard/pull/39) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
+| (MERGED) | [Bump `phpunit/phpunit` and `symplify/easy-coding-standard`](https://github.com/ghostwriter/coding-standard/pull/38) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
+| (MERGED) | [Update composer.json](https://github.com/ghostwriter/coding-standard/pull/37) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
+| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (6 days ago)|
+| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
 | (MERGED) | [Bump `vimeo/pslam` to 5.11.0](https://github.com/ghostwriter/coding-standard/pull/33) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (OPEN) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Refactor `Matcher` implementations](https://github.com/mockery/mockery/pull/1260) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -52,7 +52,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Refactor `Loader` Interface and implementations](https://github.com/mockery/mockery/pull/1258) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Refactor `Generator` Interface and implementations](https://github.com/mockery/mockery/pull/1257) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Removed support for PHP 8.0 and lower](https://github.com/mockery/mockery/pull/1256) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1254) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1254) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/http/pull/18) on [ghostwriter/http](https://github.com/ghostwriter/http) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/26) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/43) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 weeks ago)|
