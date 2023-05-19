@@ -47,7 +47,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `vimeo/pslam` to 5.11.0](https://github.com/ghostwriter/coding-standard/pull/33) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (OPEN) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
+| (CLOSED) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Refactor `Matcher` implementations](https://github.com/mockery/mockery/pull/1260) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Refactor `CountValidator` implementation](https://github.com/mockery/mockery/pull/1259) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Refactor `Loader` Interface and implementations](https://github.com/mockery/mockery/pull/1258) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
