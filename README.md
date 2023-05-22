@@ -72,12 +72,12 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/326) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)|
 | (MERGED) | [[PHP-CLI 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/325) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)|
 | (MERGED) | [[PHP-FPM 8.1]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/324) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)|
+| (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (today)|
 | (TAGGED) | Release [3.14.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.14.0) on [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) (3 days ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (2 weeks ago)|
 | (TAGGED) | Release [3.5.0](https://github.com/laminas/laminas-permissions-rbac/releases/tag/3.5.0) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (2 weeks ago)|
 | (TAGGED) | Release [2.14.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.14.0) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (2 weeks ago)|
 | (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.7.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (2 weeks ago)|
-| (TAGGED) | Release [2.1.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.1.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (2 weeks ago)|
 | (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 weeks ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/option/releases/tag/1.5.0) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 weeks ago)|
 
@@ -147,10 +147,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (62) [`laminas/laminas-migration`](https://github.com/laminas/laminas-migration) | Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. |
 | ⭐️ (25) [`laminas/laminas-component-installer`](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
-| ⭐️ (8) [`laminas/laminas-twitter`](https://github.com/laminas/laminas-twitter) | OOP wrapper for the Twitter web service |
 | ⭐️ (26) [`laminas/laminas-permissions-rbac`](https://github.com/laminas/laminas-permissions-rbac) | Provides a role-based access control management |
 | ⭐️ (24) [`laminas/laminas-barcode`](https://github.com/laminas/laminas-barcode) | Programmatically create and render barcodes as images or in PDFs |
 | ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
+| ⭐️ (8) [`laminas/laminas-twitter`](https://github.com/laminas/laminas-twitter) | OOP wrapper for the Twitter web service |
 | ⭐️ (0) [`ghostwriter-laminas-mezzio/laminas-redis-session-example`](https://github.com/ghostwriter-laminas-mezzio/laminas-redis-session-example) | helping out in laminas slack |
 | ⭐️ (0) [`ghostwriter/stream`](https://github.com/ghostwriter/stream) | Provides a Stream wrapper implementation for PHP inspired by PSR-7 and PSR-17 specification. |
 | ⭐️ (148) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
