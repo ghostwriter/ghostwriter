@@ -30,7 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Move code from `library` directory to `src` directory](https://github.com/mockery/mockery/pull/1264) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (MERGED) | [Move code from `library` directory to `src` directory](https://github.com/mockery/mockery/pull/1264) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/46) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
 | (MERGED) | [Bump `infection/infection` (0.26.21 =&gt; 0.27.0)](https://github.com/ghostwriter/coding-standard/pull/45) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/44) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
