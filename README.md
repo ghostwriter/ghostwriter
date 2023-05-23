@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/49) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Move code from `library` directory to `src` directory](https://github.com/mockery/mockery/pull/1264) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/46) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
 | (MERGED) | [Bump `infection/infection` (0.26.21 =&gt; 0.27.0)](https://github.com/ghostwriter/coding-standard/pull/45) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `infection/infection` to 0.26.21](https://github.com/ghostwriter/coding-standard/pull/29) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/326) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)|
 | (MERGED) | [[PHP-CLI 8.2]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/325) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)|
-| (MERGED) | [[PHP-FPM 8.1]Bump `mongodb` extension from 1.15.1 to 1.15.2](https://github.com/ghostwriter/php/pull/324) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 weeks ago)|
 | (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (1 day ago)|
 | (TAGGED) | Release [3.14.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.14.0) on [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) (4 days ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (2 weeks ago)|
