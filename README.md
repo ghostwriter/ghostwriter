@@ -30,23 +30,23 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/336) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/335) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/334) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/333) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/332) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/331) on [ghostwriter/php](https://github.com/ghostwriter/php) (4 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/49) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
+| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/336) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/335) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/334) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/333) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/332) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/331) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/49) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
 | (MERGED) | [Move code from `library` directory to `src` directory](https://github.com/mockery/mockery/pull/1264) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/46) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `infection/infection` (0.26.21 =&gt; 0.27.0)](https://github.com/ghostwriter/coding-standard/pull/45) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/44) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (MERGED) | [Bump `slevomat/coding-standard` (8.12.0 =&gt; 8.12.1)](https://github.com/ghostwriter/coding-standard/pull/43) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (MERGED) | [Bump `slevomat/coding-standard` (8.11.1 =&gt; 8.12.0)](https://github.com/ghostwriter/coding-standard/pull/42) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/330) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/329) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/328) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/327) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/coding-standard/pull/44) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` (8.12.0 =&gt; 8.12.1)](https://github.com/ghostwriter/coding-standard/pull/43) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` (8.11.1 =&gt; 8.12.0)](https://github.com/ghostwriter/coding-standard/pull/42) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/330) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/329) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/328) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/327) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/40) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
 | (MERGED) | [Update infection.json.dist](https://github.com/ghostwriter/container/pull/26) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 | (MERGED) | [Bump `rector/rector` from 0.15.25 to 0.16.0 ](https://github.com/ghostwriter/coding-standard/pull/39) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
@@ -68,18 +68,18 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Update docker-build-push.yml](https://github.com/ghostwriter/compliance/pull/17) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/30) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/option/pull/40) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 weeks ago)|
-| (MERGED) | [Deprecate `PHP &lt;=8.0`](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Merge `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1249) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 weeks ago)|
-| (MERGED) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 weeks ago)|
-| (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (4 days ago)|
-| (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (6 days ago)|
+| (MERGED) | [Deprecate `PHP &lt;=8.0`](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
+| (MERGED) | [Merge `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1249) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
+| (MERGED) | [Add `dependabot.yml`](https://github.com/ghostwriter/collection/pull/16) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 weeks ago)|
+| (MERGED) | [Bump `ghostwriter/option` to 1.5](https://github.com/ghostwriter/collection/pull/15) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 weeks ago)|
+| (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (5 days ago)|
+| (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (1 week ago)|
 | (TAGGED) | Release [3.14.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.14.0) on [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) (1 week ago)|
-| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (2 weeks ago)|
+| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (3 weeks ago)|
 | (TAGGED) | Release [3.5.0](https://github.com/laminas/laminas-permissions-rbac/releases/tag/3.5.0) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (3 weeks ago)|
 | (TAGGED) | Release [2.14.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.14.0) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (3 weeks ago)|
 | (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.7.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (3 weeks ago)|
-| (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 weeks ago)|
+| (TAGGED) | Release [1.3.1](https://github.com/ghostwriter/collection/releases/tag/1.3.1) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 weeks ago)|
 
 #### Recent Contributions
 
