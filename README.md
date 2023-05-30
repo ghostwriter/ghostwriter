@@ -72,6 +72,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/30) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 weeks ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/option/pull/40) on [ghostwriter/option](https://github.com/ghostwriter/option) (4 weeks ago)|
 | (MERGED) | [Deprecate `PHP &lt;=8.0`](https://github.com/mockery/mockery/pull/1251) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
+| (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (today)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 day ago)|
 | (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (6 days ago)|
 | (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (1 week ago)|
@@ -79,7 +80,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (3 weeks ago)|
 | (TAGGED) | Release [3.5.0](https://github.com/laminas/laminas-permissions-rbac/releases/tag/3.5.0) on [laminas/laminas-permissions-rbac](https://github.com/laminas/laminas-permissions-rbac) (3 weeks ago)|
 | (TAGGED) | Release [2.14.0](https://github.com/mezzio/mezzio-twigrenderer/releases/tag/2.14.0) on [mezzio/mezzio-twigrenderer](https://github.com/mezzio/mezzio-twigrenderer) (3 weeks ago)|
-| (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.7.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (3 weeks ago)|
 
 #### Recent Contributions
 
