@@ -141,7 +141,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (24) [`laminas/laminas-skeleton-installer`](https://github.com/laminas/laminas-skeleton-installer) | Installer plugin for Laminas MVC Skeleton application |
 | ⭐️ (23) [`laminas/laminas-server`](https://github.com/laminas/laminas-server) | Create Reflection-based RPC servers |
 | ⭐️ (3) [`mezzio/mezzio-authentication-laminasauthentication`](https://github.com/mezzio/mezzio-authentication-laminasauthentication) | laminas-authentication adapter for mezzio-authentication. |
-| ⭐️ (3) [`mezzio/repo-template`](https://github.com/mezzio/repo-template) | Repository template for new Mezzio components |
+| ⭐️ (4) [`mezzio/repo-template`](https://github.com/mezzio/repo-template) | Repository template for new Mezzio components |
 | ⭐️ (7) [`laminas/laminas-servicemanager-inspector`](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
 | ⭐️ (14) [`laminas/laminas-xml`](https://github.com/laminas/laminas-xml) | Utility library for XML usage, best practices, and security in PHP |
 | ⭐️ (62) [`laminas/laminas-migration`](https://github.com/laminas/laminas-migration) | Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. |
