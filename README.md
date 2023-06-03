@@ -30,8 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/53) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/filesystem/pull/2) on [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) (2 days ago)|
+| (MERGED) | [Bump `rector/rector` from `0.16.0` to `0.17.0`](https://github.com/ghostwriter/coding-standard/pull/53) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
+| (MERGED) | [Bump `ghostwriter/config` from `0.3.0` to `0.4.0`](https://github.com/ghostwriter/filesystem/pull/2) on [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) (2 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/45) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (2 days ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/config/pull/8) on [ghostwriter/config](https://github.com/ghostwriter/config) (5 days ago)|
 | (MERGED) | [Update ecs.php](https://github.com/ghostwriter/coding-standard/pull/51) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
