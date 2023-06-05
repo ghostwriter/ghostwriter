@@ -72,7 +72,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/event-dispatcher/pull/26) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/43) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (1 month ago)|
 | (MERGED) | [Update docker-build-push.yml](https://github.com/ghostwriter/compliance/pull/17) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 month ago)|
-| (TAGGED) | Release [1.6.0](https://github.com/mockery/mockery/releases/tag/1.6.0) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (TAGGED) | Release [1.6.1](https://github.com/mockery/mockery/releases/tag/1.6.1) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (6 days ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)|
 | (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (1 week ago)|
@@ -105,7 +105,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
 | ⭐️ (0) [`ghostwriter/.github`](https://github.com/ghostwriter/.github) | community health files |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
-| ⭐️ (10411) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10410) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
