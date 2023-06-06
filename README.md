@@ -30,6 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Add `IsEqual` Argument Matcher](https://github.com/mockery/mockery/pull/1276) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Add `IsSame` Argument Matcher](https://github.com/mockery/mockery/pull/1275) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Update composer branch alias](https://github.com/mockery/mockery/pull/1274) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge `main` branch into `1.6.x`](https://github.com/mockery/mockery/pull/1272) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Support PHP 8.2 `true` Literal Type](https://github.com/mockery/mockery/pull/1271) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
@@ -70,8 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `rector/rector` from 0.15.25 to 0.16.0 ](https://github.com/ghostwriter/coding-standard/pull/39) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Bump `phpunit/phpunit` and `symplify/easy-coding-standard`](https://github.com/ghostwriter/coding-standard/pull/38) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Update composer.json](https://github.com/ghostwriter/coding-standard/pull/37) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 weeks ago)|
-| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (TAGGED) | Release [1.6.1](https://github.com/mockery/mockery/releases/tag/1.6.1) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)|
