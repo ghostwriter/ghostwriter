@@ -30,6 +30,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Merge `main` branch into `1.6.x`](https://github.com/mockery/mockery/pull/1272) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (OPEN) | [Support PHP 8.2 `true` Literal Type](https://github.com/mockery/mockery/pull/1271) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Support PHP 8.0 `false` Literal Type](https://github.com/mockery/mockery/pull/1270) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/41) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Bump `phpunit/phpunit` from `10.1.3` to `10.2.1`](https://github.com/ghostwriter/coding-standard/pull/55) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/342) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
@@ -69,9 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 weeks ago)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Bump `vimeo/pslam` to 5.11.0](https://github.com/ghostwriter/coding-standard/pull/33) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
-| (CLOSED) | [Integrate php-parser in Mockery](https://github.com/mockery/mockery/pull/1261) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
-| (MERGED) | [Refactor `Matcher` implementations](https://github.com/mockery/mockery/pull/1260) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
-| (MERGED) | [Refactor `CountValidator` implementation](https://github.com/mockery/mockery/pull/1259) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (TAGGED) | Release [1.6.1](https://github.com/mockery/mockery/releases/tag/1.6.1) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)|
