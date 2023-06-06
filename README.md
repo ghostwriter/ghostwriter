@@ -30,8 +30,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Update composer branch alias](https://github.com/mockery/mockery/pull/1274) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge `main` branch into `1.6.x`](https://github.com/mockery/mockery/pull/1272) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (OPEN) | [Support PHP 8.2 `true` Literal Type](https://github.com/mockery/mockery/pull/1271) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Support PHP 8.2 `true` Literal Type](https://github.com/mockery/mockery/pull/1271) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Support PHP 8.0 `false` Literal Type](https://github.com/mockery/mockery/pull/1270) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/41) on [ghostwriter/option](https://github.com/ghostwriter/option) (today)|
 | (MERGED) | [Bump `phpunit/phpunit` from `10.1.3` to `10.2.1`](https://github.com/ghostwriter/coding-standard/pull/55) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Update composer.json](https://github.com/ghostwriter/coding-standard/pull/37) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/25) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 weeks ago)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/coding-standard/pull/35) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [Bump `vimeo/pslam` to 5.11.0](https://github.com/ghostwriter/coding-standard/pull/33) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (TAGGED) | Release [1.6.1](https://github.com/mockery/mockery/releases/tag/1.6.1) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)|
@@ -105,7 +105,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
 | ⭐️ (0) [`ghostwriter/.github`](https://github.com/ghostwriter/.github) | community health files |
-| ⭐️ (10413) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10414) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
