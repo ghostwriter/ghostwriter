@@ -110,8 +110,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
 | ⭐️ (168) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
-| ⭐️ (1416) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
-| ⭐️ (1535) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
+| ⭐️ (1417) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
+| ⭐️ (1536) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
 | ⭐️ (156) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
 | ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
 | ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
@@ -122,7 +122,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
 | ⭐️ (138) [`laminas/automatic-releases`](https://github.com/laminas/automatic-releases) | Automated release process for `laminas/` projects, usable as github action |
 | ⭐️ (0) [`ghostwriter/pizza-place`](https://github.com/ghostwriter/pizza-place) | Livestreaming on twitch: building a pizza place locator API for a mobile app. |
-| ⭐️ (80) [`mezzio/mezzio-swoole`](https://github.com/mezzio/mezzio-swoole) | Swoole support for Mezzio |
+| ⭐️ (81) [`mezzio/mezzio-swoole`](https://github.com/mezzio/mezzio-swoole) | Swoole support for Mezzio |
 | ⭐️ (100) [`mezzio/mezzio-skeleton`](https://github.com/mezzio/mezzio-skeleton) | Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds! |
 | ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | ⭐️ (16) [`mezzio/mezzio-tooling`](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
