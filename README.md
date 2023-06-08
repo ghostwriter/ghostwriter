@@ -153,7 +153,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (7) [`mezzio/mezzio-twigrenderer`](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
 | ⭐️ (0) [`ghostwriter-laminas-mezzio/laminas-redis-session-example`](https://github.com/ghostwriter-laminas-mezzio/laminas-redis-session-example) | helping out in laminas slack |
 | ⭐️ (0) [`ghostwriter/stream`](https://github.com/ghostwriter/stream) | Provides a Stream wrapper implementation for PHP inspired by PSR-7 and PSR-17 specification. |
-| ⭐️ (150) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
+| ⭐️ (151) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
 | ⭐️ (0) [`ghostwriter/composer-lock`](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
 
 </div>
