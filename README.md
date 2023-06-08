@@ -30,6 +30,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/348) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/347) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/346) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
+| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/345) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
 | (MERGED) | [[PHP 8.0]Bump PHP-FPM from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/344) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
 | (MERGED) | [[PHP 8.0]Bump PHP-CLI from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/343) on [ghostwriter/php](https://github.com/ghostwriter/php) (today)|
 | (MERGED) | [Changelog v1.6.2](https://github.com/mockery/mockery/pull/1278) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
@@ -68,10 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `slevomat/coding-standard` (8.12.0 =&gt; 8.12.1)](https://github.com/ghostwriter/coding-standard/pull/43) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Bump `slevomat/coding-standard` (8.11.1 =&gt; 8.12.0)](https://github.com/ghostwriter/coding-standard/pull/42) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/330) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.5 to 8.2.6](https://github.com/ghostwriter/php/pull/329) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/328) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.18 to 8.1.19](https://github.com/ghostwriter/php/pull/327) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/40) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)|
@@ -153,7 +153,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (7) [`mezzio/mezzio-twigrenderer`](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
 | ⭐️ (0) [`ghostwriter-laminas-mezzio/laminas-redis-session-example`](https://github.com/ghostwriter-laminas-mezzio/laminas-redis-session-example) | helping out in laminas slack |
 | ⭐️ (0) [`ghostwriter/stream`](https://github.com/ghostwriter/stream) | Provides a Stream wrapper implementation for PHP inspired by PSR-7 and PSR-17 specification. |
-| ⭐️ (151) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
+| ⭐️ (150) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
 | ⭐️ (0) [`ghostwriter/composer-lock`](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
 
 </div>
