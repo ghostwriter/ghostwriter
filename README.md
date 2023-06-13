@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
 | (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/350) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/332) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/331) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/49) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [Move code from `library` directory to `src` directory](https://github.com/mockery/mockery/pull/1264) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (2 weeks ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (2 weeks ago)|
@@ -85,9 +85,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
-| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (10417) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | [WIP] Filesystem abstraction for PHP |
