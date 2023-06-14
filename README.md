@@ -30,20 +30,20 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
-| (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
-| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/350) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
-| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/349) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 day ago)|
-| (MERGED) | [Bump `phpunit/phpunit` from `10.2.1` to `10.2.2`](https://github.com/ghostwriter/coding-standard/pull/56) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
-| (MERGED) | [Bump `symfony/*` components to `^6.3`](https://github.com/ghostwriter/compliance/pull/18) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/348) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/347) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/346) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/345) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [[PHP 8.0]Bump PHP-FPM from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/344) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [[PHP 8.0]Bump PHP-CLI from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/343) on [ghostwriter/php](https://github.com/ghostwriter/php) (5 days ago)|
-| (MERGED) | [Changelog v1.6.2](https://github.com/mockery/mockery/pull/1278) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
+| (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
+| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/350) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
+| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/349) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 days ago)|
+| (MERGED) | [Bump `phpunit/phpunit` from `10.2.1` to `10.2.2`](https://github.com/ghostwriter/coding-standard/pull/56) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)|
+| (MERGED) | [Bump `symfony/*` components to `^6.3`](https://github.com/ghostwriter/compliance/pull/18) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (3 days ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/348) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/347) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/346) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/345) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [[PHP 8.0]Bump PHP-FPM from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/344) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [[PHP 8.0]Bump PHP-CLI from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/343) on [ghostwriter/php](https://github.com/ghostwriter/php) (6 days ago)|
+| (MERGED) | [Changelog v1.6.2](https://github.com/mockery/mockery/pull/1278) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Merge `1.6.x` branch into `main`](https://github.com/mockery/mockery/pull/1277) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Add `IsEqual` Argument Matcher](https://github.com/mockery/mockery/pull/1276) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Add `IsSame` Argument Matcher](https://github.com/mockery/mockery/pull/1275) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -65,17 +65,17 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/config/pull/8) on [ghostwriter/config](https://github.com/ghostwriter/config) (2 weeks ago)|
 | (MERGED) | [Update ecs.php](https://github.com/ghostwriter/coding-standard/pull/51) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/50) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
-| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/336) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/335) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/334) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/333) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/332) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/331) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
+| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/336) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
+| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/335) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
+| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/334) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
+| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/333) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
+| (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/332) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
+| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.5 to 2.5.6](https://github.com/ghostwriter/php/pull/331) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/49) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (2 weeks ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (2 weeks ago)|
-| (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (2 weeks ago)|
+| (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (3 weeks ago)|
 | (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (3 weeks ago)|
 | (TAGGED) | Release [3.14.0](https://github.com/mezzio/mezzio-skeleton/releases/tag/3.14.0) on [mezzio/mezzio-skeleton](https://github.com/mezzio/mezzio-skeleton) (3 weeks ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/environment/releases/tag/2.0.0) on [ghostwriter/environment](https://github.com/ghostwriter/environment) (1 month ago)|
