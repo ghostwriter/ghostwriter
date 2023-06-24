@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Refactor `AssertTrueFalseToSpecificMethodRector` to create new object when needed](https://github.com/rectorphp/rector-phpunit/pull/203) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
 | (MERGED) | [Correct behavior of `TryCatchToExpectExceptionRector`](https://github.com/rectorphp/rector-phpunit/pull/201) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
 | (MERGED) | [Correct behavior of `AssertTrueFalseToSpecificMethodRector`](https://github.com/rectorphp/rector-phpunit/pull/200) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
 | (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1280) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `ghostwriter/config` from `0.3.0` to `0.4.0`](https://github.com/ghostwriter/filesystem/pull/2) on [ghostwriter/filesystem](https://github.com/ghostwriter/filesystem) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/45) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/config/pull/8) on [ghostwriter/config](https://github.com/ghostwriter/config) (3 weeks ago)|
-| (MERGED) | [Update ecs.php](https://github.com/ghostwriter/coding-standard/pull/51) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 week ago)|
 | (TAGGED) | Release [4.7.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.7.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 week ago)|
 | (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
