@@ -30,6 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Correct behavior of `TryCatchToExpectExceptionRector`](https://github.com/rectorphp/rector-phpunit/pull/201) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
+| (OPEN) | [Correct behavior of `AssertTrueFalseToSpecificMethodRector`](https://github.com/rectorphp/rector-phpunit/pull/200) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
 | (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1280) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
@@ -70,8 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/wip/pull/45) on [ghostwriter/wip](https://github.com/ghostwriter/wip) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/config/pull/8) on [ghostwriter/config](https://github.com/ghostwriter/config) (3 weeks ago)|
 | (MERGED) | [Update ecs.php](https://github.com/ghostwriter/coding-standard/pull/51) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/50) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.6 to 2.5.7](https://github.com/ghostwriter/php/pull/336) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 week ago)|
 | (TAGGED) | Release [4.7.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.7.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 week ago)|
 | (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
