@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/66) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Update PhpVersion.php](https://github.com/ghostwriter/compliance/pull/25) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)|
 | (MERGED) | [Update Dockerfile to use PHP 8.2](https://github.com/ghostwriter/compliance/pull/24) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)|
 | (MERGED) | [Bump `ghostwriter/option` from `1.4.0` to `1.5.0`](https://github.com/ghostwriter/event-dispatcher/pull/27) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP-CLI 8.1]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/339) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP-FPM 8.0]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/338) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP-CLI 8.0]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/337) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
-| (MERGED) | [Bump `rector/rector` from `0.16.0` to `0.17.0`](https://github.com/ghostwriter/coding-standard/pull/53) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 week ago)|
 | (TAGGED) | Release [4.7.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.7.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 week ago)|
 | (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
@@ -86,9 +86,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 | Repo | Description |
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
+| ⭐️ (1) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (44) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
-| ⭐️ (1) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
