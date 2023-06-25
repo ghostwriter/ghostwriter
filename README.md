@@ -30,22 +30,22 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Refactor `AssertTrueFalseToSpecificMethodRector` to create new object when needed](https://github.com/rectorphp/rector-phpunit/pull/203) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
-| (MERGED) | [Correct behavior of `TryCatchToExpectExceptionRector`](https://github.com/rectorphp/rector-phpunit/pull/201) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
-| (MERGED) | [Correct behavior of `AssertTrueFalseToSpecificMethodRector`](https://github.com/rectorphp/rector-phpunit/pull/200) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (today)|
-| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1280) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
-| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/60) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
+| (OPEN) | [Refactor `AssertTrueFalseToSpecificMethodRector` to create new object when needed](https://github.com/rectorphp/rector-phpunit/pull/203) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)|
+| (MERGED) | [Correct behavior of `TryCatchToExpectExceptionRector`](https://github.com/rectorphp/rector-phpunit/pull/201) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)|
+| (MERGED) | [Correct behavior of `AssertTrueFalseToSpecificMethodRector`](https://github.com/rectorphp/rector-phpunit/pull/200) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 day ago)|
+| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1280) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
+| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)|
+| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/60) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
 | (MERGED) | [Bump `rector/rector` from `0.17.0` to `0.17.1`](https://github.com/ghostwriter/coding-standard/pull/58) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/350) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
 | (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/349) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 week ago)|
-| (MERGED) | [Bump `phpunit/phpunit` from `10.2.1` to `10.2.2`](https://github.com/ghostwriter/coding-standard/pull/56) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (MERGED) | [Bump `symfony/*` components to `^6.3`](https://github.com/ghostwriter/compliance/pull/18) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)|
+| (MERGED) | [Bump `phpunit/phpunit` from `10.2.1` to `10.2.2`](https://github.com/ghostwriter/coding-standard/pull/56) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
+| (MERGED) | [Bump `symfony/*` components to `^6.3`](https://github.com/ghostwriter/compliance/pull/18) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-FPM from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/348) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump PHP-CLI from 8.2.6 to 8.2.7](https://github.com/ghostwriter/php/pull/347) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP 8.1]Bump PHP-FPM from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/346) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
