@@ -30,7 +30,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Update license and copyright information](https://github.com/mockery/mockery/pull/1283) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (OPEN) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1284) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Update license and copyright information](https://github.com/mockery/mockery/pull/1283) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Create `COPYRIGHT.md` file](https://github.com/mockery/mockery/pull/1282) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.12.0` to `5.13.0`](https://github.com/ghostwriter/coding-standard/pull/68) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/66) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `phpunit/phpunit` from `10.1.3` to `10.2.1`](https://github.com/ghostwriter/coding-standard/pull/55) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/342) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [[PHP-CLI 8.2]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/341) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
-| (MERGED) | [[PHP-FPM 8.1]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/340) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 week ago)|
 | (TAGGED) | Release [4.7.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.7.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 week ago)|
 | (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
