@@ -30,20 +30,20 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/66) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [Update PhpVersion.php](https://github.com/ghostwriter/compliance/pull/25) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)|
-| (MERGED) | [Update Dockerfile to use PHP 8.2](https://github.com/ghostwriter/compliance/pull/24) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)|
-| (MERGED) | [Bump `ghostwriter/option` from `1.4.0` to `1.5.0`](https://github.com/ghostwriter/event-dispatcher/pull/27) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)|
-| (OPEN) | [Refactor `AssertTrueFalseToSpecificMethodRector` to create new object when needed](https://github.com/rectorphp/rector-phpunit/pull/203) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)|
-| (MERGED) | [Correct behavior of `TryCatchToExpectExceptionRector`](https://github.com/rectorphp/rector-phpunit/pull/201) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)|
-| (MERGED) | [Correct behavior of `AssertTrueFalseToSpecificMethodRector`](https://github.com/rectorphp/rector-phpunit/pull/200) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (2 days ago)|
-| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1280) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
-| (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)|
-| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
-| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/66) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
+| (MERGED) | [Update PhpVersion.php](https://github.com/ghostwriter/compliance/pull/25) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)|
+| (MERGED) | [Update Dockerfile to use PHP 8.2](https://github.com/ghostwriter/compliance/pull/24) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)|
+| (MERGED) | [Bump `ghostwriter/option` from `1.4.0` to `1.5.0`](https://github.com/ghostwriter/event-dispatcher/pull/27) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
+| (OPEN) | [Refactor `AssertTrueFalseToSpecificMethodRector` to create new object when needed](https://github.com/rectorphp/rector-phpunit/pull/203) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)|
+| (MERGED) | [Correct behavior of `TryCatchToExpectExceptionRector`](https://github.com/rectorphp/rector-phpunit/pull/201) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)|
+| (MERGED) | [Correct behavior of `AssertTrueFalseToSpecificMethodRector`](https://github.com/rectorphp/rector-phpunit/pull/200) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (3 days ago)|
+| (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1280) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
+| (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
+| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
+| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/60) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `rector/rector` from `0.17.0` to `0.17.1`](https://github.com/ghostwriter/coding-standard/pull/58) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/350) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
@@ -57,15 +57,15 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.0]Bump PHP-FPM from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/344) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [[PHP 8.0]Bump PHP-CLI from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/343) on [ghostwriter/php](https://github.com/ghostwriter/php) (2 weeks ago)|
 | (MERGED) | [Changelog v1.6.2](https://github.com/mockery/mockery/pull/1278) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Merge `1.6.x` branch into `main`](https://github.com/mockery/mockery/pull/1277) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Add `IsEqual` Argument Matcher](https://github.com/mockery/mockery/pull/1276) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Add `IsSame` Argument Matcher](https://github.com/mockery/mockery/pull/1275) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Update composer branch alias](https://github.com/mockery/mockery/pull/1274) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Merge `main` branch into `1.6.x`](https://github.com/mockery/mockery/pull/1272) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Support PHP 8.2 `true` Literal Type](https://github.com/mockery/mockery/pull/1271) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Support PHP 8.0 `false` Literal Type](https://github.com/mockery/mockery/pull/1270) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/41) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
-| (MERGED) | [Bump `phpunit/phpunit` from `10.1.3` to `10.2.1`](https://github.com/ghostwriter/coding-standard/pull/55) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
+| (MERGED) | [Merge `1.6.x` branch into `main`](https://github.com/mockery/mockery/pull/1277) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Add `IsEqual` Argument Matcher](https://github.com/mockery/mockery/pull/1276) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Add `IsSame` Argument Matcher](https://github.com/mockery/mockery/pull/1275) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Update composer branch alias](https://github.com/mockery/mockery/pull/1274) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Merge `main` branch into `1.6.x`](https://github.com/mockery/mockery/pull/1272) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Support PHP 8.2 `true` Literal Type](https://github.com/mockery/mockery/pull/1271) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Support PHP 8.0 `false` Literal Type](https://github.com/mockery/mockery/pull/1270) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/41) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 weeks ago)|
+| (MERGED) | [Bump `phpunit/phpunit` from `10.1.3` to `10.2.1`](https://github.com/ghostwriter/coding-standard/pull/55) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/342) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [[PHP-CLI 8.2]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/341) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [[PHP-FPM 8.1]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/340) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
@@ -75,7 +75,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 week ago)|
 | (TAGGED) | Release [4.7.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.7.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 week ago)|
 | (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (3 weeks ago)|
+| (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.8.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (4 weeks ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (4 weeks ago)|
 | (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (1 month ago)|
 | (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (1 month ago)|
