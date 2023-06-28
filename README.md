@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Support empty collections in `_embedded` section](https://github.com/mezzio/mezzio-hal/pull/80) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)|
 | (MERGED) | [Enforce the minimum required PHP version](https://github.com/mockery/mockery/pull/1285) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1284) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Update license and copyright information](https://github.com/mockery/mockery/pull/1283) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Support PHP 8.0 `false` Literal Type](https://github.com/mockery/mockery/pull/1270) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/option/pull/41) on [ghostwriter/option](https://github.com/ghostwriter/option) (3 weeks ago)|
 | (MERGED) | [Bump `phpunit/phpunit` from `10.1.3` to `10.2.1`](https://github.com/ghostwriter/coding-standard/pull/55) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [[PHP-FPM 8.2]Bump `mongodb` extension from 1.15.2 to 1.15.3](https://github.com/ghostwriter/php/pull/342) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (TAGGED) | Release [1.9.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.9.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (today)|
 | (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.7.0) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (today)|
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (2 weeks ago)|
