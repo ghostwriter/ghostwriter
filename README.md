@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Rename directory `library` to `src`](https://github.com/mockery/mockery/pull/1290) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1289) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Update codecov workflow](https://github.com/mockery/mockery/pull/1288) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Update psalm configuration and workflow](https://github.com/mockery/mockery/pull/1287) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Changelog v1.6.2](https://github.com/mockery/mockery/pull/1278) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Merge `1.6.x` branch into `main`](https://github.com/mockery/mockery/pull/1277) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Add `IsEqual` Argument Matcher](https://github.com/mockery/mockery/pull/1276) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Add `IsSame` Argument Matcher](https://github.com/mockery/mockery/pull/1275) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (TAGGED) | Release [1.9.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.9.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 day ago)|
 | (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.7.0) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (1 day ago)|
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (2 weeks ago)|
