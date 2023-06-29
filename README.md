@@ -30,7 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Rename directory `library` to `src`](https://github.com/mockery/mockery/pull/1290) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Rename directory `library` to `src`](https://github.com/mockery/mockery/pull/1290) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1289) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Update codecov workflow](https://github.com/mockery/mockery/pull/1288) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Update psalm configuration and workflow](https://github.com/mockery/mockery/pull/1287) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
