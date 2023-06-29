@@ -30,6 +30,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1289) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Update codecov workflow](https://github.com/mockery/mockery/pull/1288) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Update psalm configuration and workflow](https://github.com/mockery/mockery/pull/1287) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
+| (MERGED) | [Update phpunit workflow](https://github.com/mockery/mockery/pull/1286) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/27) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/71) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (OPEN) | [Support empty collections in `_embedded` section](https://github.com/mezzio/mezzio-hal/pull/80) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 day ago)|
@@ -68,10 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Merge `1.6.x` branch into `main`](https://github.com/mockery/mockery/pull/1277) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Add `IsEqual` Argument Matcher](https://github.com/mockery/mockery/pull/1276) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Add `IsSame` Argument Matcher](https://github.com/mockery/mockery/pull/1275) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Update composer branch alias](https://github.com/mockery/mockery/pull/1274) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Merge `main` branch into `1.6.x`](https://github.com/mockery/mockery/pull/1272) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Support PHP 8.2 `true` Literal Type](https://github.com/mockery/mockery/pull/1271) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Support PHP 8.0 `false` Literal Type](https://github.com/mockery/mockery/pull/1270) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (TAGGED) | Release [1.9.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.9.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 day ago)|
 | (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.7.0) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (1 day ago)|
 | (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (2 weeks ago)|
@@ -85,21 +85,21 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (10422) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | [WIP] Filesystem abstraction for PHP |
-| ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
-| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
-| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
-| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
-| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
-| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
-| ⭐️ (1) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
-| ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
-| ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
-| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
-| ⭐️ (10422) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
+| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
+| ⭐️ (1) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
+| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
+| ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
+| ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
+| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
+| ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
+| ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker |
 | ⭐️ (44) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
 | ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
@@ -108,8 +108,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP inspired by PSR-7, PSR-15, PSR-17 and PSR-18 specification. |
 | ⭐️ (0) [`ghostwriter/.github`](https://github.com/ghostwriter/.github) | community health files |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
-| ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
+| ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
 | ⭐️ (1549) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
 | ⭐️ (156) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
