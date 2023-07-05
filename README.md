@@ -30,16 +30,16 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/73) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
-| (MERGED) | [Rename directory `library` to `src`](https://github.com/mockery/mockery/pull/1290) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1289) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Update codecov workflow](https://github.com/mockery/mockery/pull/1288) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Update psalm configuration and workflow](https://github.com/mockery/mockery/pull/1287) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Update phpunit workflow](https://github.com/mockery/mockery/pull/1286) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/27) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/71) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
-| (OPEN) | [Support empty collections in `_embedded` section](https://github.com/mezzio/mezzio-hal/pull/80) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (6 days ago)|
-| (MERGED) | [Enforce the minimum required PHP version](https://github.com/mockery/mockery/pull/1285) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/73) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
+| (MERGED) | [Rename directory `library` to `src`](https://github.com/mockery/mockery/pull/1290) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1289) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Update codecov workflow](https://github.com/mockery/mockery/pull/1288) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Update psalm configuration and workflow](https://github.com/mockery/mockery/pull/1287) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Update phpunit workflow](https://github.com/mockery/mockery/pull/1286) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Update compliance.yml](https://github.com/ghostwriter/container/pull/27) on [ghostwriter/container](https://github.com/ghostwriter/container) (6 days ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/71) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (6 days ago)|
+| (OPEN) | [Support empty collections in `_embedded` section](https://github.com/mezzio/mezzio-hal/pull/80) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 week ago)|
+| (MERGED) | [Enforce the minimum required PHP version](https://github.com/mockery/mockery/pull/1285) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1284) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Update license and copyright information](https://github.com/mockery/mockery/pull/1283) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Create `COPYRIGHT.md` file](https://github.com/mockery/mockery/pull/1282) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -56,7 +56,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/60) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
-| (MERGED) | [Bump `rector/rector` from `0.17.0` to `0.17.1`](https://github.com/ghostwriter/coding-standard/pull/58) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
+| (MERGED) | [Bump `rector/rector` from `0.17.0` to `0.17.1`](https://github.com/ghostwriter/coding-standard/pull/58) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
@@ -70,13 +70,13 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.1]Bump PHP-CLI from 8.1.19 to 8.1.20](https://github.com/ghostwriter/php/pull/345) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [[PHP 8.0]Bump PHP-FPM from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/344) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
 | (MERGED) | [[PHP 8.0]Bump PHP-CLI from 8.0.28 to 8.0.29](https://github.com/ghostwriter/php/pull/343) on [ghostwriter/php](https://github.com/ghostwriter/php) (3 weeks ago)|
-| (MERGED) | [Changelog v1.6.2](https://github.com/mockery/mockery/pull/1278) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Changelog v1.6.2](https://github.com/mockery/mockery/pull/1278) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
 | (MERGED) | [Merge `1.6.x` branch into `main`](https://github.com/mockery/mockery/pull/1277) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
-| (TAGGED) | Release [1.9.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.9.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (6 days ago)|
-| (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.7.0) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (6 days ago)|
-| (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (2 weeks ago)|
-| (TAGGED) | Release [4.7.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.7.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (2 weeks ago)|
-| (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (TAGGED) | Release [1.9.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.9.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
+| (TAGGED) | Release [1.7.0](https://github.com/mezzio/mezzio-flash/releases/tag/1.7.0) on [mezzio/mezzio-flash](https://github.com/mezzio/mezzio-flash) (1 week ago)|
+| (TAGGED) | Release [2.7.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.7.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (3 weeks ago)|
+| (TAGGED) | Release [4.7.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.7.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (3 weeks ago)|
+| (TAGGED) | Release [1.6.2](https://github.com/mockery/mockery/releases/tag/1.6.2) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
 | (TAGGED) | Release [0.4.0](https://github.com/ghostwriter/config/releases/tag/0.4.0) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 month ago)|
 | (TAGGED) | Release [3.2.1](https://github.com/laminas/laminas-component-installer/releases/tag/3.2.1) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (1 month ago)|
 | (TAGGED) | Release [2.2.0](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/2.2.0) on [laminas/laminas-mvc-skeleton](https://github.com/laminas/laminas-mvc-skeleton) (1 month ago)|
