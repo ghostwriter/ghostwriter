@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Fix mock classes with new in methods on PHP 8.1](https://github.com/mockery/mockery/pull/1301) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (OPEN) | [Support PHP `8.3`](https://github.com/mockery/mockery/pull/1299) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Update `Makefile` for contributors](https://github.com/mockery/mockery/pull/1297) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (MERGED) | [Update makefile](https://github.com/mockery/mockery/pull/1296) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/350) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
 | (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/349) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
 | (MERGED) | [Bump `phpunit/phpunit` from `10.2.1` to `10.2.2`](https://github.com/ghostwriter/coding-standard/pull/56) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
-| (MERGED) | [Bump `symfony/*` components to `^6.3`](https://github.com/ghostwriter/compliance/pull/18) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 month ago)|
 | (TAGGED) | Release [3.3.0](https://github.com/laminas/laminas-component-installer/releases/tag/3.3.0) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (today)|
 | (TAGGED) | Release [1.4.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)|
 | (TAGGED) | Release [0.4.1](https://github.com/ghostwriter/config/releases/tag/0.4.1) on [ghostwriter/config](https://github.com/ghostwriter/config) (6 days ago)|
