@@ -30,10 +30,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Support PHP `8.3`](https://github.com/mockery/mockery/pull/1299) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (MERGED) | [Update `Makefile` for contributors](https://github.com/mockery/mockery/pull/1297) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [Update makefile](https://github.com/mockery/mockery/pull/1296) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
-| (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1295) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (OPEN) | [Support PHP `8.3`](https://github.com/mockery/mockery/pull/1299) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (MERGED) | [Update `Makefile` for contributors](https://github.com/mockery/mockery/pull/1297) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Update makefile](https://github.com/mockery/mockery/pull/1296) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1295) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
 | (MERGED) | [Refactor API and Cleanup Generics](https://github.com/ghostwriter/result/pull/21) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
 | (MERGED) | [Bump `friendsofphp/php-cs-fixer` from `3.20.0` to `3.21.1`](https://github.com/ghostwriter/coding-standard/pull/74) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (MERGED) | [Bump `ghostwriter/option` from `1.5.0` to `1.5.1`](https://github.com/ghostwriter/result/pull/20) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
@@ -63,7 +63,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/60) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
+| (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/60) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 weeks ago)|
 | (MERGED) | [Bump `rector/rector` from `0.17.0` to `0.17.1`](https://github.com/ghostwriter/coding-standard/pull/58) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
@@ -72,9 +72,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/349) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
 | (MERGED) | [Bump `phpunit/phpunit` from `10.2.1` to `10.2.2`](https://github.com/ghostwriter/coding-standard/pull/56) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Bump `symfony/*` components to `^6.3`](https://github.com/ghostwriter/compliance/pull/18) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 month ago)|
-| (TAGGED) | Release [1.4.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)|
-| (TAGGED) | Release [0.4.1](https://github.com/ghostwriter/config/releases/tag/0.4.1) on [ghostwriter/config](https://github.com/ghostwriter/config) (5 days ago)|
-| (TAGGED) | Release [1.3.2](https://github.com/ghostwriter/collection/releases/tag/1.3.2) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)|
+| (TAGGED) | Release [1.4.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)|
+| (TAGGED) | Release [0.4.1](https://github.com/ghostwriter/config/releases/tag/0.4.1) on [ghostwriter/config](https://github.com/ghostwriter/config) (6 days ago)|
+| (TAGGED) | Release [1.3.2](https://github.com/ghostwriter/collection/releases/tag/1.3.2) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (6 days ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/result/releases/tag/1.3.0) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
 | (TAGGED) | Release [1.5.1](https://github.com/ghostwriter/option/releases/tag/1.5.1) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
 | (TAGGED) | Release [1.9.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.9.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (2 weeks ago)|
