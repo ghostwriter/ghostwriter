@@ -72,6 +72,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/57) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
+| (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.8.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (today)|
 | (TAGGED) | Release [1.6.3](https://github.com/mockery/mockery/releases/tag/1.6.3) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (TAGGED) | Release [3.3.0](https://github.com/laminas/laminas-component-installer/releases/tag/3.3.0) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (1 day ago)|
 | (TAGGED) | Release [1.4.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
@@ -79,7 +80,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [1.3.2](https://github.com/ghostwriter/collection/releases/tag/1.3.2) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/result/releases/tag/1.3.0) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 week ago)|
 | (TAGGED) | Release [1.5.1](https://github.com/ghostwriter/option/releases/tag/1.5.1) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 week ago)|
-| (TAGGED) | Release [1.9.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.9.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (2 weeks ago)|
 
 #### Recent Contributions
 
