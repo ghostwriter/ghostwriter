@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Update `.gitattributes`](https://github.com/mockery/mockery/pull/1303) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (OPEN) | [Changelog v1.6.3](https://github.com/mockery/mockery/pull/1302) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Fix mocking classes with `new` initializers in method and attribute params on PHP 8.1](https://github.com/mockery/mockery/pull/1301) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (OPEN) | [Support PHP `8.3`](https://github.com/mockery/mockery/pull/1299) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `vimeo/psalm` from `5.9.0` to `5.12.0`](https://github.com/mockery/mockery/pull/1279) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [[PHP 8.2]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/351) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
 | (MERGED) | [[PHP 8.1]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/350) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
-| (MERGED) | [[PHP 8.0]Bump composer/composer from 2.5.7 to 2.5.8](https://github.com/ghostwriter/php/pull/349) on [ghostwriter/php](https://github.com/ghostwriter/php) (1 month ago)|
 | (TAGGED) | Release [3.3.0](https://github.com/laminas/laminas-component-installer/releases/tag/3.3.0) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (1 day ago)|
 | (TAGGED) | Release [1.4.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.4.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
 | (TAGGED) | Release [0.4.1](https://github.com/ghostwriter/config/releases/tag/0.4.1) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)|
@@ -85,8 +85,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (10446) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (44) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
 | ⭐️ (0) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins |
