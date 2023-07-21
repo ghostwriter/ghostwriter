@@ -72,6 +72,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 weeks ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 weeks ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
+| (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.1.0) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (today)|
 | (TAGGED) | Release [1.6.4](https://github.com/mockery/mockery/releases/tag/1.6.4) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.8.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (3 days ago)|
 | (TAGGED) | Release [3.3.0](https://github.com/laminas/laminas-component-installer/releases/tag/3.3.0) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (4 days ago)|
@@ -79,14 +80,13 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (TAGGED) | Release [0.4.1](https://github.com/ghostwriter/config/releases/tag/0.4.1) on [ghostwriter/config](https://github.com/ghostwriter/config) (1 week ago)|
 | (TAGGED) | Release [1.3.2](https://github.com/ghostwriter/collection/releases/tag/1.3.2) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)|
 | (TAGGED) | Release [1.3.0](https://github.com/ghostwriter/result/releases/tag/1.3.0) on [ghostwriter/result](https://github.com/ghostwriter/result) (2 weeks ago)|
-| (TAGGED) | Release [1.5.1](https://github.com/ghostwriter/option/releases/tag/1.5.1) on [ghostwriter/option](https://github.com/ghostwriter/option) (2 weeks ago)|
 
 #### Recent Contributions
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins |
-| ⭐️ (10446) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (0) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
+| ⭐️ (10447) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (44) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
