@@ -72,7 +72,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.0` to `11.4.5`](https://github.com/ghostwriter/coding-standard/pull/62) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
-| (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.1.0) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (2 days ago)|
+| (TAGGED) | Release [0.1.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.1.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (today)|
 | (TAGGED) | Release [1.6.4](https://github.com/mockery/mockery/releases/tag/1.6.4) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.8.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (5 days ago)|
 | (TAGGED) | Release [3.3.0](https://github.com/laminas/laminas-component-installer/releases/tag/3.3.0) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (6 days ago)|
@@ -85,8 +85,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/example-psalm-plugin`](https://github.com/ghostwriter/example-psalm-plugin) | Psalm plugins template for `ghostwriter/psalm-plugin-tester` |
+| ⭐️ (0) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (10445) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
@@ -121,21 +121,22 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 | ⭐️ (0) [`ghostwriter-laminas-mezzio/mezzio-laminas-form-elements`](https://github.com/ghostwriter-laminas-mezzio/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
 | ⭐️ (1) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP]Router implementation for PHP inspired by PSR-7, PSR-15, and PSR-17 specification. |
-| ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
 | ⭐️ (2484) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
+| ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
 | ⭐️ (139) [`laminas/automatic-releases`](https://github.com/laminas/automatic-releases) | Automated release process for `laminas/` projects, usable as github action |
 | ⭐️ (0) [`ghostwriter/pizza-place`](https://github.com/ghostwriter/pizza-place) | Livestreaming on twitch: building a pizza place locator API for a mobile app. |
 | ⭐️ (82) [`mezzio/mezzio-swoole`](https://github.com/mezzio/mezzio-swoole) | Swoole support for Mezzio |
 | ⭐️ (101) [`mezzio/mezzio-skeleton`](https://github.com/mezzio/mezzio-skeleton) | Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds! |
-| ⭐️ (16) [`mezzio/mezzio-tooling`](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
 | ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
+| ⭐️ (16) [`mezzio/mezzio-tooling`](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
 | ⭐️ (7) [`mezzio/mezzio-csrf`](https://github.com/mezzio/mezzio-csrf) | CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session |
 | ⭐️ (3) [`mezzio/mezzio-migration`](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
 | ⭐️ (5) [`mezzio/mezzio-platesrenderer`](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
 | ⭐️ (6) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
-| ⭐️ (6) [`mezzio/mezzio-flash`](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
 | ⭐️ (7) [`mezzio/mezzio-authorization-rbac`](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
+| ⭐️ (6) [`mezzio/mezzio-flash`](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
 | ⭐️ (7) [`mezzio/mezzio-twigrenderer`](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
+| ⭐️ (62) [`laminas/laminas-migration`](https://github.com/laminas/laminas-migration) | Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. |
 | ⭐️ (22) [`laminas/laminas-captcha`](https://github.com/laminas/laminas-captcha) | Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more |
 | ⭐️ (26) [`laminas/laminas-component-installer`](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
 | ⭐️ (13) [`mezzio/mezzio-cors`](https://github.com/mezzio/mezzio-cors) | CORS component for Mezzio and other PSR-15 middleware runners. |
@@ -145,7 +146,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (4) [`mezzio/repo-template`](https://github.com/mezzio/repo-template) | Repository template for new Mezzio components |
 | ⭐️ (7) [`laminas/laminas-servicemanager-inspector`](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
 | ⭐️ (27) [`laminas/laminas-log`](https://github.com/laminas/laminas-log) | Robust, composite logger with filtering, formatting, and PSR-3 support |
-| ⭐️ (62) [`laminas/laminas-migration`](https://github.com/laminas/laminas-migration) | Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. |
 | ⭐️ (5) [`laminas/laminas-memory`](https://github.com/laminas/laminas-memory) | Manage data in an environment with limited memory |
 | ⭐️ (18) [`laminas/laminas-xmlrpc`](https://github.com/laminas/laminas-xmlrpc) | Fully-featured XML-RPC server and client implementations |
 | ⭐️ (14) [`laminas/laminas-xml`](https://github.com/laminas/laminas-xml) | Utility library for XML usage, best practices, and security in PHP |
