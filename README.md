@@ -39,7 +39,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Update `.gitattributes`](https://github.com/mockery/mockery/pull/1303) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
 | (MERGED) | [Changelog v1.6.3](https://github.com/mockery/mockery/pull/1302) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
 | (MERGED) | [Fix mocking classes with `new` initializers in method and attribute params on PHP 8.1](https://github.com/mockery/mockery/pull/1301) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (OPEN) | [Support PHP `8.3`](https://github.com/mockery/mockery/pull/1299) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Test PHP `8.3` language features](https://github.com/mockery/mockery/pull/1299) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Update `Makefile` for contributors](https://github.com/mockery/mockery/pull/1297) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Update makefile](https://github.com/mockery/mockery/pull/1296) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1295) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -85,9 +85,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (10446) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/example-psalm-plugin`](https://github.com/ghostwriter/example-psalm-plugin) | Psalm plugins template for `ghostwriter/psalm-plugin-tester` |
-| ⭐️ (10446) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (47) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
