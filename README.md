@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Mock disjunctive normal form types](https://github.com/mockery/mockery/pull/1312) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Autowire with Contextual Bindings](https://github.com/ghostwriter/container/pull/28) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (OPEN) | [Fix pest `mock` function without overwriting mockery&#39;s global helpers](https://github.com/pestphp/pest-plugin-mock/pull/7) on [pestphp/pest-plugin-mock](https://github.com/pestphp/pest-plugin-mock) (1 week ago)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1309) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Correct behavior of `AssertTrueFalseToSpecificMethodRector`](https://github.com/rectorphp/rector-phpunit/pull/200) on [rectorphp/rector-phpunit](https://github.com/rectorphp/rector-phpunit) (1 month ago)|
 | (MERGED) | [Merge branch `1.6.x` into `2.0.x`](https://github.com/mockery/mockery/pull/1280) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [Bump `slevomat/coding-standard` from `8.12.1` to `8.13.0`](https://github.com/ghostwriter/coding-standard/pull/65) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
-| (MERGED) | [Bump `symplify/easy-coding-standard` from `11.4.5` to `11.5.0`](https://github.com/ghostwriter/coding-standard/pull/64) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/ghostwriter/container/releases/tag/1.6.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (TAGGED) | Release [0.1.2](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.1.2) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (2 days ago)|
 | (TAGGED) | Release [1.6.4](https://github.com/mockery/mockery/releases/tag/1.6.4) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
