@@ -32,7 +32,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | --- | --- |
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin-tester/pull/10) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (1 day ago)|
 | (MERGED) | [Use internal classes to construct psalm object](https://github.com/ghostwriter/psalm-plugin-tester/pull/9) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (1 day ago)|
-| (OPEN) | [Mock disjunctive normal form types](https://github.com/mockery/mockery/pull/1312) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Mock disjunctive normal form types](https://github.com/mockery/mockery/pull/1312) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (MERGED) | [Autowire with Contextual Bindings](https://github.com/ghostwriter/container/pull/28) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)|
 | (OPEN) | [Fix pest `mock` function without overwriting mockery&#39;s global helpers](https://github.com/pestphp/pest-plugin-mock/pull/7) on [pestphp/pest-plugin-mock](https://github.com/pestphp/pest-plugin-mock) (1 week ago)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1309) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -86,6 +86,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | Repo | Description |
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
+| ⭐️ (10449) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/phpunit-psalm-plugin`](https://github.com/ghostwriter/phpunit-psalm-plugin) | Provides a PHPUnit plugin for Psalm |
 | ⭐️ (1) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
@@ -93,7 +94,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
-| ⭐️ (10449) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (47) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
