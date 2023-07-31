@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Remove `ramsey/composer-install`](https://github.com/ghostwriter/compliance/pull/26) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (today)|
 | (OPEN) | [Fix compatibility issues with PHP 7.3](https://github.com/mockery/mockery/pull/1316) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (MERGED) | [Add Security Policy](https://github.com/mockery/mockery/pull/1314) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (MERGED) | [Type declaration for `iterable|object`.](https://github.com/mockery/mockery/pull/1313) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/66) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Update PhpVersion.php](https://github.com/ghostwriter/compliance/pull/25) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 month ago)|
 | (MERGED) | [Update Dockerfile to use PHP 8.2](https://github.com/ghostwriter/compliance/pull/24) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 month ago)|
-| (MERGED) | [Bump `ghostwriter/option` from `1.4.0` to `1.5.0`](https://github.com/ghostwriter/event-dispatcher/pull/27) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
 | (TAGGED) | Release [0.1.3](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.1.3) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (4 days ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/ghostwriter/container/releases/tag/1.6.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (5 days ago)|
 | (TAGGED) | Release [1.6.4](https://github.com/mockery/mockery/releases/tag/1.6.4) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
