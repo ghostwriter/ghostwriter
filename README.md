@@ -31,7 +31,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | State | Description |
 | --- | --- |
 | (MERGED) | [Remove `ramsey/composer-install`](https://github.com/ghostwriter/compliance/pull/26) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)|
-| (OPEN) | [Fix compatibility issues with PHP 7.3](https://github.com/mockery/mockery/pull/1316) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (MERGED) | [Fix compatibility issues with PHP 7.3](https://github.com/mockery/mockery/pull/1316) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
 | (MERGED) | [Add Security Policy](https://github.com/mockery/mockery/pull/1314) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
 | (MERGED) | [Type declaration for `iterable|object`.](https://github.com/mockery/mockery/pull/1313) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin-tester/pull/10) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (5 days ago)|
@@ -87,15 +87,15 @@ A passionate developer who loves to create innovative solutions to complex probl
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
-| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (10448) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
-| ⭐️ (0) [`ghostwriter/example-psalm-plugin`](https://github.com/ghostwriter/example-psalm-plugin) | Psalm plugins template for `ghostwriter/psalm-plugin-tester` |
-| ⭐️ (1) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
-| ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
+| ⭐️ (1) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/phpunit-psalm-plugin`](https://github.com/ghostwriter/phpunit-psalm-plugin) | Provides a PHPUnit plugin for Psalm |
+| ⭐️ (0) [`ghostwriter/example-psalm-plugin`](https://github.com/ghostwriter/example-psalm-plugin) | Psalm plugins template for `ghostwriter/psalm-plugin-tester` |
+| ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (47) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
