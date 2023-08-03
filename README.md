@@ -95,7 +95,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
-| ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
+| ⭐️ (3) [`ghostwriter-archive/styleci-action`](https://github.com/ghostwriter-archive/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (47) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
@@ -105,7 +105,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) |  |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | [WIP] Filesystem abstraction for PHP |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
-| ⭐️ (0) [`ghostwriter/ghostwriter-php-docker-template-updater`](https://github.com/ghostwriter/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
+| ⭐️ (0) [`nathane/ghostwriter-php-docker-template-updater`](https://github.com/nathane/ghostwriter-php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
 | ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
@@ -119,8 +119,8 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (1452) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
 | ⭐️ (1573) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
 | ⭐️ (158) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
-| ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
-| ⭐️ (0) [`ghostwriter-laminas-mezzio/mezzio-laminas-form-elements`](https://github.com/ghostwriter-laminas-mezzio/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
+| ⭐️ (2) [`ghostwriter-archive/coronavirus-data-ethiopia`](https://github.com/ghostwriter-archive/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
+| ⭐️ (0) [`ghostwriter-archive/mezzio-laminas-form-elements`](https://github.com/ghostwriter-archive/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
 | ⭐️ (1) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP]Router implementation for PHP inspired by PSR-7, PSR-15, and PSR-17 specification. |
 | ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
 | ⭐️ (2491) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
@@ -154,9 +154,9 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (22) [`laminas/laminas-captcha`](https://github.com/laminas/laminas-captcha) | Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more |
 | ⭐️ (7) [`mezzio/mezzio-twigrenderer`](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
 | ⭐️ (19) [`laminas/laminas-xmlrpc`](https://github.com/laminas/laminas-xmlrpc) | Fully-featured XML-RPC server and client implementations |
-| ⭐️ (0) [`ghostwriter-laminas-mezzio/laminas-redis-session-example`](https://github.com/ghostwriter-laminas-mezzio/laminas-redis-session-example) | helping out in laminas slack |
+| ⭐️ (0) [`ghostwriter-archive/laminas-redis-session-example`](https://github.com/ghostwriter-archive/laminas-redis-session-example) | helping out in laminas slack |
 | ⭐️ (0) [`ghostwriter/stream`](https://github.com/ghostwriter/stream) | Provides a Stream wrapper implementation for PHP inspired by PSR-7 and PSR-17 specification. |
 | ⭐️ (149) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
-| ⭐️ (0) [`ghostwriter/composer-lock`](https://github.com/ghostwriter/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
+| ⭐️ (0) [`ghostwriter-archive/composer-lock`](https://github.com/ghostwriter-archive/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
 
 </div>
