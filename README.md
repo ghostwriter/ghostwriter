@@ -156,7 +156,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | ⭐️ (19) [`laminas/laminas-xmlrpc`](https://github.com/laminas/laminas-xmlrpc) | Fully-featured XML-RPC server and client implementations |
 | ⭐️ (0) [`ghostwriter-archive/laminas-redis-session-example`](https://github.com/ghostwriter-archive/laminas-redis-session-example) | helping out in laminas slack |
 | ⭐️ (0) [`ghostwriter/stream`](https://github.com/ghostwriter/stream) | Provides a Stream wrapper implementation for PHP inspired by PSR-7 and PSR-17 specification. |
-| ⭐️ (149) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
+| ⭐️ (150) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
 | ⭐️ (0) [`ghostwriter-archive/composer-lock`](https://github.com/ghostwriter-archive/composer-lock) | Bumps composer.lock file, optionally lock the minimum supported PHP version |
 
 </div>
