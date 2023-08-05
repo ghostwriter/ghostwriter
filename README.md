@@ -30,12 +30,12 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (OPEN) | [Mock `readonly` classes on PHP 82](https://github.com/mockery/mockery/pull/1319) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [Remove `ramsey/composer-install`](https://github.com/ghostwriter/compliance/pull/26) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (4 days ago)|
-| (MERGED) | [Fix compatibility issues with PHP 7.3](https://github.com/mockery/mockery/pull/1316) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
-| (MERGED) | [Add Security Policy](https://github.com/mockery/mockery/pull/1314) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
-| (MERGED) | [Type declaration for `iterable|object`.](https://github.com/mockery/mockery/pull/1313) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (OPEN) | [Mock `readonly` classes on PHP 82](https://github.com/mockery/mockery/pull/1319) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Remove `ramsey/composer-install`](https://github.com/ghostwriter/compliance/pull/26) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (5 days ago)|
+| (MERGED) | [Fix compatibility issues with PHP 7.3](https://github.com/mockery/mockery/pull/1316) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Add Security Policy](https://github.com/mockery/mockery/pull/1314) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Type declaration for `iterable|object`.](https://github.com/mockery/mockery/pull/1313) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin-tester/pull/10) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (1 week ago)|
 | (MERGED) | [Use internal classes to construct psalm object](https://github.com/ghostwriter/psalm-plugin-tester/pull/9) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (1 week ago)|
 | (MERGED) | [Mock disjunctive normal form types](https://github.com/mockery/mockery/pull/1312) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -50,10 +50,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Changelog v1.6.3](https://github.com/mockery/mockery/pull/1302) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Fix mocking classes with `new` initializers in method and attribute params on PHP 8.1](https://github.com/mockery/mockery/pull/1301) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Test PHP `8.3` language features](https://github.com/mockery/mockery/pull/1299) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Update `Makefile` for contributors](https://github.com/mockery/mockery/pull/1297) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
+| (MERGED) | [Update `Makefile` for contributors](https://github.com/mockery/mockery/pull/1297) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Update makefile](https://github.com/mockery/mockery/pull/1296) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1295) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Refactor API and Cleanup Generics](https://github.com/ghostwriter/result/pull/21) on [ghostwriter/result](https://github.com/ghostwriter/result) (4 weeks ago)|
+| (MERGED) | [Refactor API and Cleanup Generics](https://github.com/ghostwriter/result/pull/21) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 month ago)|
 | (MERGED) | [Bump `friendsofphp/php-cs-fixer` from `3.20.0` to `3.21.1`](https://github.com/ghostwriter/coding-standard/pull/74) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Bump `ghostwriter/option` from `1.5.0` to `1.5.1`](https://github.com/ghostwriter/result/pull/20) on [ghostwriter/result](https://github.com/ghostwriter/result) (1 month ago)|
 | (MERGED) | [`None` should return `never` not `null`](https://github.com/ghostwriter/option/pull/42) on [ghostwriter/option](https://github.com/ghostwriter/option) (1 month ago)|
@@ -72,10 +72,10 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Create `COPYRIGHT.md` file](https://github.com/mockery/mockery/pull/1282) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [Bump `vimeo/psalm` from `5.12.0` to `5.13.0`](https://github.com/ghostwriter/coding-standard/pull/68) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
 | (MERGED) | [Lock file maintenance](https://github.com/ghostwriter/coding-standard/pull/66) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
-| (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (today)|
-| (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (today)|
-| (TAGGED) | Release [2.8.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.8.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (3 days ago)|
-| (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.5.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 days ago)|
+| (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (1 day ago)|
+| (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 day ago)|
+| (TAGGED) | Release [2.8.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.8.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (4 days ago)|
+| (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.5.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (5 days ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/ghostwriter/container/releases/tag/1.6.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
 | (TAGGED) | Release [1.6.4](https://github.com/mockery/mockery/releases/tag/1.6.4) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.8.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (2 weeks ago)|
