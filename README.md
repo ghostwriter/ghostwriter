@@ -72,12 +72,12 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1284) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [Update license and copyright information](https://github.com/mockery/mockery/pull/1283) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [Create `COPYRIGHT.md` file](https://github.com/mockery/mockery/pull/1282) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
+| (TAGGED) | Release [1.6.5](https://github.com/mockery/mockery/releases/tag/1.6.5) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (2 days ago)|
 | (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (2 days ago)|
 | (TAGGED) | Release [2.8.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.8.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (5 days ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.5.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)|
 | (TAGGED) | Release [1.6.0](https://github.com/ghostwriter/container/releases/tag/1.6.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
-| (TAGGED) | Release [1.6.4](https://github.com/mockery/mockery/releases/tag/1.6.4) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [1.8.0](https://github.com/mezzio/mezzio-authentication-session/releases/tag/1.8.0) on [mezzio/mezzio-authentication-session](https://github.com/mezzio/mezzio-authentication-session) (2 weeks ago)|
 | (TAGGED) | Release [3.3.0](https://github.com/laminas/laminas-component-installer/releases/tag/3.3.0) on [laminas/laminas-component-installer](https://github.com/laminas/laminas-component-installer) (2 weeks ago)|
 
