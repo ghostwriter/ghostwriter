@@ -30,6 +30,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (OPEN) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Changelog v1.6.5](https://github.com/mockery/mockery/pull/1322) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (MERGED) | [Autoload Test Fixtures Based on PHP Runtime Version](https://github.com/mockery/mockery/pull/1321) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
@@ -71,7 +72,6 @@ A passionate developer who loves to create innovative solutions to complex probl
 | (MERGED) | [Support empty collections in `_embedded` section](https://github.com/mezzio/mezzio-hal/pull/80) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 month ago)|
 | (MERGED) | [Enforce the minimum required PHP version](https://github.com/mockery/mockery/pull/1285) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [Merge branch `1.6.x` into `main`](https://github.com/mockery/mockery/pull/1284) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
-| (MERGED) | [Update license and copyright information](https://github.com/mockery/mockery/pull/1283) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (TAGGED) | Release [1.6.5](https://github.com/mockery/mockery/releases/tag/1.6.5) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
 | (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (3 days ago)|
 | (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (3 days ago)|
