@@ -57,7 +57,7 @@ A passionate developer who loves to create innovative solutions to complex probl
 | Repo | Description |
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/mezzio-tester`](https://github.com/ghostwriter/mezzio-tester) | MezzioTester allows you to write tests that interact with your application&#39;s HTTP endpoints, simulate user interactions, and perform integration tests. |
-| ⭐️ (10452) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10451) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides a plugin for Psalm |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
