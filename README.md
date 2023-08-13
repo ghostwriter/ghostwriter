@@ -32,8 +32,8 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [0.1.1](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.1) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 day ago)|
-| (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (TAGGED) | Release [0.1.1](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.1) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (2 days ago)|
+| (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
 | (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (1 week ago)|
 | (TAGGED) | Release [2.8.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.8.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 week ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.5.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
@@ -43,10 +43,10 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Changelog v1.6.6](https://github.com/mockery/mockery/pull/1327) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
-| (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (MERGED) | [Changelog v1.6.5](https://github.com/mockery/mockery/pull/1322) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Changelog v1.6.6](https://github.com/mockery/mockery/pull/1327) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
+| (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (MERGED) | [Changelog v1.6.5](https://github.com/mockery/mockery/pull/1322) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Autoload Test Fixtures Based on PHP Runtime Version](https://github.com/mockery/mockery/pull/1321) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (OPEN) | [Mock `readonly` classes on PHP 82](https://github.com/mockery/mockery/pull/1319) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
@@ -61,7 +61,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (0) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
-| ⭐️ (10454) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10455) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
