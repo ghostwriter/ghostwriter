@@ -32,10 +32,10 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 day ago)|
-| (TAGGED) | Release [0.1.1](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.1) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (6 days ago)|
+| (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 days ago)|
+| (TAGGED) | Release [0.1.1](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.1) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 week ago)|
 | (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (1 week ago)|
+| (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (2 weeks ago)|
 | (TAGGED) | Release [2.8.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.8.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (2 weeks ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.5.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 
@@ -43,13 +43,13 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Prevent `shouldNotReceive` from getting overridden by invocation count methods](https://github.com/mockery/mockery/pull/1329) on [mockery/mockery](https://github.com/mockery/mockery) (3 days ago)|
+| (OPEN) | [Prevent `shouldNotReceive` from getting overridden by invocation count methods](https://github.com/mockery/mockery/pull/1329) on [mockery/mockery](https://github.com/mockery/mockery) (4 days ago)|
 | (MERGED) | [Changelog v1.6.6](https://github.com/mockery/mockery/pull/1327) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Changelog v1.6.5](https://github.com/mockery/mockery/pull/1322) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Autoload Test Fixtures Based on PHP Runtime Version](https://github.com/mockery/mockery/pull/1321) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
-| (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (OPEN) | [Mock `readonly` classes on PHP 82](https://github.com/mockery/mockery/pull/1319) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Remove `ramsey/composer-install`](https://github.com/ghostwriter/compliance/pull/26) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 weeks ago)|
 | (MERGED) | [Fix compatibility issues with PHP 7.3](https://github.com/mockery/mockery/pull/1316) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
@@ -58,12 +58,13 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
-| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
-| ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
-| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
+| ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
+| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
@@ -75,7 +76,6 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (3) [`nathane/styleci-action`](https://github.com/nathane/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (47) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
-| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | [WIP] Filesystem abstraction for PHP |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
