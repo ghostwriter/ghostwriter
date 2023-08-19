@@ -104,7 +104,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | ⭐️ (3) [`mezzio/mezzio-migration`](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
 | ⭐️ (5) [`mezzio/mezzio-platesrenderer`](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
-| ⭐️ (6) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
+| ⭐️ (5) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
 | ⭐️ (6) [`mezzio/mezzio-flash`](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
 | ⭐️ (7) [`mezzio/mezzio-authorization-rbac`](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
 | ⭐️ (7) [`mezzio/mezzio-csrf`](https://github.com/mezzio/mezzio-csrf) | CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session |
