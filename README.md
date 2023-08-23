@@ -32,9 +32,9 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)|
+| (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
 | (TAGGED) | Release [0.1.1](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.1) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 week ago)|
-| (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (2 weeks ago)|
 | (TAGGED) | Release [2.8.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.8.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (3 weeks ago)|
 | (TAGGED) | Release [1.5.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/1.5.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 weeks ago)|
