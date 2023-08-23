@@ -1,6 +1,9 @@
 # ghostwriter
 
-A passionate developer who loves to create innovative solutions to complex problems, always looking for ways to improve my skills and stay on top of the latest technologies.
+A passionate developer who loves to create innovative solutions to complex problems,
+always looking for ways to improve my skills and stay on top of the latest technologies.
+
+Most of the open-source projects here were developed to help manage our client's projects.
 
 To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/ghostwriter).
 
