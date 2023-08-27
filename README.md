@@ -35,10 +35,10 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (today)|
 | (TAGGED) | Release [4.8.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.8.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (4 days ago)|
 | (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/collection/releases/tag/1.4.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 days ago)|
 | (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
-| (TAGGED) | Release [0.1.1](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.1.1) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (2 weeks ago)|
 | (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (3 weeks ago)|
 
