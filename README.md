@@ -35,24 +35,24 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (today)|
-| (TAGGED) | Release [4.8.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.8.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (4 days ago)|
-| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/collection/releases/tag/1.4.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 days ago)|
+| (TAGGED) | Release [1.0.0](https://github.com/laminas/laminas-container-config-test/releases/tag/1.0.0) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (1 day ago)|
+| (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 day ago)|
+| (TAGGED) | Release [4.8.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.8.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (5 days ago)|
+| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/collection/releases/tag/1.4.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (5 days ago)|
 | (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
 | (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (TAGGED) | Release [0.2.1](https://github.com/ghostwriter/psalm-plugin-tester/releases/tag/0.2.1) on [ghostwriter/psalm-plugin-tester](https://github.com/ghostwriter/psalm-plugin-tester) (3 weeks ago)|
 
 #### Recent Pull Requests
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (today)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin/pull/2) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (today)|
-| (MERGED) | [Add testdox and teamcity printer tests](https://github.com/sebastianbergmann/phpunit/pull/5489) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)|
-| (MERGED) | [Prevent `shouldNotReceive` from getting overridden by invocation count methods](https://github.com/mockery/mockery/pull/1329) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
+| (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (1 day ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin/pull/2) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 day ago)|
+| (MERGED) | [Add testdox and teamcity printer tests](https://github.com/sebastianbergmann/phpunit/pull/5489) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)|
+| (MERGED) | [Prevent `shouldNotReceive` from getting overridden by invocation count methods](https://github.com/mockery/mockery/pull/1329) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Changelog v1.6.6](https://github.com/mockery/mockery/pull/1327) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
-| (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
+| (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Changelog v1.6.5](https://github.com/mockery/mockery/pull/1322) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Autoload Test Fixtures Based on PHP Runtime Version](https://github.com/mockery/mockery/pull/1321) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
@@ -105,12 +105,12 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (0) [`nathane/pizza-place`](https://github.com/nathane/pizza-place) | Livestreaming on twitch: building a pizza place locator API for a mobile app. |
 | ⭐️ (83) [`mezzio/mezzio-swoole`](https://github.com/mezzio/mezzio-swoole) | Swoole support for Mezzio |
 | ⭐️ (102) [`mezzio/mezzio-skeleton`](https://github.com/mezzio/mezzio-skeleton) | Laminas mezzio skeleton. Begin developing PSR-15 middleware applications in seconds! |
-| ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | ⭐️ (16) [`mezzio/mezzio-tooling`](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
-| ⭐️ (6) [`mezzio/mezzio-flash`](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
-| ⭐️ (5) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
-| ⭐️ (5) [`mezzio/mezzio-platesrenderer`](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
+| ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | ⭐️ (7) [`mezzio/mezzio-csrf`](https://github.com/mezzio/mezzio-csrf) | CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session |
+| ⭐️ (5) [`mezzio/mezzio-platesrenderer`](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
+| ⭐️ (5) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
+| ⭐️ (6) [`mezzio/mezzio-flash`](https://github.com/mezzio/mezzio-flash) | Flash messages for PSR-7 and PSR-15 applications using mezzio-session |
 | ⭐️ (3) [`mezzio/mezzio-migration`](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
 | ⭐️ (7) [`mezzio/mezzio-authorization-rbac`](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
 | ⭐️ (7) [`mezzio/mezzio-twigrenderer`](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
@@ -126,10 +126,10 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (5) [`laminas/laminas-memory`](https://github.com/laminas/laminas-memory) | Manage data in an environment with limited memory |
 | ⭐️ (23) [`laminas/laminas-captcha`](https://github.com/laminas/laminas-captcha) | Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more |
 | ⭐️ (21) [`laminas/laminas-xmlrpc`](https://github.com/laminas/laminas-xmlrpc) | Fully-featured XML-RPC server and client implementations |
+| ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | ⭐️ (14) [`laminas/laminas-xml`](https://github.com/laminas/laminas-xml) | Utility library for XML usage, best practices, and security in PHP |
 | ⭐️ (28) [`laminas/laminas-permissions-rbac`](https://github.com/laminas/laminas-permissions-rbac) | Provides a role-based access control management |
 | ⭐️ (24) [`laminas/laminas-barcode`](https://github.com/laminas/laminas-barcode) | Programmatically create and render barcodes as images or in PDFs |
-| ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | ⭐️ (8) [`laminas/laminas-twitter`](https://github.com/laminas/laminas-twitter) | OOP wrapper for the Twitter web service |
 | ⭐️ (0) [`nathane/laminas-redis-session-example`](https://github.com/nathane/laminas-redis-session-example) | helping out in laminas slack |
 | ⭐️ (150) [`laminas/laminas-mvc-skeleton`](https://github.com/laminas/laminas-mvc-skeleton) | Skeleton application for creating laminas-mvc based projects. |
