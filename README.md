@@ -35,20 +35,20 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.0.0](https://github.com/laminas/laminas-container-config-test/releases/tag/1.0.0) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (2 days ago)|
-| (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (2 days ago)|
-| (TAGGED) | Release [4.8.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.8.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (6 days ago)|
-| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/collection/releases/tag/1.4.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (6 days ago)|
-| (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
-| (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
+| (TAGGED) | Release [1.0.0](https://github.com/laminas/laminas-container-config-test/releases/tag/1.0.0) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (3 days ago)|
+| (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (3 days ago)|
+| (TAGGED) | Release [4.8.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.8.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 week ago)|
+| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/collection/releases/tag/1.4.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 week ago)|
+| (TAGGED) | Release [1.2.0](https://github.com/ghostwriter/json/releases/tag/1.2.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 weeks ago)|
+| (TAGGED) | Release [1.6.6](https://github.com/mockery/mockery/releases/tag/1.6.6) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 
 #### Recent Pull Requests
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (2 days ago)|
-| (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin/pull/2) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (2 days ago)|
-| (MERGED) | [Add testdox and teamcity printer tests](https://github.com/sebastianbergmann/phpunit/pull/5489) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)|
+| (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (3 days ago)|
+| (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin/pull/2) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (3 days ago)|
+| (MERGED) | [Add testdox and teamcity printer tests](https://github.com/sebastianbergmann/phpunit/pull/5489) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)|
 | (MERGED) | [Prevent `shouldNotReceive` from getting overridden by invocation count methods](https://github.com/mockery/mockery/pull/1329) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
 | (MERGED) | [Changelog v1.6.6](https://github.com/mockery/mockery/pull/1327) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
