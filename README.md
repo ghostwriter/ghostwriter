@@ -46,6 +46,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
+| (OPEN) | [Refactor `Loader`](https://github.com/mockery/mockery/pull/1331) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
 | (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (1 week ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin/pull/2) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 week ago)|
 | (MERGED) | [Add testdox and teamcity printer tests](https://github.com/sebastianbergmann/phpunit/pull/5489) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)|
@@ -55,7 +56,6 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
 | (MERGED) | [Changelog v1.6.5](https://github.com/mockery/mockery/pull/1322) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
 | (MERGED) | [Autoload Test Fixtures Based on PHP Runtime Version](https://github.com/mockery/mockery/pull/1321) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
-| (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 
 #### Recent Contributions
 
@@ -69,7 +69,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (1) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
-| ⭐️ (19292) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19293) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
