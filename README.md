@@ -49,12 +49,12 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (1 week ago)|
 | (MERGED) | [Update README.md](https://github.com/ghostwriter/psalm-plugin/pull/2) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 week ago)|
 | (MERGED) | [Add testdox and teamcity printer tests](https://github.com/sebastianbergmann/phpunit/pull/5489) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)|
-| (MERGED) | [Prevent `shouldNotReceive` from getting overridden by invocation count methods](https://github.com/mockery/mockery/pull/1329) on [mockery/mockery](https://github.com/mockery/mockery) (2 weeks ago)|
+| (MERGED) | [Prevent `shouldNotReceive` from getting overridden by invocation count methods](https://github.com/mockery/mockery/pull/1329) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Changelog v1.6.6](https://github.com/mockery/mockery/pull/1327) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Keep the file that caused an error for inspection](https://github.com/mockery/mockery/pull/1325) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
+| (MERGED) | [Replace `&#43;` Array Union Operator with `array_merge`](https://github.com/mockery/mockery/pull/1324) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
 | (MERGED) | [Changelog v1.6.5](https://github.com/mockery/mockery/pull/1322) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
-| (MERGED) | [Autoload Test Fixtures Based on PHP Runtime Version](https://github.com/mockery/mockery/pull/1321) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
+| (MERGED) | [Autoload Test Fixtures Based on PHP Runtime Version](https://github.com/mockery/mockery/pull/1321) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (MERGED) | [Clean up mocks on destruct](https://github.com/mockery/mockery/pull/1320) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 
 #### Recent Contributions
