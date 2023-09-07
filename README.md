@@ -69,7 +69,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (1) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
-| ⭐️ (19302) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19303) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
@@ -93,9 +93,9 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
 | ⭐️ (171) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
-| ⭐️ (1469) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
-| ⭐️ (1590) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
-| ⭐️ (159) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
+| ⭐️ (1470) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
+| ⭐️ (1591) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
+| ⭐️ (160) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
 | ⭐️ (2) [`nathane/coronavirus-data-ethiopia`](https://github.com/nathane/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 | ⭐️ (0) [`nathane/mezzio-laminas-form-elements`](https://github.com/nathane/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
 | ⭐️ (1) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP]Router implementation for PHP inspired by PSR-7, PSR-15, and PSR-17 specification. |
