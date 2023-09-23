@@ -35,12 +35,12 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (today)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.17.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (2 weeks ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/laminas/laminas-container-config-test/releases/tag/1.0.0) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (3 weeks ago)|
 | (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (3 weeks ago)|
 | (TAGGED) | Release [4.8.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.8.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (1 month ago)|
-| (TAGGED) | Release [1.4.0](https://github.com/ghostwriter/collection/releases/tag/1.4.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 month ago)|
 
 #### Recent Pull Requests
 
