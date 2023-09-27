@@ -35,8 +35,8 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (3 days ago)|
-| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
+| (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (4 days ago)|
+| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.17.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (2 weeks ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/laminas/laminas-container-config-test/releases/tag/1.0.0) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (1 month ago)|
 | (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (1 month ago)|
@@ -46,9 +46,9 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (CLOSED) | [Update CI to `continue-on-error` for PHP 8.4](https://github.com/sebastianbergmann/phpunit/pull/5522) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 days ago)|
-| (OPEN) | [Fix testdox printer](https://github.com/sebastianbergmann/phpunit/pull/5521) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)|
-| (MERGED) | [V2](https://github.com/ghostwriter/event-dispatcher/pull/30) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
+| (CLOSED) | [Update CI to `continue-on-error` for PHP 8.4](https://github.com/sebastianbergmann/phpunit/pull/5522) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (5 days ago)|
+| (OPEN) | [Fix testdox printer](https://github.com/sebastianbergmann/phpunit/pull/5521) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)|
+| (MERGED) | [V2](https://github.com/ghostwriter/event-dispatcher/pull/30) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (MERGED) | [Update dev dependencies &amp; refactor tests and fixtures](https://github.com/mockery/mockery/pull/1332) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Refactor `Loader`](https://github.com/mockery/mockery/pull/1331) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (1 month ago)|
