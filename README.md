@@ -35,7 +35,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (3 days ago)|
+| (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (4 days ago)|
 | (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 week ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.17.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (3 weeks ago)|
@@ -46,14 +46,14 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Setup PHP 8.4 CI Tests](https://github.com/mockery/mockery/pull/1333) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
-| (MERGED) | [Drop php-cs-fixer](https://github.com/ghostwriter/compliance/pull/28) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 day ago)|
-| (MERGED) | [Drop PHP-CS-Fixer](https://github.com/ghostwriter/coding-standard/pull/79) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/78) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
+| (MERGED) | [Setup PHP 8.4 CI Tests](https://github.com/mockery/mockery/pull/1333) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
+| (MERGED) | [Drop php-cs-fixer](https://github.com/ghostwriter/compliance/pull/28) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (2 days ago)|
+| (MERGED) | [Drop PHP-CS-Fixer](https://github.com/ghostwriter/coding-standard/pull/79) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
+| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/78) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
 | (CLOSED) | [Update CI to `continue-on-error` for PHP 8.4](https://github.com/sebastianbergmann/phpunit/pull/5522) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)|
 | (OPEN) | [Fix testdox printer](https://github.com/sebastianbergmann/phpunit/pull/5521) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)|
 | (MERGED) | [V2](https://github.com/ghostwriter/event-dispatcher/pull/30) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
-| (MERGED) | [Update dev dependencies &amp; refactor tests and fixtures](https://github.com/mockery/mockery/pull/1332) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
+| (MERGED) | [Update dev dependencies &amp; refactor tests and fixtures](https://github.com/mockery/mockery/pull/1332) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
 | (MERGED) | [Refactor `Loader`](https://github.com/mockery/mockery/pull/1331) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
 | (MERGED) | [Exclude `ghostwriter/*` psalm-plugins](https://github.com/psalm/psalm.dev/pull/101) on [psalm/psalm.dev](https://github.com/psalm/psalm.dev) (1 month ago)|
 
