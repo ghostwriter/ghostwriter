@@ -46,7 +46,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (5 days ago)|
+| (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (6 days ago)|
 | (MERGED) | [Setup PHP 8.4 CI Tests](https://github.com/mockery/mockery/pull/1333) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Drop php-cs-fixer](https://github.com/ghostwriter/compliance/pull/28) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)|
 | (MERGED) | [Drop PHP-CS-Fixer](https://github.com/ghostwriter/coding-standard/pull/79) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
