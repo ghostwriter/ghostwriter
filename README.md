@@ -84,7 +84,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`nathane/styleci-action`](https://github.com/nathane/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
-| ⭐️ (48) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
+| ⭐️ (49) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
 | ⭐️ (0) [`nathane/php-docker-template-updater`](https://github.com/nathane/php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
 | ⭐️ (0) [`nathane/composer-locker`](https://github.com/nathane/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
 | ⭐️ (0) [`laravel-draft/laravel-draft`](https://github.com/laravel-draft/laravel-draft) | [wip]A code generation tool for Laravel developers. |
