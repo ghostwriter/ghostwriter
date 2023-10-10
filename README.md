@@ -46,7 +46,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (today)|
+| (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (today)|
 | (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (1 week ago)|
 | (MERGED) | [Setup PHP 8.4 CI Tests](https://github.com/mockery/mockery/pull/1333) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Drop php-cs-fixer](https://github.com/ghostwriter/compliance/pull/28) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)|
@@ -61,25 +61,26 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
+| ⭐️ (39) [`exodusanto/Laravel-Admin`](https://github.com/exodusanto/Laravel-Admin) | Laravel-Admin is the new version of Laravel-Administrator of Frozennode |
 | ⭐️ (0) [`ghostwriter/process`](https://github.com/ghostwriter/process) | Execute shell commands through PHP |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
-| ⭐️ (0) [`ghostwriter/clock`](https://github.com/ghostwriter/clock) | Provides a Clock implementation for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
+| ⭐️ (0) [`ghostwriter/clock`](https://github.com/ghostwriter/clock) | Provides a Clock implementation for PHP |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP inspired by PSR-14 specification. |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
-| ⭐️ (1) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
-| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
+| ⭐️ (1) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
+| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
-| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (19347) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
-| ⭐️ (10488) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
+| ⭐️ (10488) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
@@ -90,8 +91,8 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (0) [`laravel-draft/laravel-draft`](https://github.com/laravel-draft/laravel-draft) | [wip]A code generation tool for Laravel developers. |
 | ⭐️ (0) [`ghostwriter/promise`](https://github.com/ghostwriter/promise) | [WIP]Promise implementation for PHP |
 | ⭐️ (0) [`ghostwriter/version`](https://github.com/ghostwriter/version) | [WIP]parse, compare, and manipulate versions that follow the &#34;Semantic Versioning&#34; specification. |
-| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
 | ⭐️ (0) [`ghostwriter/.github`](https://github.com/ghostwriter/.github) | community health files |
+| ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
 | ⭐️ (172) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
@@ -122,7 +123,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (4) [`mezzio/repo-template`](https://github.com/mezzio/repo-template) | Repository template for new Mezzio components |
 | ⭐️ (7) [`laminas/laminas-servicemanager-inspector`](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
 | ⭐️ (27) [`laminas/laminas-log`](https://github.com/laminas/laminas-log) | Robust, composite logger with filtering, formatting, and PSR-3 support |
-| ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
+| ⭐️ (23) [`laminas/laminas-captcha`](https://github.com/laminas/laminas-captcha) | Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more |
 | ⭐️ (13) [`mezzio/mezzio-cors`](https://github.com/mezzio/mezzio-cors) | CORS component for Mezzio and other PSR-15 middleware runners. |
 | ⭐️ (24) [`laminas/laminas-skeleton-installer`](https://github.com/laminas/laminas-skeleton-installer) | Installer plugin for Laminas MVC Skeleton application |
 | ⭐️ (28) [`laminas/laminas-permissions-rbac`](https://github.com/laminas/laminas-permissions-rbac) | Provides a role-based access control management |
@@ -130,9 +131,9 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (24) [`laminas/laminas-barcode`](https://github.com/laminas/laminas-barcode) | Programmatically create and render barcodes as images or in PDFs |
 | ⭐️ (8) [`laminas/laminas-twitter`](https://github.com/laminas/laminas-twitter) | OOP wrapper for the Twitter web service |
 | ⭐️ (21) [`laminas/laminas-xmlrpc`](https://github.com/laminas/laminas-xmlrpc) | Fully-featured XML-RPC server and client implementations |
-| ⭐️ (5) [`laminas/laminas-memory`](https://github.com/laminas/laminas-memory) | Manage data in an environment with limited memory |
+| ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | ⭐️ (7) [`mezzio/mezzio-twigrenderer`](https://github.com/mezzio/mezzio-twigrenderer) | Twig integration for Mezzio |
-| ⭐️ (23) [`laminas/laminas-captcha`](https://github.com/laminas/laminas-captcha) | Generate and validate CAPTCHAs using Figlets, images, ReCaptcha, and more |
+| ⭐️ (5) [`laminas/laminas-memory`](https://github.com/laminas/laminas-memory) | Manage data in an environment with limited memory |
 | ⭐️ (0) [`nathane/laminas-redis-session-example`](https://github.com/nathane/laminas-redis-session-example) | helping out in laminas slack |
 
 </div>
