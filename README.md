@@ -46,7 +46,8 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (6 days ago)|
+| (OPEN) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (today)|
+| (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (1 week ago)|
 | (MERGED) | [Setup PHP 8.4 CI Tests](https://github.com/mockery/mockery/pull/1333) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Drop php-cs-fixer](https://github.com/ghostwriter/compliance/pull/28) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)|
 | (MERGED) | [Drop PHP-CS-Fixer](https://github.com/ghostwriter/coding-standard/pull/79) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
@@ -55,7 +56,6 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | (OPEN) | [Fix testdox printer](https://github.com/sebastianbergmann/phpunit/pull/5521) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 weeks ago)|
 | (MERGED) | [V2](https://github.com/ghostwriter/event-dispatcher/pull/30) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 weeks ago)|
 | (MERGED) | [Update dev dependencies &amp; refactor tests and fixtures](https://github.com/mockery/mockery/pull/1332) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
-| (MERGED) | [Refactor `Loader`](https://github.com/mockery/mockery/pull/1331) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 
 #### Recent Contributions
 
