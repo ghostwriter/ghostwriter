@@ -36,7 +36,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | State | Description |
 | --- | --- |
 | (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (2 weeks ago)|
-| (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (2 weeks ago)|
+| (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (3 weeks ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.17.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (1 month ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/laminas/laminas-container-config-test/releases/tag/1.0.0) on [laminas/laminas-container-config-test](https://github.com/laminas/laminas-container-config-test) (1 month ago)|
@@ -46,9 +46,9 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (OPEN) | [V3](https://github.com/ghostwriter/event-dispatcher/pull/31) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)|
-| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/80) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
-| (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (3 days ago)|
+| (OPEN) | [V3](https://github.com/ghostwriter/event-dispatcher/pull/31) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)|
+| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/80) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 days ago)|
+| (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (4 days ago)|
 | (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (1 week ago)|
 | (MERGED) | [Setup PHP 8.4 CI Tests](https://github.com/mockery/mockery/pull/1333) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (MERGED) | [Drop php-cs-fixer](https://github.com/ghostwriter/compliance/pull/28) on [ghostwriter/compliance](https://github.com/ghostwriter/compliance) (1 week ago)|
