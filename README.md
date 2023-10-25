@@ -61,11 +61,11 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`nathane/twitch-bank-account`](https://github.com/nathane/twitch-bank-account) | twitch-bank-account |
 | ⭐️ (0) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP] Router implementation for PHP |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
-| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
@@ -75,8 +75,8 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
-| ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
 | ⭐️ (1) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
+| ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
