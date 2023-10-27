@@ -19,6 +19,8 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 > **security** is a **process**, **not** a **feature** or a **product**.
 
+> **performance** is a **process**, **not** a **feature** or a **product**.
+
 > **contributions** must be **attributed** and or **compensated**.
 
 > have the confidence to make **impactful decisions** that are **selfish**, **your well-being is more important**!
@@ -27,9 +29,9 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 ---
 
-<img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?cache_seconds=1800&user=ghostwriter">
+<img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostwriter">
 
-<img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?cache_seconds=1800&username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
+<img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
 #### Recent Releases
 
