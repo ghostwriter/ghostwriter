@@ -45,11 +45,11 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/81) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 day ago)|
-| (OPEN) | [RFC `observers`](https://github.com/Nejcc/laravelplus/pull/31) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 day ago)|
-| (OPEN) | [RFC `events` and `listeners`](https://github.com/Nejcc/laravelplus/pull/30) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 day ago)|
-| (OPEN) | [Use form requests](https://github.com/Nejcc/laravelplus/pull/29) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 day ago)|
-| (OPEN) | [Use sail for local development](https://github.com/Nejcc/laravelplus/pull/28) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 day ago)|
+| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/81) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 days ago)|
+| (OPEN) | [RFC `observers`](https://github.com/Nejcc/laravelplus/pull/31) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (2 days ago)|
+| (OPEN) | [RFC `events` and `listeners`](https://github.com/Nejcc/laravelplus/pull/30) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (2 days ago)|
+| (OPEN) | [Use form requests](https://github.com/Nejcc/laravelplus/pull/29) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (2 days ago)|
+| (OPEN) | [Use sail for local development](https://github.com/Nejcc/laravelplus/pull/28) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (2 days ago)|
 | (OPEN) | [V3](https://github.com/ghostwriter/event-dispatcher/pull/31) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/80) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (2 weeks ago)|
 | (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (2 weeks ago)|
