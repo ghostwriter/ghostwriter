@@ -45,6 +45,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
+| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/82) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (today)|
 | (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/81) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
 | (OPEN) | [RFC `observers`](https://github.com/Nejcc/laravelplus/pull/31) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (5 days ago)|
 | (OPEN) | [RFC `events` and `listeners`](https://github.com/Nejcc/laravelplus/pull/30) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (5 days ago)|
@@ -54,7 +55,6 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/80) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
 | (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (3 weeks ago)|
 | (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (1 month ago)|
-| (MERGED) | [Setup PHP 8.4 CI Tests](https://github.com/mockery/mockery/pull/1333) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 
 #### Recent Contributions
 
