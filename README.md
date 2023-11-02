@@ -111,7 +111,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (16) [`mezzio/mezzio-tooling`](https://github.com/mezzio/mezzio-tooling) | Migration and development tooling for Mezzio |
 | ⭐️ (9) [`laminas/laminas-recaptcha`](https://github.com/laminas/laminas-recaptcha) | OOP wrapper for the ReCaptcha web service |
 | ⭐️ (8) [`mezzio/mezzio-csrf`](https://github.com/mezzio/mezzio-csrf) | CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session |
-| ⭐️ (7) [`mezzio/mezzio-authorization-rbac`](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
+| ⭐️ (8) [`mezzio/mezzio-authorization-rbac`](https://github.com/mezzio/mezzio-authorization-rbac) | RBAC permission adapter for mezzio-authorization |
 | ⭐️ (3) [`mezzio/mezzio-migration`](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
 | ⭐️ (5) [`mezzio/mezzio-platesrenderer`](https://github.com/mezzio/mezzio-platesrenderer) | Plates integration for Mezzio |
 | ⭐️ (5) [`mezzio/mezzio-authentication-session`](https://github.com/mezzio/mezzio-authentication-session) | Username/password, session-backed authentication adapter for mezzio-authentication. |
@@ -128,7 +128,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (5) [`laminas/laminas-memory`](https://github.com/laminas/laminas-memory) | Manage data in an environment with limited memory |
 | ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | ⭐️ (14) [`laminas/laminas-xml`](https://github.com/laminas/laminas-xml) | Utility library for XML usage, best practices, and security in PHP |
-| ⭐️ (13) [`mezzio/mezzio-cors`](https://github.com/mezzio/mezzio-cors) | CORS component for Mezzio and other PSR-15 middleware runners. |
+| ⭐️ (14) [`mezzio/mezzio-cors`](https://github.com/mezzio/mezzio-cors) | CORS component for Mezzio and other PSR-15 middleware runners. |
 | ⭐️ (24) [`laminas/laminas-barcode`](https://github.com/laminas/laminas-barcode) | Programmatically create and render barcodes as images or in PDFs |
 | ⭐️ (8) [`laminas/laminas-twitter`](https://github.com/laminas/laminas-twitter) | OOP wrapper for the Twitter web service |
 | ⭐️ (21) [`laminas/laminas-xmlrpc`](https://github.com/laminas/laminas-xmlrpc) | Fully-featured XML-RPC server and client implementations |
