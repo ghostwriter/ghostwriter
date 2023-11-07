@@ -34,18 +34,18 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.10.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.10.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (5 days ago)|
+| (TAGGED) | Release [1.10.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.10.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (6 days ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-captcha/releases/tag/2.17.0) on [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) (2 weeks ago)|
 | (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 month ago)|
 | (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
-| (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.17.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (1 month ago)|
+| (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.17.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (2 months ago)|
 
 #### Recent Pull Requests
 
 | State | Description |
 | --- | --- |
-| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/82) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (4 days ago)|
+| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/82) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (5 days ago)|
 | (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/81) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
 | (OPEN) | [RFC `observers`](https://github.com/Nejcc/laravelplus/pull/31) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
 | (OPEN) | [RFC `events` and `listeners`](https://github.com/Nejcc/laravelplus/pull/30) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
@@ -53,7 +53,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | (OPEN) | [Use sail for local development](https://github.com/Nejcc/laravelplus/pull/28) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
 | (OPEN) | [V3](https://github.com/ghostwriter/event-dispatcher/pull/31) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 weeks ago)|
 | (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/80) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (3 weeks ago)|
-| (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (3 weeks ago)|
+| (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (4 weeks ago)|
 | (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (1 month ago)|
 
 #### Recent Contributions
