@@ -34,12 +34,12 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [3.7.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.7.0) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (today)|
 | (TAGGED) | Release [1.10.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.10.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-captcha/releases/tag/2.17.0) on [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) (3 weeks ago)|
 | (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 month ago)|
 | (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
-| (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-xmlrpc/releases/tag/2.17.0) on [laminas/laminas-xmlrpc](https://github.com/laminas/laminas-xmlrpc) (2 months ago)|
 
 #### Recent Pull Requests
 
@@ -81,7 +81,7 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
-| ⭐️ (19381) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19382) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (10499) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
@@ -98,9 +98,9 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
 | ⭐️ (1493) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
-| ⭐️ (173) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
 | ⭐️ (1617) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
 | ⭐️ (162) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
+| ⭐️ (173) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
 | ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 | ⭐️ (0) [`ghostwriter/mezzio-laminas-form-elements`](https://github.com/ghostwriter/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
 | ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
