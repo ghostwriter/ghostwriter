@@ -37,18 +37,11 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | (TAGGED) | Release [{{.LastRelease.TagName}}]({{.LastRelease.URL}}) on [{{.Name}}]({{.URL}}) ({{humanize .LastRelease.PublishedAt}})|
 {{- end}}
 
-#### Recent Contributions
+#### Recent work
 
 | Repo | Description |
 | --- | --- |{{range recentContributions 100}}
 | ⭐️ ({{.Repo.Stargazers}}) [`{{.Repo.Name}}`]({{.Repo.URL}}) | {{.Repo.Description}} |
-{{- end}}
-
-#### Recent Pull Requests
-
-| State | Description |
-| --- | --- |{{range recentPullRequests 3}}
-| ({{.State}}) | [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})|
 {{- end}}
 
 </div>
