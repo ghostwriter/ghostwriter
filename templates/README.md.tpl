@@ -1,5 +1,3 @@
-# ghostwriter
-
 A passionate developer.
 
 To support my work, consider becoming my [`Sponsor`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i heavly rely upon.
