@@ -41,21 +41,6 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/2.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
 
-#### Recent Pull Requests
-
-| State | Description |
-| --- | --- |
-| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/82) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/81) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
-| (OPEN) | [RFC `observers`](https://github.com/Nejcc/laravelplus/pull/31) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
-| (OPEN) | [RFC `events` and `listeners`](https://github.com/Nejcc/laravelplus/pull/30) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
-| (OPEN) | [Use form requests](https://github.com/Nejcc/laravelplus/pull/29) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
-| (OPEN) | [Use sail for local development](https://github.com/Nejcc/laravelplus/pull/28) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
-| (OPEN) | [V3](https://github.com/ghostwriter/event-dispatcher/pull/31) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 weeks ago)|
-| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/80) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 month ago)|
-| (MERGED) | [Bump `mockery/mockery`](https://github.com/exodusanto/Laravel-Admin/pull/49) on [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) (1 month ago)|
-| (CLOSED) | [Drop `php-cs-fixer/php-cs-fixer` in favor of `nikic/php-parser`](https://github.com/stevebauman/unfinalize/pull/5) on [stevebauman/unfinalize](https://github.com/stevebauman/unfinalize) (1 month ago)|
-
 #### Recent Contributions
 
 | Repo | Description |
@@ -136,5 +121,13 @@ To support my work, consider becoming a [`Sponsor`](https://github.com/sponsors/
 | ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | ⭐️ (5) [`laminas/laminas-memory`](https://github.com/laminas/laminas-memory) | Manage data in an environment with limited memory |
 | ⭐️ (0) [`ghostwriter/laminas-redis-session-example`](https://github.com/ghostwriter/laminas-redis-session-example) | helping out in laminas slack |
+
+#### Recent Pull Requests
+
+| State | Description |
+| --- | --- |
+| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/82) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
+| (MERGED) | [Bump dependencies](https://github.com/ghostwriter/coding-standard/pull/81) on [ghostwriter/coding-standard](https://github.com/ghostwriter/coding-standard) (1 week ago)|
+| (OPEN) | [RFC `observers`](https://github.com/Nejcc/laravelplus/pull/31) on [Nejcc/laravelplus](https://github.com/Nejcc/laravelplus) (1 week ago)|
 
 </div>
