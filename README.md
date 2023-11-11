@@ -34,7 +34,7 @@ To support my work, consider becoming my [`Sponsor`](https://github.com/sponsors
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [3.7.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.7.0) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (2 days ago)|
+| (TAGGED) | Release [3.7.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.7.0) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (3 days ago)|
 | (TAGGED) | Release [1.10.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.10.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-captcha/releases/tag/2.17.0) on [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) (3 weeks ago)|
 | (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 month ago)|
