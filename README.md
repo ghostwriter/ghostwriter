@@ -50,6 +50,7 @@ To support my work, [`sponsor @ghostwriter`](https://github.com/sponsors/ghostwr
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (10498) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
@@ -63,7 +64,6 @@ To support my work, [`sponsor @ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (39) [`exodusanto/Laravel-Admin`](https://github.com/exodusanto/Laravel-Admin) | Laravel-Admin is the new version of Laravel-Administrator of Frozennode |
 | ⭐️ (0) [`ghostwriter/process`](https://github.com/ghostwriter/process) | Execute shell commands through PHP |
 | ⭐️ (0) [`ghostwriter/clock`](https://github.com/ghostwriter/clock) | Provides a Clock implementation for PHP |
-| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
