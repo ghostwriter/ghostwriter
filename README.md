@@ -39,12 +39,12 @@ To support my work, [`sponsor @ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [2.16.0](https://github.com/laminas/laminas-server/releases/tag/2.16.0) on [laminas/laminas-server](https://github.com/laminas/laminas-server) (today)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/3.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/container/releases/tag/2.0.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)|
 | (TAGGED) | Release [3.7.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.7.0) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (6 days ago)|
 | (TAGGED) | Release [1.10.0](https://github.com/mezzio/mezzio-cors/releases/tag/1.10.0) on [mezzio/mezzio-cors](https://github.com/mezzio/mezzio-cors) (1 week ago)|
 | (TAGGED) | Release [2.17.0](https://github.com/laminas/laminas-captcha/releases/tag/2.17.0) on [laminas/laminas-captcha](https://github.com/laminas/laminas-captcha) (3 weeks ago)|
-| (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 month ago)|
 
 #### Recent work
 
@@ -108,14 +108,14 @@ To support my work, [`sponsor @ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (8) [`mezzio/mezzio-csrf`](https://github.com/mezzio/mezzio-csrf) | CSRF token generation and validation for PSR-7 and PSR-15 applications using mezzio-session |
 | ⭐️ (3) [`mezzio/mezzio-migration`](https://github.com/mezzio/mezzio-migration) | Migrate Mezzio applications from v2 to v3 |
 | ⭐️ (29) [`laminas/laminas-permissions-rbac`](https://github.com/laminas/laminas-permissions-rbac) | Provides a role-based access control management |
+| ⭐️ (26) [`laminas/laminas-component-installer`](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
 | ⭐️ (24) [`laminas/laminas-skeleton-installer`](https://github.com/laminas/laminas-skeleton-installer) | Installer plugin for Laminas MVC Skeleton application |
-| ⭐️ (25) [`laminas/laminas-server`](https://github.com/laminas/laminas-server) | Create Reflection-based RPC servers |
 | ⭐️ (3) [`mezzio/mezzio-authentication-laminasauthentication`](https://github.com/mezzio/mezzio-authentication-laminasauthentication) | laminas-authentication adapter for mezzio-authentication. |
 | ⭐️ (4) [`mezzio/repo-template`](https://github.com/mezzio/repo-template) | Repository template for new Mezzio components |
 | ⭐️ (8) [`laminas/laminas-servicemanager-inspector`](https://github.com/laminas/laminas-servicemanager-inspector) | Make your autowiring reliable |
 | ⭐️ (28) [`laminas/laminas-log`](https://github.com/laminas/laminas-log) | Robust, composite logger with filtering, formatting, and PSR-3 support |
 | ⭐️ (63) [`laminas/laminas-migration`](https://github.com/laminas/laminas-migration) | Migrate Zend Framework MVC applications, Expressive applications, Apigility applications, or third-party libraries to target Laminas. |
-| ⭐️ (26) [`laminas/laminas-component-installer`](https://github.com/laminas/laminas-component-installer) | Composer plugin for injecting modules and configuration providers into application configuration |
+| ⭐️ (25) [`laminas/laminas-server`](https://github.com/laminas/laminas-server) | Create Reflection-based RPC servers |
 | ⭐️ (6) [`laminas/laminas-memory`](https://github.com/laminas/laminas-memory) | Manage data in an environment with limited memory |
 | ⭐️ (5) [`laminas/laminas-container-config-test`](https://github.com/laminas/laminas-container-config-test) | Mezzio PSR-11 container configuration tests |
 | ⭐️ (15) [`laminas/laminas-xml`](https://github.com/laminas/laminas-xml) | Utility library for XML usage, best practices, and security in PHP |
