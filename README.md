@@ -41,10 +41,10 @@ To support my work, [`sponsor @ghostwriter`](https://github.com/sponsors/ghostwr
 | --- | --- |
 | (TAGGED) | Release [2.0.1](https://github.com/ghostwriter/container/releases/tag/2.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/3.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (6 days ago)|
-| (TAGGED) | Release [3.7.0](https://github.com/laminas/laminas-recaptcha/releases/tag/3.7.0) on [laminas/laminas-recaptcha](https://github.com/laminas/laminas-recaptcha) (1 week ago)|
 | (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 month ago)|
 | (TAGGED) | Release [1.0.3](https://github.com/php-fig/http-client/releases/tag/1.0.3) on [php-fig/http-client](https://github.com/php-fig/http-client) (1 month ago)|
 | (TAGGED) | Release [0.2.0](https://github.com/ghostwriter/psalm-plugin/releases/tag/0.2.0) on [ghostwriter/psalm-plugin](https://github.com/ghostwriter/psalm-plugin) (2 months ago)|
+| (TAGGED) | Release [4.8.0](https://github.com/mezzio/mezzio-swoole/releases/tag/4.8.0) on [mezzio/mezzio-swoole](https://github.com/mezzio/mezzio-swoole) (2 months ago)|
 
 #### Recent work
 
