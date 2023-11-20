@@ -2,12 +2,13 @@ A passionate developer.
 
 ---
 
-To support my work, [`sponsor @ghostwriter`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i heavly rely upon.
+To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i heavily rely upon.
 
 [`@php`](https://github.com/php/php-src)
 [`@phpunit`](https://github.com/sebastianbergmann/phpunit)
 [`@psalm`](https://github.com/vimeo/psalm)
 [`@infection`](https://github.com/infection/infection)
+[`@phpbench`](https://github.com/phpbench/phpbench)
 
 ---
 
