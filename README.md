@@ -51,7 +51,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (10503) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10504) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
@@ -94,7 +94,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (164) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
 | ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 | ⭐️ (0) [`ghostwriter/mezzio-laminas-form-elements`](https://github.com/ghostwriter/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
-| ⭐️ (2555) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
+| ⭐️ (2556) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
 | ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
 | ⭐️ (139) [`laminas/automatic-releases`](https://github.com/laminas/automatic-releases) | Automated release process for `laminas/` projects, usable as github action |
 | ⭐️ (0) [`ghostwriter/pizza-place`](https://github.com/ghostwriter/pizza-place) | Livestreaming on twitch: building a pizza place locator API for a mobile app. |
