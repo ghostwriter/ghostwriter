@@ -66,7 +66,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker |
-| ⭐️ (10511) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10513) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/twitch-bank-account`](https://github.com/ghostwriter/twitch-bank-account) | twitch-bank-account |
 | ⭐️ (0) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP] Router implementation for PHP |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
@@ -95,7 +95,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (2) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 | ⭐️ (0) [`ghostwriter/mezzio-laminas-form-elements`](https://github.com/ghostwriter/mezzio-laminas-form-elements) | Helping out in laminas chat... Getting a simple text HTML Element to work in Mezzio |
 | ⭐️ (9) [`laravel-shift/faker-registry`](https://github.com/laravel-shift/faker-registry) |  |
-| ⭐️ (2572) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
+| ⭐️ (2573) [`laravel-shift/blueprint`](https://github.com/laravel-shift/blueprint) | A code generation tool for Laravel developers. |
 | ⭐️ (139) [`laminas/automatic-releases`](https://github.com/laminas/automatic-releases) | Automated release process for `laminas/` projects, usable as github action |
 | ⭐️ (0) [`ghostwriter/pizza-place`](https://github.com/ghostwriter/pizza-place) | Livestreaming on twitch: building a pizza place locator API for a mobile app. |
 | ⭐️ (83) [`mezzio/mezzio-swoole`](https://github.com/mezzio/mezzio-swoole) | Swoole support for Mezzio |
