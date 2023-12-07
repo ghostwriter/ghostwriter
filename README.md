@@ -4,11 +4,13 @@ A passionate developer.
 
 To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i heavily rely upon.
 
+[`@git`](https://github.com/git/git)
+[`@github-cli`](https://github.com/cli/cli)
 [`@php`](https://github.com/php/php-src)
+[`composer`](https://github.com/composer/composer)
 [`@phpunit`](https://github.com/sebastianbergmann/phpunit)
 [`@psalm`](https://github.com/vimeo/psalm)
 [`@infection`](https://github.com/infection/infection)
-[`@phpbench`](https://github.com/phpbench/phpbench)
 
 ---
 
@@ -75,7 +77,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/process`](https://github.com/ghostwriter/process) | Execute shell commands through PHP |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
-| ⭐️ (19407) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19408) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
