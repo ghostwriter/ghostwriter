@@ -2,15 +2,17 @@ A passionate developer.
 
 ---
 
-To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i heavily rely upon.
+To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i use.
 
+[`@composer`](https://github.com/composer/composer)
+[`@docker-php-extension-installer`](https://github.com/mlocati/docker-php-extension-installer)
 [`@git`](https://github.com/git/git)
 [`@github-cli`](https://github.com/cli/cli)
+[`@infection`](https://github.com/infection/infection)
 [`@php`](https://github.com/php/php-src)
-[`composer`](https://github.com/composer/composer)
 [`@phpunit`](https://github.com/sebastianbergmann/phpunit)
 [`@psalm`](https://github.com/vimeo/psalm)
-[`@infection`](https://github.com/infection/infection)
+[`@setup-php`](https://github.com/shivammathur/setup-php)
 
 ---
 
