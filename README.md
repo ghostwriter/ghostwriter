@@ -44,7 +44,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [v2.8.1](https://github.com/laravel-shift/blueprint/releases/tag/v2.8.1) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 week ago)|
+| (TAGGED) | Release [v2.9.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.9.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (today)|
 | (TAGGED) | Release [2.0.1](https://github.com/ghostwriter/container/releases/tag/2.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 weeks ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/3.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (3 weeks ago)|
 | (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (2 months ago)|
