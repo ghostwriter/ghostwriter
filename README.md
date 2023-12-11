@@ -44,9 +44,9 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.6.7](https://github.com/mockery/mockery/releases/tag/1.6.7) on [mockery/mockery](https://github.com/mockery/mockery) (today)|
-| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/json/releases/tag/2.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 day ago)|
-| (TAGGED) | Release [v2.9.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.9.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (2 days ago)|
+| (TAGGED) | Release [1.6.7](https://github.com/mockery/mockery/releases/tag/1.6.7) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/json/releases/tag/2.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (2 days ago)|
+| (TAGGED) | Release [v2.9.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.9.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (3 days ago)|
 | (TAGGED) | Release [2.0.1](https://github.com/ghostwriter/container/releases/tag/2.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 weeks ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/3.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (4 weeks ago)|
 | (TAGGED) | Release [1.1.0](https://github.com/ghostwriter/clock/releases/tag/1.1.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (2 months ago)|
@@ -78,7 +78,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (39) [`exodusanto/Laravel-Admin`](https://github.com/exodusanto/Laravel-Admin) | Laravel-Admin is the new version of Laravel-Administrator of Frozennode |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
-| ⭐️ (19413) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19414) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
