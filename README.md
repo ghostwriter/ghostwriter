@@ -44,8 +44,8 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.6.7](https://github.com/mockery/mockery/releases/tag/1.6.7) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/json/releases/tag/2.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (6 days ago)|
+| (TAGGED) | Release [1.6.7](https://github.com/mockery/mockery/releases/tag/1.6.7) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/json/releases/tag/2.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
 | (TAGGED) | Release [v2.9.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.9.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 week ago)|
 | (TAGGED) | Release [2.0.1](https://github.com/ghostwriter/container/releases/tag/2.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 month ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/3.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
