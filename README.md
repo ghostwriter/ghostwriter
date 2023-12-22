@@ -44,10 +44,10 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/clock/releases/tag/2.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (5 days ago)|
+| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/clock/releases/tag/2.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (6 days ago)|
 | (TAGGED) | Release [1.6.7](https://github.com/mockery/mockery/releases/tag/1.6.7) on [mockery/mockery](https://github.com/mockery/mockery) (1 week ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/json/releases/tag/2.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
-| (TAGGED) | Release [v2.9.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.9.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (1 week ago)|
+| (TAGGED) | Release [v2.9.0](https://github.com/laravel-shift/blueprint/releases/tag/v2.9.0) on [laravel-shift/blueprint](https://github.com/laravel-shift/blueprint) (2 weeks ago)|
 | (TAGGED) | Release [2.0.1](https://github.com/ghostwriter/container/releases/tag/2.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 month ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/3.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
 
@@ -62,7 +62,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (1) [`ghostwriter/atprotocol`](https://github.com/ghostwriter/atprotocol) | [WIP]Bluesky API Client for AT Protocol |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
-| ⭐️ (10514) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10513) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
