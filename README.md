@@ -44,9 +44,9 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [2.9.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.9.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (today)|
+| (TAGGED) | Release [2.9.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.9.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 day ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/clock/releases/tag/2.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (3 weeks ago)|
-| (TAGGED) | Release [1.6.7](https://github.com/mockery/mockery/releases/tag/1.6.7) on [mockery/mockery](https://github.com/mockery/mockery) (4 weeks ago)|
+| (TAGGED) | Release [1.6.7](https://github.com/mockery/mockery/releases/tag/1.6.7) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/json/releases/tag/2.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 month ago)|
 | (TAGGED) | Release [2.0.1](https://github.com/ghostwriter/container/releases/tag/2.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 month ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/3.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
@@ -62,7 +62,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | PHP Images for Docker with Multi-Architecture support |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
-| ⭐️ (10514) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10513) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
@@ -78,7 +78,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (39) [`exodusanto/Laravel-Admin`](https://github.com/exodusanto/Laravel-Admin) | Laravel-Admin is the new version of Laravel-Administrator of Frozennode |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
 | ⭐️ (2) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
-| ⭐️ (19445) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19444) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
