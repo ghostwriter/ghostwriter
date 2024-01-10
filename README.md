@@ -82,7 +82,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (20) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
-| ⭐️ (52) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
+| ⭐️ (53) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
 | ⭐️ (0) [`ghostwriter/php-docker-template-updater`](https://github.com/ghostwriter/php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
 | ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
 | ⭐️ (0) [`ghostwriter/draft`](https://github.com/ghostwriter/draft) | [wip]A code generation tool for Laravel developers. |
