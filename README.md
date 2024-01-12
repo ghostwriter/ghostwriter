@@ -67,7 +67,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (1) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
-| ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
+| ⭐️ (3) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
