@@ -55,7 +55,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/case-converter`](https://github.com/ghostwriter/case-converter) | Convert strings to and from Ada, Camel, Cobol, Kebab, Lower, Macro, Pascal, Sentence, Snake, Title, Train, and Upper cases |
+| ⭐️ (0) [`ghostwriter/case-converter`](https://github.com/ghostwriter/case-converter) | Convert strings from and to Ada, Camel, Cobol, Kebab, Lower, Macro, Pascal, Sentence, Snake, Title, Train, and Upper cases using PHP |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
