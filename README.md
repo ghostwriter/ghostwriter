@@ -44,10 +44,10 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [3.0.2](https://github.com/ghostwriter/container/releases/tag/3.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (TAGGED) | Release [1.0.0](https://github.com/ghostwriter/case-converter/releases/tag/1.0.0) on [ghostwriter/case-converter](https://github.com/ghostwriter/case-converter) (1 week ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/json/releases/tag/3.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
 | (TAGGED) | Release [4.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/4.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
-| (TAGGED) | Release [3.0.1](https://github.com/ghostwriter/container/releases/tag/3.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
 | (TAGGED) | Release [2.9.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.9.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/clock/releases/tag/2.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (2 months ago)|
 
@@ -55,6 +55,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
@@ -63,7 +64,6 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/case-converter`](https://github.com/ghostwriter/case-converter) | Convert strings from and to AdaCase, CamelCase, CobolCase, KebabCase, Lowercase, MacroCase, PascalCase, SentenceCase, SnakeCase, TitleCase, TrainCase, and Uppercase |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
-| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (10538) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (1) [`ghostwriter/atprotocol`](https://github.com/ghostwriter/atprotocol) | [WIP]Bluesky API Client for AT Protocol |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
