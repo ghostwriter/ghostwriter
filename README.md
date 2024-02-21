@@ -44,7 +44,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [3.0.2](https://github.com/ghostwriter/container/releases/tag/3.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
+| (TAGGED) | Release [3.0.2](https://github.com/ghostwriter/container/releases/tag/3.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 days ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/ghostwriter/case-converter/releases/tag/1.0.0) on [ghostwriter/case-converter](https://github.com/ghostwriter/case-converter) (1 week ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/json/releases/tag/3.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
 | (TAGGED) | Release [4.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/4.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
