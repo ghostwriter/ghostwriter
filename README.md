@@ -44,24 +44,24 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (today)|
 | (TAGGED) | Release [3.0.2](https://github.com/ghostwriter/container/releases/tag/3.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/ghostwriter/case-converter/releases/tag/1.0.0) on [ghostwriter/case-converter](https://github.com/ghostwriter/case-converter) (1 week ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/json/releases/tag/3.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (1 week ago)|
 | (TAGGED) | Release [4.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/4.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (TAGGED) | Release [2.9.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.9.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (1 month ago)|
-| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/clock/releases/tag/2.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (2 months ago)|
 
 #### Recent work
 
 | Repo | Description |
 | --- | --- |
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
+| ⭐️ (0) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/event-loop`](https://github.com/ghostwriter/event-loop) | A high-performance event-loop library designed for concurrent PHP applications, enabling efficient handling of asynchronous operations and event-driven programming paradigms. |
 | ⭐️ (0) [`ghostwriter/phormat`](https://github.com/ghostwriter/phormat) | PHP code formatter. |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
-| ⭐️ (0) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
 | ⭐️ (0) [`ghostwriter/phest`](https://github.com/ghostwriter/phest) | [WIP] A Property-Based Testing Framework for PHP |
 | ⭐️ (0) [`ghostwriter/case-converter`](https://github.com/ghostwriter/case-converter) | Convert strings from and to AdaCase, CamelCase, CobolCase, KebabCase, Lowercase, MacroCase, PascalCase, SentenceCase, SnakeCase, TitleCase, TrainCase, and Uppercase |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
