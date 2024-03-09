@@ -44,12 +44,12 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [11.0.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.0.5) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 weeks ago)|
 | (TAGGED) | Release [3.0.2](https://github.com/ghostwriter/container/releases/tag/3.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/ghostwriter/case-converter/releases/tag/1.0.0) on [ghostwriter/case-converter](https://github.com/ghostwriter/case-converter) (4 weeks ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/json/releases/tag/3.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (4 weeks ago)|
 | (TAGGED) | Release [4.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/4.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 month ago)|
-| (TAGGED) | Release [2.9.0](https://github.com/mezzio/mezzio-hal/releases/tag/2.9.0) on [mezzio/mezzio-hal](https://github.com/mezzio/mezzio-hal) (2 months ago)|
 
 #### Recent work
 
@@ -85,7 +85,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (39) [`exodusanto/Laravel-Admin`](https://github.com/exodusanto/Laravel-Admin) | Laravel-Admin is the new version of Laravel-Administrator of Frozennode |
 | ⭐️ (3) [`ghostwriter/psalm-plugin-tester`](https://github.com/ghostwriter/psalm-plugin-tester) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
-| ⭐️ (19541) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19540) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (19) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
