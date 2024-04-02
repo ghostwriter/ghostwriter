@@ -59,7 +59,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/clock`](https://github.com/ghostwriter/clock) | Provides an immutable Clock implementation for PHP |
 | ⭐️ (92) [`rectorphp/rector-src`](https://github.com/rectorphp/rector-src) | Development repository for Rector |
-| ⭐️ (10545) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10544) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (3) [`ghostwriter/psalm-sandbox`](https://github.com/ghostwriter/psalm-sandbox) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/psalm-phar-issues-17`](https://github.com/ghostwriter/psalm-phar-issues-17) |  |
 | ⭐️ (1) [`ghostwriter/atprotocol`](https://github.com/ghostwriter/atprotocol) | [WIP]Bluesky API Client for AT Protocol |
@@ -87,7 +87,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP] Router implementation for PHP |
 | ⭐️ (39) [`exodusanto/Laravel-Admin`](https://github.com/exodusanto/Laravel-Admin) | Laravel-Admin is the new version of Laravel-Administrator of Frozennode |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
-| ⭐️ (19527) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19525) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (19) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
@@ -100,7 +100,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (174) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
 | ⭐️ (1564) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
-| ⭐️ (1689) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
+| ⭐️ (1688) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
 | ⭐️ (164) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
 | ⭐️ (1) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 
