@@ -70,7 +70,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (1) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/mockery-rector`](https://github.com/ghostwriter/mockery-rector) | [WIP]Rector extension for Mockery🦜 |
 | ⭐️ (92) [`rectorphp/rector-src`](https://github.com/rectorphp/rector-src) | Development repository for Rector |
-| ⭐️ (10545) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10547) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/psalm-phar-issues-17`](https://github.com/ghostwriter/psalm-phar-issues-17) |  |
 | ⭐️ (3) [`ghostwriter/psalm-sandbox`](https://github.com/ghostwriter/psalm-sandbox) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
@@ -102,7 +102,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (174) [`php-fig/http-server-middleware`](https://github.com/php-fig/http-server-middleware) | Interface for PSR-15 server middleware |
 | ⭐️ (165) [`php-fig/http-server-handler`](https://github.com/php-fig/http-server-handler) | Interface for PSR-15 server request handler |
-| ⭐️ (1690) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
+| ⭐️ (1691) [`php-fig/http-factory`](https://github.com/php-fig/http-factory) | Implementation of PSR-17 (HTTP Message Factories) |
 | ⭐️ (1565) [`php-fig/http-client`](https://github.com/php-fig/http-client) |  |
 | ⭐️ (1) [`ghostwriter/coronavirus-data-ethiopia`](https://github.com/ghostwriter/coronavirus-data-ethiopia) | Coronavirus cases in Ethiopia |
 
