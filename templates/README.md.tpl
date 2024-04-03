@@ -10,8 +10,10 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 [`@github-cli`](https://github.com/cli/cli)
 [`@infection`](https://github.com/infection/infection)
 [`@php`](https://github.com/php/php-src)
+[`@php-parser`]](https://github.com/nikic/php-parser)
 [`@phpunit`](https://github.com/sebastianbergmann/phpunit)
 [`@psalm`](https://github.com/vimeo/psalm)
+[`@rector`](https://github.com/rectorphp/rector)
 [`@setup-php`](https://github.com/shivammathur/setup-php)
 
 ---
