@@ -58,12 +58,12 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | Repo | Description |
 | --- | --- |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
+| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (1) [`ghostwriter/shell`](https://github.com/ghostwriter/shell) | Execute commands and external programs effortlessly in PHP |
 | ⭐️ (0) [`ghostwriter/phest`](https://github.com/ghostwriter/phest) | [WIP] A Property-Based Testing Framework for PHP |
-| ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (0) [`ghostwriter/phormat`](https://github.com/ghostwriter/phormat) | PHP code formatter. |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
