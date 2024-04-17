@@ -49,7 +49,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [11.1.2](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.2) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 days ago)|
+| (TAGGED) | Release [10.5.19](https://github.com/sebastianbergmann/phpunit/releases/tag/10.5.19) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)|
 | (TAGGED) | Release [3.0.3](https://github.com/ghostwriter/container/releases/tag/3.0.3) on [ghostwriter/container](https://github.com/ghostwriter/container) (6 days ago)|
 | (TAGGED) | Release [1.6.11](https://github.com/mockery/mockery/releases/tag/1.6.11) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (1 month ago)|
