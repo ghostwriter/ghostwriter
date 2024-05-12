@@ -61,7 +61,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | Repo | Description |
 | --- | --- |
 | ⭐️ (1) [`ghostwriter/atprotocol`](https://github.com/ghostwriter/atprotocol) | [WIP]Bluesky API Client for AT Protocol |
-| ⭐️ (0) [`ghostwriter/pit`](https://github.com/ghostwriter/pit) | Git abstraction layer written in PHP |
+| ⭐️ (0) [`ghostwriter/phit`](https://github.com/ghostwriter/phit) | Git abstraction layer written in PHP |
 | ⭐️ (1) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/mzo`](https://github.com/ghostwriter/mzo) | A tool for writing Mezzio application, design exactly what you need. |
