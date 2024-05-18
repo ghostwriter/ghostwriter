@@ -49,7 +49,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (1 day ago)|
+| (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (2 days ago)|
 | (TAGGED) | Release [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)|
 | (TAGGED) | Release [3.0.3](https://github.com/ghostwriter/container/releases/tag/3.0.3) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 months ago)|
@@ -60,8 +60,8 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | Repo | Description |
 | --- | --- |
-| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (10570) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/git`](https://github.com/ghostwriter/git) | Git abstraction layer written in PHP |
 | ⭐️ (1) [`ghostwriter/atprotocol`](https://github.com/ghostwriter/atprotocol) | [WIP]Bluesky API Client for AT Protocol |
 | ⭐️ (1) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
