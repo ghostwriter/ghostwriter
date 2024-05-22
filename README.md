@@ -49,10 +49,10 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (5 days ago)|
-| (TAGGED) | Release [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (3 weeks ago)|
+| (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (6 days ago)|
+| (TAGGED) | Release [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (4 weeks ago)|
 | (TAGGED) | Release [3.0.3](https://github.com/ghostwriter/container/releases/tag/3.0.3) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 month ago)|
-| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (2 months ago)|
+| (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 months ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/ghostwriter/case-converter/releases/tag/1.0.0) on [ghostwriter/case-converter](https://github.com/ghostwriter/case-converter) (3 months ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/json/releases/tag/3.0.0) on [ghostwriter/json](https://github.com/ghostwriter/json) (3 months ago)|
 
