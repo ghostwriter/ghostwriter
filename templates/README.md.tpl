@@ -6,17 +6,11 @@ A passionate developer.
 
 To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i use.
 
-[`@composer`](https://github.com/composer/composer)
 [`@docker-php-extension-installer`](https://github.com/mlocati/docker-php-extension-installer)
-[`@git`](https://github.com/git/git)
-[`@github-cli`](https://github.com/cli/cli)
 [`@infection`](https://github.com/infection/infection)
-[`@php`](https://github.com/php/php-src)
-[`@phpactor`](https://github.com/phpactor/phpactor)
 [`@php-parser`](https://github.com/nikic/php-parser)
 [`@phpunit`](https://github.com/sebastianbergmann/phpunit)
 [`@psalm`](https://github.com/vimeo/psalm)
-[`@rector`](https://github.com/rectorphp/rector)
 [`@setup-php`](https://github.com/shivammathur/setup-php)
 
 ---
