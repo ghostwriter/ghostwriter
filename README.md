@@ -43,9 +43,9 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [11.2.0](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.0) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (today)|
 | (TAGGED) | Release [5.0.0](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.0) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (3 weeks ago)|
-| (TAGGED) | Release [11.1.3](https://github.com/sebastianbergmann/phpunit/releases/tag/11.1.3) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 month ago)|
 | (TAGGED) | Release [3.0.3](https://github.com/ghostwriter/container/releases/tag/3.0.3) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (3 months ago)|
 | (TAGGED) | Release [1.0.0](https://github.com/ghostwriter/case-converter/releases/tag/1.0.0) on [ghostwriter/case-converter](https://github.com/ghostwriter/case-converter) (3 months ago)|
