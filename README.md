@@ -54,12 +54,12 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | Filesystem implementation for PHP |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
 | ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
-| ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [wip]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (1) [`ghostwriter/shell`](https://github.com/ghostwriter/shell) | Execute commands and external programs effortlessly in PHP |
 | ⭐️ (0) [`ghostwriter/case-converter`](https://github.com/ghostwriter/case-converter) | Convert strings from and to AdaCase, CamelCase, CobolCase, KebabCase, Lowercase, MacroCase, PascalCase, SentenceCase, SnakeCase, TitleCase, TrainCase, and Uppercase |
