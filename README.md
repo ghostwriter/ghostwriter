@@ -71,8 +71,8 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/phest`](https://github.com/ghostwriter/phest) | [WIP] A Property-Based Testing Framework for PHP |
 | ⭐️ (0) [`ghostwriter/git`](https://github.com/ghostwriter/git) | Git abstraction layer written in PHP |
 | ⭐️ (0) [`ghostwriter/mzo`](https://github.com/ghostwriter/mzo) | A tool for writing Mezzio application, design exactly what you need. |
-| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
+| ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
