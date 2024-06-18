@@ -98,6 +98,5 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (61) [`rectorphp/rector-phpunit`](https://github.com/rectorphp/rector-phpunit) | Rector upgrade rules for PHPUnit |
 | ⭐️ (0) [`ghostwriter/php-docker-template-updater`](https://github.com/ghostwriter/php-docker-template-updater) | Helps me update various docker templates via PHP CLI. |
 | ⭐️ (0) [`ghostwriter/composer-locker`](https://github.com/ghostwriter/composer-locker) | Automated composer.json &amp; composer.lock file maintenance. |
-| ⭐️ (0) [`ghostwriter/laravel-draft`](https://github.com/ghostwriter/laravel-draft) | [wip]A code generation tool for Laravel developers. |
 
 </div>
