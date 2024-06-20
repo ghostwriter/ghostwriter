@@ -81,7 +81,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/phormat`](https://github.com/ghostwriter/phormat) | PHP code formatter. |
 | ⭐️ (0) [`ghostwriter/.github`](https://github.com/ghostwriter/.github) | community health files |
 | ⭐️ (3) [`ghostwriter/psalm-sandbox`](https://github.com/ghostwriter/psalm-sandbox) | Provides a framework for testing Psalm plugins with PHPUnit |
-| ⭐️ (92) [`rectorphp/rector-src`](https://github.com/rectorphp/rector-src) | Development repository for Rector |
+| ⭐️ (91) [`rectorphp/rector-src`](https://github.com/rectorphp/rector-src) | Development repository for Rector |
 | ⭐️ (0) [`ghostwriter/psalm-phar-issues-17`](https://github.com/ghostwriter/psalm-phar-issues-17) |  |
 | ⭐️ (2299) [`php/php-langspec`](https://github.com/php/php-langspec) | PHP Language Specification |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
