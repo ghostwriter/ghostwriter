@@ -43,9 +43,9 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
+| (TAGGED) | Release [4.0.1](https://github.com/ghostwriter/container/releases/tag/4.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/clock/releases/tag/3.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 day ago)|
 | (TAGGED) | Release [5.0.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)|
-| (TAGGED) | Release [4.0.0](https://github.com/ghostwriter/container/releases/tag/4.0.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
 | (TAGGED) | Release [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)|
 | (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 months ago)|
@@ -54,6 +54,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | Repo | Description |
 | --- | --- |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (1) [`ghostwriter/shell`](https://github.com/ghostwriter/shell) | Execute commands and external programs effortlessly in PHP |
 | ⭐️ (0) [`ghostwriter/clock`](https://github.com/ghostwriter/clock) | Provides an immutable Clock implementation for PHP |
 | ⭐️ (1) [`ghostwriter/atprotocol`](https://github.com/ghostwriter/atprotocol) | [WIP]Bluesky API Client for AT Protocol |
@@ -62,7 +63,6 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
-| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [WIP]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
