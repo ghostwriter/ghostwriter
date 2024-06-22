@@ -43,12 +43,12 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [5.0.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (today)|
-| (TAGGED) | Release [4.0.0](https://github.com/ghostwriter/container/releases/tag/4.0.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (today)|
-| (TAGGED) | Release [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)|
+| (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/clock/releases/tag/3.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 day ago)|
+| (TAGGED) | Release [5.0.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)|
+| (TAGGED) | Release [4.0.0](https://github.com/ghostwriter/container/releases/tag/4.0.0) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 day ago)|
+| (TAGGED) | Release [11.2.5](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.5) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)|
 | (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 | (TAGGED) | Release [2.0.0](https://github.com/ghostwriter/collection/releases/tag/2.0.0) on [ghostwriter/collection](https://github.com/ghostwriter/collection) (4 months ago)|
-| (TAGGED) | Release [1.0.0](https://github.com/ghostwriter/case-converter/releases/tag/1.0.0) on [ghostwriter/case-converter](https://github.com/ghostwriter/case-converter) (4 months ago)|
 
 #### Recent work
 
