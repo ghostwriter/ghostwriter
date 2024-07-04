@@ -84,7 +84,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (3) [`ghostwriter/psalm-sandbox`](https://github.com/ghostwriter/psalm-sandbox) | Provides a framework for testing Psalm plugins with PHPUnit |
 | ⭐️ (93) [`rectorphp/rector-src`](https://github.com/rectorphp/rector-src) | Development repository for Rector |
 | ⭐️ (0) [`ghostwriter/psalm-phar-issues-17`](https://github.com/ghostwriter/psalm-phar-issues-17) |  |
-| ⭐️ (2298) [`php/php-langspec`](https://github.com/php/php-langspec) | PHP Language Specification |
+| ⭐️ (2297) [`php/php-langspec`](https://github.com/php/php-langspec) | PHP Language Specification |
 | ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/curl`](https://github.com/ghostwriter/curl) | curl for Github Actions |
 | ⭐️ (1) [`ghostwriter/psalm-plugin`](https://github.com/ghostwriter/psalm-plugin) | Provides an `ALL-IN-ONE` plugin for Psalm |
