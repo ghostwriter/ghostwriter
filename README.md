@@ -43,11 +43,11 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 day ago)|
+| (TAGGED) | Release [11.2.6](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.6) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (2 days ago)|
 | (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/shell/releases/tag/0.1.0) on [ghostwriter/shell](https://github.com/ghostwriter/shell) (1 week ago)|
 | (TAGGED) | Release [4.0.1](https://github.com/ghostwriter/container/releases/tag/4.0.1) on [ghostwriter/container](https://github.com/ghostwriter/container) (1 week ago)|
-| (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/clock/releases/tag/3.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 week ago)|
-| (TAGGED) | Release [5.0.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
+| (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/clock/releases/tag/3.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (2 weeks ago)|
+| (TAGGED) | Release [5.0.1](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.1) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 weeks ago)|
 | (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (1 month ago)|
 
 #### Recent work
@@ -72,7 +72,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/phest`](https://github.com/ghostwriter/phest) | [WIP] A Property-Based Testing Framework for PHP |
 | ⭐️ (1) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | Filesystem implementation for PHP |
-| ⭐️ (10575) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10574) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/git`](https://github.com/ghostwriter/git) | Git abstraction layer written in PHP |
 | ⭐️ (0) [`ghostwriter/mzo`](https://github.com/ghostwriter/mzo) | A tool for writing Mezzio application, design exactly what you need. |
 | ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
@@ -92,7 +92,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (0) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP] Router implementation for PHP |
 | ⭐️ (38) [`exodusanto/Laravel-Admin`](https://github.com/exodusanto/Laravel-Admin) | Laravel-Admin is the new version of Laravel-Administrator of Frozennode |
 | ⭐️ (9) [`psalm/psalm.dev`](https://github.com/psalm/psalm.dev) | Has the source for psalm.dev |
-| ⭐️ (19596) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
+| ⭐️ (19595) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 | ⭐️ (19) [`mezzio/mezzio-hal`](https://github.com/mezzio/mezzio-hal) | Hypertext Application Language implementation for PHP and PSR-7 |
 | ⭐️ (3) [`ghostwriter/styleci-action`](https://github.com/ghostwriter/styleci-action) | Analyze your PHP, JS and CSS code with StyleCI CLI Tool. |
