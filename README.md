@@ -43,9 +43,9 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [5.0.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 day ago)|
-| (TAGGED) | Release [4.0.2](https://github.com/ghostwriter/container/releases/tag/4.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (3 days ago)|
-| (TAGGED) | Release [11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (6 days ago)|
+| (TAGGED) | Release [5.0.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (2 days ago)|
+| (TAGGED) | Release [4.0.2](https://github.com/ghostwriter/container/releases/tag/4.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (4 days ago)|
+| (TAGGED) | Release [11.2.7](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.7) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)|
 | (TAGGED) | Release [0.1.0](https://github.com/ghostwriter/shell/releases/tag/0.1.0) on [ghostwriter/shell](https://github.com/ghostwriter/shell) (3 weeks ago)|
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/clock/releases/tag/3.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (3 weeks ago)|
 | (TAGGED) | Release [1.6.12](https://github.com/mockery/mockery/releases/tag/1.6.12) on [mockery/mockery](https://github.com/mockery/mockery) (2 months ago)|
