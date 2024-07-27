@@ -56,22 +56,22 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | --- | --- |
 | ⭐️ (0) [`ghostwriter/case-converter`](https://github.com/ghostwriter/case-converter) | Convert strings from and to AdaCase, CamelCase, CobolCase, KebabCase, Lowercase, MacroCase, PascalCase, SentenceCase, SnakeCase, TitleCase, TrainCase, and Uppercase |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
-| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
+| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (1) [`ghostwriter/atprotocol`](https://github.com/ghostwriter/atprotocol) | [WIP]Bluesky API Client for AT Protocol |
+| ⭐️ (0) [`ghostwriter/coding-standard`](https://github.com/ghostwriter/coding-standard) | PHP Coding Standard |
 | ⭐️ (0) [`ghostwriter/phtml`](https://github.com/ghostwriter/phtml) | A powerful PHP template engine designed to deliver high-performance, extensibility, and security. |
 | ⭐️ (0) [`ghostwriter/git`](https://github.com/ghostwriter/git) | Git abstraction layer written in PHP |
-| ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | Filesystem implementation for PHP |
-| ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
-| ⭐️ (0) [`ghostwriter/uuid`](https://github.com/ghostwriter/uuid) | Provides sortable Universally Unique Identifiers (UUID) using Unix timestamp. |
-| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [WIP]Compliance Automation for OSS - GitHub Automation Tool - A solution for automated and scheduled execution of workflows via GitHub Action. |
-| ⭐️ (0) [`ghostwriter/phormat`](https://github.com/ghostwriter/phormat) | PHP code formatter. |
+| ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Type safe JSON encoder and decoder for PHP |
+| ⭐️ (0) [`ghostwriter/uuid`](https://github.com/ghostwriter/uuid) | Provides sortable Universally Unique Identifiers (UUID) using Unix timestamp. |
+| ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | Template for PHP projects |
 | ⭐️ (0) [`ghostwriter/event-dispatcher`](https://github.com/ghostwriter/event-dispatcher) | Provides an Event Dispatcher implementation for PHP |
+| ⭐️ (0) [`ghostwriter/phormat`](https://github.com/ghostwriter/phormat) | PHP code formatter. |
 | ⭐️ (1) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Testify - Automated test Generation for PHP code. |
 | ⭐️ (0) [`ghostwriter/arm`](https://github.com/ghostwriter/arm) | Automated Repository Manager (ARM):  Seamlessly manage multiple `PHP` repositories with `git`, `gh`, and `composer`. |
-| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (1) [`ghostwriter/shell`](https://github.com/ghostwriter/shell) | Execute commands and external programs effortlessly in PHP |
+| ⭐️ (0) [`ghostwriter/result`](https://github.com/ghostwriter/result) | Provides a Result type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/php`](https://github.com/ghostwriter/php) | Development and Production-ready PHP Images for Docker with Multi-Architecture support |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (0) [`ghostwriter/mockery-rector`](https://github.com/ghostwriter/mockery-rector) | [WIP]Rector extension for Mockery🦜 |
