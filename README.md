@@ -43,7 +43,7 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 
 | State | Description |
 | --- | --- |
-| (TAGGED) | Release [1.0.1](https://github.com/ghostwriter/uuid/releases/tag/1.0.1) on [ghostwriter/uuid](https://github.com/ghostwriter/uuid) (6 days ago)|
+| (TAGGED) | Release [1.0.1](https://github.com/ghostwriter/uuid/releases/tag/1.0.1) on [ghostwriter/uuid](https://github.com/ghostwriter/uuid) (1 week ago)|
 | (TAGGED) | Release [11.2.8](https://github.com/sebastianbergmann/phpunit/releases/tag/11.2.8) on [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) (1 week ago)|
 | (TAGGED) | Release [5.0.2](https://github.com/ghostwriter/event-dispatcher/releases/tag/5.0.2) on [ghostwriter/event-dispatcher](https://github.com/ghostwriter/event-dispatcher) (1 week ago)|
 | (TAGGED) | Release [4.0.2](https://github.com/ghostwriter/container/releases/tag/4.0.2) on [ghostwriter/container](https://github.com/ghostwriter/container) (2 weeks ago)|
