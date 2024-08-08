@@ -86,8 +86,8 @@ releases that include my contributions
 | ⭐️ (0) [`ghostwriter/environment`](https://github.com/ghostwriter/environment) | Provides Environment Variables derived from `$_ENV` and `$_SERVER` super-globals |
 | ⭐️ (2) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/mockery-rector`](https://github.com/ghostwriter/mockery-rector) | [WIP]Rector extension for Mockery🦜 |
-| ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (2) [`ghostwriter/http`](https://github.com/ghostwriter/http) | [wip]HTTP Client and Server abstraction for PHP |
+| ⭐️ (1) [`ghostwriter/syntax`](https://github.com/ghostwriter/syntax) | [WIP]Lexical Analysis library for PHP (Tokenizer, Lexer, Parser, Generator) |
 | ⭐️ (0) [`ghostwriter/router`](https://github.com/ghostwriter/router) | [WIP] Router implementation for PHP |
 | ⭐️ (0) [`ghostwriter/.github`](https://github.com/ghostwriter/.github) | community health files |
 | ⭐️ (3) [`ghostwriter/psalm-sandbox`](https://github.com/ghostwriter/psalm-sandbox) | Provides a framework for testing Psalm plugins with PHPUnit |
