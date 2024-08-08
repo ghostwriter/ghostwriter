@@ -1,9 +1,5 @@
 # ghostwriter
 
-A passionate developer.
-
----
-
 To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwriter) and or sponsor the maintainers of the tools i use.
 
 [`@docker-php-extension-installer`](https://github.com/mlocati/docker-php-extension-installer)
@@ -13,33 +9,36 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 [`@psalm`](https://github.com/vimeo/psalm)
 [`@setup-php`](https://github.com/shivammathur/setup-php)
 
----
-
-<div align="center">
-
-> if you don't like something, **change it**!
-
-> knowledge **should** be **freely** accessible.
-
-> **privacy** is a **feature**, **not** a **product**.
-
-> **security** is a **process**, **not** a **feature** or a **product**.
-
-> **performance** is a **process**, **not** a **feature** or a **product**.
-
-> **contributions** must be **attributed** and or **compensated**.
-
-> have the confidence to make **impactful decisions** that are **selfish**, **your well-being is more important**!
-
-> **good** products **fail** because of **bad marketing**, **awful** products **succeed** with **great marketing**.
+`#BlackLivesMatter✊🏾✊🏿`
+`#FreePalestine🇵🇸`
+`#StandWithUkraine🇺🇦` 
 
 ---
+
+<div align="ncenter">
 
 <img alt="ghostwriter's GitHub streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostwriter">
 
 <img alt="ghostwriter's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ghostwriter&show_icons=true&count_private=true&hide_title=true&hide_rank=true&icon_color=333">
 
+</div>
+
+---
+
+> - if you don't like something, **change it**!
+> - knowledge **should** be **freely** accessible.
+> - **privacy** is a **feature**, **not** a **product**.
+> - **security** is a **process**, **not** a **feature** or a **product**.
+> - **performance** is a **process**, **not** a **feature** or a **product**.
+> - **contributions** must be **attributed** and or **compensated**.
+> - have the confidence to make **impactful decisions** that are **selfish**, **your well-being is more important**!
+> - **good** products **fail** because of **bad marketing**, **awful** products **succeed** with **great marketing**.
+
+---
+
 #### Recent Releases
+
+releases that include my contributions
 
 | State | Description |
 | --- | --- |
@@ -51,6 +50,9 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | (TAGGED) | Release [3.0.0](https://github.com/ghostwriter/clock/releases/tag/3.0.0) on [ghostwriter/clock](https://github.com/ghostwriter/clock) (1 month ago)|
 
 #### Recent work
+
+- repositories with "[WIP]" indicate that the project is currently under development.
+- progress might seem slow, because i'm currently focusing on building foundational component packages.
 
 | Repo | Description |
 | --- | --- |
@@ -100,4 +102,3 @@ To support my work, sponsor [`@ghostwriter`](https://github.com/sponsors/ghostwr
 | ⭐️ (19613) [`sebastianbergmann/phpunit`](https://github.com/sebastianbergmann/phpunit) | The PHP Unit Testing framework. |
 | ⭐️ (0) [`ghostwriter/ghostwriter.github.io`](https://github.com/ghostwriter/ghostwriter.github.io) | Redirecting to https://github.com/sponsors/ghostwriter |
 
-</div>
