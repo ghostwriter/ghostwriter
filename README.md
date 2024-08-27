@@ -70,7 +70,7 @@ releases that include my contributions
 | ⭐️ (0) [`ghostwriter/uuid`](https://github.com/ghostwriter/uuid) | Provides sortable Universally Unique Identifiers (UUID) using Unix timestamp. |
 | ⭐️ (0) [`ghostwriter/phest`](https://github.com/ghostwriter/phest) | [WIP] A Property-Based Testing Framework for PHP |
 | ⭐️ (0) [`ghostwriter/mzo`](https://github.com/ghostwriter/mzo) | [WIP]A tool for writing Mezzio application, design exactly what you need. |
-| ⭐️ (10593) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
+| ⭐️ (10594) [`mockery/mockery`](https://github.com/mockery/mockery) | Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL). |
 | ⭐️ (0) [`ghostwriter/clock`](https://github.com/ghostwriter/clock) | Provides an immutable Clock implementation for PHP |
 | ⭐️ (2) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
 | ⭐️ (0) [`ghostwriter/container`](https://github.com/ghostwriter/container) | Provides a Dependency Injection Service Container for PHP |
