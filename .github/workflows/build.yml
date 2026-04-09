@@ -18,7 +18,7 @@ jobs:
           ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
           persist-credentials: true
 
-      - uses: crazy-max/ghaction-import-gpg@v6
+      - uses: crazy-max/ghaction-import-gpg@v7
         with:
           git_committer_name: "Nathanael Esayeas"
           git_committer_email: "nathanael.esayeas@protonmail.com"
