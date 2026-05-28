@@ -61,7 +61,7 @@ If you want to support me financially, [become a sponsor](https://github.com/spo
 | ⭐️ (0) [`nix-php/nixify`](https://github.com/nix-php/nixify) | Nix tool for PHP |
 | ⭐️ (3) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | Filesystem implementation for PHP |
-| ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | [WIP] Here be dragons |
+| ⭐️ (2) [`ghostwriter/ghostwriter`](https://github.com/ghostwriter/ghostwriter) | [WIP] Here be dragons |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (1) [`ghostwriter/handrail`](https://github.com/ghostwriter/handrail) | Safeguard PHP functions from redeclaration conflicts |
 | ⭐️ (1) [`ghostwriter/testify`](https://github.com/ghostwriter/testify) | Automated test Generation for PHP code. |
