@@ -60,7 +60,7 @@ If you want to support me financially, [become a sponsor](https://github.com/spo
 | ⭐️ (0) [`ghostwriter/compliance`](https://github.com/ghostwriter/compliance) | [WIP] Compliance - CI/CD &amp; QA Test Automation for PHP via GitHub Actions |
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (3) [`ghostwriter/collection`](https://github.com/ghostwriter/collection) | Provides a Collection implementation for PHP |
-| ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | [WIP] Here be dragons |
+| ⭐️ (2) [`ghostwriter/ghostwriter`](https://github.com/ghostwriter/ghostwriter) | [WIP] Here be dragons |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | Filesystem implementation for PHP |
 | ⭐️ (0) [`ghostwriter/config`](https://github.com/ghostwriter/config) | Provides an object that maps configuration keys to values. |
 | ⭐️ (1) [`ghostwriter/handrail`](https://github.com/ghostwriter/handrail) | Safeguard PHP functions from redeclaration conflicts |
