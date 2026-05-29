@@ -68,7 +68,7 @@ If you want to support me financially, [become a sponsor](https://github.com/spo
 | ⭐️ (0) [`ghostwriter/json`](https://github.com/ghostwriter/json) | Safely encode and decode JSON |
 | ⭐️ (0) [`ghostwriter/case-converter`](https://github.com/ghostwriter/case-converter) | Convert strings from and to AdaCase, CamelCase, CobolCase, KebabCase, Lowercase, MacroCase, PascalCase, SentenceCase, SnakeCase, TitleCase, TrainCase, and Uppercase |
 | ⭐️ (0) [`nix-php/nixify`](https://github.com/nix-php/nixify) | Nix tool for PHP |
-| ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | [WIP] Here be dragons |
+| ⭐️ (2) [`ghostwriter/ghostwriter`](https://github.com/ghostwriter/ghostwriter) | [WIP] Here be dragons |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | Filesystem implementation for PHP |
 | ⭐️ (0) [`ghostwriter/inflector`](https://github.com/ghostwriter/inflector) | [WIP] Convert words between singular and plural forms in PHP |
 | ⭐️ (3) [`ghostwriter/option`](https://github.com/ghostwriter/option) | Provides an Option type implementation for PHP |
