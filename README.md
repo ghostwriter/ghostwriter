@@ -61,7 +61,7 @@ If you want to support me financially, [become a sponsor](https://github.com/spo
 | ⭐️ (0) [`BMHVillage/therapists`](https://github.com/BMHVillage/therapists) | Collection of therapists in Nashville, TN who are Black/African American, as well as therapists serving Black/African American communities. This publicly available information is gathered to support the promotion of healing for ourselves and others. #BlackLivesMatter |
 | ⭐️ (0) [`nix-php/nixify`](https://github.com/nix-php/nixify) | Nix tool for PHP |
 | ⭐️ (0) [`ghostwriter/filesystem`](https://github.com/ghostwriter/filesystem) | Filesystem implementation for PHP |
-| ⭐️ (2) [`ghostwriter/wip`](https://github.com/ghostwriter/wip) | [WIP] Here be dragons |
+| ⭐️ (2) [`ghostwriter/ghostwriter`](https://github.com/ghostwriter/ghostwriter) | [WIP] Here be dragons |
 | ⭐️ (0) [`ghostwriter/phar-tools`](https://github.com/ghostwriter/phar-tools) | [WIP] Centralized PHAR toolchain binaries for ghostwriter projects |
 | ⭐️ (0) [`ghostwriter/database`](https://github.com/ghostwriter/database) | [WIP] Database implementation for PHP |
 | ⭐️ (0) [`ghostwriter/console`](https://github.com/ghostwriter/console) | console application skeleton built on top of symfony/console |
