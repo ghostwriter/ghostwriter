@@ -36,7 +36,7 @@ jobs:
 
         # go get github.com/muesli/markscribe
         # markscribe -write /tmp/output.md template.tpl
-      - run: go install github.com/muesli/markscribe && markscribe -write README.md templates/README.md.tpl
+      - run: go install github.com/muesli/markscribe@latest && markscribe -write README.md templates/README.md.tpl
 
       # - uses: muesli/markscribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 #main
       #   env:
