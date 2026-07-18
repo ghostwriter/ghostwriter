@@ -13,6 +13,10 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.PAT }}
 
     steps:
+      - uses: actions/setup-go@v7
+        with:
+          go-version: '1.26'
+
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 #v7.0.0
         with:
           ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
@@ -30,12 +34,16 @@ jobs:
           gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
 
-      - uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 #main
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+        # go get github.com/muesli/markscribe
+        # markscribe -write /tmp/output.md template.tpl
+      - run: go get github.com/muesli/markscribe && markscribe -write README.md templates/README.md.tpl
+
+      # - uses: muesli/markscribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 #main
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.PAT }}
+      #   with:
+      #     template: "templates/README.md.tpl"
+      #     writeTo: "README.md"
 
       - uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d #v7.2.0
         env:
