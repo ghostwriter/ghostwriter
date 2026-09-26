@@ -1,0 +1,19 @@
+name: Automation
+
+on:
+  pull_request: # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#pull_request
+  push: # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#push
+    branches:
+      - "main" # Default branch
+      - "[0-9]+.[0-9]+.x" # Release branches (1.2.x - e.g. Semantic Versioning)
+      - "v[0-9]+" # v1 - e.g. GitHub Actions Versioning
+  schedule: # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onschedule
+    - cron: "0 * * * *" # Runs hourly
+  workflow_dispatch: # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#onworkflow_dispatch
+
+# https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#permissions
+permissions: {}
+
+jobs:
+  automation:
+    uses: ghostwriter/compliance/.github/workflows/automation.yml@fc78ae3c9e89a9948f34e15d341c10507167b1ad # v1
